@@ -1,6 +1,6 @@
 # ss-object-map
 
-`stuff/output` is the datamined skyward sword stuff from [this repository](https://github.com/MrCheeze/skywardsword-tools)
+`scripts/output` is the datamined skyward sword stuff from [this repository](https://github.com/MrCheeze/skywardsword-tools)
 
 this folder contains scripts to process files to make them easier to include in javascript
 
