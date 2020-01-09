@@ -73,11 +73,11 @@ export const stagenames: {[key: string]: string} = {
     "S200": "Eldin Volcano: Mountain Silent Realm",
 
     "F300": "Lanayru Desert: Lanayru Desert",
-    "F300_1": "Lanayru Desert: Ancient Harbor",
-    "F300_2": "Lanayru Desert: Lanayru Mine",
-    "F300_3": "Lanayru Desert: Power Generator #1",
-    "F300_4": "Lanayru Desert: Power Generator #2",
-    "F300_5": "Lanayru Desert: Temple of Time",
+    "F300_1": "Lanayru Desert: Lanayru Mine",
+    "F300_2": "Lanayru Desert: Power Generator #1",
+    "F300_3": "Lanayru Desert: Power Generator #2",
+    "F300_4": "Lanayru Desert: Temple of Time",
+    "F300_5": "Lanayru Desert: LMF to ToT",
     "F301": "Lanayru Desert: Sand Sea Docks",
     "F301_1": "Lanayru Desert: Sand Sea",
     "F301_2": "Lanayru Desert: Pirate Stronghold",
@@ -106,4 +106,4 @@ export const stagenames: {[key: string]: string} = {
     "F407": "Sealed Grounds: Temple (Cutscene)",
     "B400": "Sealed Grounds: Last Boss",
 
-    "Demo": "Staff Roll"};
+    "Demo": "Staff Roll"}

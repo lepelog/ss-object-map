@@ -257,8 +257,8 @@ export default class ObjMap extends Vue {
     }
 
     onSelectionUpdate() {
-      console.log(this.selectedRooms);
-      console.log(this.selectedLayers);
+      // console.log(this.selectedRooms);
+      // console.log(this.selectedLayers);
       this.currentStageMarkers.forEach((m) => {
         if (this.selectedRooms.includes(m.object.roomid)
           && this.selectedLayers.includes(m.object.layerid)) {
