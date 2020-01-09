@@ -6,10 +6,10 @@
     "maxz": 0,
     "minz": -8.20729923248291,
     "usedLayers": [
-        "l1"
+        1
     ],
     "usedRooms": [
-        "r00"
+        0
     ],
     "allObjects": [
         {
@@ -28,8 +28,8 @@
             "unk3": "FC 00",
             "name": "IslTrea",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l1"
+            "roomid": 0,
+            "layerid": 1
         }
     ]
 });

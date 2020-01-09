@@ -6,12 +6,12 @@
     "maxz": 845.0399780273438,
     "minz": -636.9500122070312,
     "usedLayers": [
-        "l0",
-        "l1",
-        "l2"
+        0,
+        1,
+        2
     ],
     "usedRooms": [
-        "r00"
+        0
     ],
     "allObjects": [
         {
@@ -30,8 +30,8 @@
             "unk3": "FC 0F",
             "name": "DNight",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l0"
+            "roomid": 0,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -49,8 +49,8 @@
             "unk3": "FC 10",
             "name": "DNight",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l0"
+            "roomid": 0,
+            "layerid": 0
         },
         {
             "byte1": 31,
@@ -68,8 +68,8 @@
             "unk3": "FC 11",
             "name": "chest",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l0"
+            "roomid": 0,
+            "layerid": 0
         },
         {
             "byte1": 31,
@@ -87,8 +87,8 @@
             "unk3": "FC 12",
             "name": "chest",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l0"
+            "roomid": 0,
+            "layerid": 0
         },
         {
             "byte1": 0,
@@ -106,8 +106,8 @@
             "unk3": "FC 0E",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r00",
-            "layerid": "l0"
+            "roomid": 0,
+            "layerid": 0
         },
         {
             "byte1": 4,
@@ -125,8 +125,8 @@
             "unk3": "FC 17",
             "name": "NpcAzNi",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l1"
+            "roomid": 0,
+            "layerid": 1
         },
         {
             "byte1": -1,
@@ -144,8 +144,8 @@
             "unk3": "FC 17",
             "name": "NpcAzNi",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l2"
+            "roomid": 0,
+            "layerid": 2
         },
         {
             "byte1": -1,
@@ -163,8 +163,8 @@
             "unk3": "FC 18",
             "name": "NpcAzFa",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l2"
+            "roomid": 0,
+            "layerid": 2
         },
         {
             "byte1": -1,
@@ -182,8 +182,8 @@
             "unk3": "FC 19",
             "name": "NpcInv",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l2"
+            "roomid": 0,
+            "layerid": 2
         }
     ]
 });

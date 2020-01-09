@@ -58,8 +58,8 @@ for stagefile in glob.glob('output/stage/*.json'):
                             if len(extra_info) > 0:
                                 obj['extraInfo']=extra_info
                             obj['type'] = objt
-                            obj['roomid'] = rid
-                            obj['layerid'] = lid
+                            obj['roomid'] = int(rid[1:])
+                            obj['layerid'] = int(lid[1:])
                             all_objects.append(obj)
     
     # repeat for every stage
@@ -90,7 +90,7 @@ with open('../src/datamined/index.ts','w') as f:
     f.write('/* eslint-disable */\n')
     for stagename in all_stages.keys():
         f.write('import {0} from "./{0}";\n'.format(stagename))
-    f.write('import {Stage, StageObject} from "./stage.ts";\n')
+    f.write('import {Stage, StageObject} from "./stage";\n')
     f.write('const stages: {[key: string]: Stage} = {\n  ')
     f.write(',\n  '.join(all_stages.keys()))
     f.write('\n} as {[key: string]: Stage};\n')

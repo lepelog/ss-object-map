@@ -6,10 +6,10 @@
     "maxz": 0,
     "minz": -500.0,
     "usedLayers": [
-        "l1"
+        1
     ],
     "usedRooms": [
-        "r00"
+        0
     ],
     "allObjects": [
         {
@@ -28,8 +28,8 @@
             "unk3": "FC 00",
             "name": "BLasBos",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l1"
+            "roomid": 0,
+            "layerid": 1
         },
         {
             "byte1": 97,
@@ -47,8 +47,8 @@
             "unk3": "FC 01",
             "name": "NpcTke",
             "type": "OBJ ",
-            "roomid": "r00",
-            "layerid": "l1"
+            "roomid": 0,
+            "layerid": 1
         }
     ]
 });

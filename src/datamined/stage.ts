@@ -6,8 +6,8 @@ export interface Stage {
     minx: number;
     maxz: number;
     minz: number;
-    usedLayers: string[];
-    usedRooms: string[];
+    usedLayers: number[];
+    usedRooms: number[];
     allObjects: StageObject[];
 }
 
@@ -32,6 +32,6 @@ export interface StageObject {
         [key: string]: any;
     };
     type: 'OBJ ' | 'OBJS' | 'SOBJ';
-    roomid: string;
-    layerid: string;
+    roomid: number;
+    layerid: number;
 }

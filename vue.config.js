@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/ss-object-map/'
-}
+  publicPath: '/ss-object-map/',
+};

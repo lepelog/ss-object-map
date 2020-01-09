@@ -6,15 +6,15 @@
     "maxz": 14563.9404296875,
     "minz": 0,
     "usedLayers": [
-        "l0",
-        "l1",
-        "l13",
-        "l14",
-        "l2",
-        "l3"
+        0,
+        1,
+        2,
+        3,
+        13,
+        14
     ],
     "usedRooms": [
-        "r02"
+        2
     ],
     "allObjects": [
         {
@@ -33,8 +33,8 @@
             "unk3": "FC 00",
             "name": "NpcYim",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -52,8 +52,8 @@
             "unk3": "FC 01",
             "name": "TDoor",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -71,8 +71,8 @@
             "unk3": "FC 02",
             "name": "FrmLand",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": 60,
@@ -90,8 +90,8 @@
             "unk3": "FC 03",
             "name": "NpcYim",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -109,8 +109,8 @@
             "unk3": "FC 04",
             "name": "NpcInv",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -128,8 +128,8 @@
             "unk3": "FC 05",
             "name": "NpcYim",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": 61,
@@ -147,8 +147,8 @@
             "unk3": "FC 0C",
             "name": "NpcRvl",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -166,8 +166,8 @@
             "unk3": "FC 0D",
             "name": "Char",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -185,8 +185,8 @@
             "unk3": "FC 0E",
             "name": "Char",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -208,8 +208,8 @@
                 "areaflag": "no flag set"
             },
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -231,8 +231,8 @@
                 "areaflag": "no flag set"
             },
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -254,8 +254,8 @@
                 "areaflag": "no flag set"
             },
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -277,8 +277,8 @@
                 "areaflag": "no flag set"
             },
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -300,8 +300,8 @@
                 "areaflag": "scene flag: 0x5 04"
             },
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": 0,
@@ -319,8 +319,8 @@
             "unk3": "FC 07",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": 0,
@@ -338,8 +338,8 @@
             "unk3": "FC 08",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": 0,
@@ -357,8 +357,8 @@
             "unk3": "FC 09",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": 0,
@@ -376,8 +376,8 @@
             "unk3": "FC 0A",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -399,8 +399,8 @@
                 "areaflag": "scene flag: 0x5 02"
             },
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -421,8 +421,8 @@
             "unk3": "00 0F",
             "name": "Light00",
             "type": "SOBJ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -443,8 +443,8 @@
             "unk3": "00 10",
             "name": "Light00",
             "type": "SOBJ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -465,8 +465,8 @@
             "unk3": "00 11",
             "name": "Light00",
             "type": "SOBJ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -487,8 +487,8 @@
             "unk3": "00 12",
             "name": "Light00",
             "type": "SOBJ",
-            "roomid": "r02",
-            "layerid": "l0"
+            "roomid": 2,
+            "layerid": 0
         },
         {
             "byte1": -1,
@@ -506,8 +506,8 @@
             "unk3": "FC 18",
             "name": "ImpaDor",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l1"
+            "roomid": 2,
+            "layerid": 1
         },
         {
             "byte1": -1,
@@ -525,8 +525,8 @@
             "unk3": "FC 19",
             "name": "ImpaDor",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l1"
+            "roomid": 2,
+            "layerid": 1
         },
         {
             "byte1": 0,
@@ -544,8 +544,8 @@
             "unk3": "FC 1A",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l1"
+            "roomid": 2,
+            "layerid": 1
         },
         {
             "byte1": -1,
@@ -563,8 +563,8 @@
             "unk3": "FC 18",
             "name": "ImpaDor",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l2"
+            "roomid": 2,
+            "layerid": 2
         },
         {
             "byte1": -1,
@@ -582,8 +582,8 @@
             "unk3": "FC 19",
             "name": "ImpaDor",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l2"
+            "roomid": 2,
+            "layerid": 2
         },
         {
             "byte1": 0,
@@ -601,8 +601,8 @@
             "unk3": "FC 1A",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l2"
+            "roomid": 2,
+            "layerid": 2
         },
         {
             "byte1": -1,
@@ -620,8 +620,8 @@
             "unk3": "FC 18",
             "name": "ImpaDor",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l3"
+            "roomid": 2,
+            "layerid": 3
         },
         {
             "byte1": -1,
@@ -639,8 +639,8 @@
             "unk3": "FC 19",
             "name": "ImpaDor",
             "type": "OBJ ",
-            "roomid": "r02",
-            "layerid": "l3"
+            "roomid": 2,
+            "layerid": 3
         },
         {
             "byte1": 0,
@@ -658,8 +658,8 @@
             "unk3": "FC 1A",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l3"
+            "roomid": 2,
+            "layerid": 3
         },
         {
             "byte1": 0,
@@ -677,8 +677,8 @@
             "unk3": "FC 18",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l13"
+            "roomid": 2,
+            "layerid": 13
         },
         {
             "byte1": 0,
@@ -696,8 +696,8 @@
             "unk3": "FC 18",
             "name": "Door",
             "type": "OBJS",
-            "roomid": "r02",
-            "layerid": "l14"
+            "roomid": 2,
+            "layerid": 14
         }
     ]
 });

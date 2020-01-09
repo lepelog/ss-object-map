@@ -18,6 +18,12 @@
               role="tab"
             ><i class="fa fa-search" /></a>
           </li>
+          <li>
+            <a
+              href="#details"
+              role="tab"
+            ><i class="fa fa-database" /></a>
+          </li>
         </ul>
       </div>
 
@@ -45,6 +51,70 @@
               </option>
             </select>
           </div>
+          <div>
+            <table style="width: 50%; float: left;">
+              <tr>
+                <td>
+                  <input
+                    v-model="allRoomsSelected"
+                    type="checkbox"
+                  >
+                </td>
+                <td>
+                  Toggle all Rooms
+                </td>
+              </tr>
+              <tr
+                v-for="room in allUsedRooms"
+                :key="room.id"
+              >
+                <td>
+                  <input
+                    v-model="room.selected"
+                    type="checkbox"
+                    @change="onSelectionUpdate"
+                  >
+                </td>
+                <td>
+                  {{ room.id }}
+                </td>
+              </tr>
+            </table>
+            <table>
+              <tr>
+                <td>
+                  <input
+                    v-model="allLayersSelected"
+                    type="checkbox"
+                  >
+                </td>
+                <td>
+                  Toggle all Layers
+                </td>
+              </tr>
+              <tr
+                v-for="layer in allUsedLayers"
+                :key="layer.id"
+              >
+                <td>
+                  <input
+                    v-model="layer.selected"
+                    type="checkbox"
+                    @change="onSelectionUpdate"
+                  >
+                </td>
+                <td>
+                  {{ layer.id }}
+                </td>
+              </tr>
+            </table>
+          </div>
+        </div>
+        <div
+          id="details"
+          class="leaflet-sidebar-pane"
+        >
+          <h1>Details</h1>
           <pre>{{ objectInfo }}</pre>
         </div>
       </div>
@@ -53,7 +123,7 @@
 </template>
 
 <script lang="ts">
-import { Vue, Component } from 'vue-property-decorator';
+import { Vue, Component, Watch } from 'vue-property-decorator';
 import * as L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-sidebar-v2';
@@ -65,11 +135,24 @@ interface LMarkerWithObject extends L.Marker {
   object: StageObject;
 }
 
+interface SelectableItem {
+  id: number;
+  selected: boolean;
+}
+
 @Component({})
 export default class ObjMap extends Vue {
     private allStageIDs: string[] = Array.from(Object.keys(stages).sort());
 
+    private allUsedLayers: SelectableItem[] = [];
+
+    private allUsedRooms: SelectableItem[] = [];
+
     private currentStageID: string = 'F000';
+
+    private allRoomsSelected: boolean = true;
+
+    private allLayersSelected: boolean = true;
 
     private map!: L.Map;
 
@@ -79,9 +162,9 @@ export default class ObjMap extends Vue {
 
     private iconList = Array.from(Array(12).keys()).map((i) => L.divIcon({ className: `div-icon${i}` }));
 
-    objectInfo: string = '';
+    private objectInfo: string = '';
 
-    currentStageMarkers: LMarkerWithObject[] = [];
+    private currentStageMarkers: LMarkerWithObject[] = [];
 
     mounted() {
       this.map = new L.Map(this.$refs.mapbase as HTMLElement, {
@@ -108,6 +191,18 @@ export default class ObjMap extends Vue {
       return stages[this.currentStageID];
     }
 
+    get selectedRooms(): number[] {
+      return this.allUsedRooms
+        .filter(r => r.selected)
+        .map(r => r.id);
+    }
+
+    get selectedLayers(): number[] {
+      return this.allUsedLayers
+        .filter(r => r.selected)
+        .map(r => r.id);
+    }
+
     getIconForName(name: string): L.DivIcon {
       let icon = this.objColorMap.get(name);
       if (icon === undefined) {
@@ -126,7 +221,7 @@ export default class ObjMap extends Vue {
 
     showObjectInfo(obj: any): void {
       this.objectInfo = JSON.stringify(obj, null, 4);
-      this.sidebar.open('search');
+      this.sidebar.open('details');
     }
 
     stageIDToName(stageID: string): string {
@@ -153,14 +248,37 @@ export default class ObjMap extends Vue {
           marker.addTo(this.map);
           return marker as LMarkerWithObject;
         });
+      this.allUsedLayers = this.currentStage.usedLayers
+        .map((l): SelectableItem => ({ id: l, selected: true }));
+      this.allUsedRooms = this.currentStage.usedRooms
+        .map((l): SelectableItem => ({ id: l, selected: true }));
       this.onSelectionUpdate();
       this.map.flyTo([0, 0]);
     }
 
     onSelectionUpdate() {
+      console.log(this.selectedRooms);
+      console.log(this.selectedLayers);
       this.currentStageMarkers.forEach((m) => {
-        m.setOpacity(1);
+        if (this.selectedRooms.includes(m.object.roomid)
+          && this.selectedLayers.includes(m.object.layerid)) {
+          m.setOpacity(1);
+        } else {
+          m.setOpacity(0);
+        }
       });
+    }
+
+    @Watch('allRoomsSelected')
+    toggleAllRoomsSelected(selected: boolean) {
+      this.allUsedRooms.forEach(r => r.selected = selected);
+      this.onSelectionUpdate();
+    }
+
+    @Watch('allLayersSelected')
+    toggleAllLayersSelected(selected: boolean) {
+      this.allUsedLayers.forEach(r => r.selected = selected);
+      this.onSelectionUpdate();
     }
 
     destroyed() {
@@ -175,9 +293,7 @@ export default class ObjMap extends Vue {
 }
 #mapbase {
     height: 100%;
-}
-.leaflet-container {
-    background-color: rgba(255,0,0,0.0);
+    background: grey;
 }
 #sitebar-content {
     /*background: black;*/
