@@ -52,6 +52,10 @@
             </select>
           </div>
           <div>
+            <h2>Search</h2>
+            <input v-model="searchTerm">
+          </div>
+          <div>
             <table style="width: 50%; float: left;">
               <tr>
                 <td>
@@ -147,6 +151,8 @@ export default class ObjMap extends Vue {
     private allUsedLayers: SelectableItem[] = [];
 
     private allUsedRooms: SelectableItem[] = [];
+
+    private searchTerm: string = '';
 
     private currentStageID: string = 'F000';
 
@@ -244,7 +250,6 @@ export default class ObjMap extends Vue {
           });
             // you don't see anything
           (marker as any).object = obj;
-          marker.setOpacity(0);
           marker.addTo(this.map);
           return marker as LMarkerWithObject;
         });
@@ -256,15 +261,19 @@ export default class ObjMap extends Vue {
       this.map.flyTo([0, 0]);
     }
 
+    @Watch('searchTerm')
     onSelectionUpdate() {
       // console.log(this.selectedRooms);
       // console.log(this.selectedLayers);
       this.currentStageMarkers.forEach((m) => {
         if (this.selectedRooms.includes(m.object.roomid)
-          && this.selectedLayers.includes(m.object.layerid)) {
-          m.setOpacity(1);
+          && this.selectedLayers.includes(m.object.layerid)
+          && m.object.name.toLowerCase().includes(this.searchTerm.toLowerCase())) {
+          if (!this.map.hasLayer(m)) {
+            m.addTo(this.map);
+          }
         } else {
-          m.setOpacity(0);
+          this.map.removeLayer(m);
         }
       });
     }

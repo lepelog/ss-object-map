@@ -1,0 +1,100 @@
+bird statue: ff 5f ff ff last byte statue name (where stored?)
+unk2: angle
+scen_link: statue type: 0 normal, 1 has return to sky, 2 has go outside
+to_skyscen_link: which exit to take for sky (probably leave as well)
+
+OcGrs: gras bush
+
+-107: blow blue
+-104: across bridge
+-77: right trainingshall lamp
+
+temp:
+0x7 08 bonk bookshelf with thing that looks like a timeshift stone in fortune tellers
+
+scene flag:
+Eldin Volcano: Volcano F3 r04 l0
+170x3 02
+{"byte1": 15, "tosky_scen_link": -15, "scen_link": 0, "byte4": 17, "unk1": "04 7F FF FF", "posx": 3191.880126953125, "posy": 13890.0, "posz": -23638.8046875, "sizex": 1.2000000476837158, "sizey": 1.2000000476837158, "sizez": 1.2000000476837158, "event_flag": -1, "transition_type": -1, "unk2": "40 00", "talk_behaviour": 0, "unk3": "00 5E", "name": "TgReact"}
+
+TgReact: first byte of unk1 is item
+
+13:0D: slingshot seeds
+14:0E: most rupees
+15:0F: more rupees
+18:12: green r
+19:13: blue rupee
+20:14: red r
+35:23: fairy
+36:24: 2 fairies
+41:29: small key
+47:2f: rupoor
+
+byte1: subtype: 15; bonk, 31: shoot with slingshot, 47: blow with gust bellows
+63: all in farons lair so underwater something?
+
+Barrel: 39,40
+1111 1010 0111 1111 1111 1111 1111 0000
+
+tubo; pot,
+byte4: color? well it maybe uses last 4 bits for stuff like that
+see Soild for scene/temp flag
+38:26 blue rupee
+
+Soil: F5 E2 09
+     | flag id here?
+     |       |
+1111 0101 1110 0010 0000 1001
+flag: 94
+
+HrpHint: Gossip stone (summonable); byte4 if summoned
+
+door of time; byte4 responsible for spawning?
+lanayru: spawns if 0x805ACD70 0x80 flagid: 211 
+{
+    "byte1": -1,
+    "tosky_scen_link": -1,
+    "scen_link": -8,
+    "byte4": -45,
+    "unk1": "FF FF FF FF",
+    "posx": -40280.0,
+    "posy": 50.0,
+    "posz": -4750.0,
+    "event_flag": 0,
+    "transition_type": 0,
+    "unk2": "40 00",
+    "talk_behaviour": 0,
+    "unk3": "FC 81",
+    "name": "TDoor"
+}
+sealed temple: 0x805ACD7E 0x08 flagid: 341
+{
+    "byte1": -1,
+    "tosky_scen_link": -32,
+    "scen_link": 41,
+    "byte4": 85,
+    "unk1": "FF FF FF FF",
+    "posx": 0.0,
+    "posy": 7600.0,
+    "posz": 10250.0,
+    "event_flag": 0,
+    "transition_type": 0,
+    "unk2": "80 00",
+    "talk_behaviour": 0,
+    "unk3": "FC 49",
+    "name": "TDoor"
+}
+
+So byte4 + 255 is story flag responsible for spawning
+
+kanban: Sign
+talk action: 107_01
+                  | 10701 in decimal|
+FF F2 9C D0  1111 0010 1001 1100 1101 0000 
+107 04
+FF F2 9D 00  1111 0010 1001 1101 0000 0000
+
+item:
+interpret first 4 as binary, bit 14 to 22 is flag
+
+

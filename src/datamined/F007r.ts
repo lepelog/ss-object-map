@@ -25,10 +25,13 @@
             "posz": -25.172813415527344,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "DNight",
+            "angle": 128,
+            "extraInfo": {
+                "first_4_bytes": "FF FF E0 24"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -44,10 +47,13 @@
             "posz": 410.0,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "00 00",
             "talk_behaviour": -1,
             "unk3": "FC 04",
             "name": "Door",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "00 00 00 00"
+            },
             "type": "OBJS",
             "roomid": 0,
             "layerid": 0
@@ -63,10 +69,13 @@
             "posz": -357.1300048828125,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "80 B2",
             "talk_behaviour": 10014,
             "unk3": "FC 09",
             "name": "NpcChef",
+            "angle": -19840,
+            "extraInfo": {
+                "first_4_bytes": "04 9F FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 1
@@ -82,10 +91,13 @@
             "posz": -357.1300048828125,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "80 B2",
             "talk_behaviour": 10014,
             "unk3": "FC 09",
             "name": "NpcChef",
+            "angle": -19840,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2
@@ -101,10 +113,13 @@
             "posz": -148.2090301513672,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "E7 D3",
             "talk_behaviour": 12205,
             "unk3": "FC 0A",
             "name": "NpcSoBo",
+            "angle": -11289,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2

@@ -24,10 +24,13 @@
             "posz": -240.0,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "D0 00",
             "talk_behaviour": 0,
             "unk3": "FC 12",
             "name": "chest",
+            "angle": 208,
+            "extraInfo": {
+                "first_4_bytes": "1F 03 FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -43,10 +46,13 @@
             "posz": 726.5777587890625,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "20 00",
             "talk_behaviour": 0,
             "unk3": "FC 13",
             "name": "DNight",
+            "angle": 32,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -62,10 +68,13 @@
             "posz": 0.0,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "C0 00",
             "talk_behaviour": -1,
             "unk3": "FC 11",
             "name": "Door",
+            "angle": 192,
+            "extraInfo": {
+                "first_4_bytes": "00 00 00 00"
+            },
             "type": "OBJS",
             "roomid": 0,
             "layerid": 0
@@ -81,10 +90,13 @@
             "posz": 879.2100219726562,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "A8 89",
             "talk_behaviour": 11504,
             "unk3": "FC 17",
             "name": "NpcMWNi",
+            "angle": -30296,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FC FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2
@@ -100,10 +112,13 @@
             "posz": 576.939697265625,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "9F 4A",
             "talk_behaviour": 11505,
             "unk3": "FC 18",
             "name": "NpcMHNi",
+            "angle": 19103,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FC FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2

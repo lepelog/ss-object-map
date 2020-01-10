@@ -25,11 +25,12 @@
             "posz": -834.94580078125,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "F5 56",
             "talk_behaviour": 4101,
             "unk3": "FC 02",
             "name": "HrpHint",
+            "angle": 22261,
             "extraInfo": {
+                "first_4_bytes": "F0 0F FF 2E",
                 "flagid": 46,
                 "areaflag": "scene flag: 0x4 40"
             },
@@ -48,10 +49,13 @@
             "posz": -2270.83984375,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "00 00",
             "talk_behaviour": -449,
             "unk3": "FC 00",
             "name": "TBox",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "0F FF FF F3"
+            },
             "type": "OBJS",
             "roomid": 0,
             "layerid": 0
@@ -67,10 +71,13 @@
             "posz": -2270.83984375,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "00 00",
             "talk_behaviour": -448,
             "unk3": "FC 01",
             "name": "TBox",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "0F FF FF F3"
+            },
             "type": "OBJS",
             "roomid": 0,
             "layerid": 0
@@ -89,10 +96,13 @@
             "sizez": 0.10000000149011612,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 03",
             "name": "Bamboo",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "DF FF FE 6F"
+            },
             "type": "SOBJ",
             "roomid": 0,
             "layerid": 0
@@ -111,11 +121,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "TgReact",
+            "angle": 192,
             "extraInfo": {
+                "first_4_bytes": "0F FF 00 8C",
                 "flagid": -116,
                 "areaflag": "temp flag: 0x0 10"
             },
@@ -137,11 +148,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "3F 49",
             "talk_behaviour": 0,
             "unk3": "FC 08",
             "name": "TgReact",
+            "angle": 18751,
             "extraInfo": {
+                "first_4_bytes": "0F F0 00 8D",
                 "flagid": -115,
                 "areaflag": "temp flag: 0x0 20"
             },
@@ -163,11 +175,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "2A AA",
             "talk_behaviour": 0,
             "unk3": "FC 09",
             "name": "TgReact",
+            "angle": -21974,
             "extraInfo": {
+                "first_4_bytes": "0F F0 00 8E",
                 "flagid": -114,
                 "areaflag": "temp flag: 0x0 40"
             },
@@ -189,11 +202,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "C6 67",
             "talk_behaviour": 0,
             "unk3": "FC 0A",
             "name": "TgReact",
+            "angle": 26566,
             "extraInfo": {
+                "first_4_bytes": "0F F0 00 8F",
                 "flagid": -113,
                 "areaflag": "temp flag: 0x0 80"
             },
@@ -212,10 +226,13 @@
             "posz": 355.3470153808594,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "99 9A",
             "talk_behaviour": 10901,
             "unk3": "FC 0B",
             "name": "NpcBgr",
+            "angle": -25959,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FC FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 1
@@ -231,10 +248,13 @@
             "posz": 508.50897216796875,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "9C 72",
             "talk_behaviour": 10901,
             "unk3": "FC 0B",
             "name": "NpcBgr",
+            "angle": 29340,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FD FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2

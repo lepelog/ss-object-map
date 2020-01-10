@@ -23,10 +23,13 @@
             "posz": -500.0,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 00",
             "name": "BLasBos",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF C0"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 1
@@ -42,10 +45,13 @@
             "posz": 0.0,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "FF FF",
             "talk_behaviour": 6669,
             "unk3": "FC 01",
             "name": "NpcTke",
+            "angle": -1,
+            "extraInfo": {
+                "first_4_bytes": "61 EA D3 F3"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 1

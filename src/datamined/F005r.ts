@@ -25,10 +25,13 @@
             "posz": -440.76983642578125,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "E4 FB",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "DNight",
+            "angle": -1052,
+            "extraInfo": {
+                "first_4_bytes": "FF FF E0 24"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -44,10 +47,13 @@
             "posz": -719.5734252929688,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "5C 71",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "DNight",
+            "angle": 29020,
+            "extraInfo": {
+                "first_4_bytes": "FF FF E0 24"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -63,10 +69,13 @@
             "posz": -830.0,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "08 E3",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "chest",
+            "angle": -7416,
+            "extraInfo": {
+                "first_4_bytes": "3F 00 FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -82,11 +91,12 @@
             "posz": 396.0592956542969,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "E0 00",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "Item",
+            "angle": 224,
             "extraInfo": {
+                "first_4_bytes": "FF 0D CA 30",
                 "flagid": 114,
                 "areaflag": "scene flag: 0xF 04"
             },
@@ -105,10 +115,13 @@
             "posz": 190.0,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "E0 00",
             "talk_behaviour": -1,
             "unk3": "FC 0B",
             "name": "Door",
+            "angle": 224,
+            "extraInfo": {
+                "first_4_bytes": "00 00 00 00"
+            },
             "type": "OBJS",
             "roomid": 0,
             "layerid": 0
@@ -124,10 +137,13 @@
             "posz": -362.2926940917969,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "E0 00",
             "talk_behaviour": 12203,
             "unk3": "FC 13",
             "name": "NpcSoma",
+            "angle": 224,
+            "extraInfo": {
+                "first_4_bytes": "04 9F FF 11"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 1
@@ -143,10 +159,13 @@
             "posz": -326.4874572753906,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "E0 00",
             "talk_behaviour": 11805,
             "unk3": "FC 13",
             "name": "NpcSoma",
+            "angle": 224,
+            "extraInfo": {
+                "first_4_bytes": "28 C0 93 FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2
@@ -162,10 +181,13 @@
             "posz": -13.98150634765625,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "24 FA",
             "talk_behaviour": 11806,
             "unk3": "FC 14",
             "name": "NpcSowo",
+            "angle": -1500,
+            "extraInfo": {
+                "first_4_bytes": "28 C0 93 FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2
@@ -181,10 +203,13 @@
             "posz": 63.579444885253906,
             "event_flag": -1,
             "transition_type": 0,
-            "unk2": "E0 00",
             "talk_behaviour": 11509,
             "unk3": "FC 15",
             "name": "NpcSoma",
+            "angle": 224,
+            "extraInfo": {
+                "first_4_bytes": "2F E5 1B F2"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2
@@ -200,10 +225,13 @@
             "posz": -327.7755432128906,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "E0 00",
             "talk_behaviour": 11509,
             "unk3": "FC 16",
             "name": "NpcSoma",
+            "angle": 224,
+            "extraInfo": {
+                "first_4_bytes": "2D 05 FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2
@@ -219,10 +247,13 @@
             "posz": -11.40527057647705,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "24 FA",
             "talk_behaviour": 11511,
             "unk3": "FC 17",
             "name": "NpcSowo",
+            "angle": -1500,
+            "extraInfo": {
+                "first_4_bytes": "FF E5 FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2

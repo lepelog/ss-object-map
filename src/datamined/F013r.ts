@@ -26,10 +26,13 @@
             "posz": 560.8500366210938,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "FC 72",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "DNight",
+            "angle": 29436,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -45,10 +48,13 @@
             "posz": 1280.0,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "DecoA",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -64,10 +70,13 @@
             "posz": 985.0,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "43 33",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "chest",
+            "angle": 13123,
+            "extraInfo": {
+                "first_4_bytes": "1F 00 FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -83,10 +92,13 @@
             "posz": 880.7496948242188,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "9D 28",
             "talk_behaviour": 11816,
             "unk3": "FC 0F",
             "name": "NpcSha",
+            "angle": 10397,
+            "extraInfo": {
+                "first_4_bytes": "2E E5 C9 FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -102,10 +114,13 @@
             "posz": 385.56207275390625,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "NpcSlrb",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -121,10 +136,13 @@
             "posz": 542.4009399414062,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "DivCrst",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF 11"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -140,10 +158,13 @@
             "posz": -300.0,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "80 00",
             "talk_behaviour": -1,
             "unk3": "FC 0B",
             "name": "Door",
+            "angle": 128,
+            "extraInfo": {
+                "first_4_bytes": "00 00 00 00"
+            },
             "type": "OBJS",
             "roomid": 0,
             "layerid": 0
@@ -162,11 +183,12 @@
             "sizez": 1.4500000476837158,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "95 56",
             "talk_behaviour": 0,
             "unk3": "FC 14",
             "name": "TgReact",
+            "angle": 22165,
             "extraInfo": {
+                "first_4_bytes": "0F F0 00 B3",
                 "flagid": -77,
                 "areaflag": "temp flag: 0x7 08"
             },
@@ -185,10 +207,13 @@
             "posz": 795.66748046875,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 17",
             "name": "DivCrst",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "CB A1 72 F0"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 1
@@ -204,10 +229,13 @@
             "posz": 880.7496948242188,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "9D 28",
             "talk_behaviour": 11130,
             "unk3": "FC 17",
             "name": "NpcSha",
+            "angle": 10397,
+            "extraInfo": {
+                "first_4_bytes": "2E 5F FD FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2
@@ -223,10 +251,13 @@
             "posz": 795.66748046875,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 18",
             "name": "DivCrst",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "CB A1 72 F0"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 2
@@ -242,10 +273,13 @@
             "posz": 880.7496948242188,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "9D 28",
             "talk_behaviour": 11130,
             "unk3": "FC 17",
             "name": "NpcSha",
+            "angle": 10397,
+            "extraInfo": {
+                "first_4_bytes": "FF E5 DD FF"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 4

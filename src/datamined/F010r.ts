@@ -24,10 +24,13 @@
             "posz": -500.0,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 00",
             "name": "SwSB",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "FF FF F1 32"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -43,10 +46,13 @@
             "posz": 3000.0,
             "event_flag": 71,
             "transition_type": -1,
-            "unk2": "FF FF",
             "talk_behaviour": 19971,
             "unk3": "FC 02",
             "name": "NpcTke",
+            "angle": -1,
+            "extraInfo": {
+                "first_4_bytes": "FF E1 1F 11"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -62,10 +68,13 @@
             "posz": 3000.0,
             "event_flag": 72,
             "transition_type": -1,
-            "unk2": "FF FF",
             "talk_behaviour": 19972,
             "unk3": "FC 03",
             "name": "NpcTke",
+            "angle": -1,
+            "extraInfo": {
+                "first_4_bytes": "FF E1 23 11"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -81,10 +90,13 @@
             "posz": 3000.0,
             "event_flag": 73,
             "transition_type": -1,
-            "unk2": "FF FF",
             "talk_behaviour": 19973,
             "unk3": "FC 04",
             "name": "NpcTke",
+            "angle": -1,
+            "extraInfo": {
+                "first_4_bytes": "FF E1 27 11"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 0
@@ -100,11 +112,12 @@
             "posz": 4651.8583984375,
             "event_flag": -1,
             "transition_type": -1,
-            "unk2": "80 00",
             "talk_behaviour": -1,
             "unk3": "FC 01",
             "name": "saveObj",
+            "angle": 128,
             "extraInfo": {
+                "first_4_bytes": "FF FF 00 35",
                 "flagid": 53,
                 "areaflag": "scene flag: 0x7 20"
             },
@@ -123,10 +136,13 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
-            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0A",
             "name": "DemoPds",
+            "angle": 0,
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF F0"
+            },
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 1

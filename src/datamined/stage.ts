@@ -22,7 +22,7 @@ export interface StageObject {
     posz: number;
     event_flag: number;
     transition_type: number;
-    unk2: string;
+    angle: number;
     talk_behaviour: number;
     unk3: string;
     name: string;
