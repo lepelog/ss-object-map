@@ -25,16 +25,19 @@
             "posz": -665.107421875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "78 E3",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "DNight",
             "angle": -7304,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F015r"
         },
         {
             "byte1": -1,
@@ -47,16 +50,19 @@
             "posz": -598.8787841796875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "7B 05",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "DNight",
             "angle": 1403,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F015r"
         },
         {
             "byte1": 31,
@@ -69,16 +75,19 @@
             "posz": -774.5399780273438,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "FA 50",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "chest",
             "angle": 20730,
+            "bin": "0001 1111 0000 0010 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "1F 02 FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F015r"
         },
         {
             "byte1": 0,
@@ -91,16 +100,19 @@
             "posz": 0.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "C0 00",
             "talk_behaviour": -1,
             "unk3": "FC 0D",
             "name": "Door",
             "angle": 192,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 00"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F015r"
         },
         {
             "byte1": -1,
@@ -113,16 +125,27 @@
             "posz": 660.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "F5 56",
             "talk_behaviour": 12208,
             "unk3": "FC 14",
             "name": "NpcJkMo",
             "angle": 22261,
+            "bin": "1111 1111 1111 1111 1111 1100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FC FF"
+                "first_4_bytes": "FF FF FC FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F015r"
         },
         {
             "byte1": -1,
@@ -135,16 +158,27 @@
             "posz": -53.123252868652344,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "DB BC",
             "talk_behaviour": 12206,
             "unk3": "FC 14",
             "name": "NpcJkNi",
             "angle": -17189,
+            "bin": "1111 1111 1111 1111 1111 1100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FC FF"
+                "first_4_bytes": "FF FF FC FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F015r"
         },
         {
             "byte1": -1,
@@ -157,16 +191,27 @@
             "posz": 660.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "F5 56",
             "talk_behaviour": 12207,
             "unk3": "FC 15",
             "name": "NpcJkMo",
             "angle": 22261,
+            "bin": "1111 1111 1111 1111 1111 1100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FC FF"
+                "first_4_bytes": "FF FF FC FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F015r"
         },
         {
             "byte1": -1,
@@ -179,16 +224,19 @@
             "posz": 33.96698760986328,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "54 9F",
             "talk_behaviour": 0,
             "unk3": "FC 16",
             "name": "JunkRep",
             "angle": -24748,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F015r"
         },
         {
             "byte1": -1,
@@ -201,16 +249,27 @@
             "posz": 361.2671813964844,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "98 E4",
             "talk_behaviour": 12223,
             "unk3": "FC 17",
             "name": "NpcSlRp",
             "angle": -7016,
+            "bin": "1111 1111 1110 0101 1011 1001 1111 0000",
             "extraInfo": {
-                "first_4_bytes": "FF E5 B9 F0"
+                "first_4_bytes": "FF E5 B9 F0",
+                "trigstoryfid": 366,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Unset when Scrapper has a job, set when he has finished it",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F015r"
         }
     ]
 });

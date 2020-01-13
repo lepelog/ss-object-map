@@ -25,16 +25,19 @@
             "posz": -440.76983642578125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "E4 FB",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "DNight",
             "angle": -1052,
+            "bin": "1111 1111 1111 1111 1110 0000 0010 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 24"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F005r"
         },
         {
             "byte1": -1,
@@ -47,16 +50,19 @@
             "posz": -719.5734252929688,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "5C 71",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "DNight",
             "angle": 29020,
+            "bin": "1111 1111 1111 1111 1110 0000 0010 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 24"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F005r"
         },
         {
             "byte1": 63,
@@ -69,16 +75,19 @@
             "posz": -830.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "08 E3",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "chest",
             "angle": -7416,
+            "bin": "0011 1111 0000 0000 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "3F 00 FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F005r"
         },
         {
             "byte1": -1,
@@ -91,10 +100,12 @@
             "posz": 396.0592956542969,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "E0 00",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "Item",
             "angle": 224,
+            "bin": "1111 1111 0000 1101 1100 1010 0011 0000",
             "extraInfo": {
                 "first_4_bytes": "FF 0D CA 30",
                 "flagid": 114,
@@ -102,7 +113,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F005r"
         },
         {
             "byte1": 0,
@@ -115,16 +127,19 @@
             "posz": 190.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "E0 00",
             "talk_behaviour": -1,
             "unk3": "FC 0B",
             "name": "Door",
             "angle": 224,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 00"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F005r"
         },
         {
             "byte1": 4,
@@ -137,16 +152,27 @@
             "posz": -362.2926940917969,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "E0 00",
             "talk_behaviour": 12203,
             "unk3": "FC 13",
             "name": "NpcSoma",
             "angle": 224,
+            "bin": "0000 0100 1001 1111 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "04 9F FF 11"
+                "first_4_bytes": "04 9F FF 11",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 36,
+                "trigstoryf": "-",
+                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F005r"
         },
         {
             "byte1": 40,
@@ -159,16 +185,27 @@
             "posz": -326.4874572753906,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "E0 00",
             "talk_behaviour": 11805,
             "unk3": "FC 13",
             "name": "NpcSoma",
             "angle": 224,
+            "bin": "0010 1000 1100 0000 1001 0011 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "28 C0 93 FF"
+                "first_4_bytes": "28 C0 93 FF",
+                "trigstoryfid": 36,
+                "untrigstoryfid": 326,
+                "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F005r"
         },
         {
             "byte1": 40,
@@ -181,16 +218,27 @@
             "posz": -13.98150634765625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "24 FA",
             "talk_behaviour": 11806,
             "unk3": "FC 14",
             "name": "NpcSowo",
             "angle": -1500,
+            "bin": "0010 1000 1100 0000 1001 0011 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "28 C0 93 FF"
+                "first_4_bytes": "28 C0 93 FF",
+                "trigstoryfid": 36,
+                "untrigstoryfid": 326,
+                "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F005r"
         },
         {
             "byte1": 47,
@@ -203,16 +251,27 @@
             "posz": 63.579444885253906,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "E0 00",
             "talk_behaviour": 11509,
             "unk3": "FC 15",
             "name": "NpcSoma",
             "angle": 224,
+            "bin": "0010 1111 1110 0101 0001 1011 1111 0010",
             "extraInfo": {
-                "first_4_bytes": "2F E5 1B F2"
+                "first_4_bytes": "2F E5 1B F2",
+                "trigstoryfid": 326,
+                "untrigstoryfid": 383,
+                "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "untrigstoryf": "Heal Orielle's bird",
+                "trigscenefid": 0,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F005r"
         },
         {
             "byte1": 45,
@@ -225,16 +284,27 @@
             "posz": -327.7755432128906,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "E0 00",
             "talk_behaviour": 11509,
             "unk3": "FC 16",
             "name": "NpcSoma",
             "angle": 224,
+            "bin": "0010 1101 0000 0101 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "2D 05 FF FF"
+                "first_4_bytes": "2D 05 FF FF",
+                "trigstoryfid": 383,
+                "untrigstoryfid": 360,
+                "trigstoryf": "Heal Orielle's bird",
+                "untrigstoryf": "Batreaux turns human",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F005r"
         },
         {
             "byte1": -1,
@@ -247,16 +317,27 @@
             "posz": -11.40527057647705,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "24 FA",
             "talk_behaviour": 11511,
             "unk3": "FC 17",
             "name": "NpcSowo",
             "angle": -1500,
+            "bin": "1111 1111 1110 0101 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF E5 FF FF"
+                "first_4_bytes": "FF E5 FF FF",
+                "trigstoryfid": 383,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Heal Orielle's bird",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F005r"
         }
     ]
 });

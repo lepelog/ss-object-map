@@ -25,16 +25,19 @@
             "posz": -149.99658203125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "AC 17",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "DNight",
             "angle": 6060,
+            "bin": "1111 1111 1111 1111 1110 0000 0010 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 24"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F018r"
         },
         {
             "byte1": -1,
@@ -47,16 +50,19 @@
             "posz": 812.0988159179688,
             "event_flag": 2,
             "transition_type": -40,
+            "unk2": "B9 9A",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "DNight",
             "angle": -25927,
+            "bin": "1111 1111 1111 1111 1110 0000 0010 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 24"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F018r"
         },
         {
             "byte1": 31,
@@ -69,16 +75,19 @@
             "posz": 845.0399780273438,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "7A 3B",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "chest",
             "angle": 15226,
+            "bin": "0001 1111 0000 0000 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "1F 00 FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F018r"
         },
         {
             "byte1": 31,
@@ -91,16 +100,19 @@
             "posz": -636.9500122070312,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "2D 4C",
             "talk_behaviour": 0,
             "unk3": "FC 12",
             "name": "chest",
             "angle": 19501,
+            "bin": "0001 1111 0000 0001 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "1F 01 FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F018r"
         },
         {
             "byte1": 0,
@@ -113,16 +125,19 @@
             "posz": 0.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": -1,
             "unk3": "FC 0E",
             "name": "Door",
             "angle": 64,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 00"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F018r"
         },
         {
             "byte1": 4,
@@ -135,16 +150,27 @@
             "posz": -521.720703125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "4C CC",
             "talk_behaviour": 12204,
             "unk3": "FC 17",
             "name": "NpcAzNi",
             "angle": -13236,
+            "bin": "0000 0100 1001 1111 1111 1100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "04 9F FC FF"
+                "first_4_bytes": "04 9F FC FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 36,
+                "trigstoryf": "-",
+                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F018r"
         },
         {
             "byte1": -1,
@@ -157,16 +183,27 @@
             "posz": -521.720703125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "4C CC",
             "talk_behaviour": 12307,
             "unk3": "FC 17",
             "name": "NpcAzNi",
             "angle": -13236,
+            "bin": "1111 1111 1111 1111 1111 1100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FC FF"
+                "first_4_bytes": "FF FF FC FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F018r"
         },
         {
             "byte1": -1,
@@ -179,16 +216,27 @@
             "posz": -179.11924743652344,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "10 5B",
             "talk_behaviour": 10902,
             "unk3": "FC 18",
             "name": "NpcAzFa",
             "angle": 23312,
+            "bin": "1111 1111 1111 1111 1111 1100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FC FF"
+                "first_4_bytes": "FF FF FC FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F018r"
         },
         {
             "byte1": -1,
@@ -201,16 +249,27 @@
             "posz": -555.532958984375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 19",
             "name": "NpcInv",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F018r"
         }
     ]
 });

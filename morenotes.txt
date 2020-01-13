@@ -98,3 +98,21 @@ item:
 interpret first 4 as binary, bit 14 to 22 is flag
 
 
+
+
+Some kind of interaction forcing, fi texts, other area triggers (not loading zones?): NpcTke
+Convo 6006 about faron trial gate:
+           set after    trigger      set after
+         |        |    |        |   |      |
+bits: 0000 1111 0010 0001 0001 1111 1111 0010
+
+Convo 6007 after Eldin SotH:
+
+           -1, no flag  trigger 
+         |        |    |        |
+bits: 1111 1111 1110 0000 0100 1111 1111 0010
+
+so first is set story flag, second is trigger
+event_flag for sceneflag
+transition_type is triggering sceneflag
+sometimes the flag is not set, figure out which bit triggers that, for example eldin fi text before hot area

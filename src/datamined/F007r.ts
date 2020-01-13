@@ -25,16 +25,19 @@
             "posz": -25.172813415527344,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "DNight",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1110 0000 0010 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 24"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F007r"
         },
         {
             "byte1": 0,
@@ -47,16 +50,19 @@
             "posz": 410.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -1,
             "unk3": "FC 04",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 00"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F007r"
         },
         {
             "byte1": 4,
@@ -69,16 +75,27 @@
             "posz": -357.1300048828125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 B2",
             "talk_behaviour": 10014,
             "unk3": "FC 09",
             "name": "NpcChef",
             "angle": -19840,
+            "bin": "0000 0100 1001 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "04 9F FF FF"
+                "first_4_bytes": "04 9F FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 36,
+                "trigstoryf": "-",
+                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F007r"
         },
         {
             "byte1": -1,
@@ -91,16 +108,27 @@
             "posz": -357.1300048828125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 B2",
             "talk_behaviour": 10014,
             "unk3": "FC 09",
             "name": "NpcChef",
             "angle": -19840,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F007r"
         },
         {
             "byte1": -1,
@@ -113,16 +141,27 @@
             "posz": -148.2090301513672,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "E7 D3",
             "talk_behaviour": 12205,
             "unk3": "FC 0A",
             "name": "NpcSoBo",
             "angle": -11289,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F007r"
         }
     ]
 });

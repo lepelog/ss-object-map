@@ -25,16 +25,19 @@
             "posz": -498.7756042480469,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 29",
             "name": "Bubble",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F1"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -47,16 +50,19 @@
             "posz": 1400.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2A",
             "name": "Bubble",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F1"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F103_1"
         },
         {
             "byte1": 2,
@@ -69,16 +75,27 @@
             "posz": -987.5933227539062,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "2C 16",
             "talk_behaviour": 20412,
             "unk3": "FC 2B",
             "name": "NpcSuiN",
             "angle": 5676,
+            "bin": "0000 0010 0001 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "02 1F FF FF"
+                "first_4_bytes": "02 1F FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 16,
+                "trigstoryf": "-",
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -91,16 +108,27 @@
             "posz": -972.4215698242188,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "FF 00",
             "talk_behaviour": 20412,
             "unk3": "FC 2C",
             "name": "NpcTke",
             "angle": 255,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF 07"
+                "first_4_bytes": "FF FF FF 07",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F103_1"
         },
         {
             "byte1": 2,
@@ -113,16 +141,27 @@
             "posz": -249.2180938720703,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "33 33",
             "talk_behaviour": 20413,
             "unk3": "FC 2D",
             "name": "NpcSuiN",
             "angle": 13107,
+            "bin": "0000 0010 0001 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "02 1F FF FF"
+                "first_4_bytes": "02 1F FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 16,
+                "trigstoryf": "-",
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -135,16 +174,27 @@
             "posz": -137.13510131835938,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "FF 01",
             "talk_behaviour": 20413,
             "unk3": "FC 2E",
             "name": "NpcTke",
             "angle": 511,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF 07"
+                "first_4_bytes": "FF FF FF 07",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -157,16 +207,19 @@
             "posz": -850.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -1092,
             "unk3": "FC 33",
             "name": "Bubble",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F1"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -179,16 +232,19 @@
             "posz": 500.0,
             "event_flag": -4,
             "transition_type": 114,
+            "unk2": "00 00",
             "talk_behaviour": 2912,
             "unk3": "FC 34",
             "name": "Bubble",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F1"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F103_1"
         },
         {
             "byte1": 15,
@@ -201,16 +257,19 @@
             "posz": 1400.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -319,
             "unk3": "FC 28",
             "name": "TBox",
             "angle": 0,
+            "bin": "0000 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "0F FF FF F3"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -223,16 +282,27 @@
             "posz": 1143.7491455078125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "B1 12",
             "talk_behaviour": 20427,
             "unk3": "FC 41",
             "name": "NpcSuiN",
             "angle": 4785,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -245,16 +315,27 @@
             "posz": -1000.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "F3 34",
             "talk_behaviour": 20429,
             "unk3": "FC 42",
             "name": "NpcSuiN",
             "angle": 13555,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -267,16 +348,27 @@
             "posz": 600.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "4B 60",
             "talk_behaviour": 20431,
             "unk3": "FC 43",
             "name": "NpcSuiN",
             "angle": 24651,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -289,16 +381,27 @@
             "posz": 600.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "B1 12",
             "talk_behaviour": 20428,
             "unk3": "FC 44",
             "name": "NpcSuiN",
             "angle": 4785,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -311,16 +414,19 @@
             "posz": -598.3089599609375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 45",
             "name": "WatrIga",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -333,16 +439,19 @@
             "posz": -310.5956726074219,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 46",
             "name": "WatrIga",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -355,16 +464,19 @@
             "posz": 500.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 47",
             "name": "WatrIga",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -377,16 +489,19 @@
             "posz": 954.5299682617188,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 48",
             "name": "WatrIga",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -399,16 +514,19 @@
             "posz": 0.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 40",
             "name": "WaterSf",
             "angle": 0,
+            "bin": "1111 1111 1111 0111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF F7 FF FF"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -421,16 +539,27 @@
             "posz": 513.1231689453125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "4C CC",
             "talk_behaviour": 20406,
             "unk3": "FC 40",
             "name": "NpcAdr",
             "angle": -13236,
+            "bin": "1111 1111 1111 1111 1111 1100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FC FF"
+                "first_4_bytes": "FF FF FC FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -443,16 +572,19 @@
             "posz": -345.16986083984375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 43",
             "name": "AncJwls",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 01"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -465,10 +597,12 @@
             "posz": -876.5970458984375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 44",
             "name": "Item",
             "angle": 0,
+            "bin": "1111 1111 0000 1111 1111 1110 0000 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 04",
                 "flagid": -1,
@@ -476,7 +610,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -489,10 +624,12 @@
             "posz": -673.660888671875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 45",
             "name": "Item",
             "angle": 0,
+            "bin": "1111 1111 0000 1111 1111 1110 0000 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 04",
                 "flagid": -1,
@@ -500,7 +637,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F103_1"
         },
         {
             "byte1": -1,
@@ -513,16 +651,19 @@
             "posz": 0.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 41",
             "name": "WaterSf",
             "angle": 0,
+            "bin": "1111 1111 1111 0111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF F7 FF FF"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F103_1"
         }
     ]
 });

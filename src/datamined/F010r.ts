@@ -24,16 +24,19 @@
             "posz": -500.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 00",
             "name": "SwSB",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0001 0011 0010",
             "extraInfo": {
                 "first_4_bytes": "FF FF F1 32"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F010r"
         },
         {
             "byte1": -1,
@@ -46,16 +49,27 @@
             "posz": 3000.0,
             "event_flag": 71,
             "transition_type": -1,
+            "unk2": "FF FF",
             "talk_behaviour": 19971,
             "unk3": "FC 02",
             "name": "NpcTke",
             "angle": -1,
+            "bin": "1111 1111 1110 0001 0001 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E1 1F 11"
+                "first_4_bytes": "FF E1 1F 11",
+                "trigstoryfid": 71,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 71,
+                "trigscenef": "scene flag: 0x9 80",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F010r"
         },
         {
             "byte1": -1,
@@ -68,16 +82,27 @@
             "posz": 3000.0,
             "event_flag": 72,
             "transition_type": -1,
+            "unk2": "FF FF",
             "talk_behaviour": 19972,
             "unk3": "FC 03",
             "name": "NpcTke",
             "angle": -1,
+            "bin": "1111 1111 1110 0001 0010 0011 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E1 23 11"
+                "first_4_bytes": "FF E1 23 11",
+                "trigstoryfid": 72,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Learn Nayru's Wisdom",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 72,
+                "trigscenef": "scene flag: 0x8 01",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F010r"
         },
         {
             "byte1": -1,
@@ -90,16 +115,27 @@
             "posz": 3000.0,
             "event_flag": 73,
             "transition_type": -1,
+            "unk2": "FF FF",
             "talk_behaviour": 19973,
             "unk3": "FC 04",
             "name": "NpcTke",
             "angle": -1,
+            "bin": "1111 1111 1110 0001 0010 0111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E1 27 11"
+                "first_4_bytes": "FF E1 27 11",
+                "trigstoryfid": 73,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Learn Din's Power",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 73,
+                "trigscenef": "scene flag: 0x8 02",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F010r"
         },
         {
             "byte1": -1,
@@ -112,10 +148,12 @@
             "posz": 4651.8583984375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -1,
             "unk3": "FC 01",
             "name": "saveObj",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 0000 0000 0011 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF 00 35",
                 "flagid": 53,
@@ -123,7 +161,8 @@
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F010r"
         },
         {
             "byte1": -1,
@@ -136,16 +175,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0A",
             "name": "DemoPds",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F010r"
         }
     ]
 });

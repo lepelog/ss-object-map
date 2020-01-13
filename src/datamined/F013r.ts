@@ -26,16 +26,19 @@
             "posz": 560.8500366210938,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "FC 72",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "DNight",
             "angle": 29436,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F013r"
         },
         {
             "byte1": -1,
@@ -48,16 +51,19 @@
             "posz": 1280.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "DecoA",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F013r"
         },
         {
             "byte1": 31,
@@ -70,16 +76,19 @@
             "posz": 985.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "43 33",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "chest",
             "angle": 13123,
+            "bin": "0001 1111 0000 0000 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "1F 00 FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F013r"
         },
         {
             "byte1": 46,
@@ -92,16 +101,27 @@
             "posz": 880.7496948242188,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "9D 28",
             "talk_behaviour": 11816,
             "unk3": "FC 0F",
             "name": "NpcSha",
             "angle": 10397,
+            "bin": "0010 1110 1110 0101 1100 1001 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "2E E5 C9 FF"
+                "first_4_bytes": "2E E5 C9 FF",
+                "trigstoryfid": 370,
+                "untrigstoryfid": 375,
+                "trigstoryf": " Talking to past Impa after meeting Batreaux or Meeting Batreaux after talking to past Impa  (Bazaar layer 2)",
+                "untrigstoryf": "Set after Sleeping after the Fortune Teller crystals (Bazaar layer 3)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F013r"
         },
         {
             "byte1": -1,
@@ -114,16 +134,27 @@
             "posz": 385.56207275390625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "NpcSlrb",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F013r"
         },
         {
             "byte1": -1,
@@ -136,16 +167,19 @@
             "posz": 542.4009399414062,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "DivCrst",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0001 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 11"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F013r"
         },
         {
             "byte1": 0,
@@ -158,16 +192,19 @@
             "posz": -300.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -1,
             "unk3": "FC 0B",
             "name": "Door",
             "angle": 128,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 00"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F013r"
         },
         {
             "byte1": 15,
@@ -183,10 +220,12 @@
             "sizez": 1.4500000476837158,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "95 56",
             "talk_behaviour": 0,
             "unk3": "FC 14",
             "name": "TgReact",
             "angle": 22165,
+            "bin": "0000 1111 1111 0000 0000 0000 1011 0011",
             "extraInfo": {
                 "first_4_bytes": "0F F0 00 B3",
                 "flagid": -77,
@@ -194,7 +233,8 @@
             },
             "type": "SOBJ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F013r"
         },
         {
             "byte1": -53,
@@ -207,16 +247,19 @@
             "posz": 795.66748046875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 17",
             "name": "DivCrst",
             "angle": 0,
+            "bin": "1100 1011 1010 0001 0111 0010 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "CB A1 72 F0"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F013r"
         },
         {
             "byte1": 46,
@@ -229,16 +272,27 @@
             "posz": 880.7496948242188,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "9D 28",
             "talk_behaviour": 11130,
             "unk3": "FC 17",
             "name": "NpcSha",
             "angle": 10397,
+            "bin": "0010 1110 0101 1111 1111 1101 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "2E 5F FD FF"
+                "first_4_bytes": "2E 5F FD FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 370,
+                "trigstoryf": "-",
+                "untrigstoryf": " Talking to past Impa after meeting Batreaux or Meeting Batreaux after talking to past Impa  (Bazaar layer 2)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F013r"
         },
         {
             "byte1": -53,
@@ -251,16 +305,19 @@
             "posz": 795.66748046875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 18",
             "name": "DivCrst",
             "angle": 0,
+            "bin": "1100 1011 1010 0001 0111 0010 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "CB A1 72 F0"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F013r"
         },
         {
             "byte1": -1,
@@ -273,16 +330,27 @@
             "posz": 880.7496948242188,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "9D 28",
             "talk_behaviour": 11130,
             "unk3": "FC 17",
             "name": "NpcSha",
             "angle": 10397,
+            "bin": "1111 1111 1110 0101 1101 1101 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF E5 DD FF"
+                "first_4_bytes": "FF E5 DD FF",
+                "trigstoryfid": 375,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Set after Sleeping after the Fortune Teller crystals (Bazaar layer 3)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F013r"
         }
     ]
 });

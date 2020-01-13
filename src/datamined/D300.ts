@@ -32,16 +32,19 @@
             "posz": -2744.25,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 00",
             "name": "SStatue",
             "angle": 64,
+            "bin": "1111 1100 1111 1111 0000 0001 0011 0010",
             "extraInfo": {
                 "first_4_bytes": "FC FF 01 32"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -4,
@@ -54,16 +57,19 @@
             "posz": -2744.270263671875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 01",
             "name": "SStatue",
             "angle": 192,
+            "bin": "1111 1100 1111 0000 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FC F0 FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -4,
@@ -76,16 +82,19 @@
             "posz": -900.9713745117188,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 02",
             "name": "SStatue",
             "angle": 192,
+            "bin": "1111 1100 1111 0000 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FC F0 FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -98,16 +107,19 @@
             "posz": -1379.670166015625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 03",
             "name": "Bombf",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -120,16 +132,19 @@
             "posz": -2887.993408203125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "SwWall",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0A FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -142,16 +157,19 @@
             "posz": -2888.141357421875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "SwWall",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 1011 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0B FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -4,
@@ -164,16 +182,19 @@
             "posz": -899.9985961914062,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "SStatue",
             "angle": 64,
+            "bin": "1111 1100 1111 0000 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FC F0 FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": 78,
@@ -186,16 +207,19 @@
             "posz": -2191.91552734375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 08",
             "name": "EMagupp",
             "angle": 0,
+            "bin": "0100 1110 1111 1111 1111 0111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "4E FF F7 FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": 79,
@@ -208,16 +232,19 @@
             "posz": -1621.1815185546875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 09",
             "name": "EMagupp",
             "angle": 0,
+            "bin": "0100 1111 1111 1111 1111 0111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "4F FF F7 FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -4,
@@ -230,16 +257,19 @@
             "posz": 80.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 0B",
             "name": "SStatue",
             "angle": 64,
+            "bin": "1111 1100 1111 1111 1111 1111 0011 0110",
             "extraInfo": {
                 "first_4_bytes": "FC FF FF 36"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -4,
@@ -252,16 +282,19 @@
             "posz": 1060.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "SStatue",
             "angle": 64,
+            "bin": "1111 1100 1111 0000 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FC F0 FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -4,
@@ -274,16 +307,19 @@
             "posz": 1060.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "SStatue",
             "angle": 192,
+            "bin": "1111 1100 1111 1111 1111 1111 0010 0110",
             "extraInfo": {
                 "first_4_bytes": "FC FF FF 26"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -296,10 +332,12 @@
             "posz": -906.3427124023438,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "Item",
             "angle": 192,
+            "bin": "1111 1111 0000 1111 1111 1110 0000 0010",
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
@@ -307,7 +345,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -320,10 +359,12 @@
             "posz": 1069.0767822265625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "Item",
             "angle": 192,
+            "bin": "1111 1111 0000 1111 1111 1110 0000 0010",
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
@@ -331,7 +372,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -344,16 +386,19 @@
             "posz": 135.93663024902344,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "EKg",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -366,16 +411,19 @@
             "posz": 15.88352108001709,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "EKg",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -388,10 +436,12 @@
             "posz": 1058.1630859375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 12",
             "name": "Item",
             "angle": 64,
+            "bin": "1111 1111 0000 1111 1111 1110 0000 0010",
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
@@ -399,7 +449,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -412,16 +463,19 @@
             "posz": -2739.88134765625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 13",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 0110 1111 1111 1011 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF 6F FB FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -434,16 +488,19 @@
             "posz": 986.0762329101562,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 14",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -456,16 +513,19 @@
             "posz": 1161.091552734375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 15",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -478,16 +538,19 @@
             "posz": 99.6775894165039,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 16",
             "name": "EKg",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -500,10 +563,12 @@
             "posz": 2173.493408203125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 17",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -511,7 +576,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -524,10 +590,12 @@
             "posz": 2003.45458984375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 18",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -535,7 +603,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -548,16 +617,19 @@
             "posz": -2818.665283203125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 19",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 0110 1111 1111 1011 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF 6F FB FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -570,16 +642,19 @@
             "posz": -2655.18798828125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 1A",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 0110 1111 1111 1011 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF 6F FB FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -592,10 +667,12 @@
             "posz": -257.325927734375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1B",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -603,7 +680,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -616,10 +694,12 @@
             "posz": -257.325927734375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1C",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -627,7 +707,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -640,16 +721,19 @@
             "posz": -2145.11865234375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1D",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -662,16 +746,19 @@
             "posz": -2022.880615234375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1E",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -684,16 +771,19 @@
             "posz": -1826.236572265625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1F",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -706,10 +796,12 @@
             "posz": -902.4879760742188,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 20",
             "name": "Item",
             "angle": 64,
+            "bin": "1111 1111 0000 1111 1111 1110 0000 0010",
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
@@ -717,7 +809,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -730,10 +823,12 @@
             "posz": -2738.689453125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 21",
             "name": "Item",
             "angle": 64,
+            "bin": "1111 1111 0000 1111 1111 1110 0000 0011",
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 03",
                 "flagid": -1,
@@ -741,7 +836,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -754,10 +850,12 @@
             "posz": -2734.43408203125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 22",
             "name": "Item",
             "angle": 192,
+            "bin": "1111 1111 0000 1111 1111 1110 0000 0010",
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
@@ -765,7 +863,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -778,16 +877,19 @@
             "posz": 60.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "C0 00",
             "talk_behaviour": -32764,
             "unk3": "FC 07",
             "name": "TBox",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -4,
@@ -800,16 +902,19 @@
             "posz": 46.68809509277344,
             "event_flag": 2,
             "transition_type": -1,
+            "unk2": "C0 00",
             "talk_behaviour": -1,
             "unk3": "FC 0A",
             "name": "Fence",
             "angle": 192,
+            "bin": "1111 1100 1111 1111 0000 1011 1000 0001",
             "extraInfo": {
                 "first_4_bytes": "FC FF 0B 81"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -822,10 +927,12 @@
             "posz": 2200.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -1,
             "unk3": "FC 23",
             "name": "saveObj",
             "angle": 128,
+            "bin": "1111 1111 0000 0001 0000 0010 0101 0000",
             "extraInfo": {
                 "first_4_bytes": "FF 01 02 50",
                 "flagid": 80,
@@ -833,7 +940,8 @@
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": 31,
@@ -849,10 +957,12 @@
             "sizez": 0.5,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 25",
             "name": "TgReact",
             "angle": 0,
+            "bin": "0001 1111 1111 1111 0000 0000 1100 1010",
             "extraInfo": {
                 "first_4_bytes": "1F FF 00 CA",
                 "flagid": -54,
@@ -860,7 +970,8 @@
             },
             "type": "SOBJ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": 31,
@@ -876,10 +987,12 @@
             "sizez": 0.5,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 26",
             "name": "TgReact",
             "angle": 0,
+            "bin": "0001 1111 1111 1111 0000 0000 1100 1011",
             "extraInfo": {
                 "first_4_bytes": "1F FF 00 CB",
                 "flagid": -53,
@@ -887,7 +1000,8 @@
             },
             "type": "SOBJ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": 15,
@@ -903,10 +1017,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 27",
             "name": "TgReact",
             "angle": 0,
+            "bin": "0000 1111 1111 1111 1111 1111 1100 1100",
             "extraInfo": {
                 "first_4_bytes": "0F FF FF CC",
                 "flagid": -52,
@@ -914,7 +1030,8 @@
             },
             "type": "SOBJ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -30,
@@ -927,16 +1044,19 @@
             "posz": -5245.84423828125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 00",
             "name": "EHydra",
             "angle": 64,
+            "bin": "1110 0010 0001 0000 1010 0000 0011 1111",
             "extraInfo": {
                 "first_4_bytes": "E2 10 A0 3F"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -949,16 +1069,19 @@
             "posz": -7400.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 01",
             "name": "Sw",
             "angle": 0,
+            "bin": "1111 1111 1101 0011 0111 0011 0101 0000",
             "extraInfo": {
                 "first_4_bytes": "FF D3 73 50"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -30,
@@ -971,16 +1094,19 @@
             "posz": -5260.4345703125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 02",
             "name": "EHydra",
             "angle": 192,
+            "bin": "1110 0010 0101 0000 1010 0000 0011 1111",
             "extraInfo": {
                 "first_4_bytes": "E2 50 A0 3F"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -15,
@@ -993,16 +1119,19 @@
             "posz": -6950.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 03",
             "name": "PushBlk",
             "angle": 0,
+            "bin": "1111 0001 0100 0011 0101 0000 0001 0000",
             "extraInfo": {
                 "first_4_bytes": "F1 43 50 10"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1015,16 +1144,19 @@
             "posz": -7025.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "PushBlk",
             "angle": 0,
+            "bin": "1111 1111 1111 0101 1010 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F5 AF F0"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1037,16 +1169,19 @@
             "posz": -7296.12939453125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1059,16 +1194,19 @@
             "posz": -7499.2021484375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1081,16 +1219,19 @@
             "posz": -7046.193359375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1103,16 +1244,19 @@
             "posz": -7247.794921875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 08",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1125,16 +1269,19 @@
             "posz": -7094.27099609375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 09",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1147,10 +1294,12 @@
             "posz": -7605.1337890625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0A",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1000 1010 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 A1",
                 "flagid": -118,
@@ -1158,7 +1307,8 @@
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1171,10 +1321,12 @@
             "posz": -7606.8984375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0B",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1000 1011 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 B1",
                 "flagid": -117,
@@ -1182,7 +1334,8 @@
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1195,10 +1348,12 @@
             "posz": -6600.36279296875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1000 1100 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 C1",
                 "flagid": -116,
@@ -1206,7 +1361,8 @@
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1219,10 +1375,12 @@
             "posz": -6779.86474609375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1000 1101 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 D1",
                 "flagid": -115,
@@ -1230,7 +1388,8 @@
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1243,16 +1402,19 @@
             "posz": -7625.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "Kibako",
             "angle": 0,
+            "bin": "1111 1111 1111 0111 1010 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F7 AF F0"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1265,16 +1427,19 @@
             "posz": -7174.08349609375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "Kibako",
             "angle": 0,
+            "bin": "1111 1111 1111 0000 1101 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F0 DF F0"
             },
             "type": "OBJ ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -9,
@@ -1287,16 +1452,19 @@
             "posz": -7850.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "ShtCS",
             "angle": 0,
+            "bin": "1111 0111 1111 1111 1111 1100 0010 0000",
             "extraInfo": {
                 "first_4_bytes": "F7 FF FC 20"
             },
             "type": "OBJS",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1312,16 +1480,19 @@
             "sizez": 3.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 0100 1101 0000 0100 0101",
             "extraInfo": {
                 "first_4_bytes": "FF F4 D0 45"
             },
             "type": "SOBJ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1337,16 +1508,19 @@
             "sizez": 3.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 12",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 0001 0100 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF F1 40 4F"
             },
             "type": "SOBJ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1362,16 +1536,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 13",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1387,16 +1564,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 14",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1412,16 +1592,19 @@
             "sizez": 3.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 15",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1437,16 +1620,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 16",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 1,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -7,
@@ -1459,10 +1645,12 @@
             "posz": -3484.037109375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 00",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1001 0001 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "F9 1F FF F0",
                 "flagid": -111,
@@ -1470,7 +1658,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1483,16 +1672,19 @@
             "posz": -6600.93505859375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": -185,
             "unk3": "FC 01",
             "name": "EBeamos",
             "angle": 64,
+            "bin": "1111 1111 1111 1100 0011 1001 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FC 39 FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1505,16 +1697,19 @@
             "posz": -6597.7080078125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": -184,
             "unk3": "FC 02",
             "name": "EBeamos",
             "angle": 192,
+            "bin": "1111 1111 1111 1100 0011 1001 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FC 39 FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1527,16 +1722,19 @@
             "posz": -3704.678955078125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": -183,
             "unk3": "FC 03",
             "name": "EBeamos",
             "angle": 128,
+            "bin": "1111 1111 1111 1100 0011 1011 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FC 3B FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1549,10 +1747,12 @@
             "posz": -3419.93505859375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -1560,7 +1760,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1573,10 +1774,12 @@
             "posz": -3420.633056640625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -1584,7 +1787,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1597,16 +1801,19 @@
             "posz": -3360.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "SwWall",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 0000 1100 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0C FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1619,16 +1826,19 @@
             "posz": -4925.51806640625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "EGeko",
             "angle": 128,
+            "bin": "1111 1111 1101 0000 0000 1010 0000 0011",
             "extraInfo": {
                 "first_4_bytes": "FF D0 0A 03"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1641,16 +1851,19 @@
             "posz": -3780.166015625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 08",
             "name": "EKg",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FA FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1663,16 +1876,19 @@
             "posz": -3613.727294921875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 09",
             "name": "EKg",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FA FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1685,16 +1901,19 @@
             "posz": -3700.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0A",
             "name": "Sw",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1100 1101 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FC D0"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1707,16 +1926,19 @@
             "posz": -6945.98388671875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0B",
             "name": "TSBlk",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1100 0011 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FC 35"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1729,16 +1951,19 @@
             "posz": -3360.11474609375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "TSBlk",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1100 0011 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FC 35"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1751,16 +1976,19 @@
             "posz": -4146.15625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "EKg",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FA FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1773,16 +2001,19 @@
             "posz": -4151.32177734375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "EKg",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FA FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1795,16 +2026,19 @@
             "posz": -4148.255859375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "EKg",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FA FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1817,16 +2051,19 @@
             "posz": -4153.42138671875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "EKg",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FA FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1839,16 +2076,19 @@
             "posz": -6939.3173828125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "TSBlk",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1100 0011 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FC 35"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1861,16 +2101,19 @@
             "posz": -3361.835693359375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 12",
             "name": "TSBlk",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1100 0011 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FC 35"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1883,16 +2126,19 @@
             "posz": -3360.734130859375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 13",
             "name": "TSBlk",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1100 0011 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FC 35"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1905,16 +2151,19 @@
             "posz": -6944.06982421875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 14",
             "name": "TSBlk",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1100 0011 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FC 35"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1927,16 +2176,19 @@
             "posz": -3703.189697265625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 15",
             "name": "SwWall",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 0001 0000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF 10 FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1949,10 +2201,12 @@
             "posz": -6791.177734375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 17",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -1960,7 +2214,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1973,10 +2228,12 @@
             "posz": -6793.337890625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 18",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -1984,7 +2241,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -1997,16 +2255,19 @@
             "posz": -7145.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 19",
             "name": "BeltCvr",
             "angle": 192,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2019,16 +2280,19 @@
             "posz": -4745.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 1A",
             "name": "BeltCvr",
             "angle": 192,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2041,16 +2305,19 @@
             "posz": -3545.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 1B",
             "name": "BeltCvr",
             "angle": 192,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0000",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C0"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2063,16 +2330,19 @@
             "posz": -7145.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 1C",
             "name": "BeltCvr",
             "angle": 64,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2085,16 +2355,19 @@
             "posz": -5945.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 1D",
             "name": "BeltCvr",
             "angle": 64,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2107,16 +2380,19 @@
             "posz": -4745.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 1E",
             "name": "BeltCvr",
             "angle": 64,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2129,16 +2405,19 @@
             "posz": -6900.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 1F",
             "name": "BeltCvr",
             "angle": 192,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2151,16 +2430,19 @@
             "posz": -5700.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 20",
             "name": "BeltCvr",
             "angle": 192,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2173,16 +2455,19 @@
             "posz": -4598.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 5097,
             "unk3": "FC 21",
             "name": "BeltCvr",
             "angle": 192,
+            "bin": "1111 1111 0010 1011 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 2B FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2195,16 +2480,19 @@
             "posz": -3450.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 22",
             "name": "BeltCvr",
             "angle": 192,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2217,16 +2505,19 @@
             "posz": -5945.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 23",
             "name": "BeltCvr",
             "angle": 192,
+            "bin": "1111 1111 0011 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 3F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2239,16 +2530,19 @@
             "posz": -3545.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 24",
             "name": "BeltCvr",
             "angle": 64,
+            "bin": "1111 1111 0101 1111 1111 1111 1100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF 5F FF C4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2261,10 +2555,12 @@
             "posz": -3485.216064453125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2B",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -2272,7 +2568,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2285,16 +2582,19 @@
             "posz": -7052.38720703125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2C",
             "name": "TSBlk",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2307,16 +2607,19 @@
             "posz": -3227.7119140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 2D",
             "name": "TSBlk",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2329,16 +2632,19 @@
             "posz": -6996.38134765625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2E",
             "name": "TSBlk",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2351,16 +2657,19 @@
             "posz": -3351.282958984375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 2F",
             "name": "TSBlk",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2373,16 +2682,19 @@
             "posz": -7049.958984375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 30",
             "name": "TSBlk",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2395,16 +2707,19 @@
             "posz": -3248.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 31",
             "name": "TSBlk",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2417,16 +2732,19 @@
             "posz": -3249.628662109375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 32",
             "name": "TSBlk",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2439,16 +2757,19 @@
             "posz": -3700.618896484375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": -182,
             "unk3": "FC 33",
             "name": "EBeamos",
             "angle": 64,
+            "bin": "1111 1111 1111 1100 0011 1001 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FC 39 FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2461,16 +2782,19 @@
             "posz": -4380.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": -181,
             "unk3": "FC 34",
             "name": "EBeamos",
             "angle": 192,
+            "bin": "1111 1111 1111 1100 0011 1001 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FC 39 FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -16,
@@ -2483,16 +2807,19 @@
             "posz": -3700.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 35",
             "name": "Kibako",
             "angle": 64,
+            "bin": "1111 0000 0011 0001 1000 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "F0 31 8F F0"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2505,16 +2832,19 @@
             "posz": -5249.35009765625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 36",
             "name": "Bombf",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2527,10 +2857,12 @@
             "posz": -5977.82763671875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 37",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -2538,7 +2870,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -7,
@@ -2551,10 +2884,12 @@
             "posz": -6110.5126953125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 38",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1001 0010 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "F9 2F FF F0",
                 "flagid": -110,
@@ -2562,7 +2897,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2575,16 +2911,19 @@
             "posz": -6600.37548828125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 39",
             "name": "EGeko",
             "angle": 192,
+            "bin": "1111 1111 1101 0000 0000 1010 0000 0011",
             "extraInfo": {
                 "first_4_bytes": "FF D0 0A 03"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2597,10 +2936,12 @@
             "posz": -4650.88720703125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3A",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -2608,7 +2949,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -7,
@@ -2621,10 +2963,12 @@
             "posz": -4652.06640625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3B",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1001 0011 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "F9 3F FF F0",
                 "flagid": -109,
@@ -2632,7 +2976,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2645,16 +2990,19 @@
             "posz": -3700.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": -182,
             "unk3": "FC 3C",
             "name": "EBeamos",
             "angle": 64,
+            "bin": "1111 1111 1111 1100 0011 1001 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FC 39 FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2667,16 +3015,19 @@
             "posz": -7100.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -32252,
             "unk3": "FC 16",
             "name": "TBox",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -4,
@@ -2689,16 +3040,19 @@
             "posz": -6973.6640625,
             "event_flag": 6,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -216,
             "unk3": "FC 25",
             "name": "Fence",
             "angle": 0,
+            "bin": "1111 1100 1111 1111 0001 0000 1000 0001",
             "extraInfo": {
                 "first_4_bytes": "FC FF 10 81"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2711,16 +3065,19 @@
             "posz": -5031.00244140625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -1,
             "unk3": "FC 26",
             "name": "Fence",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1100 1110 1000 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF CE 81"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2733,16 +3090,19 @@
             "posz": -5408.65478515625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -1,
             "unk3": "FC 27",
             "name": "Fence",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1100 1110 1000 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF CE 81"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2755,16 +3115,19 @@
             "posz": -5224.259765625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": -1,
             "unk3": "FC 28",
             "name": "Fence",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1100 1110 1000 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF CE 81"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2777,16 +3140,19 @@
             "posz": -5224.24072265625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "C0 00",
             "talk_behaviour": -1,
             "unk3": "FC 29",
             "name": "Fence",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1100 1110 1000 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF CE 81"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2799,16 +3165,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2A",
             "name": "sandD1",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0010",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F2"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2821,16 +3190,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 4F",
             "name": "ObjBg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1110 0000 0010 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 20"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -6,
@@ -2846,16 +3218,19 @@
             "sizez": 1.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 2,
             "unk3": "FC 3D",
             "name": "ESm",
             "angle": 0,
+            "bin": "1111 1010 0000 1000 1111 1111 0010 0010",
             "extraInfo": {
                 "first_4_bytes": "FA 08 FF 22"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2871,16 +3246,19 @@
             "sizez": 1.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3E",
             "name": "ClrWall",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0001 0001 1100 1101",
             "extraInfo": {
                 "first_4_bytes": "FF FF 11 CD"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2896,16 +3274,19 @@
             "sizez": 1.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 3F",
             "name": "ClrWall",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 0001 0001 1100 1101",
             "extraInfo": {
                 "first_4_bytes": "FF FF 11 CD"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2921,16 +3302,19 @@
             "sizez": 1.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 40",
             "name": "ClrWall",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 0001 0001 1100 1101",
             "extraInfo": {
                 "first_4_bytes": "FF FF 11 CD"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -2946,16 +3330,19 @@
             "sizez": 1.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 41",
             "name": "ClrWall",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 0001 0001 1100 1101",
             "extraInfo": {
                 "first_4_bytes": "FF FF 11 CD"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": 31,
@@ -2971,10 +3358,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 49",
             "name": "TgReact",
             "angle": 64,
+            "bin": "0001 1111 1111 1111 1111 1111 1000 1110",
             "extraInfo": {
                 "first_4_bytes": "1F FF FF 8E",
                 "flagid": -114,
@@ -2982,7 +3371,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": 31,
@@ -2998,10 +3388,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "15 55",
             "talk_behaviour": 0,
             "unk3": "FC 4B",
             "name": "TgReact",
             "angle": 21781,
+            "bin": "0001 1111 1111 1111 1111 1111 1000 1111",
             "extraInfo": {
                 "first_4_bytes": "1F FF FF 8F",
                 "flagid": -113,
@@ -3009,7 +3401,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": 31,
@@ -3025,10 +3418,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "EA AB",
             "talk_behaviour": 0,
             "unk3": "FC 4C",
             "name": "TgReact",
             "angle": -21526,
+            "bin": "0001 1111 1111 1111 1111 1111 1001 0000",
             "extraInfo": {
                 "first_4_bytes": "1F FF FF 90",
                 "flagid": -112,
@@ -3036,7 +3431,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3049,16 +3445,19 @@
             "posz": -3993.8759765625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 00",
             "name": "PrpLift",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 00"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3071,16 +3470,19 @@
             "posz": -5450.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 01",
             "name": "PrpLift",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0010",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 02"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3093,16 +3495,19 @@
             "posz": -2100.06494140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 02",
             "name": "PrpLift",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 01"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3115,16 +3520,19 @@
             "posz": -4200.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 03",
             "name": "PrpLift",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 03"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -24,
@@ -3137,16 +3545,19 @@
             "posz": -4195.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "EGunho",
             "angle": 0,
+            "bin": "1110 1000 1010 0001 0100 0000 1101 1111",
             "extraInfo": {
                 "first_4_bytes": "E8 A1 40 DF"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3159,16 +3570,19 @@
             "posz": -7047.1796875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "WndMilD",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0001 0101 0010 1110",
             "extraInfo": {
                 "first_4_bytes": "FF FF 15 2E"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3181,16 +3595,19 @@
             "posz": -2099.981689453125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "WndMilD",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 0001 0001 0100 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF 11 41"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3203,16 +3620,19 @@
             "posz": -5449.03271484375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "EGeko",
             "angle": 64,
+            "bin": "1111 1111 1101 0000 0000 1010 0000 0101",
             "extraInfo": {
                 "first_4_bytes": "FF D0 0A 05"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3225,16 +3645,19 @@
             "posz": -2097.17529296875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": -174,
             "unk3": "FC 08",
             "name": "EBeamos",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1011 0000 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF FB 04"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3247,16 +3670,19 @@
             "posz": -6299.31884765625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -173,
             "unk3": "FC 09",
             "name": "EBeamos",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1001 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F9 FF"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3269,16 +3695,19 @@
             "posz": -3868.050537109375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "EGeko",
             "angle": 128,
+            "bin": "1111 1111 1101 0000 0000 1010 0000 0101",
             "extraInfo": {
                 "first_4_bytes": "FF D0 0A 05"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3291,10 +3720,12 @@
             "posz": -5904.65673828125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1001 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F9 FF F0",
                 "flagid": -1,
@@ -3302,7 +3733,8 @@
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3315,10 +3747,12 @@
             "posz": -5906.5009765625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1001 1101 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F9 DF F0",
                 "flagid": -1,
@@ -3326,7 +3760,8 @@
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3339,16 +3774,19 @@
             "posz": -3993.82275390625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3361,16 +3799,19 @@
             "posz": -3993.82275390625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 12",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3383,16 +3824,19 @@
             "posz": -3845.923583984375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 13",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3405,10 +3849,12 @@
             "posz": -1756.9619140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 14",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -3416,7 +3862,8 @@
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3429,10 +3876,12 @@
             "posz": -1756.9619140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 15",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1001 1110 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F9 EF F0",
                 "flagid": -1,
@@ -3440,7 +3889,8 @@
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3453,10 +3903,12 @@
             "posz": -2247.616943359375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 16",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -3464,7 +3916,8 @@
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3477,10 +3930,12 @@
             "posz": -2041.405029296875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 17",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1010 0000 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FA 0F F0",
                 "flagid": -1,
@@ -3488,7 +3943,8 @@
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3501,16 +3957,19 @@
             "posz": -2105.13232421875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 18",
             "name": "EGeko",
             "angle": 192,
+            "bin": "1111 1111 1101 0000 0000 1010 0000 0101",
             "extraInfo": {
                 "first_4_bytes": "FF D0 0A 05"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3523,16 +3982,19 @@
             "posz": -4145.2177734375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 19",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -49,
@@ -3545,16 +4007,19 @@
             "posz": -7196.81396484375,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -1,
             "unk3": "FC 0A",
             "name": "Fence",
             "angle": 0,
+            "bin": "1100 1111 0001 0101 0010 1110 0000 0001",
             "extraInfo": {
                 "first_4_bytes": "CF 15 2E 01"
             },
             "type": "OBJS",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -49,
@@ -3567,16 +4032,19 @@
             "posz": -2100.052734375,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": -1,
             "unk3": "FC 0B",
             "name": "Fence",
             "angle": 64,
+            "bin": "1100 1111 0001 0001 0100 0001 1000 0001",
             "extraInfo": {
                 "first_4_bytes": "CF 11 41 81"
             },
             "type": "OBJS",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3589,16 +4057,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "sandD1",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3611,16 +4082,19 @@
             "posz": -4200.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "C0 00",
             "talk_behaviour": -31573,
             "unk3": "FC 10",
             "name": "TBox",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3633,16 +4107,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3E",
             "name": "ObjBg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1110 0000 0011 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 30"
             },
             "type": "OBJS",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3658,16 +4135,19 @@
             "sizez": 3.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1A",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 0111 0011 0001 0010 0101",
             "extraInfo": {
                 "first_4_bytes": "FF F7 31 25"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3683,16 +4163,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1B",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3708,16 +4191,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1C",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3733,16 +4219,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1D",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3758,16 +4247,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1E",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3783,16 +4275,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1F",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3808,16 +4303,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 20",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F1"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3833,16 +4331,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 21",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3858,16 +4359,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 22",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F1"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3883,16 +4387,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 23",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3908,16 +4415,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 24",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3933,16 +4443,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 25",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3958,16 +4471,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 26",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -3983,16 +4499,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 27",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4008,16 +4527,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 28",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4033,16 +4555,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 29",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4058,16 +4583,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2A",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4083,16 +4611,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2B",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 3,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4105,16 +4636,19 @@
             "posz": -10653.1796875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 01",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4127,16 +4661,19 @@
             "posz": -10442.298828125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 02",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4149,16 +4686,19 @@
             "posz": -10434.2646484375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 03",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4171,16 +4711,19 @@
             "posz": -10642.2568359375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4193,16 +4736,19 @@
             "posz": -10438.4189453125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4215,16 +4761,19 @@
             "posz": -10430.384765625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4237,16 +4786,19 @@
             "posz": -9265.384765625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4259,16 +4811,19 @@
             "posz": -10125.0751953125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 08",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4281,16 +4836,19 @@
             "posz": -9256.21875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 09",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4303,16 +4861,19 @@
             "posz": -11693.892578125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0A",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4325,16 +4886,19 @@
             "posz": -10976.7294921875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0B",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4347,16 +4911,19 @@
             "posz": -8855.6240234375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4369,16 +4936,19 @@
             "posz": -11060.3369140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FA FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -49,
@@ -4391,16 +4961,19 @@
             "posz": -7875.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "PushBlk",
             "angle": 0,
+            "bin": "1100 1111 1111 0001 0111 0000 0001 0000",
             "extraInfo": {
                 "first_4_bytes": "CF F1 70 10"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4413,16 +4986,19 @@
             "posz": -9500.8818359375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "EKg",
             "angle": 64,
+            "bin": "1111 1111 1111 1001 1010 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF F9 AA FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4435,16 +5011,19 @@
             "posz": -9301.3115234375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "EKg",
             "angle": 64,
+            "bin": "1111 1111 1111 1001 1011 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF F9 BA FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4457,16 +5036,19 @@
             "posz": -9498.34375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "EKg",
             "angle": 64,
+            "bin": "1111 1111 1111 1001 1100 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF F9 CA FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4479,16 +5061,19 @@
             "posz": -8025.9970703125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 13",
             "name": "AncJwls",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 01"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4501,16 +5086,19 @@
             "posz": -9675.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 14",
             "name": "DNdl",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4523,16 +5111,19 @@
             "posz": -9675.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 15",
             "name": "DNdl",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4545,16 +5136,19 @@
             "posz": -9675.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 16",
             "name": "DNdl",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4567,16 +5161,19 @@
             "posz": -9675.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 17",
             "name": "DNdl",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4589,16 +5186,19 @@
             "posz": -10277.5166015625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 18",
             "name": "DNdl",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4611,16 +5211,19 @@
             "posz": -9976.466796875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 19",
             "name": "DNdl",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4633,16 +5236,19 @@
             "posz": -11030.6181640625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 1A",
             "name": "DNdl",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4655,16 +5261,19 @@
             "posz": -10729.568359375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 1B",
             "name": "DNdl",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4677,16 +5286,19 @@
             "posz": -8825.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1C",
             "name": "DNdl",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4699,16 +5311,19 @@
             "posz": -8825.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1D",
             "name": "DNdl",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4721,16 +5336,19 @@
             "posz": -9428.1025390625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 1E",
             "name": "DNdl",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4743,16 +5361,19 @@
             "posz": -9127.052734375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 1F",
             "name": "DNdl",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4765,16 +5386,19 @@
             "posz": -11750.1103515625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 20",
             "name": "DNdl",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4787,16 +5411,19 @@
             "posz": -10526.0322265625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 21",
             "name": "DNdl",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4809,16 +5436,19 @@
             "posz": -10526.0322265625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 22",
             "name": "DNdl",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4831,10 +5461,12 @@
             "posz": -7755.2783203125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2C",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1001 0110 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F9 6F F0",
                 "flagid": -1,
@@ -4842,7 +5474,8 @@
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4855,10 +5488,12 @@
             "posz": -7549.2197265625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2D",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1001 0111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F9 7F F0",
                 "flagid": -1,
@@ -4866,7 +5501,8 @@
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4879,10 +5515,12 @@
             "posz": -8615.4541015625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2E",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1001 1000 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F9 8F F0",
                 "flagid": -1,
@@ -4890,7 +5528,8 @@
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4903,10 +5542,12 @@
             "posz": -8409.3955078125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2F",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1001 1001 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF F9 9F F0",
                 "flagid": -1,
@@ -4914,7 +5555,8 @@
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4927,10 +5569,12 @@
             "posz": -11257.384765625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 30",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -4938,7 +5582,8 @@
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4951,10 +5596,12 @@
             "posz": -11051.326171875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 31",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -4962,7 +5609,8 @@
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4975,16 +5623,19 @@
             "posz": -12399.2001953125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 32",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1001 1111 1111 1011 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF 9F FB FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -4997,16 +5648,19 @@
             "posz": -12396.748046875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 33",
             "name": "EKg",
             "angle": 0,
+            "bin": "1111 1111 1001 1111 1111 1011 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF 9F FB FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5019,16 +5673,19 @@
             "posz": -11265.9931640625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 34",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1010 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FA FF"
             },
             "type": "OBJ ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5041,16 +5698,19 @@
             "posz": -12400.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -30671,
             "unk3": "FC 00",
             "name": "TBox",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -9,
@@ -5063,16 +5723,19 @@
             "posz": -9400.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 12",
             "name": "ShtCS",
             "angle": 64,
+            "bin": "1111 0111 1111 1100 0011 1100 0010 0100",
             "extraInfo": {
                 "first_4_bytes": "F7 FC 3C 24"
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5085,16 +5748,19 @@
             "posz": -10900.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -26560,
             "unk3": "FC 23",
             "name": "TBox",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5107,10 +5773,12 @@
             "posz": -10403.2880859375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 24",
             "name": "BlsRock",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 0000 1010 0101 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0A 54",
                 "flagid": 84,
@@ -5118,7 +5786,8 @@
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5131,10 +5800,12 @@
             "posz": -10406.6396484375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 25",
             "name": "BlsRock",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 0000 1010 0101 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0A 55",
                 "flagid": 85,
@@ -5142,7 +5813,8 @@
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5155,10 +5827,12 @@
             "posz": -10638.4619140625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 26",
             "name": "BlsRock",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 0000 1010 0111 0110",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0A 76",
                 "flagid": 118,
@@ -5166,7 +5840,8 @@
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5179,10 +5854,12 @@
             "posz": -10404.208984375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 27",
             "name": "BlsRock",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 1010 0111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0A 70",
                 "flagid": 112,
@@ -5190,7 +5867,8 @@
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5203,10 +5881,12 @@
             "posz": -9553.3447265625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 28",
             "name": "BlsRock",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 0000 1010 0000 1001",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0A 09",
                 "flagid": 9,
@@ -5214,7 +5894,8 @@
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5227,10 +5908,12 @@
             "posz": -9576.0126953125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 29",
             "name": "BlsRock",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 0000 1010 0010 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0A 24",
                 "flagid": 36,
@@ -5238,7 +5921,8 @@
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5251,10 +5935,12 @@
             "posz": -8940.0771484375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 2A",
             "name": "BlsRock",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 0000 1010 0000 1000",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0A 08",
                 "flagid": 8,
@@ -5262,7 +5948,8 @@
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5275,10 +5962,12 @@
             "posz": -8705.82421875,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 2B",
             "name": "BlsRock",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 1010 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "FF FF 0A 07",
                 "flagid": 7,
@@ -5286,7 +5975,8 @@
             },
             "type": "OBJS",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5302,16 +5992,19 @@
             "sizez": 4.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 35",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 0000 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF F0 F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5327,16 +6020,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 36",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5352,16 +6048,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 37",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5377,16 +6076,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 38",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5402,16 +6104,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 39",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 45"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5427,16 +6132,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3A",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 45"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5452,16 +6160,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3B",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 45"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5477,16 +6188,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3C",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5502,16 +6216,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3D",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5527,16 +6244,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3E",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 45"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5552,16 +6272,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 3F",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5577,16 +6300,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 40",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5602,16 +6328,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 41",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5627,16 +6356,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 42",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5652,16 +6384,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 43",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5677,16 +6412,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 44",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5702,16 +6440,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 45",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 45"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5727,16 +6468,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 46",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5752,16 +6496,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 47",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5777,16 +6524,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 48",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 45"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5802,16 +6552,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 49",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5827,16 +6580,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 4A",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5852,16 +6608,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 4B",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5877,16 +6636,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 4C",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5902,16 +6664,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 4D",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F0 4F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5927,16 +6692,19 @@
             "sizez": 1.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 4E",
             "name": "ClrWall",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 0000 0000 0000 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF 00 0F"
             },
             "type": "SOBJ",
             "roomid": 4,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5949,16 +6717,19 @@
             "posz": -9645.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -29695,
             "unk3": "FC 00",
             "name": "TBox",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5971,16 +6742,19 @@
             "posz": -23198.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 01",
             "name": "DoorBs",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1101 1111 1100 0010",
             "extraInfo": {
                 "first_4_bytes": "FF FF DF C2"
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -5993,10 +6767,12 @@
             "posz": -20750.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -1,
             "unk3": "FC 02",
             "name": "saveObj",
             "angle": 128,
+            "bin": "1111 1111 0000 0100 0000 0010 0100 1100",
             "extraInfo": {
                 "first_4_bytes": "FF 04 02 4C",
                 "flagid": 76,
@@ -6004,7 +6780,8 @@
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6017,10 +6794,12 @@
             "posz": -8860.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -1,
             "unk3": "FC 03",
             "name": "saveObj",
             "angle": 0,
+            "bin": "1111 1111 0000 0100 0000 0010 0101 0110",
             "extraInfo": {
                 "first_4_bytes": "FF 04 02 56",
                 "flagid": 86,
@@ -6028,7 +6807,8 @@
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6041,16 +6821,19 @@
             "posz": -12150.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -27644,
             "unk3": "FC 04",
             "name": "TBox",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -9,
@@ -6063,16 +6846,19 @@
             "posz": -9400.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "ShtCS",
             "angle": 192,
+            "bin": "1111 0111 1111 1111 1111 1100 0010 0100",
             "extraInfo": {
                 "first_4_bytes": "F7 FF FC 24"
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -9,
@@ -6085,16 +6871,19 @@
             "posz": -7850.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "ShtCS",
             "angle": 128,
+            "bin": "1111 0111 1111 1111 1111 1100 0010 0000",
             "extraInfo": {
                 "first_4_bytes": "F7 FF FC 20"
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -9,
@@ -6107,16 +6896,19 @@
             "posz": -8650.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "ShtCS",
             "angle": 64,
+            "bin": "1111 0111 1111 1111 1111 1100 0010 0000",
             "extraInfo": {
                 "first_4_bytes": "F7 FF FC 20"
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6129,10 +6921,12 @@
             "posz": -22800.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -1,
             "unk3": "FC 08",
             "name": "saveObj",
             "angle": 0,
+            "bin": "1111 1111 0000 0100 0000 0010 0101 0111",
             "extraInfo": {
                 "first_4_bytes": "FF 04 02 57",
                 "flagid": 87,
@@ -6140,7 +6934,8 @@
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6153,16 +6948,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 09",
             "name": "ObjBg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1110 0000 0101 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 50"
             },
             "type": "OBJS",
             "roomid": 5,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -64,
@@ -6175,16 +6973,19 @@
             "posz": -9875.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 00",
             "name": "PushBlk",
             "angle": 0,
+            "bin": "1100 0000 0010 0101 1001 0000 0001 0000",
             "extraInfo": {
                 "first_4_bytes": "C0 25 90 10"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -15,
@@ -6197,16 +6998,19 @@
             "posz": -8647.7275390625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 02",
             "name": "EAm",
             "angle": 192,
+            "bin": "1111 0001 0010 0000 1100 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "F1 20 CF FF"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -24,
@@ -6219,16 +7023,19 @@
             "posz": -8597.705078125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "EHydra",
             "angle": 0,
+            "bin": "1110 1000 1101 0000 0101 0000 0011 1111",
             "extraInfo": {
                 "first_4_bytes": "E8 D0 50 3F"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6241,16 +7048,19 @@
             "posz": -9420.3779296875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "EKg",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6263,16 +7073,19 @@
             "posz": -9413.888671875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "EKg",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6285,16 +7098,19 @@
             "posz": -9251.619140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "EKg",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6307,16 +7123,19 @@
             "posz": -8563.6005859375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 08",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6329,16 +7148,19 @@
             "posz": -8570.0908203125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 09",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6351,16 +7173,19 @@
             "posz": -8401.330078125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 0A",
             "name": "EKg",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF F8 FF"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -23,
@@ -6373,16 +7198,19 @@
             "posz": -8597.705078125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0B",
             "name": "EHydra",
             "angle": 0,
+            "bin": "1110 1001 0001 0000 0101 0000 0011 1111",
             "extraInfo": {
                 "first_4_bytes": "E9 10 50 3F"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6395,16 +7223,19 @@
             "posz": -7595.3828125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 0E",
             "name": "AncJwls",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 01"
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6417,10 +7248,12 @@
             "posz": -9815.875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0F",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1010 0101 0111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FA 57 F0",
                 "flagid": -1,
@@ -6428,7 +7261,8 @@
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6441,10 +7275,12 @@
             "posz": -9668.56640625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "Barrel",
             "angle": 0,
+            "bin": "1111 1111 1111 1010 0110 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FA 6F F0",
                 "flagid": -1,
@@ -6452,7 +7288,8 @@
             },
             "type": "OBJ ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6465,16 +7302,19 @@
             "posz": -11400.0,
             "event_flag": -1,
             "transition_type": 22,
+            "unk2": "00 00",
             "talk_behaviour": -30158,
             "unk3": "FC 01",
             "name": "TBox",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -4,
@@ -6487,16 +7327,19 @@
             "posz": -11000.0,
             "event_flag": 3,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -216,
             "unk3": "FC 03",
             "name": "Fence",
             "angle": 0,
+            "bin": "1111 1100 1111 1111 0001 0010 1000 0001",
             "extraInfo": {
                 "first_4_bytes": "FC FF 12 81"
             },
             "type": "OBJS",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6509,16 +7352,19 @@
             "posz": -7250.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -1,
             "unk3": "FC 0C",
             "name": "Fence",
             "angle": 128,
+            "bin": "1111 1111 0001 1010 0001 0010 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "FF 1A 12 00"
             },
             "type": "OBJS",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -9,
@@ -6531,16 +7377,19 @@
             "posz": -8650.0,
             "event_flag": 40,
             "transition_type": 4,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 0D",
             "name": "ShtCS",
             "angle": 192,
+            "bin": "1111 0111 1111 1000 0100 1000 0010 0000",
             "extraInfo": {
                 "first_4_bytes": "F7 F8 48 20"
             },
             "type": "OBJS",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6553,16 +7402,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1F",
             "name": "ObjBg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1110 0000 0110 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 60"
             },
             "type": "OBJS",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6578,16 +7430,19 @@
             "sizez": 2.5,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 0000 0001 0000 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF F0 10 FF"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6603,16 +7458,19 @@
             "sizez": 3.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 12",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 0000 0010 0000 0100 1111",
             "extraInfo": {
                 "first_4_bytes": "FF F0 20 4F"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6628,16 +7486,19 @@
             "sizez": 3.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 13",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6653,16 +7514,19 @@
             "sizez": 3.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 14",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6678,16 +7542,19 @@
             "sizez": 3.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 15",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6703,16 +7570,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 16",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6728,16 +7598,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 17",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6753,16 +7626,19 @@
             "sizez": 2.5,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 18",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6778,16 +7654,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 19",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6803,16 +7682,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1A",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6828,16 +7710,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1B",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6853,16 +7738,19 @@
             "sizez": 2.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1C",
             "name": "vmSand",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F5"
             },
             "type": "SOBJ",
             "roomid": 6,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6875,16 +7763,19 @@
             "posz": -19995.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -28156,
             "unk3": "FC 00",
             "name": "TBox",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 7,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6897,16 +7788,19 @@
             "posz": -18806.529296875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 01",
             "name": "ODesert",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1110 0101",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF E5"
             },
             "type": "OBJS",
             "roomid": 7,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6919,16 +7813,19 @@
             "posz": -25800.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -29153,
             "unk3": "FC 00",
             "name": "TBox",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 8,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6941,16 +7838,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 01",
             "name": "ObjBg",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1110 0000 1000 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF E0 80"
             },
             "type": "OBJS",
             "roomid": 8,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         },
         {
             "byte1": -1,
@@ -6963,16 +7863,19 @@
             "posz": -13095.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": -28608,
             "unk3": "FC 00",
             "name": "TBox",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 9,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "D300"
         }
     ]
 });

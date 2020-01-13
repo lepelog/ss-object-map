@@ -35,16 +35,27 @@
             "posz": 12525.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -15435,
             "unk3": "FC 03",
             "name": "NpcOim",
             "angle": 128,
+            "bin": "0001 0001 1111 1111 1111 1100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "11 FF FC FF"
+                "first_4_bytes": "11 FF FC FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 143,
+                "trigstoryf": "-",
+                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 16,
@@ -57,16 +68,27 @@
             "posz": 9268.267578125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "F6 C2",
             "talk_behaviour": -15430,
             "unk3": "FC 04",
             "name": "NpcOim",
             "angle": -15626,
+            "bin": "0001 0000 1000 0001 0001 1101 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "10 81 1D FF"
+                "first_4_bytes": "10 81 1D FF",
+                "trigstoryfid": 71,
+                "untrigstoryfid": 132,
+                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                "untrigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -79,16 +101,19 @@
             "posz": 10531.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "FrmLand",
             "angle": 0,
+            "bin": "1111 1111 0010 0110 0010 0101 0000 0011",
             "extraInfo": {
                 "first_4_bytes": "FF 26 25 03"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -101,16 +126,19 @@
             "posz": 10550.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "FrtTree",
             "angle": 0,
+            "bin": "1111 1111 0011 0100 0010 0101 0000 0001",
             "extraInfo": {
                 "first_4_bytes": "FF 34 25 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 25,
@@ -123,16 +151,27 @@
             "posz": 9220.3251953125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "E8 89",
             "talk_behaviour": -15427,
             "unk3": "FC 07",
             "name": "NpcOim",
             "angle": -30232,
+            "bin": "0001 1001 0000 0101 0111 1001 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "19 05 79 FF"
+                "first_4_bytes": "19 05 79 FF",
+                "trigstoryfid": 350,
+                "untrigstoryfid": 200,
+                "trigstoryf": "True Master Sword Cutscene",
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 2,
@@ -145,16 +184,27 @@
             "posz": 9268.267578125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "89 F5",
             "talk_behaviour": -15425,
             "unk3": "FC 08",
             "name": "NpcOim",
             "angle": -2679,
+            "bin": "0000 0010 0000 0010 0001 0101 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "02 02 15 FF"
+                "first_4_bytes": "02 02 15 FF",
+                "trigstoryfid": 133,
+                "untrigstoryfid": 16,
+                "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 42,
@@ -167,16 +217,27 @@
             "posz": 12525.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -15424,
             "unk3": "FC 09",
             "name": "NpcOim",
             "angle": 128,
+            "bin": "0010 1010 1100 0000 0100 0000 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "2A C0 40 FF"
+                "first_4_bytes": "2A C0 40 FF",
+                "trigstoryfid": 16,
+                "untrigstoryfid": 342,
+                "trigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -189,16 +250,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0A",
             "name": "ShriIns",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 43,
@@ -211,16 +275,27 @@
             "posz": 9268.267578125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "89 F5",
             "talk_behaviour": -15430,
             "unk3": "FC 0B",
             "name": "NpcOim",
             "angle": -2679,
+            "bin": "0010 1011 1100 0010 0001 0001 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "2B C2 11 FF"
+                "first_4_bytes": "2B C2 11 FF",
+                "trigstoryfid": 132,
+                "untrigstoryfid": 350,
+                "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
+                "untrigstoryf": "True Master Sword Cutscene",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -233,16 +308,27 @@
             "posz": 10408.1513671875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "NpcInv",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -255,16 +341,27 @@
             "posz": 9211.80859375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "E8 89",
             "talk_behaviour": -15414,
             "unk3": "FC 0E",
             "name": "NpcOim",
             "angle": -30232,
+            "bin": "1111 1111 1110 0101 0101 1001 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF E5 59 FF"
+                "first_4_bytes": "FF E5 59 FF",
+                "trigstoryfid": 342,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -277,16 +374,27 @@
             "posz": 9702.9619140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -15412,
             "unk3": "FC 0F",
             "name": "NpcStr",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0001 0100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF 14 FF"
+                "first_4_bytes": "FF FF 14 FF",
+                "trigstoryfid": 1989,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -299,10 +407,12 @@
             "posz": 12421.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 10",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -310,7 +420,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -323,10 +434,12 @@
             "posz": 12315.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 11",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -334,7 +447,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -347,10 +461,12 @@
             "posz": 12699.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 12",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -358,7 +474,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -371,10 +488,12 @@
             "posz": 12421.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 13",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -382,7 +501,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -395,10 +515,12 @@
             "posz": 12315.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 14",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -406,7 +528,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -419,10 +542,12 @@
             "posz": 12583.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 15",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -430,7 +555,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -443,10 +569,12 @@
             "posz": 12769.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 16",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -454,7 +582,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 16,
@@ -467,16 +596,27 @@
             "posz": 8559.7734375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "BC 72",
             "talk_behaviour": -15427,
             "unk3": "FC 17",
             "name": "NpcOim",
             "angle": 29372,
+            "bin": "0001 0000 1010 0011 0010 0001 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "10 A3 21 FF"
+                "first_4_bytes": "10 A3 21 FF",
+                "trigstoryfid": 200,
+                "untrigstoryfid": 133,
+                "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "untrigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -489,10 +629,12 @@
             "posz": 12689.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 18",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -500,7 +642,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -513,16 +656,19 @@
             "posz": 9603.6005859375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 19",
             "name": "Char",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -535,16 +681,19 @@
             "posz": 12653.4560546875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "3F 49",
             "talk_behaviour": 0,
             "unk3": "FC 1A",
             "name": "Char",
             "angle": 18751,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -557,16 +706,27 @@
             "posz": 12656.0869140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -15411,
             "unk3": "FC 1B",
             "name": "NpcStr",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0001 0100 0000 1110",
             "extraInfo": {
-                "first_4_bytes": "FF FF 14 0E"
+                "first_4_bytes": "FF FF 14 0E",
+                "trigstoryfid": 1989,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -579,10 +739,12 @@
             "posz": 10408.4453125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1C",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -590,7 +752,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -603,10 +766,12 @@
             "posz": 10308.099609375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1D",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -614,7 +779,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -627,10 +793,12 @@
             "posz": 11334.2978515625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1E",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -638,7 +806,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -651,10 +820,12 @@
             "posz": 11297.4541015625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 1F",
             "name": "Tubo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0",
                 "flagid": -1,
@@ -662,7 +833,8 @@
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 43,
@@ -675,16 +847,27 @@
             "posz": 9702.9619140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -15412,
             "unk3": "FC 20",
             "name": "NpcStr",
             "angle": 0,
+            "bin": "0010 1011 1101 1111 0001 0100 0000 0100",
             "extraInfo": {
-                "first_4_bytes": "2B DF 14 04"
+                "first_4_bytes": "2B DF 14 04",
+                "trigstoryfid": 1989,
+                "untrigstoryfid": 350,
+                "trigstoryf": "-",
+                "untrigstoryf": "True Master Sword Cutscene",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 2,
@@ -697,16 +880,27 @@
             "posz": 12656.0869140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -15411,
             "unk3": "FC 21",
             "name": "NpcStr",
             "angle": 0,
+            "bin": "0000 0010 0001 1111 0001 0100 0000 1110",
             "extraInfo": {
-                "first_4_bytes": "02 1F 14 0E"
+                "first_4_bytes": "02 1F 14 0E",
+                "trigstoryfid": 1989,
+                "untrigstoryfid": 16,
+                "trigstoryf": "-",
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 25,
@@ -719,16 +913,27 @@
             "posz": 9702.9619140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -15412,
             "unk3": "FC 22",
             "name": "NpcStr",
             "angle": 0,
+            "bin": "0001 1001 0001 1111 0001 0100 0000 0100",
             "extraInfo": {
-                "first_4_bytes": "19 1F 14 04"
+                "first_4_bytes": "19 1F 14 04",
+                "trigstoryfid": 1989,
+                "untrigstoryfid": 200,
+                "trigstoryf": "-",
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 2,
@@ -741,16 +946,27 @@
             "posz": 9702.9619140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -15412,
             "unk3": "FC 23",
             "name": "NpcStr",
             "angle": 0,
+            "bin": "0000 0010 0001 1111 0001 0100 0000 0100",
             "extraInfo": {
-                "first_4_bytes": "02 1F 14 04"
+                "first_4_bytes": "02 1F 14 04",
+                "trigstoryfid": 1989,
+                "untrigstoryfid": 16,
+                "trigstoryf": "-",
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 2,
@@ -763,16 +979,27 @@
             "posz": 9702.9619140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -15412,
             "unk3": "FC 24",
             "name": "NpcStr",
             "angle": 0,
+            "bin": "0000 0010 1001 1111 0001 0100 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "02 9F 14 FF"
+                "first_4_bytes": "02 9F 14 FF",
+                "trigstoryfid": 1989,
+                "untrigstoryfid": 20,
+                "trigstoryf": "-",
+                "untrigstoryf": "Set when learning 3rd SotH part (Groosenator to Lanayru ready)",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 8,
@@ -785,16 +1012,27 @@
             "posz": 9214.6806640625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "CF A5",
             "talk_behaviour": -15430,
             "unk3": "FC 28",
             "name": "NpcOim",
             "angle": -23089,
+            "bin": "0000 1000 1110 0010 0000 1101 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "08 E2 0D FF"
+                "first_4_bytes": "08 E2 0D FF",
+                "trigstoryfid": 131,
+                "untrigstoryfid": 71,
+                "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                "untrigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -15,
@@ -807,16 +1045,19 @@
             "posz": 11500.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "D5 56",
             "talk_behaviour": 0,
             "unk3": "FC 34",
             "name": "GodCube",
             "angle": 22229,
+            "bin": "1111 0001 1111 1111 0000 0000 1111 1010",
             "extraInfo": {
                 "first_4_bytes": "F1 FF 00 FA"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -15,
@@ -829,16 +1070,19 @@
             "posz": 11500.0,
             "event_flag": 14,
             "transition_type": 56,
+            "unk2": "C7 1D",
             "talk_behaviour": -1456,
             "unk3": "FC 35",
             "name": "GodCube",
             "angle": 7623,
+            "bin": "1111 0001 1111 1111 0000 0000 1110 0111",
             "extraInfo": {
                 "first_4_bytes": "F1 FF 00 E7"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -15,
@@ -851,16 +1095,19 @@
             "posz": 11500.0,
             "event_flag": -15,
             "transition_type": -56,
+            "unk2": "DD DE",
             "talk_behaviour": 910,
             "unk3": "FC 36",
             "name": "GodCube",
             "angle": -8483,
+            "bin": "1111 0001 1111 1111 0000 0000 1110 1100",
             "extraInfo": {
                 "first_4_bytes": "F1 FF 00 EC"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -15,
@@ -873,16 +1120,19 @@
             "posz": 11500.0,
             "event_flag": -2,
             "transition_type": -108,
+            "unk2": "CD 28",
             "talk_behaviour": -364,
             "unk3": "FC 37",
             "name": "GodCube",
             "angle": 10445,
+            "bin": "1111 0001 1111 1111 0000 0000 1111 0001",
             "extraInfo": {
                 "first_4_bytes": "F1 FF 00 F1"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -15,
@@ -895,16 +1145,19 @@
             "posz": 11500.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "15 55",
             "talk_behaviour": 0,
             "unk3": "FC 38",
             "name": "GodCube",
             "angle": 21781,
+            "bin": "1111 0001 1111 1111 0000 0000 1110 0011",
             "extraInfo": {
                 "first_4_bytes": "F1 FF 00 E3"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -15,
@@ -917,16 +1170,19 @@
             "posz": 11500.0,
             "event_flag": -8,
             "transition_type": -28,
+            "unk2": "0A AA",
             "talk_behaviour": -910,
             "unk3": "FC 39",
             "name": "GodCube",
             "angle": -22006,
+            "bin": "1111 0001 1111 1111 0000 0000 1110 0100",
             "extraInfo": {
                 "first_4_bytes": "F1 FF 00 E4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -15,
@@ -939,16 +1195,19 @@
             "posz": 11500.0,
             "event_flag": -4,
             "transition_type": 114,
+            "unk2": "20 00",
             "talk_behaviour": -910,
             "unk3": "FC 3A",
             "name": "GodCube",
             "angle": 32,
+            "bin": "1111 0001 1111 1111 0000 0000 1111 0100",
             "extraInfo": {
                 "first_4_bytes": "F1 FF 00 F4"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -15,
@@ -961,16 +1220,19 @@
             "posz": 11500.0,
             "event_flag": -4,
             "transition_type": 114,
+            "unk2": "EE B9",
             "talk_behaviour": -910,
             "unk3": "FC 3B",
             "name": "GodCube",
             "angle": -17938,
+            "bin": "1111 0001 1111 1111 0000 0000 1111 1001",
             "extraInfo": {
                 "first_4_bytes": "F1 FF 00 F9"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -15,
@@ -983,16 +1245,19 @@
             "posz": 11500.0,
             "event_flag": -4,
             "transition_type": 114,
+            "unk2": "EA AB",
             "talk_behaviour": -1820,
             "unk3": "FC 3C",
             "name": "GodCube",
             "angle": -21526,
+            "bin": "1111 0001 1111 1111 0000 0000 1111 1110",
             "extraInfo": {
                 "first_4_bytes": "F1 FF 00 FE"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -1005,16 +1270,19 @@
             "posz": 10341.0,
             "event_flag": 23,
             "transition_type": 1,
+            "unk2": "40 00",
             "talk_behaviour": 32,
             "unk3": "FC 00",
             "name": "Door",
             "angle": 64,
+            "bin": "0000 0000 0000 0000 0000 0001 0000 0100",
             "extraInfo": {
                 "first_4_bytes": "00 00 01 04"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -1027,16 +1295,19 @@
             "posz": 10499.0,
             "event_flag": 23,
             "transition_type": 1,
+            "unk2": "C0 00",
             "talk_behaviour": 32,
             "unk3": "FC 01",
             "name": "Door",
             "angle": 192,
+            "bin": "0000 0000 0000 0000 0000 0001 0000 0100",
             "extraInfo": {
                 "first_4_bytes": "00 00 01 04"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1049,10 +1320,12 @@
             "posz": 10420.0068359375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "C0 00",
             "talk_behaviour": -1,
             "unk3": "FC 02",
             "name": "saveObj",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 0000 0000 0010 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF 00 20",
                 "flagid": 32,
@@ -1060,7 +1333,8 @@
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1073,16 +1347,19 @@
             "posz": 12500.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -32642,
             "unk3": "FC 0D",
             "name": "TBox",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 1,
@@ -1095,10 +1372,12 @@
             "posz": 6279.25146484375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "37 77",
             "talk_behaviour": -1,
             "unk3": "FC 25",
             "name": "saveObj",
             "angle": 30519,
+            "bin": "0000 0001 0000 0101 0000 0001 0001 1111",
             "extraInfo": {
                 "first_4_bytes": "01 05 01 1F",
                 "flagid": 31,
@@ -1106,7 +1385,8 @@
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -1119,16 +1399,19 @@
             "posz": 10341.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 2048,
             "unk3": "FC 26",
             "name": "Door",
             "angle": 64,
+            "bin": "0000 0000 0000 0000 0000 0001 0000 0100",
             "extraInfo": {
                 "first_4_bytes": "00 00 01 04"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -1141,16 +1424,19 @@
             "posz": 10499.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 2048,
             "unk3": "FC 27",
             "name": "Door",
             "angle": 192,
+            "bin": "0000 0000 0000 0000 0000 0001 0000 0100",
             "extraInfo": {
                 "first_4_bytes": "00 00 01 04"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 1,
@@ -1163,10 +1449,12 @@
             "posz": 153.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "45 B0",
             "talk_behaviour": -1,
             "unk3": "FC 29",
             "name": "saveObj",
             "angle": -20411,
+            "bin": "0000 0001 0001 0011 0000 0001 0010 0011",
             "extraInfo": {
                 "first_4_bytes": "01 13 01 23",
                 "flagid": 35,
@@ -1174,7 +1462,8 @@
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1190,16 +1479,19 @@
             "sizez": 0.5,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 6433,
             "unk3": "00 2A",
             "name": "Light00",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 00"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1215,16 +1507,19 @@
             "sizez": 0.5,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "00 2B",
             "name": "Light00",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 00"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1240,16 +1535,19 @@
             "sizez": 0.5,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 6433,
             "unk3": "00 2C",
             "name": "Light00",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 00"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1265,16 +1563,19 @@
             "sizez": 0.5,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 6433,
             "unk3": "00 2D",
             "name": "Light00",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF 00"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 31,
@@ -1290,10 +1591,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 41",
             "name": "TgReact",
             "angle": 128,
+            "bin": "0001 1111 1111 0000 0000 0000 1001 1011",
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 9B",
                 "flagid": -101,
@@ -1301,7 +1604,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 31,
@@ -1317,10 +1621,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 42",
             "name": "TgReact",
             "angle": 64,
+            "bin": "0001 1111 1111 0000 0000 0000 1001 1100",
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 9C",
                 "flagid": -100,
@@ -1328,7 +1634,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 31,
@@ -1344,10 +1651,12 @@
             "sizez": 1.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 43",
             "name": "TgReact",
             "angle": 0,
+            "bin": "0001 1111 1111 0000 0000 0000 1001 1101",
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 9D",
                 "flagid": -99,
@@ -1355,7 +1664,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 47,
@@ -1371,10 +1681,12 @@
             "sizez": 0.5,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 44",
             "name": "TgReact",
             "angle": 192,
+            "bin": "0010 1111 1111 0000 0000 0000 1001 1110",
             "extraInfo": {
                 "first_4_bytes": "2F F0 00 9E",
                 "flagid": -98,
@@ -1382,7 +1694,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 47,
@@ -1398,10 +1711,12 @@
             "sizez": 0.5,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 45",
             "name": "TgReact",
             "angle": 192,
+            "bin": "0010 1111 1111 0000 0000 0000 1001 1111",
             "extraInfo": {
                 "first_4_bytes": "2F F0 00 9F",
                 "flagid": -97,
@@ -1409,7 +1724,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 47,
@@ -1425,10 +1741,12 @@
             "sizez": 0.5,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 46",
             "name": "TgReact",
             "angle": 64,
+            "bin": "0010 1111 1111 0000 0000 0000 1010 0000",
             "extraInfo": {
                 "first_4_bytes": "2F F0 00 A0",
                 "flagid": -96,
@@ -1436,7 +1754,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": 47,
@@ -1452,10 +1771,12 @@
             "sizez": 0.5,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 47",
             "name": "TgReact",
             "angle": 64,
+            "bin": "0010 1111 1111 0000 0000 0000 1010 0001",
             "extraInfo": {
                 "first_4_bytes": "2F F0 00 A1",
                 "flagid": -95,
@@ -1463,7 +1784,8 @@
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1479,16 +1801,19 @@
             "sizez": 3.240000009536743,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 48",
             "name": "WoodTg2",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0"
             },
             "type": "SOBJ",
             "roomid": 2,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1501,16 +1826,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 4A",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1523,16 +1851,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4B",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F402"
         },
         {
             "byte1": 16,
@@ -1545,16 +1876,27 @@
             "posz": 12881.7587890625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "FF 08",
             "talk_behaviour": -15417,
             "unk3": "FC 4C",
             "name": "NpcTke",
             "angle": 2303,
+            "bin": "0001 0000 0101 1111 1111 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "10 5F FF 10"
+                "first_4_bytes": "10 5F FF 10",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 130,
+                "trigstoryf": "-",
+                "untrigstoryf": "Meeting Impa cutscene",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1567,16 +1909,19 @@
             "posz": 15140.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 4D",
             "name": "Amber",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -1589,16 +1934,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 49",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1611,16 +1959,27 @@
             "posz": 12543.908203125,
             "event_flag": 107,
             "transition_type": -1,
+            "unk2": "FF 09",
             "talk_behaviour": -15410,
             "unk3": "FC 49",
             "name": "NpcTke",
             "angle": 2559,
+            "bin": "1111 1111 1110 0101 0101 0011 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E5 53 11"
+                "first_4_bytes": "FF E5 53 11",
+                "trigstoryfid": 340,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Gate of Time raised",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 107,
+                "trigscenef": "scene flag: 0xC 08",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": 7,
@@ -1633,16 +1992,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4A",
             "name": "TDoorB",
             "angle": 128,
+            "bin": "0000 0111 1000 1010 1010 1001 0101 0100",
             "extraInfo": {
                 "first_4_bytes": "07 8A A9 54"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": 16,
@@ -1655,16 +2017,27 @@
             "posz": 12341.7119140625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "DE 94",
             "talk_behaviour": 0,
             "unk3": "FC 4B",
             "name": "NpcRvl",
             "angle": -27426,
+            "bin": "0001 0000 1110 0010 0011 0011 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "10 E2 33 FF"
+                "first_4_bytes": "10 E2 33 FF",
+                "trigstoryfid": 140,
+                "untrigstoryfid": 135,
+                "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                "untrigstoryf": "Groose meets Impa for first time cutscene",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": 17,
@@ -1677,16 +2050,27 @@
             "posz": 12590.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "FF 03",
             "talk_behaviour": -15431,
             "unk3": "FC 4C",
             "name": "NpcTke",
             "angle": 1023,
+            "bin": "0001 0001 1100 0010 0101 0111 0001 0011",
             "extraInfo": {
-                "first_4_bytes": "11 C2 57 13"
+                "first_4_bytes": "11 C2 57 13",
+                "trigstoryfid": 149,
+                "untrigstoryfid": 142,
+                "trigstoryf": "Post Imp 1 defeat cutscene",
+                "untrigstoryf": "Talk to Headmaster to learn about Windmills",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": 17,
@@ -1699,16 +2083,27 @@
             "posz": 12026.27734375,
             "event_flag": -1,
             "transition_type": 21,
+            "unk2": "FF 01",
             "talk_behaviour": -15433,
             "unk3": "FC 4E",
             "name": "NpcTke",
             "angle": 511,
+            "bin": "0001 0001 1011 1111 1111 1111 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "11 BF FF 01"
+                "first_4_bytes": "11 BF FF 01",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 141,
+                "trigstoryf": "-",
+                "untrigstoryf": "Ballad of the Goddess played with Impa (Sealed Grounds layer 2)",
+                "trigscenefid": 21,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x3 20"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1721,16 +2116,27 @@
             "posz": 12338.84375,
             "event_flag": 28,
             "transition_type": -1,
+            "unk2": "FF 00",
             "talk_behaviour": -15434,
             "unk3": "FC 4F",
             "name": "NpcTke",
             "angle": 255,
+            "bin": "1111 1111 1110 0010 0011 0011 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E2 33 11"
+                "first_4_bytes": "FF E2 33 11",
+                "trigstoryfid": 140,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 28,
+                "trigscenef": "scene flag: 0x2 10",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1743,16 +2149,19 @@
             "posz": 11014.240234375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 50",
             "name": "SwHrp",
             "angle": 0,
+            "bin": "1111 1111 0001 1101 0000 0001 0001 0101",
             "extraInfo": {
                 "first_4_bytes": "FF 1D 01 15"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1765,16 +2174,19 @@
             "posz": 12254.744140625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 51",
             "name": "SwHrp",
             "angle": 0,
+            "bin": "1111 1111 0001 1100 0000 0011 0001 1101",
             "extraInfo": {
                 "first_4_bytes": "FF 1C 03 1D"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1787,16 +2199,27 @@
             "posz": 12338.84375,
             "event_flag": 28,
             "transition_type": -1,
+            "unk2": "FF 04",
             "talk_behaviour": -15421,
             "unk3": "FC 52",
             "name": "NpcTke",
             "angle": 1279,
+            "bin": "1111 1111 1110 0010 0011 0011 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E2 33 11"
+                "first_4_bytes": "FF E2 33 11",
+                "trigstoryfid": 140,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 28,
+                "trigscenef": "scene flag: 0x2 10",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1809,16 +2232,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 54",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1831,16 +2257,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 55",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1853,16 +2282,19 @@
             "posz": 15140.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 56",
             "name": "Amber",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": 16,
@@ -1875,16 +2307,27 @@
             "posz": 12111.7041015625,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "DE 94",
             "talk_behaviour": 0,
             "unk3": "FC 57",
             "name": "NpcInv",
             "angle": -27426,
+            "bin": "0001 0000 1110 0010 0011 0011 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "10 E2 33 FF"
+                "first_4_bytes": "10 E2 33 FF",
+                "trigstoryfid": 140,
+                "untrigstoryfid": 135,
+                "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                "untrigstoryf": "Groose meets Impa for first time cutscene",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": 1,
@@ -1897,16 +2340,19 @@
             "posz": 10876.9677734375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -326,
             "unk3": "FC 4D",
             "name": "TBox",
             "angle": 128,
+            "bin": "0000 0001 0101 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "01 5F FF F3"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -1919,16 +2365,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 53",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1941,16 +2390,19 @@
             "posz": 15140.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 49",
             "name": "Amber",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": 18,
@@ -1963,16 +2415,27 @@
             "posz": 9387.314453125,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "E7 1D",
             "talk_behaviour": -15429,
             "unk3": "FC 4A",
             "name": "NpcRvl",
             "angle": 7655,
+            "bin": "0001 0010 0000 0000 0011 0111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "12 00 37 FF"
+                "first_4_bytes": "12 00 37 FF",
+                "trigstoryfid": 13,
+                "untrigstoryfid": 144,
+                "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                "untrigstoryf": "Imp 2 fight triggered (set when Groose opens door inside temple)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -1985,16 +2448,27 @@
             "posz": 9472.3759765625,
             "event_flag": 57,
             "transition_type": 30,
+            "unk2": "FF FF",
             "talk_behaviour": -15428,
             "unk3": "FC 4B",
             "name": "NpcTke",
             "angle": -1,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF 01"
+                "first_4_bytes": "FF FF FF 01",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": 30,
+                "untrigscenefid": 57,
+                "trigscenef": "scene flag: 0x6 02",
+                "untrigscenef": "scene flag: 0x2 40"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2007,16 +2481,27 @@
             "posz": 9152.77734375,
             "event_flag": 80,
             "transition_type": -1,
+            "unk2": "FF 07",
             "talk_behaviour": -15419,
             "unk3": "FC 4C",
             "name": "NpcTke",
             "angle": 2047,
+            "bin": "1111 1111 1110 0000 0011 0111 0000 0000",
             "extraInfo": {
-                "first_4_bytes": "FF E0 37 00"
+                "first_4_bytes": "FF E0 37 00",
+                "trigstoryfid": 13,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 80,
+                "trigscenef": "scene flag: 0xB 01",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2029,16 +2514,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 4E",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2051,16 +2539,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4F",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": 7,
@@ -2073,16 +2564,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 50",
             "name": "TDoorB",
             "angle": 128,
+            "bin": "0000 0111 1000 1010 1010 1001 0101 0100",
             "extraInfo": {
                 "first_4_bytes": "07 8A A9 54"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2095,16 +2589,27 @@
             "posz": 10234.3203125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 51",
             "name": "NpcInv",
             "angle": 0,
+            "bin": "1111 1111 1110 0000 0011 0111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF E0 37 FF"
+                "first_4_bytes": "FF E0 37 FF",
+                "trigstoryfid": 13,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                "untrigstoryf": "-",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": 99,
@@ -2117,16 +2622,27 @@
             "posz": 9472.3759765625,
             "event_flag": -1,
             "transition_type": 30,
+            "unk2": "FF FF",
             "talk_behaviour": -15428,
             "unk3": "FC 52",
             "name": "NpcTke",
             "angle": -1,
+            "bin": "0110 0011 0111 1111 1111 1111 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "63 7F FF 0D"
+                "first_4_bytes": "63 7F FF 0D",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 795,
+                "trigstoryf": "-",
+                "untrigstoryf": "Imp 1 defeat related",
+                "trigscenefid": 30,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x2 40"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -2139,16 +2655,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 4D",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2161,16 +2680,19 @@
             "posz": 15140.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 49",
             "name": "Amber",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2183,16 +2705,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4A",
             "name": "TDoor",
             "angle": 128,
+            "bin": "1111 1111 1110 0000 0010 1001 0101 0101",
             "extraInfo": {
                 "first_4_bytes": "FF E0 29 55"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": 43,
@@ -2205,16 +2730,27 @@
             "posz": 9207.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "9D 28",
             "talk_behaviour": -15422,
             "unk3": "FC 4B",
             "name": "NpcRvl",
             "angle": 10397,
+            "bin": "0010 1011 1100 0010 0001 0011 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "2B C2 13 FF"
+                "first_4_bytes": "2B C2 13 FF",
+                "trigstoryfid": 132,
+                "untrigstoryfid": 350,
+                "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
+                "untrigstoryf": "True Master Sword Cutscene",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2227,16 +2763,27 @@
             "posz": 9595.5263671875,
             "event_flag": 70,
             "transition_type": -1,
+            "unk2": "FF 04",
             "talk_behaviour": -15426,
             "unk3": "FC 4C",
             "name": "NpcTke",
             "angle": 1279,
+            "bin": "1111 1111 1110 0010 0001 0011 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E2 13 11"
+                "first_4_bytes": "FF E2 13 11",
+                "trigstoryfid": 132,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 70,
+                "trigscenef": "scene flag: 0x9 40",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2249,16 +2796,27 @@
             "posz": 9595.5263671875,
             "event_flag": 70,
             "transition_type": -1,
+            "unk2": "FF 00",
             "talk_behaviour": -15420,
             "unk3": "FC 4D",
             "name": "NpcTke",
             "angle": 255,
+            "bin": "1111 1111 1110 0010 0001 0011 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E2 13 11"
+                "first_4_bytes": "FF E2 13 11",
+                "trigstoryfid": 132,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 70,
+                "trigscenef": "scene flag: 0x9 40",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": 25,
@@ -2271,16 +2829,27 @@
             "posz": 10182.6875,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "20 B6",
             "talk_behaviour": -15422,
             "unk3": "FC 4E",
             "name": "NpcRvl",
             "angle": -18912,
+            "bin": "0001 1001 0000 0101 0111 1011 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "19 05 7B FF"
+                "first_4_bytes": "19 05 7B FF",
+                "trigstoryfid": 350,
+                "untrigstoryfid": 200,
+                "trigstoryf": "True Master Sword Cutscene",
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": 18,
@@ -2293,16 +2862,27 @@
             "posz": 9599.6962890625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "FF FF",
             "talk_behaviour": -15418,
             "unk3": "FC 4F",
             "name": "NpcTke",
             "angle": -1,
+            "bin": "0001 0010 0100 0101 0111 1011 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "12 45 7B 11"
+                "first_4_bytes": "12 45 7B 11",
+                "trigstoryfid": 350,
+                "untrigstoryfid": 146,
+                "trigstoryf": "True Master Sword Cutscene",
+                "untrigstoryf": "Cutscene going back through the Gate of Time in Sealed Temple",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2315,16 +2895,27 @@
             "posz": 10534.4248046875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 50",
             "name": "NpcInv",
             "angle": 0,
+            "bin": "1111 1111 1110 0101 0111 1011 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF E5 7B FF"
+                "first_4_bytes": "FF E5 7B FF",
+                "trigstoryfid": 350,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "True Master Sword Cutscene",
+                "untrigstoryf": "-",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2337,16 +2928,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 52",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2359,16 +2953,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 53",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": 7,
@@ -2381,16 +2978,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 54",
             "name": "TDoorB",
             "angle": 128,
+            "bin": "0000 0111 1000 1010 1010 1001 0101 0100",
             "extraInfo": {
                 "first_4_bytes": "07 8A A9 54"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -2403,16 +3003,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 51",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 4
+            "layerid": 4,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2425,16 +3028,19 @@
             "posz": 15140.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 49",
             "name": "Amber",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 5
+            "layerid": 5,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2447,16 +3053,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 4B",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 5
+            "layerid": 5,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2469,16 +3078,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4C",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 5
+            "layerid": 5,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2491,16 +3103,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4D",
             "name": "TDoor",
             "angle": 128,
+            "bin": "1111 1111 1110 0000 0010 1001 0101 0101",
             "extraInfo": {
                 "first_4_bytes": "FF E0 29 55"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 5
+            "layerid": 5,
+            "stageid": "F402"
         },
         {
             "byte1": 99,
@@ -2513,16 +3128,27 @@
             "posz": 9599.6962890625,
             "event_flag": -1,
             "transition_type": 37,
+            "unk2": "FF FF",
             "talk_behaviour": -15409,
             "unk3": "FC 4E",
             "name": "NpcTke",
             "angle": -1,
+            "bin": "0110 0011 0101 1111 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "63 5F FF 11"
+                "first_4_bytes": "63 5F FF 11",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 794,
+                "trigstoryf": "-",
+                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                "trigscenefid": 37,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x5 20"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 5
+            "layerid": 5,
+            "stageid": "F402"
         },
         {
             "byte1": 99,
@@ -2535,16 +3161,27 @@
             "posz": 10366.330078125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 4F",
             "name": "NpcInv",
             "angle": 0,
+            "bin": "0110 0011 0101 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "63 5F FF FF"
+                "first_4_bytes": "63 5F FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 794,
+                "trigstoryf": "-",
+                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 5
+            "layerid": 5,
+            "stageid": "F402"
         },
         {
             "byte1": 99,
@@ -2557,16 +3194,27 @@
             "posz": 9762.7451171875,
             "event_flag": -1,
             "transition_type": 38,
+            "unk2": "0C 0A",
             "talk_behaviour": -15408,
             "unk3": "FC 50",
             "name": "NpcTke",
             "angle": 2572,
+            "bin": "0110 0011 0101 1111 1111 1111 0000 1011",
             "extraInfo": {
-                "first_4_bytes": "63 5F FF 0B"
+                "first_4_bytes": "63 5F FF 0B",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 794,
+                "trigstoryf": "-",
+                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                "trigscenefid": 38,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x5 40"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 5
+            "layerid": 5,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -2579,16 +3227,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 4A",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 5
+            "layerid": 5,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2601,16 +3252,19 @@
             "posz": 15140.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 49",
             "name": "Amber",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2623,16 +3277,27 @@
             "posz": 9599.16796875,
             "event_flag": 71,
             "transition_type": -1,
+            "unk2": "FF 04",
             "talk_behaviour": -15416,
             "unk3": "FC 4A",
             "name": "NpcTke",
             "angle": 1279,
+            "bin": "1111 1111 1110 0010 0001 0111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E2 17 11"
+                "first_4_bytes": "FF E2 17 11",
+                "trigstoryfid": 133,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 71,
+                "trigscenef": "scene flag: 0x9 80",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2645,16 +3310,27 @@
             "posz": 9595.068359375,
             "event_flag": 71,
             "transition_type": -1,
+            "unk2": "FF 00",
             "talk_behaviour": -15415,
             "unk3": "FC 4B",
             "name": "NpcTke",
             "angle": 255,
+            "bin": "1111 1111 1110 0010 0001 0111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF E2 17 11"
+                "first_4_bytes": "FF E2 17 11",
+                "trigstoryfid": 133,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": 71,
+                "trigscenef": "scene flag: 0x9 80",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": 2,
@@ -2667,16 +3343,27 @@
             "posz": 10182.6875,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "20 B6",
             "talk_behaviour": -15422,
             "unk3": "FC 4C",
             "name": "NpcRvl",
             "angle": -18912,
+            "bin": "0000 0010 1000 0000 0100 0011 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "02 80 43 FF"
+                "first_4_bytes": "02 80 43 FF",
+                "trigstoryfid": 16,
+                "untrigstoryfid": 20,
+                "trigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "untrigstoryf": "Set when learning 3rd SotH part (Groosenator to Lanayru ready)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": 60,
@@ -2689,16 +3376,27 @@
             "posz": 9207.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "9C 72",
             "talk_behaviour": 0,
             "unk3": "FC 4D",
             "name": "NpcRvl",
             "angle": 29340,
+            "bin": "0011 1100 1010 0010 0001 0111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "3C A2 17 FF"
+                "first_4_bytes": "3C A2 17 FF",
+                "trigstoryfid": 133,
+                "untrigstoryfid": 485,
+                "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
+                "untrigstoryf": "Groose goes back to the Groosenator after defeating Imp 3",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2711,16 +3409,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 4F",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2733,16 +3434,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 50",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2755,16 +3459,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 51",
             "name": "TDoor",
             "angle": 128,
+            "bin": "1111 1111 1110 0000 0010 1001 0101 0101",
             "extraInfo": {
                 "first_4_bytes": "FF E0 29 55"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": 99,
@@ -2777,16 +3484,27 @@
             "posz": 9599.6962890625,
             "event_flag": -1,
             "transition_type": 37,
+            "unk2": "FF FF",
             "talk_behaviour": -15409,
             "unk3": "FC 52",
             "name": "NpcTke",
             "angle": -1,
+            "bin": "0110 0011 0101 1111 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "63 5F FF 11"
+                "first_4_bytes": "63 5F FF 11",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 794,
+                "trigstoryf": "-",
+                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                "trigscenefid": 37,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x5 20"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": 99,
@@ -2799,16 +3517,27 @@
             "posz": 10366.330078125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 53",
             "name": "NpcInv",
             "angle": 0,
+            "bin": "0110 0011 0101 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "63 5F FF FF"
+                "first_4_bytes": "63 5F FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 794,
+                "trigstoryf": "-",
+                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                "trigscenefid": 0,
+                "untrigscenefid": 0,
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": 99,
@@ -2821,16 +3550,27 @@
             "posz": 9762.7451171875,
             "event_flag": -1,
             "transition_type": 38,
+            "unk2": "0C 0A",
             "talk_behaviour": -15408,
             "unk3": "FC 54",
             "name": "NpcTke",
             "angle": 2572,
+            "bin": "0110 0011 0101 1111 1111 1111 0000 1011",
             "extraInfo": {
-                "first_4_bytes": "63 5F FF 0B"
+                "first_4_bytes": "63 5F FF 0B",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 794,
+                "trigstoryf": "-",
+                "untrigstoryf": "Cutscene showing off that Life Tree has grown + jingle",
+                "trigscenefid": 38,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x5 40"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": 2,
@@ -2843,16 +3583,27 @@
             "posz": 10182.6875,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "20 B6",
             "talk_behaviour": -15422,
             "unk3": "FC 55",
             "name": "NpcRvl",
             "angle": -18912,
+            "bin": "0000 0010 0000 0010 1011 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "02 02 BF FF"
+                "first_4_bytes": "02 02 BF FF",
+                "trigstoryfid": 175,
+                "untrigstoryfid": 16,
+                "trigstoryf": "Set when Goron talks about Lanayru SotH, unset when healing Thunder Dragon (Sealed Temple layer 6 / Sealed Grounds layer 3)",
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -2865,16 +3616,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 4E",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 6
+            "layerid": 6,
+            "stageid": "F402"
         },
         {
             "byte1": 60,
@@ -2887,16 +3641,27 @@
             "posz": 9198.4833984375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "D1 12",
             "talk_behaviour": -15413,
             "unk3": "FC 49",
             "name": "NpcRvl",
             "angle": 4817,
+            "bin": "0011 1100 1100 0101 0101 1011 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "3C C5 5B FF"
+                "first_4_bytes": "3C C5 5B FF",
+                "trigstoryfid": 342,
+                "untrigstoryfid": 486,
+                "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
+                "untrigstoryf": "Ghirahim 3 defeated (Hylia's Temple layer 3 / Hylia's Realm layer 3 / Sealed Grounds with Goddess Statue layer 2)",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 7
+            "layerid": 7,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2909,16 +3674,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 4B",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 7
+            "layerid": 7,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2931,16 +3699,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4C",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 7
+            "layerid": 7,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2953,16 +3724,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4D",
             "name": "TDoor",
             "angle": 128,
+            "bin": "1111 1111 1110 0000 0010 1001 0101 0101",
             "extraInfo": {
                 "first_4_bytes": "FF E0 29 55"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 7
+            "layerid": 7,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -2975,16 +3749,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 4A",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 1011 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 0B 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 7
+            "layerid": 7,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -2997,16 +3774,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 4A",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 13
+            "layerid": 13,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -3019,16 +3799,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4B",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 13
+            "layerid": 13,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -3041,16 +3824,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 49",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 13
+            "layerid": 13,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -3063,16 +3849,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 4A",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 14
+            "layerid": 14,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -3085,16 +3874,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4B",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 14
+            "layerid": 14,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -3107,16 +3899,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4C",
             "name": "TDoor",
             "angle": 128,
+            "bin": "1111 1111 1110 0000 0010 1001 0101 0101",
             "extraInfo": {
                 "first_4_bytes": "FF E0 29 55"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 14
+            "layerid": 14,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -3129,16 +3924,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 49",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 14
+            "layerid": 14,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -3151,16 +3949,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 49",
             "name": "TDoor",
             "angle": 128,
+            "bin": "1111 1111 1110 0000 0010 1001 0101 0101",
             "extraInfo": {
                 "first_4_bytes": "FF E0 29 55"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 15
+            "layerid": 15,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -3173,16 +3974,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": -546,
             "unk3": "FC 4A",
             "name": "ImpaDor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 18
+            "layerid": 18,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -3195,16 +3999,19 @@
             "posz": 12890.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4B",
             "name": "ImpaDor",
             "angle": 128,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 18
+            "layerid": 18,
+            "stageid": "F402"
         },
         {
             "byte1": 7,
@@ -3217,16 +4024,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4C",
             "name": "TDoorB",
             "angle": 128,
+            "bin": "0000 0111 1000 1010 1010 1001 0101 0100",
             "extraInfo": {
                 "first_4_bytes": "07 8A A9 54"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 18
+            "layerid": 18,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -3239,16 +4049,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 49",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 18
+            "layerid": 18,
+            "stageid": "F402"
         },
         {
             "byte1": -1,
@@ -3261,16 +4074,19 @@
             "posz": 10250.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 0,
             "unk3": "FC 4A",
             "name": "TDoor",
             "angle": 128,
+            "bin": "1111 1111 1110 0000 0010 1001 0101 0101",
             "extraInfo": {
                 "first_4_bytes": "FF E0 29 55"
             },
             "type": "OBJ ",
             "roomid": 2,
-            "layerid": 19
+            "layerid": 19,
+            "stageid": "F402"
         },
         {
             "byte1": 0,
@@ -3283,16 +4099,19 @@
             "posz": 8200.0,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 1056,
             "unk3": "FC 49",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0111",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
             "roomid": 2,
-            "layerid": 19
+            "layerid": 19,
+            "stageid": "F402"
         }
     ]
 });

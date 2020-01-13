@@ -26,16 +26,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "HeartCo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0111 1100 0111 1101",
             "extraInfo": {
                 "first_4_bytes": "FF FF 7C 7D"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -48,16 +51,19 @@
             "posz": -2288.699951171875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "SldDoor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0111 1101 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF F7 D0"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -70,16 +76,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "BGh2",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1100 0010 1111 1100",
             "extraInfo": {
                 "first_4_bytes": "FF FF C2 FC"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "B201"
         },
         {
             "byte1": 97,
@@ -92,16 +101,27 @@
             "posz": 300.0,
             "event_flag": 125,
             "transition_type": -1,
+            "unk2": "FF FF",
             "talk_behaviour": 6662,
             "unk3": "FC 08",
             "name": "NpcTke",
             "angle": -1,
+            "bin": "0110 0001 0010 1010 1101 0011 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "61 2A D3 F3"
+                "first_4_bytes": "61 2A D3 F3",
+                "trigstoryfid": 692,
+                "untrigstoryfid": 777,
+                "trigstoryf": "(not implemented yet -- 7771)",
+                "untrigstoryf": "",
+                "trigscenefid": -1,
+                "untrigscenefid": 125,
+                "trigscenef": "scene flag: 0xE 20",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -114,16 +134,19 @@
             "posz": 2350.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "DoorBs",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1100 1111 0100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF CF 44"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -136,16 +159,19 @@
             "posz": -2288.699951171875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "SldDoor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0111 1101 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF F7 D0"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -158,16 +184,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "HeartCo",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 0111 1100 0111 1101",
             "extraInfo": {
                 "first_4_bytes": "FF FF 7C 7D"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -180,16 +209,19 @@
             "posz": 2350.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "DoorBs",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1100 1111 0100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF CF 44"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 2
+            "layerid": 2,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -202,16 +234,19 @@
             "posz": 0.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "BGh2",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1100 0010 1111 1100",
             "extraInfo": {
                 "first_4_bytes": "FF FF C2 FC"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -224,16 +259,19 @@
             "posz": -2288.699951171875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "SldDoor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1110 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF E0"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -246,16 +284,19 @@
             "posz": 2350.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 05",
             "name": "DoorBs",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1100 1111 0100 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF CF 44"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 3
+            "layerid": 3,
+            "stageid": "B201"
         },
         {
             "byte1": -1,
@@ -268,16 +309,19 @@
             "posz": -2288.699951171875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 04",
             "name": "SldDoor",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0111 1101 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF F7 D0"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 13
+            "layerid": 13,
+            "stageid": "B201"
         }
     ]
 });

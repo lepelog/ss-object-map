@@ -40,11 +40,8 @@ def flag_id_to_sheet_rep(idx):
         return 'temp flag: '+idx_to_scene_flag(128+idx)
 
 # for 2 bytes as numbers extracts number in between with offset
-def extract_byte_between_2_bytes(b1, b2, bitoffset=4):
-    flagid = int('{:016b}'.format(int((struct.pack('b',b1)+struct.pack('b',b2)).hex(), 16))[bitoffset:bitoffset+8],2)
-    # convert byte to signed
-    if flagid >= 128:
-        flagid=flagid-256
+def extract_byte_between_2_bytes(b1, b2, bitoffset=4, length=8):
+    flagid = int('{:016b}'.format(int((struct.pack('b',b1)+struct.pack('b',b2)).hex(), 16))[bitoffset:bitoffset+length],2)
     return flagid
 
 flagindex_to_stages = [

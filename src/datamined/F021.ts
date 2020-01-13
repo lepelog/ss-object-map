@@ -23,16 +23,19 @@
             "posz": -8.20729923248291,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 00",
             "name": "IslTrea",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0110",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F6"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F021"
         }
     ]
 });

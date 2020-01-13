@@ -24,16 +24,27 @@
             "posz": 264.6295166015625,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "41 6C",
             "talk_behaviour": 11811,
             "unk3": "FC 01",
             "name": "NpcSoG",
             "angle": 27713,
+            "bin": "0010 1001 0011 1111 1111 1111 1111 0000",
             "extraInfo": {
-                "first_4_bytes": "29 3F FF F0"
+                "first_4_bytes": "29 3F FF F0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 329,
+                "trigstoryf": "-",
+                "untrigstoryf": "Sleeping after starting Batreaux quest",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": -1,
@@ -46,16 +57,19 @@
             "posz": 300.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "DecoB",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": -1,
@@ -68,16 +82,19 @@
             "posz": 80.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "E7 1D",
             "talk_behaviour": 0,
             "unk3": "FC 08",
             "name": "Paint",
             "angle": 7655,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1100",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FC"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": -1,
@@ -90,16 +107,19 @@
             "posz": 80.0,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "18 E3",
             "talk_behaviour": 0,
             "unk3": "FC 09",
             "name": "Paint",
             "angle": -7400,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1100",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FC"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": 0,
@@ -112,16 +132,19 @@
             "posz": 1350.0,
             "event_flag": 78,
             "transition_type": 1,
+            "unk2": "00 00",
             "talk_behaviour": -16,
             "unk3": "FC 00",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0110",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 06"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": 15,
@@ -134,16 +157,19 @@
             "posz": -400.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -404,
             "unk3": "FC 02",
             "name": "TBox",
             "angle": 0,
+            "bin": "0000 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "0F FF FF F3"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": 15,
@@ -156,16 +182,19 @@
             "posz": -400.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -403,
             "unk3": "FC 03",
             "name": "TBox",
             "angle": 0,
+            "bin": "0000 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "0F FF FF F3"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": 15,
@@ -178,16 +207,19 @@
             "posz": -400.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -402,
             "unk3": "FC 04",
             "name": "TBox",
             "angle": 0,
+            "bin": "0000 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "0F FF FF F3"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": 15,
@@ -200,16 +232,19 @@
             "posz": -400.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -401,
             "unk3": "FC 05",
             "name": "TBox",
             "angle": 0,
+            "bin": "0000 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "0F FF FF F3"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": 15,
@@ -222,16 +257,19 @@
             "posz": -393.6614990234375,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -418,
             "unk3": "FC 06",
             "name": "TBox",
             "angle": 0,
+            "bin": "0000 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "0F FF FF F3"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": -11,
@@ -244,16 +282,19 @@
             "posz": 588.1489868164062,
             "event_flag": -1,
             "transition_type": -64,
+            "unk2": "C0 00",
             "talk_behaviour": -30104,
             "unk3": "FC 0A",
             "name": "TBox",
             "angle": 192,
+            "bin": "1111 0101 0011 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "F5 3F FF F3"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F012r"
         },
         {
             "byte1": -1,
@@ -266,16 +307,27 @@
             "posz": 175.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 12130,
             "unk3": "FC 20",
             "name": "NpcAkum",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F012r"
         },
         {
             "byte1": -106,
@@ -288,16 +340,27 @@
             "posz": 175.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 12130,
             "unk3": "FC 21",
             "name": "NpcAkuH",
             "angle": 0,
+            "bin": "1001 0110 0001 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "96 1F FF FF"
+                "first_4_bytes": "96 1F FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1200,
+                "trigstoryf": "-",
+                "untrigstoryf": "",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F012r"
         },
         {
             "byte1": -1,
@@ -310,16 +373,27 @@
             "posz": 246.20155334472656,
             "event_flag": 84,
             "transition_type": 83,
+            "unk2": "FF 00",
             "talk_behaviour": 12102,
             "unk3": "FC 22",
             "name": "NpcTke",
             "angle": 255,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF 00"
+                "first_4_bytes": "FF FF FF 00",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": 83,
+                "untrigscenefid": 84,
+                "trigscenef": "scene flag: 0xB 10",
+                "untrigscenef": "scene flag: 0xB 08"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F012r"
         },
         {
             "byte1": 13,
@@ -332,16 +406,27 @@
             "posz": 784.4090576171875,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "FF 01",
             "talk_behaviour": 10756,
             "unk3": "FC 23",
             "name": "NpcTke",
             "angle": 511,
+            "bin": "0000 1101 0000 1011 0111 1011 1111 0010",
             "extraInfo": {
-                "first_4_bytes": "0D 0B 7B F2"
+                "first_4_bytes": "0D 0B 7B F2",
+                "trigstoryfid": 734,
+                "untrigstoryfid": 104,
+                "trigstoryf": "Sets when talking to Batreaux after getting Crystals (allows Crystal Dowsing?)",
+                "untrigstoryf": "Crystal Dowsing",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 1
+            "layerid": 1,
+            "stageid": "F012r"
         }
     ]
 });

@@ -23,16 +23,27 @@
             "posz": -2059.506591796875,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": 11901,
             "unk3": "FC 01",
             "name": "NpcKnld",
             "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-",
+                "trigscenefid": -1,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": 24,
@@ -45,16 +56,27 @@
             "posz": -57.795249938964844,
             "event_flag": -1,
             "transition_type": 2,
+            "unk2": "FF 00",
             "talk_behaviour": 11902,
             "unk3": "FC 05",
             "name": "NpcTke",
             "angle": 255,
+            "bin": "0001 1000 1111 1111 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "18 FF FF 11"
+                "first_4_bytes": "18 FF FF 11",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 199,
+                "trigstoryf": "-",
+                "untrigstoryf": "Sword Instructor talks to Link before he attempts to leave the Sparring Hall",
+                "trigscenefid": 2,
+                "untrigscenefid": -1,
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x1 04"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": -1,
@@ -67,16 +89,19 @@
             "posz": -446.06268310546875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "FE 94",
             "talk_behaviour": 0,
             "unk3": "FC 06",
             "name": "GuardLg",
             "angle": -27394,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": -1,
@@ -89,16 +114,19 @@
             "posz": -1548.447021484375,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 07",
             "name": "SliceLg",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0000",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F0"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": -1,
@@ -111,16 +139,19 @@
             "posz": -994.3074951171875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "C0 00",
             "talk_behaviour": 0,
             "unk3": "FC 08",
             "name": "SliceLg",
             "angle": 192,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0001",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F1"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": -1,
@@ -133,16 +164,19 @@
             "posz": -1000.2025756835938,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "40 00",
             "talk_behaviour": 0,
             "unk3": "FC 09",
             "name": "SliceLg",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0010",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F2"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": -1,
@@ -155,16 +189,19 @@
             "posz": -1542.552001953125,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "41 6C",
             "talk_behaviour": 0,
             "unk3": "FC 0A",
             "name": "SliceLg",
             "angle": 27713,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": -1,
@@ -177,16 +214,19 @@
             "posz": -455.8681335449219,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "BE 94",
             "talk_behaviour": 0,
             "unk3": "FC 0B",
             "name": "SliceLg",
             "angle": -27458,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0100",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F4"
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": -1,
@@ -199,10 +239,12 @@
             "posz": -1661.6405029296875,
             "event_flag": 0,
             "transition_type": 0,
+            "unk2": "00 00",
             "talk_behaviour": 0,
             "unk3": "FC 0C",
             "name": "Item",
             "angle": 0,
+            "bin": "1111 1111 0000 1101 1100 1110 0011 0000",
             "extraInfo": {
                 "first_4_bytes": "FF 0D CE 30",
                 "flagid": 115,
@@ -210,7 +252,8 @@
             },
             "type": "OBJ ",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": -1,
@@ -223,16 +266,19 @@
             "posz": -2572.256591796875,
             "event_flag": -1,
             "transition_type": 2,
+            "unk2": "40 00",
             "talk_behaviour": -31734,
             "unk3": "FC 00",
             "name": "TBox",
             "angle": 64,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
                 "first_4_bytes": "FF FF FF F3"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": 0,
@@ -245,16 +291,19 @@
             "posz": 300.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "80 00",
             "talk_behaviour": -16,
             "unk3": "FC 02",
             "name": "Door",
             "angle": 128,
+            "bin": "0000 0000 0000 0000 0000 0000 0000 0010",
             "extraInfo": {
                 "first_4_bytes": "00 00 00 02"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": 0,
@@ -267,16 +316,19 @@
             "posz": 300.0,
             "event_flag": -1,
             "transition_type": -1,
+            "unk2": "00 00",
             "talk_behaviour": -16,
             "unk3": "FC 03",
             "name": "Door",
             "angle": 0,
+            "bin": "0000 0000 0000 0000 0000 0001 0000 0010",
             "extraInfo": {
                 "first_4_bytes": "00 00 01 02"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         },
         {
             "byte1": 0,
@@ -289,16 +341,19 @@
             "posz": -2138.420166015625,
             "event_flag": -1,
             "transition_type": 0,
+            "unk2": "80 00",
             "talk_behaviour": 1,
             "unk3": "FC 04",
             "name": "Door",
             "angle": 128,
+            "bin": "0000 0000 0000 0000 1111 1111 0000 0000",
             "extraInfo": {
                 "first_4_bytes": "00 00 FF 00"
             },
             "type": "OBJS",
             "roomid": 0,
-            "layerid": 0
+            "layerid": 0,
+            "stageid": "F009r"
         }
     ]
 });
