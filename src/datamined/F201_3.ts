@@ -399,8 +399,8 @@
                 "untrigstoryf": "Goron Text after Watering 1st Frog",
                 "trigscenefid": -1,
                 "untrigscenefid": 3,
-                "trigscenef": "scene flag: 0x1 08",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x1 08"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -432,8 +432,8 @@
                 "untrigstoryf": "Goron Text after Watering 2nd frog",
                 "trigscenefid": -1,
                 "untrigscenefid": 3,
-                "trigscenef": "scene flag: 0x1 08",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x1 08"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1523,7 +1523,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "00 00",
-            "talk_behaviour": -1,
+            "talk_behaviour": 65535,
             "unk3": "FC 0B",
             "name": "saveObj",
             "angle": 0,
@@ -1709,8 +1709,8 @@
                 "untrigstoryf": "Goron Text after Watering 1st Frog",
                 "trigscenefid": 108,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xC 10"
+                "trigscenef": "scene flag: 0xC 10",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1742,8 +1742,8 @@
                 "untrigstoryf": "Goron Text after Watering 2nd frog",
                 "trigscenefid": 109,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xC 20"
+                "trigscenef": "scene flag: 0xC 20",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1808,8 +1808,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 107,
-                "trigscenef": "scene flag: 0xC 08",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0xC 08"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1841,8 +1841,8 @@
                 "untrigstoryf": "Goddess Cube Dowsing",
                 "trigscenefid": -64,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x9 01"
+                "trigscenef": "temp flag: 0x9 01",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1874,8 +1874,8 @@
                 "untrigstoryf": "Water Basin Dowsing",
                 "trigscenefid": -1,
                 "untrigscenefid": 115,
-                "trigscenef": "scene flag: 0xF 08",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0xF 08"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1907,8 +1907,8 @@
                 "untrigstoryf": "Big Frog Watered",
                 "trigscenefid": -1,
                 "untrigscenefid": -100,
-                "trigscenef": "temp flag: 0x2 10",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "temp flag: 0x2 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1940,8 +1940,8 @@
                 "untrigstoryf": "Big Frog Watered",
                 "trigscenefid": -1,
                 "untrigscenefid": -99,
-                "trigscenef": "temp flag: 0x2 20",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "temp flag: 0x2 20"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1973,8 +1973,8 @@
                 "untrigstoryf": "Big Frog Watered",
                 "trigscenefid": -1,
                 "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJS",
             "roomid": 0,

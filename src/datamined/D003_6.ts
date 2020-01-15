@@ -350,7 +350,7 @@
             "event_flag": -1,
             "transition_type": 95,
             "unk2": "C0 00",
-            "talk_behaviour": -32255,
+            "talk_behaviour": 33281,
             "unk3": "FC 26",
             "name": "TBox",
             "angle": 192,

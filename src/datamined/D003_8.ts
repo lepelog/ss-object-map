@@ -273,8 +273,8 @@
                 "untrigstoryf": "",
                 "trigscenefid": 60,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x6 10"
+                "trigscenef": "scene flag: 0x6 10",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,

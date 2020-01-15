@@ -291,8 +291,8 @@
                 "untrigstoryf": "",
                 "trigscenefid": -1,
                 "untrigscenefid": 76,
-                "trigscenef": "scene flag: 0x8 10",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x8 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -324,8 +324,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": -63,
-                "trigscenef": "temp flag: 0x9 02",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "temp flag: 0x9 02"
             },
             "type": "OBJ ",
             "roomid": 0,

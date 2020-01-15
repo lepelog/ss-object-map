@@ -63,8 +63,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 71,
-                "trigscenef": "scene flag: 0x9 80",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x9 80"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -96,8 +96,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 72,
-                "trigscenef": "scene flag: 0x8 01",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x8 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -129,8 +129,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 73,
-                "trigscenef": "scene flag: 0x8 02",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x8 02"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -149,7 +149,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "80 00",
-            "talk_behaviour": -1,
+            "talk_behaviour": 65535,
             "unk3": "FC 01",
             "name": "saveObj",
             "angle": 128,

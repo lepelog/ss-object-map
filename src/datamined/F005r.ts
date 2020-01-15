@@ -128,7 +128,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "E0 00",
-            "talk_behaviour": -1,
+            "talk_behaviour": 65535,
             "unk3": "FC 0B",
             "name": "Door",
             "angle": 224,
@@ -265,8 +265,8 @@
                 "untrigstoryf": "Heal Orielle's bird",
                 "trigscenefid": 0,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x11 01"
+                "trigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,

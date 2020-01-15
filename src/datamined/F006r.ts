@@ -76,7 +76,7 @@
             "event_flag": 10,
             "transition_type": 2,
             "unk2": "EA AB",
-            "talk_behaviour": -1,
+            "talk_behaviour": 65535,
             "unk3": "FC 14",
             "name": "Door",
             "angle": -21526,

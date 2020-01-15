@@ -63,8 +63,8 @@
                 "untrigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
                 "trigscenefid": -1,
                 "untrigscenefid": 100,
-                "trigscenef": "scene flag: 0xD 10",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0xD 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -96,8 +96,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -64,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x9 01"
+                "trigscenef": "temp flag: 0x9 01",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -474,7 +474,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "00 00",
-            "talk_behaviour": -16864,
+            "talk_behaviour": 48672,
             "unk3": "FC 02",
             "name": "TBox",
             "angle": 0,
@@ -542,8 +542,8 @@
                 "untrigstoryf": "Big Frog Watered",
                 "trigscenefid": -1,
                 "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "temp flag: 0x11 01"
             },
             "type": "OBJS",
             "roomid": 0,

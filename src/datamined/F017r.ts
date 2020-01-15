@@ -71,8 +71,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -63,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x9 02"
+                "trigscenef": "temp flag: 0x9 02",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -224,7 +224,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "C0 00",
-            "talk_behaviour": -1,
+            "talk_behaviour": 65535,
             "unk3": "FC 1A",
             "name": "Door",
             "angle": 192,
@@ -249,7 +249,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "00 00",
-            "talk_behaviour": -451,
+            "talk_behaviour": 65085,
             "unk3": "FC 1F",
             "name": "TBox",
             "angle": 0,

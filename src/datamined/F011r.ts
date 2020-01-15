@@ -173,8 +173,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
-                "trigscenef": "scene flag: 0x3 10",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x3 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -206,8 +206,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
-                "trigscenef": "scene flag: 0x3 10",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x3 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -324,8 +324,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 23,
-                "trigscenef": "scene flag: 0x3 80",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x3 80"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -357,8 +357,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 23,
-                "trigscenef": "scene flag: 0x3 80",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x3 80"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -390,8 +390,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 24,
-                "trigscenef": "scene flag: 0x2 01",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x2 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -423,8 +423,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 24,
-                "trigscenef": "scene flag: 0x2 01",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x2 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -641,7 +641,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "80 00",
-            "talk_behaviour": -16,
+            "talk_behaviour": 65520,
             "unk3": "FC 33",
             "name": "Door",
             "angle": 128,
@@ -666,7 +666,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "00 00",
-            "talk_behaviour": -16,
+            "talk_behaviour": 65520,
             "unk3": "FC 34",
             "name": "Door",
             "angle": 0,
@@ -691,7 +691,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "F8 E4",
-            "talk_behaviour": -16,
+            "talk_behaviour": 65520,
             "unk3": "FC 36",
             "name": "Door",
             "angle": -6920,
@@ -716,7 +716,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "00 00",
-            "talk_behaviour": -317,
+            "talk_behaviour": 65219,
             "unk3": "FC 37",
             "name": "TBox",
             "angle": 0,
@@ -741,7 +741,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "00 00",
-            "talk_behaviour": -418,
+            "talk_behaviour": 65118,
             "unk3": "FC 40",
             "name": "TBox",
             "angle": 0,

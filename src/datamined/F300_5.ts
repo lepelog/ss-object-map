@@ -49,7 +49,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "C0 00",
-            "talk_behaviour": -1,
+            "talk_behaviour": 65535,
             "unk3": "FC 00",
             "name": "trolley",
             "angle": 192,

@@ -1323,8 +1323,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": 71,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x9 80"
+                "trigscenef": "scene flag: 0x9 80",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2683,7 +2683,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "00 00",
-            "talk_behaviour": -448,
+            "talk_behaviour": 65088,
             "unk3": "FC 4C",
             "name": "TBox",
             "angle": 0,

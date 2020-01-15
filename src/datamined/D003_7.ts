@@ -212,8 +212,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": 26,
                 "untrigscenefid": 23,
-                "trigscenef": "scene flag: 0x3 80",
-                "untrigscenef": "scene flag: 0x2 04"
+                "trigscenef": "scene flag: 0x2 04",
+                "untrigscenef": "scene flag: 0x3 80"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -282,7 +282,7 @@
             "event_flag": -1,
             "transition_type": 21,
             "unk2": "00 00",
-            "talk_behaviour": -32718,
+            "talk_behaviour": 32818,
             "unk3": "FC 03",
             "name": "TBox",
             "angle": 0,
@@ -307,7 +307,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "40 00",
-            "talk_behaviour": -1,
+            "talk_behaviour": 65535,
             "unk3": "FC 06",
             "name": "saveObj",
             "angle": 64,

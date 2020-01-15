@@ -263,8 +263,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": 87,
                 "untrigscenefid": 88,
-                "trigscenef": "scene flag: 0xA 01",
-                "untrigscenef": "scene flag: 0xB 80"
+                "trigscenef": "scene flag: 0xB 80",
+                "untrigscenef": "scene flag: 0xA 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -283,7 +283,7 @@
             "event_flag": -1,
             "transition_type": 87,
             "unk2": "00 00",
-            "talk_behaviour": -500,
+            "talk_behaviour": 65036,
             "unk3": "FC 0E",
             "name": "TBox",
             "angle": 0,

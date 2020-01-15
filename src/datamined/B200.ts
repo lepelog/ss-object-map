@@ -1043,8 +1043,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": 37,
-                "trigscenef": "scene flag: 0x5 20",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "scene flag: 0x5 20"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -1109,8 +1109,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": -62,
-                "trigscenef": "temp flag: 0x9 04",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "temp flag: 0x9 04"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -1142,8 +1142,8 @@
                 "untrigstoryf": "",
                 "trigscenefid": -61,
                 "untrigscenefid": 36,
-                "trigscenef": "scene flag: 0x5 10",
-                "untrigscenef": "temp flag: 0x9 08"
+                "trigscenef": "temp flag: 0x9 08",
+                "untrigscenef": "scene flag: 0x5 10"
             },
             "type": "OBJ ",
             "roomid": 10,

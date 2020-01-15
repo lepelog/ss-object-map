@@ -119,7 +119,7 @@
           class="leaflet-sidebar-pane"
         >
           <h1>Details</h1>
-          <pre>{{ objectInfo }}</pre>
+          <pre class="object-info">{{ objectInfo }}</pre>
         </div>
       </div>
     </div>
@@ -306,6 +306,9 @@ export default class ObjMap extends Vue {
 }
 #sitebar-content {
     /*background: black;*/
+}
+.object-info {
+  overflow-x: auto;
 }
 .div-icon0 { border-radius: 50%; border: 1px solid #00FFFF; background: rgba(0,255,255,0.25)}
 .div-icon1 { border-radius: 50%; border: 1px solid #FFFF00; background: rgba(255,255,0,0.25) }

@@ -146,8 +146,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -64,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x9 01"
+                "trigscenef": "temp flag: 0x9 01",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -454,8 +454,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -55,
                 "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x8 02"
+                "trigscenef": "temp flag: 0x8 02",
+                "untrigscenef": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -540,7 +540,7 @@
             "event_flag": -1,
             "transition_type": -1,
             "unk2": "C0 00",
-            "talk_behaviour": -1,
+            "talk_behaviour": 65535,
             "unk3": "FC 19",
             "name": "Door",
             "angle": 192,
@@ -578,8 +578,8 @@
                 "untrigstoryf": "-",
                 "trigscenefid": -1,
                 "untrigscenefid": -62,
-                "trigscenef": "temp flag: 0x9 04",
-                "untrigscenef": "no flag set"
+                "trigscenef": "no flag set",
+                "untrigscenef": "temp flag: 0x9 04"
             },
             "type": "OBJ ",
             "roomid": 0,

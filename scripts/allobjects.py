@@ -44,6 +44,8 @@ for stagefile in glob.glob('output/stage/*.json'):
                             # i'm pretty confident unk2 is actually the angle
                             # maybe not for eveything though
                             obj['angle']=struct.unpack('h',bytes.fromhex(obj['unk2']))[0]
+                            # talk action seems to be unsigned
+                            obj['talk_behaviour']=struct.unpack('H',struct.pack('h',obj['talk_behaviour']))[0]
                             # find min max bounds
                             maxx=max(maxx,obj['posx'])
                             maxz=max(maxz,obj['posz'])
@@ -89,8 +91,8 @@ for stagefile in glob.glob('output/stage/*.json'):
                                 extra_info['untrigstoryf']=all_story_flags[untriggerstoryf] if untriggerstoryf < len(all_story_flags) else '-'
                                 extra_info['trigscenefid']=obj['transition_type']
                                 extra_info['untrigscenefid']=obj['event_flag']
-                                extra_info['trigscenef']=flag_id_to_sheet_rep(obj['event_flag'])
-                                extra_info['untrigscenef']=flag_id_to_sheet_rep(obj['transition_type'])
+                                extra_info['trigscenef']=flag_id_to_sheet_rep(obj['transition_type'])
+                                extra_info['untrigscenef']=flag_id_to_sheet_rep(obj['event_flag'])
                             
                             # convert it to format thats easier readable
                             if 'flagid' in extra_info:
@@ -118,16 +120,16 @@ for stagefile in glob.glob('output/stage/*.json'):
 
     all_stages[output['stageid']]=output
 
-all_unknown=[]
-for i, stages in enumerate(flagindex_to_stages):
-    for stage in stages:
-        for obj in all_stages[stage]['allObjects']:
-            if 'extraInfo' in obj and 'flagid' in obj['extraInfo']:
-                flagid=obj['extraInfo']['flagid']
-                if flagid>=0:
-                    flagdesc=all_scene_flags[i]['sceneflags'][flagid]
-                    if flagdesc.strip()=='' or '[' in flagdesc:
-                        all_unknown.append(obj)
+# all_unknown=[]
+# for i, stages in enumerate(flagindex_to_stages):
+#     for stage in stages:
+#         for obj in all_stages[stage]['allObjects']:
+#             if 'extraInfo' in obj and 'flagid' in obj['extraInfo']:
+#                 flagid=obj['extraInfo']['flagid']
+#                 if flagid>=0:
+#                     flagdesc=all_scene_flags[i]['sceneflags'][flagid]
+#                     if flagdesc.strip()=='' or '[' in flagdesc:
+#                         all_unknown.append(obj)
 # blacklist=set(('posx','posy','posz','sizex','sizey','sizez','extraInfo'))
 # info=collections.defaultdict(set)
 
