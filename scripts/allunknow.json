@@ -24,7 +24,8 @@
         "type": "OBJS",
         "roomid": 0,
         "layerid": 0,
-        "stageid": "F210"
+        "stageid": "F210",
+        "note": "blow up wall after jumping down in cave revealing a treasure chest"
     },
     {
         "byte1": -1,

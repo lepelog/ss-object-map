@@ -90,7 +90,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L86"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -123,7 +124,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L86"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -156,7 +158,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "122-Town4.c#L118"
             },
             "type": "OBJ ",
             "roomid": 0,

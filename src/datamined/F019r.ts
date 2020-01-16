@@ -34,7 +34,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 0F FF 2E",
                 "flagid": 46,
-                "areaflag": "scene flag: 0x4 40"
+                "areaflag": "scene flag: 0x4 40",
+                "eventSrc": "004-Object.c#L181"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -265,7 +266,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "109-TakeGoron.c#L155"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -298,7 +300,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "109-TakeGoron.c#L155"
             },
             "type": "OBJ ",
             "roomid": 0,

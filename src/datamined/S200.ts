@@ -1409,7 +1409,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -64,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x9 01"
+                "untrigscenef": "temp flag: 0x9 01",
+                "eventSrc": "350-MountainSiren.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3561,7 +3562,8 @@
             "angle": 17476,
             "bin": "1111 1111 1111 1111 1111 1111 1011 1100",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF BC"
+                "first_4_bytes": "FF FF FF BC",
+                "eventSrc": "003-ItemGet.c#L1274"
             },
             "type": "SOBJ",
             "roomid": 6,

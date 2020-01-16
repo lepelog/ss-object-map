@@ -5906,7 +5906,8 @@
             "angle": -21974,
             "bin": "1111 1111 1111 1111 1111 1011 1011 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FB B8"
+                "first_4_bytes": "FF FF FB B8",
+                "eventSrc": "003-ItemGet.c#L791"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -6889,7 +6890,8 @@
                 "trigscenefid": 47,
                 "untrigscenefid": 64,
                 "trigscenef": "scene flag: 0x4 80",
-                "untrigscenef": "scene flag: 0x9 01"
+                "untrigscenef": "scene flag: 0x9 01",
+                "eventSrc": "202-ForestD2.c#L22"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9014,7 +9016,8 @@
                 "trigscenefid": 60,
                 "untrigscenefid": 61,
                 "trigscenef": "scene flag: 0x6 10",
-                "untrigscenef": "scene flag: 0x6 20"
+                "untrigscenef": "scene flag: 0x6 20",
+                "eventSrc": "202-ForestD2.c#L12"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -9122,7 +9125,8 @@
                 "trigscenefid": 106,
                 "untrigscenefid": 107,
                 "trigscenef": "scene flag: 0xC 04",
-                "untrigscenef": "scene flag: 0xC 08"
+                "untrigscenef": "scene flag: 0xC 08",
+                "eventSrc": "202-ForestD2.c#L58"
             },
             "type": "OBJ ",
             "roomid": 10,

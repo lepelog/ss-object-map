@@ -1291,7 +1291,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "302-Anahori.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1324,7 +1325,8 @@
                 "trigscenefid": 71,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x9 80",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "300-Mountain.c#L224"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1978,7 +1980,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "302-Anahori.c#L217"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2664,7 +2667,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 0F FF 0F",
                 "flagid": 15,
-                "areaflag": "scene flag: 0x0 80"
+                "areaflag": "scene flag: 0x0 80",
+                "eventSrc": "004-Object.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

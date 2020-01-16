@@ -288,7 +288,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "402-DesertF2.c#L33"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -371,7 +372,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "402-DesertF2.c#L259"
             },
             "type": "OBJ ",
             "roomid": 0,

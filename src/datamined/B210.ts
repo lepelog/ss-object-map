@@ -238,7 +238,8 @@
                 "trigscenefid": 38,
                 "untrigscenefid": 39,
                 "trigscenef": "scene flag: 0x5 40",
-                "untrigscenef": "scene flag: 0x5 80"
+                "untrigscenef": "scene flag: 0x5 80",
+                "eventSrc": "301-MountainD1.c#L16"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -165,7 +165,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "122-Town4.c#L96"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -198,7 +199,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "123-Town5.c#L142"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -231,7 +233,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "109-TakeGoron.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

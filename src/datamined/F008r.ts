@@ -189,7 +189,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 95,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 80"
+                "untrigscenef": "scene flag: 0xA 80",
+                "eventSrc": "107-Kanban.c#L159"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -222,7 +223,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 96,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xD 01"
+                "untrigscenef": "scene flag: 0xD 01",
+                "eventSrc": "107-Kanban.c#L183"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -255,7 +257,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "107-Kanban.c#L359"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -288,7 +291,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "103-DaiShinkan.c#L31"
             },
             "type": "OBJ ",
             "roomid": 0,

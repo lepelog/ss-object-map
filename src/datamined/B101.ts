@@ -292,7 +292,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 76,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x8 10"
+                "untrigscenef": "scene flag: 0x8 10",
+                "eventSrc": "006-6KenseiNormal.c#L508"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -325,7 +326,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -63,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x9 02"
+                "untrigscenef": "temp flag: 0x9 02",
+                "eventSrc": "202-ForestD2.c#L27"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -383,7 +385,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "202-ForestD2.c#L27"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -190,7 +190,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "105-Terry.c#L27"
             },
             "type": "OBJ ",
             "roomid": 0,

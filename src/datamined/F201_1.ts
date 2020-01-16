@@ -1321,7 +1321,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 0,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "303-MountainF2.c#L6"
             },
             "type": "OBJS",
             "roomid": 0,

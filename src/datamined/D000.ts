@@ -867,7 +867,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 FF FF 7D",
                 "flagid": 125,
-                "areaflag": "scene flag: 0xE 20"
+                "areaflag": "scene flag: 0xE 20",
+                "eventSrc": "124-Town6.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

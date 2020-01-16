@@ -1939,7 +1939,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "305-MountainF3.c#L50"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -5291,7 +5292,8 @@
             "extraInfo": {
                 "first_4_bytes": "F1 FF FF FF",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "eventSrc": "305-MountainF3.c#L120"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -8757,7 +8759,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "305-MountainF3.c#L72"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -13259,7 +13262,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "305-MountainF3.c#L99"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -13292,7 +13296,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 0,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "305-MountainF3.c#L99"
             },
             "type": "OBJ ",
             "roomid": 5,

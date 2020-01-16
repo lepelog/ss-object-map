@@ -253,7 +253,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "006-KenseiNormal.c#L47"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2963,7 +2964,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L198"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3154,7 +3156,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L792"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3187,7 +3190,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 54,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x7 40"
+                "untrigscenef": "scene flag: 0x7 40",
+                "eventSrc": "500-CenterField.c#L204"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3220,7 +3224,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L732"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3378,7 +3383,8 @@
                 "trigscenefid": 2,
                 "untrigscenefid": 11,
                 "trigscenef": "scene flag: 0x1 04",
-                "untrigscenef": "scene flag: 0x0 08"
+                "untrigscenef": "scene flag: 0x0 08",
+                "eventSrc": "500-CenterField.c#L822"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3411,7 +3417,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L215"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3444,7 +3451,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L649"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3477,7 +3485,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L956"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3535,7 +3544,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L750"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3568,7 +3578,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 45,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x4 20"
+                "untrigscenef": "scene flag: 0x4 20",
+                "eventSrc": "500-CenterField.c#L250"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3601,7 +3612,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L797"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3634,7 +3646,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L750"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3667,7 +3680,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L797"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3700,7 +3714,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L671"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3733,7 +3748,8 @@
                 "trigscenefid": 2,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x1 04",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L822"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3766,7 +3782,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "006-6KenseiNormal.c#L641"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3799,7 +3816,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L393"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3832,7 +3850,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 46,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x4 40"
+                "untrigscenef": "scene flag: 0x4 40",
+                "eventSrc": "500-CenterField.c#L274"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3890,7 +3909,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L712"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3923,7 +3943,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L772"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3956,7 +3977,8 @@
                 "trigscenefid": 81,
                 "untrigscenefid": 91,
                 "trigscenef": "scene flag: 0xB 02",
-                "untrigscenef": "scene flag: 0xA 08"
+                "untrigscenef": "scene flag: 0xA 08",
+                "eventSrc": "500-CenterField.c#L304"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3989,7 +4011,8 @@
                 "trigscenefid": 81,
                 "untrigscenefid": 91,
                 "trigscenef": "scene flag: 0xB 02",
-                "untrigscenef": "scene flag: 0xA 08"
+                "untrigscenef": "scene flag: 0xA 08",
+                "eventSrc": "500-CenterField.c#L345"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4147,7 +4170,8 @@
                 "trigscenefid": 81,
                 "untrigscenefid": 91,
                 "trigscenef": "scene flag: 0xB 02",
-                "untrigscenef": "scene flag: 0xA 08"
+                "untrigscenef": "scene flag: 0xA 08",
+                "eventSrc": "500-CenterField.c#L96"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4180,7 +4204,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "006-6KenseiNormal.c#L653"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4213,7 +4238,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "006-6KenseiNormal.c#L732"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4246,7 +4272,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L941"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4279,7 +4306,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L844"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4312,7 +4340,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 47,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x4 80"
+                "untrigscenef": "scene flag: 0x4 80",
+                "eventSrc": "500-CenterField.c#L336"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4370,7 +4399,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L890"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4403,7 +4433,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L283"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4469,7 +4500,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L628"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4502,7 +4534,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L859"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4535,7 +4568,8 @@
                 "trigscenefid": 108,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0xC 10",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L149"
             },
             "type": "OBJ ",
             "roomid": 1,

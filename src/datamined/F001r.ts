@@ -50,7 +50,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "122-Town4.c#L91"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -577,7 +578,8 @@
             "angle": 128,
             "bin": "0000 0000 0000 0000 1111 1111 0000 0010",
             "extraInfo": {
-                "first_4_bytes": "00 00 FF 02"
+                "first_4_bytes": "00 00 FF 02",
+                "eventSrc": "003-ItemGet.c#L957"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -827,7 +829,8 @@
                 "trigscenefid": 4,
                 "untrigscenefid": 22,
                 "trigscenef": "scene flag: 0x1 10",
-                "untrigscenef": "scene flag: 0x3 40"
+                "untrigscenef": "scene flag: 0x3 40",
+                "eventSrc": "100-Town.c#L238"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -860,7 +863,8 @@
                 "trigscenefid": 2,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x1 04",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -893,7 +897,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -926,7 +931,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L35"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -959,7 +965,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 51,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x7 08"
+                "untrigscenef": "scene flag: 0x7 08",
+                "eventSrc": "100-Town.c#L137"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -992,7 +999,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L35"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1025,7 +1033,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "108-ShinkanA.c#L185"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1058,7 +1067,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "108-ShinkanA.c#L383"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1091,7 +1101,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "108-ShinkanA.c#L505"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1124,7 +1135,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1157,7 +1169,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "122-Town4.c#L242"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1190,7 +1203,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "122-Town4.c#L290"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1256,7 +1270,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L381"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1289,7 +1304,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L1472"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1403,7 +1419,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L274"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1436,7 +1453,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L1369"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1469,7 +1487,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1502,7 +1521,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "114-Friend.c#L196"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1535,7 +1555,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L1225"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1568,7 +1589,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "104-Rival.c#L21"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1601,7 +1623,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L274"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1634,7 +1657,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L448"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1700,7 +1724,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L448"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1814,7 +1839,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "122-Town4.c#L101"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1847,7 +1873,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "122-Town4.c#L101"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1880,7 +1907,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L333"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1963,7 +1991,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L381"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1996,7 +2025,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L1186"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2029,7 +2059,8 @@
                 "trigscenefid": 7,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x1 80",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L1301"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2176,7 +2207,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2209,7 +2241,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2242,7 +2275,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "114-Friend.c#L196"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2275,7 +2309,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "107-Kanban.c#L41"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2510,7 +2545,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 5,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 20"
+                "untrigscenef": "scene flag: 0x1 20",
+                "eventSrc": "103-DaiShinkan.c#L23"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2543,7 +2579,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2601,7 +2638,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "103-DaiShinkan.c#L36"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2634,7 +2672,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2692,7 +2731,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L497"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2725,7 +2765,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L589"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2758,7 +2799,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L753"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2791,7 +2833,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2974,7 +3017,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "104-Rival.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3007,7 +3051,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "104-Rival.c#L51"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3040,7 +3085,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "104-Rival.c#L46"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3073,7 +3119,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L1482"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3106,7 +3153,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "104-Rival.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3239,7 +3287,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "104-Rival.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3272,7 +3321,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L138"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3305,7 +3355,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L120"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3338,7 +3389,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L1342"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3371,7 +3423,8 @@
                 "trigscenefid": -47,
                 "untrigscenefid": -46,
                 "trigscenef": "temp flag: 0xB 02",
-                "untrigscenef": "temp flag: 0xB 04"
+                "untrigscenef": "temp flag: 0xB 04",
+                "eventSrc": "115-Town2.c#L1342"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3404,7 +3457,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L568"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3437,7 +3491,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "104-Rival.c#L51"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3500,7 +3555,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "103-DaiShinkan.c#L1"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3533,7 +3589,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "108-ShinkanA.c#L84"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3566,7 +3623,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "103-DaiShinkan.c#L36"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3599,7 +3657,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "103-DaiShinkan.c#L167"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3632,7 +3691,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "103-DaiShinkan.c#L36"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3690,7 +3750,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3773,7 +3834,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "108-ShinkanA.c#L7"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3831,7 +3893,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3922,7 +3985,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "108-ShinkanA.c#L185"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -3955,7 +4019,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "118-Town3.c#L912"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -3988,7 +4053,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "118-Town3.c#L761"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4021,7 +4087,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "108-ShinkanA.c#L144"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4112,7 +4179,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "107-Kanban.c#L207"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4170,7 +4238,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "108-ShinkanA.c#L99"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4203,7 +4272,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "118-Town3.c#L227"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4313,7 +4383,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "102-Zelda.c#L476"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4556,7 +4627,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L101"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4722,7 +4794,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "100-Town.c#L101"
             },
             "type": "OBJ ",
             "roomid": 6,

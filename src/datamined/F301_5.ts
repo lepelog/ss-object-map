@@ -668,7 +668,8 @@
                 "trigscenefid": 17,
                 "untrigscenefid": 16,
                 "trigscenef": "scene flag: 0x3 02",
-                "untrigscenef": "scene flag: 0x3 01"
+                "untrigscenef": "scene flag: 0x3 01",
+                "eventSrc": "402-DesertF2.c#L332"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -726,7 +727,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "402-DesertF2.c#L386"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -759,7 +761,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "402-DesertF2.c#L454"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -792,7 +795,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -825,7 +829,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -64,7 +64,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 71,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x9 80"
+                "untrigscenef": "scene flag: 0x9 80",
+                "eventSrc": "199-Demo.c#L19"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -97,7 +98,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 72,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x8 01"
+                "untrigscenef": "scene flag: 0x8 01",
+                "eventSrc": "199-Demo.c#L33"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -130,7 +132,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 73,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x8 02"
+                "untrigscenef": "scene flag: 0x8 02",
+                "eventSrc": "199-Demo.c#L40"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -738,7 +738,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 3,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 08"
+                "untrigscenef": "scene flag: 0x1 08",
+                "eventSrc": "201-ForestD1.c#L404"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1120,7 +1121,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 61,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x6 20"
+                "untrigscenef": "scene flag: 0x6 20",
+                "eventSrc": "201-ForestD1.c#L21"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1153,7 +1155,8 @@
                 "trigscenefid": -7,
                 "untrigscenefid": 58,
                 "trigscenef": "temp flag: 0xE 02",
-                "untrigscenef": "scene flag: 0x6 04"
+                "untrigscenef": "scene flag: 0x6 04",
+                "eventSrc": "201-ForestD1.c#L231"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1246,7 +1249,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 94,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 40"
+                "untrigscenef": "scene flag: 0xA 40",
+                "eventSrc": "201-ForestD1.c#L254"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1946,7 +1950,8 @@
                 "trigscenefid": -62,
                 "untrigscenefid": 68,
                 "trigscenef": "temp flag: 0x9 04",
-                "untrigscenef": "scene flag: 0x9 10"
+                "untrigscenef": "scene flag: 0x9 10",
+                "eventSrc": "201-ForestD1.c#L103"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3461,7 +3466,8 @@
                 "trigscenefid": -64,
                 "untrigscenefid": 8,
                 "trigscenef": "temp flag: 0x9 01",
-                "untrigscenef": "scene flag: 0x0 01"
+                "untrigscenef": "scene flag: 0x0 01",
+                "eventSrc": "201-ForestD1.c#L412"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3779,7 +3785,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "201-ForestD1.c#L417"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4779,7 +4786,8 @@
                 "trigscenefid": -11,
                 "untrigscenefid": 54,
                 "trigscenef": "temp flag: 0xF 20",
-                "untrigscenef": "scene flag: 0x7 40"
+                "untrigscenef": "scene flag: 0x7 40",
+                "eventSrc": "201-ForestD1.c#L129"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -4812,7 +4820,8 @@
                 "trigscenefid": 31,
                 "untrigscenefid": 55,
                 "trigscenef": "scene flag: 0x2 80",
-                "untrigscenef": "scene flag: 0x7 80"
+                "untrigscenef": "scene flag: 0x7 80",
+                "eventSrc": "201-ForestD1.c#L300"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -5694,7 +5703,8 @@
                 "trigscenefid": 53,
                 "untrigscenefid": 57,
                 "trigscenef": "scene flag: 0x7 20",
-                "untrigscenef": "scene flag: 0x6 02"
+                "untrigscenef": "scene flag: 0x6 02",
+                "eventSrc": "201-ForestD1.c#L120"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -5727,7 +5737,8 @@
                 "trigscenefid": -56,
                 "untrigscenefid": 113,
                 "trigscenef": "temp flag: 0x8 01",
-                "untrigscenef": "scene flag: 0xF 02"
+                "untrigscenef": "scene flag: 0xF 02",
+                "eventSrc": "201-ForestD1.c#L163"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -5821,7 +5832,8 @@
                 "trigscenefid": -10,
                 "untrigscenefid": 127,
                 "trigscenef": "temp flag: 0xF 40",
-                "untrigscenef": "scene flag: 0xE 80"
+                "untrigscenef": "scene flag: 0xE 80",
+                "eventSrc": "201-ForestD1.c#L353"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9087,7 +9099,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 119,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xF 80"
+                "untrigscenef": "scene flag: 0xF 80",
+                "eventSrc": "201-ForestD1.c#L206"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -10914,7 +10927,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 32,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x5 01"
+                "untrigscenef": "scene flag: 0x5 01",
+                "eventSrc": "201-ForestD1.c#L378"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -11047,7 +11061,8 @@
                 "trigscenefid": -9,
                 "untrigscenefid": 56,
                 "trigscenef": "temp flag: 0xF 80",
-                "untrigscenef": "scene flag: 0x6 01"
+                "untrigscenef": "scene flag: 0x6 01",
+                "eventSrc": "201-ForestD1.c#L211"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -11446,7 +11461,8 @@
                 "trigscenefid": 33,
                 "untrigscenefid": 34,
                 "trigscenef": "scene flag: 0x5 02",
-                "untrigscenef": "scene flag: 0x5 04"
+                "untrigscenef": "scene flag: 0x5 04",
+                "eventSrc": "201-ForestD1.c#L398"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -11479,7 +11495,8 @@
                 "trigscenefid": 33,
                 "untrigscenefid": 43,
                 "trigscenef": "scene flag: 0x5 02",
-                "untrigscenef": "scene flag: 0x4 08"
+                "untrigscenef": "scene flag: 0x4 08",
+                "eventSrc": "201-ForestD1.c#L11"
             },
             "type": "OBJ ",
             "roomid": 10,

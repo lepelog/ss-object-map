@@ -42,7 +42,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 82,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xB 04"
+                "untrigscenef": "scene flag: 0xB 04",
+                "eventSrc": "006-6KenseiNormal.c#L546"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -300,7 +301,8 @@
                 "trigscenefid": 86,
                 "untrigscenefid": 87,
                 "trigscenef": "scene flag: 0xB 40",
-                "untrigscenef": "scene flag: 0xB 80"
+                "untrigscenef": "scene flag: 0xB 80",
+                "eventSrc": "401-DesertD2.c#L169"
             },
             "type": "OBJ ",
             "roomid": 0,

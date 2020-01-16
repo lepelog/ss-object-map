@@ -120,6 +120,11 @@
         >
           <h1>Details</h1>
           <pre class="object-info">{{ objectInfo }}</pre>
+          <a
+            v-if="eventLink"
+            :href="eventLink"
+            target="_blank"
+          >Link to Event</a>
         </div>
       </div>
     </div>
@@ -169,6 +174,8 @@ export default class ObjMap extends Vue {
     private iconList = Array.from(Array(12).keys()).map((i) => L.divIcon({ className: `div-icon${i}` }));
 
     private objectInfo: string = '';
+
+    private eventLink: string | null = null;
 
     private currentStageMarkers: LMarkerWithObject[] = [];
 
@@ -225,9 +232,14 @@ export default class ObjMap extends Vue {
       return obj.name;
     }
 
-    showObjectInfo(obj: any): void {
+    showObjectInfo(obj: StageObject): void {
       this.objectInfo = JSON.stringify(obj, null, 4);
       this.sidebar.open('details');
+      this.eventLink = null;
+      if (obj.extraInfo && obj.extraInfo.eventSrc) {
+        this.eventLink = 'https://github.com/lepelog/skywardsword-tools/blob/fix-event-texts/output/event2/'
+          + obj.extraInfo.eventSrc;
+      }
     }
 
     stageIDToName(stageID: string): string {

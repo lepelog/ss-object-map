@@ -451,7 +451,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "406-TrolleyRace.c#L245"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -484,7 +485,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "406-TrolleyRace.c#L260"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -517,7 +519,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -550,7 +553,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -583,7 +587,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1563,7 +1568,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "402-DesertF2.c#L395"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1596,7 +1602,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "402-DesertF2.c#L591"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1629,7 +1636,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "406-TrolleyRace.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1662,7 +1670,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "406-TrolleyRace.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1945,7 +1954,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 0F FF 5F",
                 "flagid": 95,
-                "areaflag": "scene flag: 0xA 80"
+                "areaflag": "scene flag: 0xA 80",
+                "eventSrc": "004-Object.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -50,7 +50,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L493"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -83,7 +84,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L686"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -166,7 +168,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L140"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -199,7 +202,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L240"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -232,7 +236,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L245"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -290,7 +295,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L686"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -356,7 +362,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L647"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -389,7 +396,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -611,7 +619,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L140"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -721,7 +730,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "501-Inpa.c#L113"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -862,7 +872,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -895,7 +906,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "501-Inpa.c#L113"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -928,7 +940,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -961,7 +974,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -994,7 +1008,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1027,7 +1042,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L686"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1891,7 +1907,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L508"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1974,7 +1991,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 107,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xC 08"
+                "untrigscenef": "scene flag: 0xC 08",
+                "eventSrc": "501-Inpa.c#L166"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2065,7 +2083,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L680"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2098,7 +2117,8 @@
                 "trigscenefid": 21,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x3 20",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L632"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2131,7 +2151,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 28,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x2 10"
+                "untrigscenef": "scene flag: 0x2 10",
+                "eventSrc": "501-Inpa.c#L579"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2214,7 +2235,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 28,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x2 10"
+                "untrigscenef": "scene flag: 0x2 10",
+                "eventSrc": "501-Inpa.c#L335"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2430,7 +2452,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2463,7 +2486,8 @@
                 "trigscenefid": 30,
                 "untrigscenefid": 57,
                 "trigscenef": "scene flag: 0x2 40",
-                "untrigscenef": "scene flag: 0x6 02"
+                "untrigscenef": "scene flag: 0x6 02",
+                "eventSrc": "501-Inpa.c#L57"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2496,7 +2520,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 80,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xB 01"
+                "untrigscenef": "scene flag: 0xB 01",
+                "eventSrc": "501-Inpa.c#L408"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2637,7 +2662,8 @@
                 "trigscenefid": 30,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x2 40",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L57"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2745,7 +2771,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L304"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2778,7 +2805,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 70,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x9 40"
+                "untrigscenef": "scene flag: 0x9 40",
+                "eventSrc": "501-Inpa.c#L191"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2811,7 +2839,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 70,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x9 40"
+                "untrigscenef": "scene flag: 0x9 40",
+                "eventSrc": "501-Inpa.c#L400"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2844,7 +2873,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L304"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2877,7 +2907,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L427"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3143,7 +3174,8 @@
                 "trigscenefid": 37,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x5 20",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L178"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3209,7 +3241,8 @@
                 "trigscenefid": 38,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x5 40",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L235"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3292,7 +3325,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 71,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x9 80"
+                "untrigscenef": "scene flag: 0x9 80",
+                "eventSrc": "501-Inpa.c#L594"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3325,7 +3359,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 71,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x9 80"
+                "untrigscenef": "scene flag: 0x9 80",
+                "eventSrc": "501-Inpa.c#L639"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3358,7 +3393,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L304"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3499,7 +3535,8 @@
                 "trigscenefid": 37,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x5 20",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L178"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3565,7 +3602,8 @@
                 "trigscenefid": 38,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x5 40",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L235"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3598,7 +3636,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L304"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3656,7 +3695,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "501-Inpa.c#L721"
             },
             "type": "OBJ ",
             "roomid": 2,

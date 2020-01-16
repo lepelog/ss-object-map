@@ -90,7 +90,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "204-ForestF3.c#L85"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -123,7 +124,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "204-ForestF3.c#L85"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -156,7 +158,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "204-ForestF3.c#L103"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -189,7 +192,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "204-ForestF3.c#L103"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -297,7 +301,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "204-ForestF3.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -330,7 +335,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "204-ForestF3.c#L80"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -363,7 +369,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "204-ForestF3.c#L108"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -396,7 +403,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "204-ForestF3.c#L75"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -554,7 +562,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "204-ForestF3.c#L400"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -1044,7 +1044,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 37,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x5 20"
+                "untrigscenef": "scene flag: 0x5 20",
+                "eventSrc": "301-MountainD1.c#L152"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -1077,7 +1078,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "301-MountainD1.c#L104"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -1110,7 +1112,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -62,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x9 04"
+                "untrigscenef": "temp flag: 0x9 04",
+                "eventSrc": "301-MountainD1.c#L104"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -1143,7 +1146,8 @@
                 "trigscenefid": -61,
                 "untrigscenefid": 36,
                 "trigscenef": "temp flag: 0x9 08",
-                "untrigscenef": "scene flag: 0x5 10"
+                "untrigscenef": "scene flag: 0x5 10",
+                "eventSrc": "006-6KenseiNormal.c#L370"
             },
             "type": "OBJ ",
             "roomid": 10,

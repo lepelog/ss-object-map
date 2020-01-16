@@ -91,7 +91,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L328"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -174,7 +175,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "117-Pumpkin.c#L906"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -207,7 +209,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "117-Pumpkin.c#L919"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -325,7 +328,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 23,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 80"
+                "untrigscenef": "scene flag: 0x3 80",
+                "eventSrc": "117-Pumpkin.c#L1052"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -358,7 +362,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 23,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 80"
+                "untrigscenef": "scene flag: 0x3 80",
+                "eventSrc": "117-Pumpkin.c#L1072"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -391,7 +396,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 24,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x2 01"
+                "untrigscenef": "scene flag: 0x2 01",
+                "eventSrc": "117-Pumpkin.c#L1131"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -424,7 +430,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 24,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x2 01"
+                "untrigscenef": "scene flag: 0x2 01",
+                "eventSrc": "117-Pumpkin.c#L1165"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -457,7 +464,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -490,7 +498,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L774"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -523,7 +532,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "117-Pumpkin.c#L595"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -556,7 +566,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "117-Pumpkin.c#L595"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -589,7 +600,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "117-Pumpkin.c#L595"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -780,7 +792,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "117-Pumpkin.c#L308"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -813,7 +826,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L1089"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -846,7 +860,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -879,7 +894,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L774"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -912,7 +928,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L1220"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -945,7 +962,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "117-Pumpkin.c#L740"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -978,7 +996,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L859"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1011,7 +1030,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L108"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1044,7 +1064,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L578"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1077,7 +1098,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L283"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1110,7 +1132,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L849"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1143,7 +1166,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L705"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1176,7 +1200,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L764"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1209,7 +1234,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L1089"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1333,7 +1359,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L1145"
             },
             "type": "OBJ ",
             "roomid": 0,

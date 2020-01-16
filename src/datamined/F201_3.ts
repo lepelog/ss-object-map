@@ -400,7 +400,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 3,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 08"
+                "untrigscenef": "scene flag: 0x1 08",
+                "eventSrc": "303-MountainF2.c#L396"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -433,7 +434,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 3,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 08"
+                "untrigscenef": "scene flag: 0x1 08",
+                "eventSrc": "303-MountainF2.c#L497"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -466,7 +468,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "303-MountainF2.c#L567"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1223,7 +1226,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 FF FF 77",
                 "flagid": 119,
-                "areaflag": "scene flag: 0xF 80"
+                "areaflag": "scene flag: 0xF 80",
+                "eventSrc": "004-Object.c#L156"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1710,7 +1714,8 @@
                 "trigscenefid": 108,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0xC 10",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "303-MountainF2.c#L417"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1743,7 +1748,8 @@
                 "trigscenefid": 109,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0xC 20",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "303-MountainF2.c#L534"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1776,7 +1782,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "303-MountainF2.c#L567"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1809,7 +1816,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 107,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xC 08"
+                "untrigscenef": "scene flag: 0xC 08",
+                "eventSrc": "303-MountainF2.c#L366"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1842,7 +1850,8 @@
                 "trigscenefid": -64,
                 "untrigscenefid": -1,
                 "trigscenef": "temp flag: 0x9 01",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "303-MountainF2.c#L292"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1875,7 +1884,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 115,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xF 08"
+                "untrigscenef": "scene flag: 0xF 08",
+                "eventSrc": "303-MountainF2.c#L179"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1908,7 +1918,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -100,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x2 10"
+                "untrigscenef": "temp flag: 0x2 10",
+                "eventSrc": "303-MountainF2.c#L205"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1941,7 +1952,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -99,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x2 20"
+                "untrigscenef": "temp flag: 0x2 20",
+                "eventSrc": "303-MountainF2.c#L205"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1974,7 +1986,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 0,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "303-MountainF2.c#L38"
             },
             "type": "OBJS",
             "roomid": 0,

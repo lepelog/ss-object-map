@@ -163,7 +163,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 F1 23 35",
                 "flagid": 53,
-                "areaflag": "scene flag: 0x7 20"
+                "areaflag": "scene flag: 0x7 20",
+                "eventSrc": "004-Object.c#L38"
             },
             "type": "OBJ ",
             "roomid": 0,

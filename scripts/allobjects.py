@@ -2,6 +2,7 @@ import json
 import glob
 import os.path
 from util import *
+from eventnumbers import foundevents
 
 with open('allsceneflags.json') as f:
     all_scene_flags=json.load(f)
@@ -97,6 +98,9 @@ for stagefile in glob.glob('output/stage/*.json'):
                             # convert it to format thats easier readable
                             if 'flagid' in extra_info:
                                 extra_info['areaflag']=flag_id_to_sheet_rep(extra_info['flagid'])
+
+                            if obj['talk_behaviour'] in foundevents:
+                                extra_info['eventSrc']=foundevents[obj['talk_behaviour']]
                             if len(extra_info) > 0:
                                 obj['extraInfo']=extra_info
                             obj['type'] = objt

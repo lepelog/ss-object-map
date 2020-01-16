@@ -43,7 +43,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "502-CenterFieldBack.c#L49"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -126,7 +127,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "502-CenterFieldBack.c#L135"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -192,7 +194,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "502-CenterFieldBack.c#L149"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -225,7 +228,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "502-CenterFieldBack.c#L14"
             },
             "type": "OBJ ",
             "roomid": 2,

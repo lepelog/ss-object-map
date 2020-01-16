@@ -40,7 +40,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "101-Shop.c#L67"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -73,7 +74,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "106-DrugStore.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -431,7 +433,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "112-Trustee.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -464,7 +467,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "113-RemodelStore.c#L32"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -522,7 +526,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "106-DrugStore.c#L335"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -605,7 +610,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "118-Town3.c#L662"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -638,7 +644,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "122-Town4.c#L413"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -671,7 +678,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "122-Town4.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -704,7 +712,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "122-Town4.c#L51"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -737,7 +746,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "122-Town4.c#L358"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -770,7 +780,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "122-Town4.c#L408"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -803,7 +814,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "107-Kanban.c#L222"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -836,7 +848,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "121-AkumaKun.c#L306"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1944,7 +1957,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 26,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x2 04"
+                "untrigscenef": "scene flag: 0x2 04",
+                "eventSrc": "111-FortuneTeller.c#L328"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1977,7 +1991,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "111-FortuneTeller.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2010,7 +2025,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 86,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xB 40"
+                "untrigscenef": "scene flag: 0xB 40",
+                "eventSrc": "111-FortuneTeller.c#L414"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2043,7 +2059,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "111-FortuneTeller.c#L419"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2101,7 +2118,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 26,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x2 04"
+                "untrigscenef": "scene flag: 0x2 04",
+                "eventSrc": "111-FortuneTeller.c#L328"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2134,7 +2152,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 86,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xB 40"
+                "untrigscenef": "scene flag: 0xB 40",
+                "eventSrc": "111-FortuneTeller.c#L414"
             },
             "type": "OBJ ",
             "roomid": 0,

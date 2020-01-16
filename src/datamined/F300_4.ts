@@ -226,7 +226,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 57,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x6 02"
+                "untrigscenef": "scene flag: 0x6 02",
+                "eventSrc": "400-Desert.c#L354"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -409,7 +410,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 74,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x8 04"
+                "untrigscenef": "scene flag: 0x8 04",
+                "eventSrc": "400-Desert.c#L58"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1183,7 +1185,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 FF FF 4F",
                 "flagid": 79,
-                "areaflag": "scene flag: 0x8 80"
+                "areaflag": "scene flag: 0x8 80",
+                "eventSrc": "004-Object.c#L90"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1216,7 +1219,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "400-Desert.c#L140"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1249,7 +1253,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 4,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 10"
+                "untrigscenef": "scene flag: 0x1 10",
+                "eventSrc": "400-Desert.c#L196"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1282,7 +1287,8 @@
                 "trigscenefid": 123,
                 "untrigscenefid": 53,
                 "trigscenef": "scene flag: 0xE 08",
-                "untrigscenef": "scene flag: 0x7 20"
+                "untrigscenef": "scene flag: 0x7 20",
+                "eventSrc": "400-Desert.c#L304"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1871,7 +1877,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 88,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 01"
+                "untrigscenef": "scene flag: 0xA 01",
+                "eventSrc": "400-Desert.c#L696"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2358,7 +2365,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "400-Desert.c#L140"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2416,7 +2424,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "400-Desert.c#L196"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2443,7 +2452,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 FF FF 4F",
                 "flagid": 79,
-                "areaflag": "scene flag: 0x8 80"
+                "areaflag": "scene flag: 0x8 80",
+                "eventSrc": "004-Object.c#L90"
             },
             "type": "OBJ ",
             "roomid": 0,

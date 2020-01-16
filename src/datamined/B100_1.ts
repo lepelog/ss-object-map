@@ -873,7 +873,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 106,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xC 04"
+                "untrigscenef": "scene flag: 0xC 04",
+                "eventSrc": "201-ForestD1.c#L44"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -906,7 +907,8 @@
                 "trigscenefid": -60,
                 "untrigscenefid": -62,
                 "trigscenef": "temp flag: 0x9 10",
-                "untrigscenef": "temp flag: 0x9 04"
+                "untrigscenef": "temp flag: 0x9 04",
+                "eventSrc": "201-ForestD1.c#L73"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -939,7 +941,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 108,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xC 10"
+                "untrigscenef": "scene flag: 0xC 10",
+                "eventSrc": "201-ForestD1.c#L63"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -38,7 +38,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "119-Captain.c#L32"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -71,7 +72,8 @@
                 "trigscenefid": 2,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x1 04",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "119-Captain.c#L160"
             },
             "type": "OBJ ",
             "roomid": 0,

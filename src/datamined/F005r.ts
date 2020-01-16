@@ -167,7 +167,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "122-Town4.c#L85"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -200,7 +201,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "118-Town3.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -233,7 +235,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "118-Town3.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -266,7 +269,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": -1,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -299,7 +303,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -332,7 +337,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L1129"
             },
             "type": "OBJ ",
             "roomid": 0,

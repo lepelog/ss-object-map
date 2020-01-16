@@ -39,7 +39,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "118-Town3.c#L517"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -322,7 +323,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "121-AkumaKun.c#L96"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -355,7 +357,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "121-AkumaKun.c#L96"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -388,7 +391,8 @@
                 "trigscenefid": 83,
                 "untrigscenefid": 84,
                 "trigscenef": "scene flag: 0xB 08",
-                "untrigscenef": "scene flag: 0xB 10"
+                "untrigscenef": "scene flag: 0xB 10",
+                "eventSrc": "121-AkumaKun.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -421,7 +425,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "107-Kanban.c#L11"
             },
             "type": "OBJ ",
             "roomid": 0,

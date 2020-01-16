@@ -2806,7 +2806,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 70,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x9 40"
+                "untrigscenef": "scene flag: 0x9 40",
+                "eventSrc": "403-DesertD1.c#L1"
             },
             "type": "OBJ ",
             "roomid": 5,

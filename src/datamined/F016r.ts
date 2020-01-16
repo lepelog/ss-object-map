@@ -89,7 +89,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "123-Town5.c#L578"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -147,7 +148,8 @@
                 "trigscenefid": -64,
                 "untrigscenefid": -1,
                 "trigscenef": "temp flag: 0x9 01",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "123-Town5.c#L333"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -455,7 +457,8 @@
                 "trigscenefid": -55,
                 "untrigscenefid": -1,
                 "trigscenef": "temp flag: 0x8 02",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "123-Town5.c#L386"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -488,7 +491,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "122-Town4.c#L418"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -521,7 +525,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "122-Town4.c#L42"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -579,7 +584,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -62,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x9 04"
+                "untrigscenef": "temp flag: 0x9 04",
+                "eventSrc": "123-Town5.c#L360"
             },
             "type": "OBJ ",
             "roomid": 0,

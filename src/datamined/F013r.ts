@@ -116,7 +116,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "118-Town3.c#L677"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -287,7 +288,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "111-FortuneTeller.c#L452"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -345,7 +347,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "111-FortuneTeller.c#L452"
             },
             "type": "OBJ ",
             "roomid": 0,

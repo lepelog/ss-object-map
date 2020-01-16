@@ -231,7 +231,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "203-ForestF2.c#L673"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -264,7 +265,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "203-ForestF2.c#L688"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1197,7 +1199,8 @@
                 "trigscenefid": 1,
                 "untrigscenefid": 2,
                 "trigscenef": "scene flag: 0x1 02",
-                "untrigscenef": "scene flag: 0x1 04"
+                "untrigscenef": "scene flag: 0x1 04",
+                "eventSrc": "203-ForestF2.c#L621"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1970,7 +1973,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "203-ForestF2.c#L161"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2003,7 +2007,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "203-ForestF2.c#L283"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2064,7 +2069,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "203-ForestF2.c#L283"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2125,7 +2131,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "203-ForestF2.c#L283"
             },
             "type": "OBJ ",
             "roomid": 0,

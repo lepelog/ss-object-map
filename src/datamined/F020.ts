@@ -2228,7 +2228,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 FF FF 2C",
                 "flagid": 44,
-                "areaflag": "scene flag: 0x4 10"
+                "areaflag": "scene flag: 0x4 10",
+                "eventSrc": "004-Object.c#L151"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2255,7 +2256,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 FF FF 2D",
                 "flagid": 45,
-                "areaflag": "scene flag: 0x4 20"
+                "areaflag": "scene flag: 0x4 20",
+                "eventSrc": "004-Object.c#L126"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4009,7 +4011,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "115-Town2.c#L1016"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4142,7 +4145,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "110-DivingGame.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4200,7 +4204,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "117-Pumpkin.c#L54"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4233,7 +4238,8 @@
                 "trigscenefid": 6,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x1 40",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L932"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4266,7 +4272,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "107-Kanban.c#L279"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4565,7 +4572,8 @@
                 "trigscenefid": 11,
                 "untrigscenefid": 13,
                 "trigscenef": "scene flag: 0x0 08",
-                "untrigscenef": "scene flag: 0x0 20"
+                "untrigscenef": "scene flag: 0x0 20",
+                "eventSrc": "107-Kanban.c#L389"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5248,7 +5256,8 @@
                 "trigscenefid": 0,
                 "untrigscenefid": 0,
                 "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigscenef": "temp flag: 0x11 01",
+                "eventSrc": "105-Terry.c#L331"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5281,7 +5290,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "117-Pumpkin.c#L224"
             },
             "type": "OBJ ",
             "roomid": 0,

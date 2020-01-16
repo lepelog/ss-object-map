@@ -73,7 +73,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "503-Goron.c#L694"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -106,7 +107,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 17,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 02"
+                "untrigscenef": "scene flag: 0x3 02",
+                "eventSrc": "503-Goron.c#L855"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -139,7 +141,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "503-Goron.c#L958"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -172,7 +175,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -125,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L100"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -205,7 +209,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -124,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L162"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -238,7 +243,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -117,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L241"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -271,7 +277,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -123,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L305"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -304,7 +311,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -122,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L575"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -337,7 +345,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -125,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -370,7 +379,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -125,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -403,7 +413,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -125,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -436,7 +447,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -125,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -469,7 +481,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -124,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -502,7 +515,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -124,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -535,7 +549,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -124,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -568,7 +583,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -124,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -601,7 +617,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -123,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -634,7 +651,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -123,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -667,7 +685,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -123,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -700,7 +719,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -123,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -733,7 +753,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -122,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -766,7 +787,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -122,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -799,7 +821,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -122,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -832,7 +855,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -122,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -865,7 +889,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -117,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -898,7 +923,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -117,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -931,7 +957,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -117,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -964,7 +991,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -117,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -997,7 +1025,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 112,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xF 01"
+                "untrigscenef": "scene flag: 0xF 01",
+                "eventSrc": "503-Goron.c#L997"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1030,7 +1059,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -125,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1063,7 +1093,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -124,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1096,7 +1127,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -123,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1129,7 +1161,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -122,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1162,7 +1195,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -117,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1195,7 +1229,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "006-KenseiNormal.c#L47"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1222,7 +1257,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 00 00 48",
                 "flagid": 72,
-                "areaflag": "scene flag: 0x8 01"
+                "areaflag": "scene flag: 0x8 01",
+                "eventSrc": "004-Object.c#L191"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2375,7 +2411,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L6"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2408,7 +2445,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 14,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x0 40"
+                "untrigscenef": "scene flag: 0x0 40",
+                "eventSrc": "500-CenterField.c#L1005"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2541,7 +2579,8 @@
                 "trigscenefid": 3,
                 "untrigscenefid": 14,
                 "trigscenef": "scene flag: 0x1 08",
-                "untrigscenef": "scene flag: 0x0 40"
+                "untrigscenef": "scene flag: 0x0 40",
+                "eventSrc": "500-CenterField.c#L6"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2574,7 +2613,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 94,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 40"
+                "untrigscenef": "scene flag: 0xA 40",
+                "eventSrc": "500-CenterField.c#L6"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2657,7 +2697,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 19,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08"
+                "untrigscenef": "scene flag: 0x3 08",
+                "eventSrc": "503-Goron.c#L1023"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2690,7 +2731,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2756,7 +2798,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "500-CenterField.c#L912"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2814,7 +2857,8 @@
                 "trigscenefid": 72,
                 "untrigscenefid": 73,
                 "trigscenef": "scene flag: 0x8 01",
-                "untrigscenef": "scene flag: 0x8 02"
+                "untrigscenef": "scene flag: 0x8 02",
+                "eventSrc": "503-Goron.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2847,7 +2891,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 66,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x9 04"
+                "untrigscenef": "scene flag: 0x9 04",
+                "eventSrc": "503-Goron.c#L958"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2880,7 +2925,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 19,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08"
+                "untrigscenef": "scene flag: 0x3 08",
+                "eventSrc": "503-Goron.c#L1200"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3063,7 +3109,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3096,7 +3143,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "503-Goron.c#L1200"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3129,7 +3177,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 19,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08"
+                "untrigscenef": "scene flag: 0x3 08",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3162,7 +3211,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3195,7 +3245,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3278,7 +3329,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 19,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08"
+                "untrigscenef": "scene flag: 0x3 08",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3311,7 +3363,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3344,7 +3397,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3402,7 +3456,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 19,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08"
+                "untrigscenef": "scene flag: 0x3 08",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3435,7 +3490,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3468,7 +3524,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3526,7 +3583,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 19,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08"
+                "untrigscenef": "scene flag: 0x3 08",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3559,7 +3617,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3592,7 +3651,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,

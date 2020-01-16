@@ -2837,7 +2837,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 35,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x5 08"
+                "untrigscenef": "scene flag: 0x5 08",
+                "eventSrc": "107-Kanban.c#L133"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4643,7 +4644,8 @@
                 "trigscenefid": 37,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x5 20",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "006-6KenseiNormal.c#L744"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4695,7 +4697,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 0F FF 2B",
                 "flagid": 43,
-                "areaflag": "scene flag: 0x4 08"
+                "areaflag": "scene flag: 0x4 08",
+                "eventSrc": "004-Object.c#L186"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4728,7 +4731,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "116-InsectGame.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4761,7 +4765,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 34,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x5 04"
+                "untrigscenef": "scene flag: 0x5 04",
+                "eventSrc": "107-Kanban.c#L51"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4819,7 +4824,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "116-InsectGame.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

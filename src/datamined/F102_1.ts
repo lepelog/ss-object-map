@@ -491,7 +491,8 @@
             "extraInfo": {
                 "first_4_bytes": "F0 0F FF 43",
                 "flagid": 67,
-                "areaflag": "scene flag: 0x9 08"
+                "areaflag": "scene flag: 0x9 08",
+                "eventSrc": "004-Object.c#L201"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1411,7 +1412,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "203-ForestF2.c#L388"
             },
             "type": "OBJ ",
             "roomid": 0,

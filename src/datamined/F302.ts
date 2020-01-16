@@ -49,7 +49,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "404-DesertF3.c#L172"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -82,7 +83,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "404-DesertF3.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -165,7 +167,8 @@
                 "trigscenefid": 10,
                 "untrigscenefid": -1,
                 "trigscenef": "scene flag: 0x0 04",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "404-DesertF3.c#L101"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -762,7 +765,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "404-DesertF3.c#L362"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -795,7 +799,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 11,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x0 08"
+                "untrigscenef": "scene flag: 0x0 08",
+                "eventSrc": "404-DesertF3.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -828,7 +833,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "404-DesertF3.c#L209"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2181,7 +2187,8 @@
                 "trigscenefid": 29,
                 "untrigscenefid": 15,
                 "trigscenef": "scene flag: 0x2 20",
-                "untrigscenef": "scene flag: 0x0 80"
+                "untrigscenef": "scene flag: 0x0 80",
+                "eventSrc": "404-DesertF3.c#L243"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2564,7 +2571,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "460-RairyuMinigame.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2597,7 +2605,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "404-DesertF3.c#L321"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2730,7 +2739,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 32,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x5 01"
+                "untrigscenef": "scene flag: 0x5 01",
+                "eventSrc": "404-DesertF3.c#L237"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2997,7 +3007,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -1,
                 "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigscenef": "no flag set",
+                "eventSrc": "404-DesertF3.c#L148"
             },
             "type": "OBJ ",
             "roomid": 2,

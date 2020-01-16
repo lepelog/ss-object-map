@@ -768,7 +768,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -2,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0xE 40"
+                "untrigscenef": "temp flag: 0xE 40",
+                "eventSrc": "450-DesertSiren.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

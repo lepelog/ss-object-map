@@ -2541,7 +2541,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 80,
                 "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xB 01"
+                "untrigscenef": "scene flag: 0xB 01",
+                "eventSrc": "250-ForestSiren.c#L154"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2574,7 +2575,8 @@
                 "trigscenefid": -1,
                 "untrigscenefid": -2,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0xE 40"
+                "untrigscenef": "temp flag: 0xE 40",
+                "eventSrc": "250-ForestSiren.c#L49"
             },
             "type": "OBJ ",
             "roomid": 0,
