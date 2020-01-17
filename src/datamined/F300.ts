@@ -1568,11 +1568,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2636,10 +2632,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "400-Desert.c#L35"
             },
             "type": "OBJ ",
@@ -2670,10 +2662,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "400-Desert.c#L383"
             },
             "type": "OBJ ",
@@ -2704,10 +2692,6 @@
                 "untrigstoryfid": 731,
                 "trigstoryf": "-",
                 "untrigstoryf": "",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "400-Desert.c#L483"
             },
             "type": "OBJ ",
@@ -5944,7 +5928,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 12"
+                "first_4_bytes": "FF 0A FF 12",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -5972,7 +5960,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 12"
+                "first_4_bytes": "FF 0A FF 12",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6000,7 +5992,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32"
+                "first_4_bytes": "FF 0A FF 32",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6775,7 +6771,11 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1001 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 9F 1E"
+                "first_4_bytes": "F1 FF 9F 1E",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6800,7 +6800,11 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1001 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 9F 1E"
+                "first_4_bytes": "F1 FF 9F 1E",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6825,7 +6829,11 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1001 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 9F 1E"
+                "first_4_bytes": "F1 FF 9F 1E",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6850,7 +6858,11 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1011 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF BF 1E"
+                "first_4_bytes": "F1 FF BF 1E",
+                "trigstoryfid": 2031,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6875,7 +6887,11 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1011 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF BF 1E"
+                "first_4_bytes": "F1 FF BF 1E",
+                "trigstoryfid": 2031,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7000,7 +7016,11 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1011 1010 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF BA 1E"
+                "first_4_bytes": "F1 FF BA 1E",
+                "trigstoryfid": 2030,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7053,7 +7073,11 @@
             "angle": -21974,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32"
+                "first_4_bytes": "FF 0A FF 32",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -7081,7 +7105,11 @@
             "angle": -21974,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32"
+                "first_4_bytes": "FF 0A FF 32",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -7109,7 +7137,11 @@
             "angle": 29340,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32"
+                "first_4_bytes": "FF 0A FF 32",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -7137,7 +7169,11 @@
             "angle": -21526,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32"
+                "first_4_bytes": "FF 0A FF 32",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,

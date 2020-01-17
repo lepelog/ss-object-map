@@ -263,10 +263,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "109-TakeGoron.c#L155"
             },
             "type": "OBJ ",
@@ -297,10 +293,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "109-TakeGoron.c#L155"
             },
             "type": "OBJ ",

@@ -61,10 +61,6 @@
                 "untrigstoryfid": 186,
                 "trigstoryf": "Goron Text near Big Frog",
                 "untrigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
-                "trigscenefid": -1,
-                "untrigscenefid": 100,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xD 10",
                 "eventSrc": "303-MountainF2.c#L299"
             },
             "type": "OBJ ",
@@ -543,10 +539,6 @@
                 "untrigstoryfid": 187,
                 "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
                 "untrigstoryf": "Big Frog Watered",
-                "trigscenefid": -1,
-                "untrigscenefid": 0,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "303-MountainF2.c#L21"
             },
             "type": "OBJS",

@@ -46,10 +46,6 @@
                 "untrigstoryfid": 13,
                 "trigstoryf": "-",
                 "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "trigscenefid": 3,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x1 08",
-                "untrigscenef": "no flag set",
                 "eventSrc": "304-MountainD2.c#L1"
             },
             "type": "OBJ ",
@@ -403,10 +399,6 @@
                 "untrigstoryfid": 13,
                 "trigstoryf": "Sets after catching Mogma",
                 "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "304-MountainD2.c#L43"
             },
             "type": "OBJ ",
@@ -437,10 +429,6 @@
                 "untrigstoryfid": 13,
                 "trigstoryf": "Sets after mogma disapears and other mogma apears in FS",
                 "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "304-MountainD2.c#L54"
             },
             "type": "OBJ ",
@@ -471,10 +459,6 @@
                 "untrigstoryfid": 13,
                 "trigstoryf": "Sets while chaseing Mogma",
                 "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "304-MountainD2.c#L70"
             },
             "type": "OBJ ",
@@ -500,7 +484,11 @@
             "angle": 192,
             "bin": "1101 1001 1000 0000 1001 1111 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 80 9F 15"
+                "first_4_bytes": "D9 80 9F 15",
+                "trigstoryfid": 39,
+                "untrigstoryfid": 1740,
+                "trigstoryf": "Wing Ceremony completed",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -525,7 +513,11 @@
             "angle": 224,
             "bin": "1101 1001 1000 0001 0001 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "D9 81 1F 11"
+                "first_4_bytes": "D9 81 1F 11",
+                "trigstoryfid": 71,
+                "untrigstoryfid": 1740,
+                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -550,7 +542,11 @@
             "angle": 192,
             "bin": "1101 1001 1000 0010 0001 1111 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 82 1F 15"
+                "first_4_bytes": "D9 82 1F 15",
+                "trigstoryfid": 135,
+                "untrigstoryfid": 1740,
+                "trigstoryf": "Groose meets Impa for first time cutscene",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -600,7 +596,11 @@
             "angle": 192,
             "bin": "1101 1001 1000 0001 1001 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "D9 81 9F 11"
+                "first_4_bytes": "D9 81 9F 11",
+                "trigstoryfid": 103,
+                "untrigstoryfid": 1740,
+                "trigstoryf": "",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -625,7 +625,11 @@
             "angle": 64,
             "bin": "1101 0000 1111 1111 1001 1111 0101 0010",
             "extraInfo": {
-                "first_4_bytes": "D0 FF 9F 52"
+                "first_4_bytes": "D0 FF 9F 52",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1671,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2705,7 +2709,11 @@
             "angle": 64,
             "bin": "1111 0001 1111 1111 1001 1111 0011 0110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 9F 36"
+                "first_4_bytes": "F1 FF 9F 36",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -2805,7 +2813,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1101 0101 0100 1011",
             "extraInfo": {
-                "first_4_bytes": "3F FF D5 4B"
+                "first_4_bytes": "3F FF D5 4B",
+                "trigstoryfid": 2037,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -2855,7 +2867,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1101 0101 0100 1011",
             "extraInfo": {
-                "first_4_bytes": "3F FF D5 4B"
+                "first_4_bytes": "3F FF D5 4B",
+                "trigstoryfid": 2037,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -2880,7 +2896,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C3"
+                "first_4_bytes": "FF FF FF C3",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -2905,7 +2925,11 @@
             "angle": 64,
             "bin": "1101 1001 1000 0000 0001 0000 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 80 10 15"
+                "first_4_bytes": "D9 80 10 15",
+                "trigstoryfid": 4,
+                "untrigstoryfid": 1740,
+                "trigstoryf": "Entering Skyview Cutscene (Skyview layer 1)",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -2930,7 +2954,11 @@
             "angle": 64,
             "bin": "1101 1001 1000 0000 1001 0000 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 80 90 15"
+                "first_4_bytes": "D9 80 90 15",
+                "trigstoryfid": 36,
+                "untrigstoryfid": 1740,
+                "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -2980,7 +3008,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C3"
+                "first_4_bytes": "FF FF FF C3",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3005,7 +3037,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C3"
+                "first_4_bytes": "FF FF FF C3",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3035,10 +3071,6 @@
                 "untrigstoryfid": 2040,
                 "trigstoryf": "(not implemented yet -- 7E0F)",
                 "untrigstoryf": "-",
-                "trigscenefid": 30,
-                "untrigscenefid": 33,
-                "trigscenef": "scene flag: 0x2 40",
-                "untrigscenef": "scene flag: 0x5 02",
                 "eventSrc": "304-MountainD2.c#L318"
             },
             "type": "OBJ ",
@@ -3069,10 +3101,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "304-MountainD2.c#L336"
             },
             "type": "OBJ ",
@@ -3103,10 +3131,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "304-MountainD2.c#L336"
             },
             "type": "OBJ ",
@@ -6815,7 +6839,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1001 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "D9 FF 9F F1"
+                "first_4_bytes": "D9 FF 9F F1",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -6840,7 +6868,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1001 1111 1111 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF 9F F5"
+                "first_4_bytes": "D9 FF 9F F5",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -6865,7 +6897,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1001 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "D9 FF 9F F1"
+                "first_4_bytes": "D9 FF 9F F1",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -6890,7 +6926,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1001 1111 1111 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF 9F F5"
+                "first_4_bytes": "D9 FF 9F F5",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -8035,7 +8075,11 @@
             "angle": 0,
             "bin": "1111 0001 1000 0000 1111 1111 0011 0110",
             "extraInfo": {
-                "first_4_bytes": "F1 80 FF 36"
+                "first_4_bytes": "F1 80 FF 36",
+                "trigstoryfid": 63,
+                "untrigstoryfid": 1932,
+                "trigstoryf": "Talking to Kikwi Ermit Yerbal",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -8060,7 +8104,11 @@
             "angle": 0,
             "bin": "1111 0001 1000 0001 0111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 81 7F 32"
+                "first_4_bytes": "F1 81 7F 32",
+                "trigstoryfid": 95,
+                "untrigstoryfid": 1932,
+                "trigstoryf": "",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -8342,7 +8390,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0011",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 33"
+                "first_4_bytes": "FF 08 FF 33",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 10,
@@ -8370,7 +8422,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0011",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 33"
+                "first_4_bytes": "FF 08 FF 33",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 10,

@@ -254,10 +254,6 @@
                 "untrigstoryfid": 36,
                 "trigstoryf": "Cutscene first time seeing Goddess Sword",
                 "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "107-Kanban.c#L359"
             },
             "type": "OBJ ",
@@ -288,10 +284,6 @@
                 "untrigstoryfid": 36,
                 "trigstoryf": "Cutscene after acquiring Goddess Sword",
                 "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "103-DaiShinkan.c#L31"
             },
             "type": "OBJ ",

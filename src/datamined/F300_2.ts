@@ -189,10 +189,6 @@
                 "untrigstoryfid": 732,
                 "trigstoryf": "-",
                 "untrigstoryf": "",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "400-Desert.c#L590"
             },
             "type": "OBJ ",

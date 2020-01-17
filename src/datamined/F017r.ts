@@ -36,10 +36,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "123-Town5.c#L797"
             },
             "type": "OBJ ",
@@ -204,10 +200,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "122-Town4.c#L232"
             },
             "type": "OBJ ",
@@ -288,10 +280,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "115-Town2.c#L1"
             },
             "type": "OBJ ",

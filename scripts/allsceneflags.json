@@ -128,6 +128,7 @@
             "Talk to General Item Seller when the Quiver is available (after getting the Bow)",
             "Talk to General Item Seller when Seed Satchel is available (after getting Slingshot but before beating Skyview)",
             "Play Harp to Spawn Moonlight Merchant",
+            "",
             ""
         ]
     },
@@ -239,6 +240,7 @@
             "",
             "Check First Deep Woods Statue",
             "Check Forest Temple Statue",
+            "",
             "",
             "",
             "",
@@ -392,7 +394,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            "Water Basin Collected"
         ]
     },
     {
@@ -469,6 +472,7 @@
             "",
             "",
             "Talk to Parella near tadtone tree after Cranioc attack?",
+            "",
             "",
             "",
             "",
@@ -656,7 +660,8 @@
             "Red rupee above digging mitts cave (requires beetle)",
             "Opened Ground Patch in initial cave",
             "Blue rupee above digging mitts cave (requires beetle)",
-            ""
+            "",
+            "Bokoblin on top of tower leading to hot cave dies"
         ]
     },
     {
@@ -784,6 +789,7 @@
             "Reveal Gossip Stone before 2nd frog",
             "Set After Riding up Wind Elevator",
             "Talk to Video Gossip Stone in Bokoblin Base",
+            "",
             "",
             "",
             "",
@@ -921,7 +927,8 @@
             "Active timeshift stone on top of pillar in ToT area (can be unset)",
             "Active timeshift stone revealing rails connecting both Desert entrance in ToT area (can be unset)",
             "",
-            "Hit crystal inside tree in ToT area"
+            "Hit crystal inside tree in ToT area",
+            "Fi text about tumbleweeds"
         ]
     },
     {
@@ -1053,7 +1060,8 @@
             "",
             "",
             "",
-            ""
+            "",
+            "Set on Moblin Bridge in Skipper's Retreat"
         ]
     },
     {
@@ -1185,7 +1193,8 @@
             "Fight the Imprisoned 3 (can be unset by restarting the challenge)",
             "Fight the Horde (can be unset by restarting the challenge)",
             "Fight Ghirahim 3 (can be unset by restarting the challenge)",
-            "Fight Demise (can be unset by restarting the challenge)"
+            "Fight Demise (can be unset by restarting the challenge)",
+            ""
         ]
     },
     {
@@ -1317,7 +1326,8 @@
             "[Should Exist]",
             "",
             "[Should Exist]",
-            "[Should Exist]"
+            "[Should Exist]",
+            ""
         ]
     },
     {
@@ -1449,7 +1459,8 @@
             "Bokoblin before first locked door defeated in Skyview 2",
             "Archer Bokoblin in before first locked door defeated in Skyview 2",
             "Left Archer Bokoblin in front of Boss Door in Skyview 2 defeated (seems to be glitched a little)",
-            "Right Archer Bokoblin in front of boss door in Skyview 2 defeated"
+            "Right Archer Bokoblin in front of boss door in Skyview 2 defeated",
+            "Set when entering right room in Skyview 2"
         ]
     },
     {
@@ -1581,7 +1592,8 @@
             "Valve on top of statue",
             "Valve on top of statue",
             "[Should Exist]",
-            "Statue rises to boss"
+            "Statue rises to boss",
+            ""
         ]
     },
     null,
@@ -1648,6 +1660,7 @@
             "Fi Trigger After First Bridge",
             "Running up beginning stairs",
             "Running up first slope with falling boulders",
+            "",
             "",
             "",
             "",
@@ -1846,7 +1859,8 @@
             "",
             "Heart Container Collected",
             "Ending Door Opens",
-            ""
+            "",
+            "Set after taking the platform up in first Magmanos room"
         ]
     },
     null,
@@ -1979,7 +1993,8 @@
             "Froak in dusty room defeated",
             "Boss defeat related",
             "Boss defeat related",
-            "Heart Contained collected"
+            "Heart Contained collected",
+            "Boss Door Opened"
         ]
     },
     {
@@ -2107,6 +2122,7 @@
             "First Locked Door Unlocked",
             "Lower Main Deck Door Opened (unset by bokoblins)",
             "Captain's Cabin Door Unlocked",
+            "",
             "",
             "",
             "",
@@ -2244,7 +2260,8 @@
             "",
             "Set when riding 2nd platform in Power Room",
             "Set when getting off of swinging platforms in Skyview Room",
-            "Set when landing on First swinging platform in Skyview room"
+            "Set when landing on First swinging platform in Skyview room",
+            "Set when clawshotting target in fish mouth in Skyview room"
         ]
     },
     {
@@ -2370,6 +2387,7 @@
             "",
             "",
             "Gratitude Crystal on Beedle's Island",
+            "",
             "",
             "",
             "",

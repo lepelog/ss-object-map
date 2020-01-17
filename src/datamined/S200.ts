@@ -38,7 +38,9 @@
             "angle": 192,
             "bin": "1111 1111 1111 0000 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF F0 FF FF"
+                "first_4_bytes": "FF F0 FF FF",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -463,7 +465,9 @@
             "angle": -14095,
             "bin": "1111 1111 1111 0000 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF F0 FF FF"
+                "first_4_bytes": "FF F0 FF FF",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2216,7 +2220,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0110",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F6"
+                "first_4_bytes": "FF FF FF F6",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -3180,7 +3186,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0110",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F6"
+                "first_4_bytes": "FF FF FF F6",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -3422,7 +3430,9 @@
             "angle": 21781,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F7"
+                "first_4_bytes": "FF FF FF F7",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 6,
@@ -3450,7 +3460,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F7"
+                "first_4_bytes": "FF FF FF F7",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 6,
@@ -3478,7 +3490,9 @@
             "angle": 64,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F7"
+                "first_4_bytes": "FF FF FF F7",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 6,
@@ -3506,7 +3520,9 @@
             "angle": 64,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F7"
+                "first_4_bytes": "FF FF FF F7",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 6,

@@ -11,11 +11,11 @@ with open('allstoryflags.json') as f:
     all_story_flags=json.load(f)
 
 # objects that use the flag "between" scen_link and byte4 for the temp/scene flag
-objs_with_middle_byte_flag_scen_link=['Tubo','Soil']
+objs_with_middle_byte_flag_scen_link=['Tubo','Soil','Wind']
 objs_with_middle_byte_flag_byte1=['Barrel']
 # item has the flag aligned even weirder
 objs_with_item_align=['Item']
-objs_with_byte4_flag=['TgReact','saveObj','HrpHint','BlsRock']
+objs_with_byte4_flag=['TgReact','saveObj','HrpHint','BlsRock','TowerB']
 
 all_stages={}
 
@@ -83,17 +83,19 @@ for stagefile in glob.glob('output/stage/*.json'):
                                 if flagidx >= 128:
                                     flagidx=flagidx-256
                                 extra_info['flagid']=flagidx
-                            elif obj['name'].startswith('Npc'):
+                            elif obj['name'].startswith('Npc') or obj['name'] in ('EKs','EBc','ESm'):
                                 triggerstoryf=extract_byte_between_2_bytes(obj['tosky_scen_link'],obj['scen_link'],3,length=11)
                                 untriggerstoryf=extract_byte_between_2_bytes(obj['byte1'],obj['tosky_scen_link'],0,length=11)
                                 extra_info['trigstoryfid']=triggerstoryf
                                 extra_info['untrigstoryfid']=untriggerstoryf
                                 extra_info['trigstoryf']=all_story_flags[triggerstoryf] if triggerstoryf < len(all_story_flags) else '-'
                                 extra_info['untrigstoryf']=all_story_flags[untriggerstoryf] if untriggerstoryf < len(all_story_flags) else '-'
-                                extra_info['trigscenefid']=obj['transition_type']
-                                extra_info['untrigscenefid']=obj['event_flag']
-                                extra_info['trigscenef']=flag_id_to_sheet_rep(obj['transition_type'])
-                                extra_info['untrigscenef']=flag_id_to_sheet_rep(obj['event_flag'])
+                                # there might be more Npc actors with this sceneflag behaviour but needs testing
+                                if obj['name']=='NpcTke':
+                                    extra_info['trigscenefid']=obj['transition_type']
+                                    extra_info['untrigscenefid']=obj['event_flag']
+                                    extra_info['trigscenef']=flag_id_to_sheet_rep(obj['transition_type'])
+                                    extra_info['untrigscenef']=flag_id_to_sheet_rep(obj['event_flag'])
                             
                             # convert it to format thats easier readable
                             if 'flagid' in extra_info:

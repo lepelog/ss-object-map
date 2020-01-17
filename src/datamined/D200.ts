@@ -84,7 +84,11 @@
             "angle": 64,
             "bin": "1111 0000 1111 1111 1111 1111 0010 0001",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 21"
+                "first_4_bytes": "F0 FF FF 21",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -109,7 +113,11 @@
             "angle": 64,
             "bin": "1111 0000 1111 1111 1111 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 10"
+                "first_4_bytes": "F0 FF FF 10",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -134,7 +142,11 @@
             "angle": 64,
             "bin": "1111 0000 1111 1111 1111 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 10"
+                "first_4_bytes": "F0 FF FF 10",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -159,7 +171,11 @@
             "angle": 64,
             "bin": "1111 0000 1111 1111 1111 1111 0010 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 20"
+                "first_4_bytes": "F0 FF FF 20",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -184,7 +200,11 @@
             "angle": 64,
             "bin": "1111 0000 1111 1111 1111 1111 0010 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 20"
+                "first_4_bytes": "F0 FF FF 20",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1279,7 +1299,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0001 0100 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C1 41"
+                "first_4_bytes": "FF FF C1 41",
+                "trigstoryfid": 2032,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1304,7 +1328,11 @@
             "angle": 0,
             "bin": "1100 0011 1011 1111 1100 0001 0100 0001",
             "extraInfo": {
-                "first_4_bytes": "C3 BF C1 41"
+                "first_4_bytes": "C3 BF C1 41",
+                "trigstoryfid": 2032,
+                "untrigstoryfid": 1565,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1329,7 +1357,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0001 0100 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C1 41"
+                "first_4_bytes": "FF FF C1 41",
+                "trigstoryfid": 2032,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1354,7 +1386,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0001 0100 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C1 41"
+                "first_4_bytes": "FF FF C1 41",
+                "trigstoryfid": 2032,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1379,7 +1415,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0001 0100 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C1 41"
+                "first_4_bytes": "FF FF C1 41",
+                "trigstoryfid": 2032,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1404,7 +1444,11 @@
             "angle": 0,
             "bin": "1100 0011 0111 1111 1100 0001 0100 0001",
             "extraInfo": {
-                "first_4_bytes": "C3 7F C1 41"
+                "first_4_bytes": "C3 7F C1 41",
+                "trigstoryfid": 2032,
+                "untrigstoryfid": 1563,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1429,7 +1473,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0001 0100 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C1 41"
+                "first_4_bytes": "FF FF C1 41",
+                "trigstoryfid": 2032,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2067,10 +2115,6 @@
                 "untrigstoryfid": 7,
                 "trigstoryf": "-",
                 "untrigstoryf": "Beat Earth Temple (ET Boss Room Layer 2)",
-                "trigscenefid": -1,
-                "untrigscenefid": 51,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x7 08",
                 "eventSrc": "301-MountainD1.c#L6"
             },
             "type": "OBJ ",
@@ -2444,10 +2488,6 @@
                 "untrigstoryfid": 7,
                 "trigstoryf": "-",
                 "untrigstoryf": "Beat Earth Temple (ET Boss Room Layer 2)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "301-MountainD1.c#L75"
             },
             "type": "OBJ ",
@@ -2627,7 +2667,11 @@
             "angle": 0,
             "bin": "1111 0000 1111 1111 1111 1100 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FC 10"
+                "first_4_bytes": "F0 FF FC 10",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3382,7 +3426,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1010 0110 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 08 A6 30"
+                "first_4_bytes": "FF 08 A6 30",
+                "trigstoryfid": 553,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Toilet Hand 5 crystals collected",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -3410,7 +3458,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 30"
+                "first_4_bytes": "FF 08 FF 30",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -3466,7 +3518,9 @@
             "angle": 7239,
             "bin": "0111 1111 1111 1111 1111 1000 0000 0111",
             "extraInfo": {
-                "first_4_bytes": "7F FF F8 07"
+                "first_4_bytes": "7F FF F8 07",
+                "flagid": -128,
+                "areaflag": "temp flag: 0x1 01"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -3550,7 +3604,11 @@
             "angle": 64,
             "bin": "1111 1111 0000 1000 1010 0110 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 08 A6 30"
+                "first_4_bytes": "FF 08 A6 30",
+                "trigstoryfid": 553,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Toilet Hand 5 crystals collected",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -3578,7 +3636,11 @@
             "angle": 192,
             "bin": "1111 1111 0000 1000 1010 0110 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 08 A6 30"
+                "first_4_bytes": "FF 08 A6 30",
+                "trigstoryfid": 553,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Toilet Hand 5 crystals collected",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -3606,7 +3668,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1000 1101 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 08 8D 30"
+                "first_4_bytes": "FF 08 8D 30",
+                "trigstoryfid": 547,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Obtain Cawlin's Letter",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -3880,7 +3946,11 @@
             "angle": 128,
             "bin": "1111 0000 1111 1111 1111 1010 0010 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FA 20"
+                "first_4_bytes": "F0 FF FA 20",
+                "trigstoryfid": 2046,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3905,7 +3975,11 @@
             "angle": 14350,
             "bin": "1111 0000 1111 1111 1111 1010 0010 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FA 20"
+                "first_4_bytes": "F0 FF FA 20",
+                "trigstoryfid": 2046,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4161,7 +4235,11 @@
             "angle": 192,
             "bin": "1111 0000 1111 1111 1111 1010 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FA 10"
+                "first_4_bytes": "F0 FF FA 10",
+                "trigstoryfid": 2046,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4432,7 +4510,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1001 0100 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 08 94 30"
+                "first_4_bytes": "FF 08 94 30",
+                "trigstoryfid": 549,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Set when giving Cawlin's Letter to the toilet ghost, unset when sleeping",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -6621,7 +6703,9 @@
             "angle": 160,
             "bin": "0111 1111 1111 1111 1111 1010 0111 0111",
             "extraInfo": {
-                "first_4_bytes": "7F FF FA 77"
+                "first_4_bytes": "7F FF FA 77",
+                "flagid": -89,
+                "areaflag": "temp flag: 0x5 80"
             },
             "type": "SOBJ",
             "roomid": 4,

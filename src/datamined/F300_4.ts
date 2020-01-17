@@ -1216,10 +1216,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "400-Desert.c#L140"
             },
             "type": "OBJ ",
@@ -1250,10 +1246,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 4,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 10",
                 "eventSrc": "400-Desert.c#L196"
             },
             "type": "OBJ ",
@@ -2362,10 +2354,6 @@
                 "untrigstoryfid": 140,
                 "trigstoryf": "-",
                 "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "400-Desert.c#L140"
             },
             "type": "OBJ ",
@@ -2421,10 +2409,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "400-Desert.c#L196"
             },
             "type": "OBJ ",

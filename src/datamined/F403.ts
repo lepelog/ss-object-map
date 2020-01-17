@@ -803,11 +803,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1895,7 +1891,9 @@
             "angle": -28701,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -1923,7 +1921,9 @@
             "angle": 7207,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -1951,7 +1951,9 @@
             "angle": -23153,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -1979,7 +1981,9 @@
             "angle": 27713,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2007,7 +2011,9 @@
             "angle": 1307,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2035,7 +2041,9 @@
             "angle": 29404,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2063,7 +2071,9 @@
             "angle": 4785,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2091,7 +2101,9 @@
             "angle": 128,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2119,7 +2131,9 @@
             "angle": 23376,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2147,7 +2161,9 @@
             "angle": 18719,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2175,7 +2191,9 @@
             "angle": -1532,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2203,7 +2221,9 @@
             "angle": -31795,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2231,7 +2251,9 @@
             "angle": -18528,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2259,7 +2281,9 @@
             "angle": 32114,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2287,7 +2311,9 @@
             "angle": -27842,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2816,11 +2842,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,

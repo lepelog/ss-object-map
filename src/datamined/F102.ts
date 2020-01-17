@@ -490,10 +490,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L423"
             },
             "type": "OBJ ",
@@ -524,10 +520,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L457"
             },
             "type": "OBJ ",
@@ -558,10 +550,6 @@
                 "untrigstoryfid": 116,
                 "trigstoryf": "-",
                 "untrigstoryf": "Finished following Parella",
-                "trigscenefid": -1,
-                "untrigscenefid": 0,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "203-ForestF2.c#L498"
             },
             "type": "OBJS",
@@ -1006,10 +994,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L693"
             },
             "type": "OBJ ",
@@ -1795,10 +1779,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L447"
             },
             "type": "OBJ ",
@@ -1829,10 +1809,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L616"
             },
             "type": "OBJ ",
@@ -1913,7 +1889,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 0110 1100 0010 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 06 C2 31"
+                "first_4_bytes": "FF 06 C2 31",
+                "trigstoryfid": 432,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -1941,7 +1921,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 0110 1100 0010 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 06 C2 31"
+                "first_4_bytes": "FF 06 C2 31",
+                "trigstoryfid": 432,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -1969,7 +1953,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 31"
+                "first_4_bytes": "FF 06 FF 31",
+                "trigstoryfid": 447,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -1997,7 +1985,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 0100 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 04 FF 11"
+                "first_4_bytes": "FF 04 FF 11",
+                "trigstoryfid": 319,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "(not implemented yet -- 7845)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -2025,7 +2017,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 11"
+                "first_4_bytes": "FF 05 FF 11",
+                "trigstoryfid": 383,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Heal Orielle's bird",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -2706,11 +2702,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,

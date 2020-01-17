@@ -555,7 +555,11 @@
             "angle": 22261,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -580,7 +584,11 @@
             "angle": 64,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -605,7 +613,11 @@
             "angle": 64,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -630,7 +642,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -655,7 +671,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -680,7 +700,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -988,7 +1012,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1013,7 +1041,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1038,7 +1070,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1185,11 +1221,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": -7,
-                "untrigscenefid": 58,
-                "trigscenef": "temp flag: 0xE 02",
-                "untrigscenef": "scene flag: 0x6 04"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1279,11 +1311,7 @@
                 "trigstoryfid": 433,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Reveal Goddess Wall in Skyview 2",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 94,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0xA 40"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1364,7 +1392,11 @@
             "angle": 64,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1389,7 +1421,11 @@
             "angle": 64,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1414,7 +1450,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1439,7 +1479,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1464,7 +1508,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 1000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 48"
+                "first_4_bytes": "FF FF FD 48",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2001,7 +2049,11 @@
             "angle": 21781,
             "bin": "0011 1111 1111 0000 0011 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 3C 08"
+                "first_4_bytes": "3F F0 3C 08",
+                "trigstoryfid": 1039,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2026,7 +2078,11 @@
             "angle": -21974,
             "bin": "0011 1111 1111 0000 0011 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 3C 08"
+                "first_4_bytes": "3F F0 3C 08",
+                "trigstoryfid": 1039,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2051,7 +2107,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 0000 0011 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 3C 08"
+                "first_4_bytes": "3F F0 3C 08",
+                "trigstoryfid": 1039,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2076,7 +2136,11 @@
             "angle": 29404,
             "bin": "0011 1111 1111 0000 0111 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 7C 08"
+                "first_4_bytes": "3F F0 7C 08",
+                "trigstoryfid": 1055,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2101,7 +2165,11 @@
             "angle": -14095,
             "bin": "0011 1111 1111 0000 0111 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 7C 08"
+                "first_4_bytes": "3F F0 7C 08",
+                "trigstoryfid": 1055,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2126,7 +2194,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2151,7 +2223,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2176,7 +2252,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2201,7 +2281,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2226,7 +2310,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2301,7 +2389,11 @@
             "angle": 21781,
             "bin": "0011 1111 1111 0000 0011 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 3C 08"
+                "first_4_bytes": "3F F0 3C 08",
+                "trigstoryfid": 1039,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2326,7 +2418,11 @@
             "angle": -21974,
             "bin": "0011 1111 1111 0000 0011 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 3C 08"
+                "first_4_bytes": "3F F0 3C 08",
+                "trigstoryfid": 1039,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2351,7 +2447,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 0000 0011 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 3C 08"
+                "first_4_bytes": "3F F0 3C 08",
+                "trigstoryfid": 1039,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2376,7 +2476,11 @@
             "angle": 29404,
             "bin": "0011 1111 1111 0000 0111 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 7C 08"
+                "first_4_bytes": "3F F0 7C 08",
+                "trigstoryfid": 1055,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2401,7 +2505,11 @@
             "angle": -14095,
             "bin": "0011 1111 1111 0000 0111 1100 0000 1000",
             "extraInfo": {
-                "first_4_bytes": "3F F0 7C 08"
+                "first_4_bytes": "3F F0 7C 08",
+                "trigstoryfid": 1055,
+                "untrigstoryfid": 511,
+                "trigstoryf": "",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2426,7 +2534,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2451,7 +2563,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2476,7 +2592,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2501,7 +2621,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2526,7 +2650,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3492,7 +3620,11 @@
             "angle": 0,
             "bin": "1111 0001 1000 0000 0111 1111 0010 0001",
             "extraInfo": {
-                "first_4_bytes": "F1 80 7F 21"
+                "first_4_bytes": "F1 80 7F 21",
+                "trigstoryfid": 31,
+                "untrigstoryfid": 1932,
+                "trigstoryf": "Wing Ceremony Cutscene Part 2 (Sky layer 1)",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3811,7 +3943,11 @@
             "angle": 0,
             "bin": "1111 0001 1000 0000 0111 1111 0010 0101",
             "extraInfo": {
-                "first_4_bytes": "F1 80 7F 25"
+                "first_4_bytes": "F1 80 7F 25",
+                "trigstoryfid": 31,
+                "untrigstoryfid": 1932,
+                "trigstoryf": "Wing Ceremony Cutscene Part 2 (Sky layer 1)",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3836,7 +3972,11 @@
             "angle": 7175,
             "bin": "1100 1001 1111 1111 1111 0000 0001 1101",
             "extraInfo": {
-                "first_4_bytes": "C9 FF F0 1D"
+                "first_4_bytes": "C9 FF F0 1D",
+                "trigstoryfid": 2044,
+                "untrigstoryfid": 1615,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4728,7 +4868,11 @@
             "angle": 64,
             "bin": "1111 0001 1111 1111 1111 1010 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "F1 FF FA 11"
+                "first_4_bytes": "F1 FF FA 11",
+                "trigstoryfid": 2046,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -4817,10 +4961,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 31,
-                "untrigscenefid": 55,
-                "trigscenef": "scene flag: 0x2 80",
-                "untrigscenef": "scene flag: 0x7 80",
                 "eventSrc": "201-ForestD1.c#L300"
             },
             "type": "OBJ ",
@@ -5767,11 +5907,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -5862,11 +5998,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": -9,
-                "untrigscenefid": 127,
-                "trigscenef": "temp flag: 0xF 80",
-                "untrigscenef": "scene flag: 0xE 80"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -7077,7 +7209,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 0000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 40"
+                "first_4_bytes": "FF FF FD 40",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -7102,7 +7238,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 0000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 40"
+                "first_4_bytes": "FF FF FD 40",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -7127,7 +7267,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 0000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 40"
+                "first_4_bytes": "FF FF FD 40",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -7152,7 +7296,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 0000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 40"
+                "first_4_bytes": "FF FF FD 40",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -7177,7 +7325,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 0000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 40"
+                "first_4_bytes": "FF FF FD 40",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -7202,7 +7354,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1101 0100 0000",
             "extraInfo": {
-                "first_4_bytes": "FF FF FD 40"
+                "first_4_bytes": "FF FF FD 40",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -7417,7 +7573,11 @@
             "angle": -21526,
             "bin": "1111 0001 1111 1111 1111 1111 0010 0001",
             "extraInfo": {
-                "first_4_bytes": "F1 FF FF 21"
+                "first_4_bytes": "F1 FF FF 21",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -7442,7 +7602,11 @@
             "angle": 21845,
             "bin": "1111 0001 1111 1111 1111 1111 0010 0001",
             "extraInfo": {
-                "first_4_bytes": "F1 FF FF 21"
+                "first_4_bytes": "F1 FF FF 21",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -10953,7 +11117,11 @@
             "angle": 64,
             "bin": "1111 0001 1000 0010 0111 1111 0010 0001",
             "extraInfo": {
-                "first_4_bytes": "F1 82 7F 21"
+                "first_4_bytes": "F1 82 7F 21",
+                "trigstoryfid": 159,
+                "untrigstoryfid": 1932,
+                "trigstoryf": "Sky Keep Introductory Cutscene",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -10978,7 +11146,11 @@
             "angle": 0,
             "bin": "1111 0000 1111 1111 1111 1111 0010 0101",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 25"
+                "first_4_bytes": "F0 FF FF 25",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -11003,7 +11175,11 @@
             "angle": 128,
             "bin": "1111 0111 1111 1111 1111 1111 0010 0101",
             "extraInfo": {
-                "first_4_bytes": "F7 FF FF 25"
+                "first_4_bytes": "F7 FF FF 25",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1983,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -11091,11 +11267,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": -8,
-                "untrigscenefid": 56,
-                "trigscenef": "temp flag: 0xE 01",
-                "untrigscenef": "scene flag: 0x6 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -11120,7 +11292,11 @@
             "angle": 7175,
             "bin": "1100 1001 1111 1111 1111 1111 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "C9 FF FF 15"
+                "first_4_bytes": "C9 FF FF 15",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1615,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -11145,7 +11321,11 @@
             "angle": -6920,
             "bin": "1100 1001 1111 1111 1111 1111 0001 1101",
             "extraInfo": {
-                "first_4_bytes": "C9 FF FF 1D"
+                "first_4_bytes": "C9 FF FF 1D",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1615,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 9,

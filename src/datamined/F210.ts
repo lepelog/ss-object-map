@@ -493,10 +493,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -93,
-                "untrigscenefid": -1,
-                "trigscenef": "temp flag: 0x5 08",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L69"
             },
             "type": "OBJ ",
@@ -1391,10 +1387,6 @@
                 "untrigstoryfid": 471,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
                 "untrigstoryf": "delivered something to the sky? (unsets on next request?)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "303-MountainF2.c#L385"
             },
             "type": "OBJ ",
@@ -1425,10 +1417,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "303-MountainF2.c#L431"
             },
             "type": "OBJ ",
@@ -1459,10 +1447,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "303-MountainF2.c#L515"
             },
             "type": "OBJ ",
@@ -1922,7 +1906,9 @@
             "angle": 192,
             "bin": "0111 1111 1111 1111 1111 0000 0000 0111",
             "extraInfo": {
-                "first_4_bytes": "7F FF F0 07"
+                "first_4_bytes": "7F FF F0 07",
+                "flagid": 0,
+                "areaflag": "temp flag: 0x11 01"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1950,7 +1936,9 @@
             "angle": 64,
             "bin": "0111 1111 1111 1111 1111 0000 0001 0111",
             "extraInfo": {
-                "first_4_bytes": "7F FF F0 17"
+                "first_4_bytes": "7F FF F0 17",
+                "flagid": 1,
+                "areaflag": "scene flag: 0x1 02"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1978,7 +1966,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0110",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F6"
+                "first_4_bytes": "FF FF FF F6",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2006,7 +1996,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0110",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F6"
+                "first_4_bytes": "FF FF FF F6",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2034,7 +2026,9 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 0010 0011 0111",
             "extraInfo": {
-                "first_4_bytes": "7F FF F2 37"
+                "first_4_bytes": "7F FF F2 37",
+                "flagid": 35,
+                "areaflag": "scene flag: 0x5 08"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2062,7 +2056,9 @@
             "angle": 64,
             "bin": "0111 1111 1111 1111 1111 0011 1100 0111",
             "extraInfo": {
-                "first_4_bytes": "7F FF F3 C7"
+                "first_4_bytes": "7F FF F3 C7",
+                "flagid": 60,
+                "areaflag": "scene flag: 0x6 10"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2297,10 +2293,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L482"
             },
             "type": "OBJ ",
@@ -2428,7 +2420,11 @@
             "angle": 64,
             "bin": "1111 0110 1111 1111 1111 0000 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "F6 FF F0 15"
+                "first_4_bytes": "F6 FF F0 15",
+                "trigstoryfid": 2044,
+                "untrigstoryfid": 1975,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2453,7 +2449,11 @@
             "angle": 128,
             "bin": "1111 0000 1111 1111 1111 1111 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 15"
+                "first_4_bytes": "F0 FF FF 15",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2478,7 +2478,11 @@
             "angle": 128,
             "bin": "1111 0000 1111 1111 1111 1111 0000 0101",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 05"
+                "first_4_bytes": "F0 FF FF 05",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2503,7 +2507,11 @@
             "angle": 7239,
             "bin": "1111 1000 1111 1111 1111 0000 0000 0000",
             "extraInfo": {
-                "first_4_bytes": "F8 FF F0 00"
+                "first_4_bytes": "F8 FF F0 00",
+                "trigstoryfid": 2044,
+                "untrigstoryfid": 1991,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2528,7 +2536,11 @@
             "angle": 128,
             "bin": "1111 1000 1111 1111 1111 0000 0000 0000",
             "extraInfo": {
-                "first_4_bytes": "F8 FF F0 00"
+                "first_4_bytes": "F8 FF F0 00",
+                "trigstoryfid": 2044,
+                "untrigstoryfid": 1991,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2553,7 +2565,11 @@
             "angle": 14414,
             "bin": "1111 0010 1111 1111 1111 1100 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F2 FF FC 10"
+                "first_4_bytes": "F2 FF FC 10",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1943,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2578,7 +2594,11 @@
             "angle": 128,
             "bin": "1111 0010 1111 1111 1111 1111 0000 0000",
             "extraInfo": {
-                "first_4_bytes": "F2 FF FF 00"
+                "first_4_bytes": "F2 FF FF 00",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1943,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2603,7 +2623,11 @@
             "angle": 128,
             "bin": "1111 0000 1111 1111 1111 1111 0000 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 00"
+                "first_4_bytes": "F0 FF FF 00",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2628,7 +2652,11 @@
             "angle": -21910,
             "bin": "1111 0000 1111 1111 1111 1111 0000 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF FF 00"
+                "first_4_bytes": "F0 FF FF 00",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2690,7 +2718,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1100 0000 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 0A C0 30"
+                "first_4_bytes": "FF 0A C0 30",
+                "trigstoryfid": 688,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Reloading somehow after Finishing Pumm's 3rd Quest (play harp with Kina) (activates the new chandelier CS)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2720,10 +2752,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -50,
-                "untrigscenefid": -1,
-                "trigscenef": "temp flag: 0x8 40",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
@@ -2754,10 +2782,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L1"
             },
             "type": "OBJ ",
@@ -2788,10 +2812,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L64"
             },
             "type": "OBJ ",
@@ -2822,10 +2842,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Beat Sandship (Sand Sea layer 3)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L88"
             },
             "type": "OBJ ",
@@ -2856,10 +2872,6 @@
                 "untrigstoryfid": 676,
                 "trigstoryf": "-",
                 "untrigstoryf": "Talk to Mogma for hint in Waterfall area of Volcano Summit",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L125"
             },
             "type": "OBJ ",
@@ -2890,10 +2902,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
@@ -2924,10 +2932,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -50,
-                "untrigscenefid": -1,
-                "trigscenef": "temp flag: 0x8 40",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
@@ -2958,10 +2962,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L1"
             },
             "type": "OBJ ",
@@ -2992,10 +2992,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L64"
             },
             "type": "OBJ ",
@@ -3026,10 +3022,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L88"
             },
             "type": "OBJ ",
@@ -3060,10 +3052,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
@@ -3094,10 +3082,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L351"
             },
             "type": "OBJ ",
@@ -3128,10 +3112,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -50,
-                "untrigscenefid": -1,
-                "trigscenef": "temp flag: 0x8 40",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
@@ -3162,10 +3142,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L1"
             },
             "type": "OBJ ",
@@ -3196,10 +3172,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L64"
             },
             "type": "OBJ ",
@@ -3230,10 +3202,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L88"
             },
             "type": "OBJ ",
@@ -3264,10 +3232,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L351"
             },
             "type": "OBJ ",
@@ -3298,10 +3262,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "303-MountainF2.c#L548"
             },
             "type": "OBJ ",
@@ -3332,10 +3292,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",

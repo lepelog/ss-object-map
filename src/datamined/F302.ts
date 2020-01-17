@@ -46,10 +46,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "404-DesertF3.c#L172"
             },
             "type": "OBJ ",
@@ -80,10 +76,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "404-DesertF3.c#L64"
             },
             "type": "OBJ ",
@@ -297,11 +289,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -762,10 +750,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "404-DesertF3.c#L362"
             },
             "type": "OBJ ",
@@ -830,10 +814,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "404-DesertF3.c#L209"
             },
             "type": "OBJ ",
@@ -1950,11 +1930,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2568,10 +2544,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Thunder Dragon teaches SotH part (Lanayru Caves layer 4 / Lanayru Mines layer 4)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "460-RairyuMinigame.c#L1"
             },
             "type": "OBJ ",
@@ -2602,10 +2574,6 @@
                 "untrigstoryfid": 462,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
                 "untrigstoryf": "Set when Thunder Dragon teaches SotH part",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "404-DesertF3.c#L321"
             },
             "type": "OBJ ",
@@ -3004,10 +2972,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "404-DesertF3.c#L148"
             },
             "type": "OBJ ",
@@ -4730,7 +4694,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C2"
+                "first_4_bytes": "FF FF FF C2",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -4755,7 +4723,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C2"
+                "first_4_bytes": "FF FF FF C2",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -4780,7 +4752,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C2"
+                "first_4_bytes": "FF FF FF C2",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -4805,7 +4781,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C2"
+                "first_4_bytes": "FF FF FF C2",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -4830,7 +4810,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C2"
+                "first_4_bytes": "FF FF FF C2",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -4855,7 +4839,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C2"
+                "first_4_bytes": "FF FF FF C2",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -4880,7 +4868,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C2"
+                "first_4_bytes": "FF FF FF C2",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -4908,7 +4900,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0011 0100 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F3 4F F3"
+                "first_4_bytes": "FF F3 4F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 4,
@@ -4936,7 +4930,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0011 0100 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "FF F3 4F F1"
+                "first_4_bytes": "FF F3 4F F1",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 4,
@@ -4964,7 +4960,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0011 0100 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F3 4F F3"
+                "first_4_bytes": "FF F3 4F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 4,
@@ -4992,7 +4990,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0011 0100 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F3 4F F3"
+                "first_4_bytes": "FF F3 4F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 4,
@@ -5020,7 +5020,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0011 0100 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "FF F3 4F F1"
+                "first_4_bytes": "FF F3 4F F1",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 4,
@@ -5173,7 +5175,11 @@
             "angle": 192,
             "bin": "1111 1001 0000 0000 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "F9 00 FF 11"
+                "first_4_bytes": "F9 00 FF 11",
+                "trigstoryfid": 63,
+                "untrigstoryfid": 1992,
+                "trigstoryf": "Talking to Kikwi Ermit Yerbal",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -5201,7 +5207,11 @@
             "angle": 192,
             "bin": "1111 1001 0000 0000 1111 1111 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "F9 00 FF 01"
+                "first_4_bytes": "F9 00 FF 01",
+                "trigstoryfid": 63,
+                "untrigstoryfid": 1992,
+                "trigstoryf": "Talking to Kikwi Ermit Yerbal",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -5229,7 +5239,11 @@
             "angle": 192,
             "bin": "1111 1001 0000 0000 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "F9 00 FF 11"
+                "first_4_bytes": "F9 00 FF 11",
+                "trigstoryfid": 63,
+                "untrigstoryfid": 1992,
+                "trigstoryf": "Talking to Kikwi Ermit Yerbal",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -5257,7 +5271,11 @@
             "angle": 192,
             "bin": "1111 1001 0000 0000 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "F9 00 FF 11"
+                "first_4_bytes": "F9 00 FF 11",
+                "trigstoryfid": 63,
+                "untrigstoryfid": 1992,
+                "trigstoryf": "Talking to Kikwi Ermit Yerbal",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -5285,7 +5303,11 @@
             "angle": 192,
             "bin": "1111 1001 0000 0000 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "F9 00 FF 11"
+                "first_4_bytes": "F9 00 FF 11",
+                "trigstoryfid": 63,
+                "untrigstoryfid": 1992,
+                "trigstoryf": "Talking to Kikwi Ermit Yerbal",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -5947,7 +5969,11 @@
             "angle": 128,
             "bin": "1111 1001 0000 0000 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "F9 00 FF 11"
+                "first_4_bytes": "F9 00 FF 11",
+                "trigstoryfid": 63,
+                "untrigstoryfid": 1992,
+                "trigstoryf": "Talking to Kikwi Ermit Yerbal",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 6,
@@ -6300,7 +6326,11 @@
             "angle": 0,
             "bin": "1111 1001 0000 0000 1111 1111 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "F9 00 FF 01"
+                "first_4_bytes": "F9 00 FF 01",
+                "trigstoryfid": 63,
+                "untrigstoryfid": 1992,
+                "trigstoryf": "Talking to Kikwi Ermit Yerbal",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 7,

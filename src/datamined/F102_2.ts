@@ -62,11 +62,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 1,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x1 02",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -95,11 +91,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 1,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x1 02",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -128,11 +120,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 1,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x1 02",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -161,11 +149,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 1,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x1 02",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -194,11 +178,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 1,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x1 02",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -228,10 +208,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L673"
             },
             "type": "OBJ ",
@@ -262,10 +238,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L688"
             },
             "type": "OBJ ",
@@ -1196,10 +1168,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 1,
-                "untrigscenefid": 2,
-                "trigscenef": "scene flag: 0x1 02",
-                "untrigscenef": "scene flag: 0x1 04",
                 "eventSrc": "203-ForestF2.c#L621"
             },
             "type": "OBJS",
@@ -1970,10 +1938,6 @@
                 "untrigstoryfid": 65,
                 "trigstoryf": "-",
                 "untrigstoryf": "Set when healing Water Dragon (Skyview Spring layer 4)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L161"
             },
             "type": "OBJ ",
@@ -2004,10 +1968,6 @@
                 "untrigstoryfid": 200,
                 "trigstoryf": "Set when healing Water Dragon (Skyview Spring layer 4)",
                 "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L283"
             },
             "type": "OBJ ",
@@ -2066,10 +2026,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L283"
             },
             "type": "OBJ ",
@@ -2128,10 +2084,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L283"
             },
             "type": "OBJ ",

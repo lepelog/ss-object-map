@@ -55,7 +55,11 @@
             "angle": 32,
             "bin": "1111 0000 1111 1111 1001 1111 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 9F 15"
+                "first_4_bytes": "F0 FF 9F 15",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -80,7 +84,11 @@
             "angle": 96,
             "bin": "1111 0000 1111 1111 1001 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 9F 10"
+                "first_4_bytes": "F0 FF 9F 10",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -105,7 +113,11 @@
             "angle": 192,
             "bin": "1111 0000 1111 1111 1001 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 9F 10"
+                "first_4_bytes": "F0 FF 9F 10",
+                "trigstoryfid": 2023,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -130,7 +142,11 @@
             "angle": 192,
             "bin": "0111 1111 1111 1111 1111 1111 1100 0001",
             "extraInfo": {
-                "first_4_bytes": "7F FF FF C1"
+                "first_4_bytes": "7F FF FF C1",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -155,7 +171,11 @@
             "angle": 192,
             "bin": "0111 1111 1111 1111 1111 1111 1100 0001",
             "extraInfo": {
-                "first_4_bytes": "7F FF FF C1"
+                "first_4_bytes": "7F FF FF C1",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -180,7 +200,11 @@
             "angle": 192,
             "bin": "0111 1111 1111 1111 1111 1111 1100 0001",
             "extraInfo": {
-                "first_4_bytes": "7F FF FF C1"
+                "first_4_bytes": "7F FF FF C1",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -205,7 +229,11 @@
             "angle": 192,
             "bin": "0111 1111 1111 1111 1111 1111 1100 0001",
             "extraInfo": {
-                "first_4_bytes": "7F FF FF C1"
+                "first_4_bytes": "7F FF FF C1",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -230,7 +258,11 @@
             "angle": 192,
             "bin": "0111 1111 1111 1111 1111 1111 1100 0001",
             "extraInfo": {
-                "first_4_bytes": "7F FF FF C1"
+                "first_4_bytes": "7F FF FF C1",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -255,7 +287,11 @@
             "angle": 192,
             "bin": "0111 1111 1111 1111 1111 1111 1100 0001",
             "extraInfo": {
-                "first_4_bytes": "7F FF FF C1"
+                "first_4_bytes": "7F FF FF C1",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,

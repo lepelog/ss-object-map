@@ -3932,10 +3932,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "122-Town4.c#L204"
             },
             "type": "OBJ ",
@@ -6852,11 +6848,7 @@
                 "trigstoryfid": 2044,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6886,10 +6878,6 @@
                 "untrigstoryfid": 29,
                 "trigstoryf": "Meeting Zelda Cutscene",
                 "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "102-Zelda.c#L11"
             },
             "type": "OBJ ",
@@ -6920,10 +6908,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L204"
             },
             "type": "OBJ ",
@@ -6954,10 +6938,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 28,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x2 10",
                 "eventSrc": "108-ShinkanA.c#L394"
             },
             "type": "OBJ ",
@@ -7081,10 +7061,6 @@
                 "untrigstoryfid": 29,
                 "trigstoryf": "-",
                 "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L265"
             },
             "type": "OBJ ",
@@ -7115,10 +7091,6 @@
                 "untrigstoryfid": 29,
                 "trigstoryf": "Meeting Zelda Cutscene",
                 "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "103-DaiShinkan.c#L1"
             },
             "type": "OBJ ",
@@ -7149,10 +7121,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L434"
             },
             "type": "OBJ ",
@@ -7183,10 +7151,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L323"
             },
             "type": "OBJ ",
@@ -7217,10 +7181,6 @@
                 "untrigstoryfid": 23,
                 "trigstoryf": "-",
                 "untrigstoryf": "Meeting Zelda Cutscene",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "102-Zelda.c#L11"
             },
             "type": "OBJ ",
@@ -7301,10 +7261,6 @@
                 "untrigstoryfid": 29,
                 "trigstoryf": "Meeting Zelda Cutscene",
                 "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L35"
             },
             "type": "OBJ ",
@@ -7359,11 +7315,7 @@
                 "trigstoryfid": 517,
                 "untrigstoryfid": 1543,
                 "trigstoryf": "(not implemented yet -- 7305)",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7418,10 +7370,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L227"
             },
             "type": "OBJ ",
@@ -7452,10 +7400,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
@@ -7486,10 +7430,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
@@ -7520,10 +7460,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
@@ -7553,11 +7489,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7820,11 +7752,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7854,10 +7782,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "122-Town4.c#L179"
             },
             "type": "OBJ ",
@@ -8301,11 +8225,7 @@
                 "trigstoryfid": 32,
                 "untrigstoryfid": 672,
                 "trigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)",
-                "untrigstoryf": "Goddess Statue Opened",
-                "trigscenefid": -1,
-                "untrigscenefid": 0,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "Goddess Statue Opened"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8330,7 +8250,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8355,7 +8279,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8380,7 +8308,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8459,11 +8391,7 @@
                 "trigstoryfid": 2044,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9343,7 +9271,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -9371,7 +9303,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -9399,7 +9335,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 01"
+                "first_4_bytes": "FF 08 FF 01",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -9427,7 +9367,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 01"
+                "first_4_bytes": "FF 08 FF 01",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -9708,11 +9652,7 @@
                 "trigstoryfid": 2044,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9741,11 +9681,7 @@
                 "trigstoryfid": 2044,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9825,10 +9761,6 @@
                 "untrigstoryfid": 32,
                 "trigstoryf": "Wing Ceremony Cutscene Part 2 (Sky layer 1)",
                 "untrigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "102-Zelda.c#L60"
             },
             "type": "OBJ ",
@@ -9893,10 +9825,6 @@
                 "untrigstoryfid": 41,
                 "trigstoryf": "-",
                 "untrigstoryf": "Wing Ceremony Cutscene Part 1",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "102-Zelda.c#L185"
             },
             "type": "OBJ ",
@@ -9926,11 +9854,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 41,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wing Ceremony Cutscene Part 1",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "Wing Ceremony Cutscene Part 1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9959,11 +9883,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 41,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wing Ceremony Cutscene Part 1",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "Wing Ceremony Cutscene Part 1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9992,11 +9912,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 41,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wing Ceremony Cutscene Part 1",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "Wing Ceremony Cutscene Part 1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10060,10 +9976,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 5,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x1 20",
-                "untrigscenef": "no flag set",
                 "eventSrc": "108-ShinkanA.c#L510"
             },
             "type": "OBJ ",
@@ -10127,11 +10039,7 @@
                 "trigstoryfid": 41,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wing Ceremony Cutscene Part 1",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10160,11 +10068,7 @@
                 "trigstoryfid": 41,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wing Ceremony Cutscene Part 1",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10193,11 +10097,7 @@
                 "trigstoryfid": 41,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wing Ceremony Cutscene Part 1",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10301,11 +10201,7 @@
                 "trigstoryfid": 2044,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10394,10 +10290,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wing Ceremony Cutscene Part 1",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "103-DaiShinkan.c#L190"
             },
             "type": "OBJ ",
@@ -10628,10 +10520,6 @@
                 "untrigstoryfid": 39,
                 "trigstoryf": "Wing Ceremony Cutscene Part 1",
                 "untrigstoryf": "Wing Ceremony completed",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "102-Zelda.c#L185"
             },
             "type": "OBJ ",
@@ -11038,11 +10926,7 @@
                 "trigstoryfid": 2044,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11097,10 +10981,6 @@
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
                 "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L1"
             },
             "type": "OBJ ",
@@ -11131,10 +11011,6 @@
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
                 "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L64"
             },
             "type": "OBJ ",
@@ -11190,10 +11066,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L163"
             },
             "type": "OBJ ",
@@ -11292,10 +11164,6 @@
                 "untrigstoryfid": 304,
                 "trigstoryf": "Eldin light pillar",
                 "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L232"
             },
             "type": "OBJ ",
@@ -11360,10 +11228,6 @@
                 "untrigstoryfid": 131,
                 "trigstoryf": "Eldin light pillar",
                 "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
@@ -11444,10 +11308,6 @@
                 "untrigstoryfid": 200,
                 "trigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
                 "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "108-ShinkanA.c#L285"
             },
             "type": "OBJ ",
@@ -11512,10 +11372,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
@@ -11546,10 +11402,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Heal Orielle's bird",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "115-Town2.c#L1129"
             },
             "type": "OBJ ",
@@ -11604,11 +11456,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11663,10 +11511,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Fledge's 5 crystals collected",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "114-Friend.c#L43"
             },
             "type": "OBJ ",
@@ -11765,10 +11609,6 @@
                 "untrigstoryfid": 9,
                 "trigstoryf": "-",
                 "untrigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "108-ShinkanA.c#L212"
             },
             "type": "OBJ ",
@@ -11799,10 +11639,6 @@
                 "untrigstoryfid": 49,
                 "trigstoryf": "-",
                 "untrigstoryf": "Talk to Headmaster to learn about Windmills",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L296"
             },
             "type": "OBJ ",
@@ -11866,11 +11702,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 325,
                 "trigstoryf": "-",
-                "untrigstoryf": "Village Windmill reparation cutscene",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "Village Windmill reparation cutscene"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11900,10 +11732,6 @@
                 "untrigstoryfid": 325,
                 "trigstoryf": "Talk to Headmaster to learn about Windmills",
                 "untrigstoryf": "Village Windmill reparation cutscene",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L612"
             },
             "type": "OBJ ",
@@ -12259,10 +12087,6 @@
                 "untrigstoryfid": 5,
                 "trigstoryf": "-",
                 "untrigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L194"
             },
             "type": "OBJ ",
@@ -12293,10 +12117,6 @@
                 "untrigstoryfid": 394,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
                 "untrigstoryf": "Fledge's 5 crystals collected",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
@@ -12927,11 +12747,7 @@
                 "trigstoryfid": 577,
                 "untrigstoryfid": 578,
                 "trigstoryf": "",
-                "untrigstoryf": "",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12995,10 +12811,6 @@
                 "untrigstoryfid": 361,
                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
                 "untrigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
-                "trigscenefid": -1,
-                "untrigscenefid": 5,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 20",
                 "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
@@ -13029,10 +12841,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 5,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 20",
                 "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
@@ -13217,7 +13025,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13242,7 +13054,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13267,7 +13083,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13292,7 +13112,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13317,7 +13141,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13342,7 +13170,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13367,7 +13199,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13392,7 +13228,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13417,7 +13257,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13446,11 +13290,7 @@
                 "trigstoryfid": 2045,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14000,7 +13840,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14025,7 +13869,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14050,7 +13898,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14075,7 +13927,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14100,7 +13956,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14125,7 +13985,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14150,7 +14014,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14175,7 +14043,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14229,11 +14101,7 @@
                 "trigstoryfid": 577,
                 "untrigstoryfid": 578,
                 "trigstoryf": "",
-                "untrigstoryf": "",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14547,10 +14415,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
@@ -14581,10 +14445,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L248"
             },
             "type": "OBJ ",
@@ -14615,10 +14475,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L403"
             },
             "type": "OBJ ",
@@ -14676,10 +14532,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "121-AkumaKun.c#L76"
             },
             "type": "OBJ ",
@@ -14787,7 +14639,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -14815,7 +14671,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -14843,7 +14703,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -14871,7 +14735,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -14899,7 +14767,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -14927,7 +14799,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -14955,7 +14831,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -14983,7 +14863,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -15011,7 +14895,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -15039,7 +14927,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -15067,7 +14959,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 01"
+                "first_4_bytes": "FF 08 FF 01",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -15095,7 +14991,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 01"
+                "first_4_bytes": "FF 08 FF 01",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -15501,11 +15401,7 @@
                 "trigstoryfid": 2044,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15635,10 +15531,6 @@
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
                 "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L1"
             },
             "type": "OBJ ",
@@ -15669,10 +15561,6 @@
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
                 "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L64"
             },
             "type": "OBJ ",
@@ -15728,10 +15616,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L163"
             },
             "type": "OBJ ",
@@ -15762,10 +15646,6 @@
                 "untrigstoryfid": 304,
                 "trigstoryf": "Eldin light pillar",
                 "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L232"
             },
             "type": "OBJ ",
@@ -15830,10 +15710,6 @@
                 "untrigstoryfid": 131,
                 "trigstoryf": "Eldin light pillar",
                 "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
@@ -15914,10 +15790,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
@@ -15948,10 +15820,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Heal Orielle's bird",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "115-Town2.c#L1129"
             },
             "type": "OBJ ",
@@ -15982,10 +15850,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Fledge's 5 crystals collected",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "114-Friend.c#L43"
             },
             "type": "OBJ ",
@@ -16341,10 +16205,6 @@
                 "untrigstoryfid": 394,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
                 "untrigstoryf": "Fledge's 5 crystals collected",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
@@ -17337,7 +17197,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17362,7 +17226,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17387,7 +17255,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17412,7 +17284,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17437,7 +17313,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17462,7 +17342,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17487,7 +17371,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17512,7 +17400,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17566,11 +17458,7 @@
                 "trigstoryfid": 577,
                 "untrigstoryfid": 578,
                 "trigstoryf": "",
-                "untrigstoryf": "",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17634,10 +17522,6 @@
                 "untrigstoryfid": 361,
                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
                 "untrigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
-                "trigscenefid": -1,
-                "untrigscenefid": 5,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 20",
                 "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
@@ -17668,10 +17552,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 5,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 20",
                 "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
@@ -17831,7 +17711,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17856,7 +17740,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17881,7 +17769,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17906,7 +17798,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17931,7 +17827,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17956,7 +17856,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17981,7 +17885,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18010,11 +17918,7 @@
                 "trigstoryfid": 577,
                 "untrigstoryfid": 578,
                 "trigstoryf": "",
-                "untrigstoryf": "",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18043,11 +17947,7 @@
                 "trigstoryfid": 2045,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18327,10 +18227,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
@@ -18361,10 +18257,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L248"
             },
             "type": "OBJ ",
@@ -18395,10 +18287,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L403"
             },
             "type": "OBJ ",
@@ -18456,10 +18344,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "121-AkumaKun.c#L76"
             },
             "type": "OBJ ",
@@ -18542,7 +18426,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -18570,7 +18458,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -18598,7 +18490,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -18626,7 +18522,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -18654,7 +18554,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -18682,7 +18586,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -18710,7 +18618,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -18738,7 +18650,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -18766,7 +18682,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -19048,10 +18968,6 @@
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
                 "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L1"
             },
             "type": "OBJ ",
@@ -19082,10 +18998,6 @@
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
                 "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L64"
             },
             "type": "OBJ ",
@@ -19141,10 +19053,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L163"
             },
             "type": "OBJ ",
@@ -19175,10 +19083,6 @@
                 "untrigstoryfid": 304,
                 "trigstoryf": "Eldin light pillar",
                 "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L232"
             },
             "type": "OBJ ",
@@ -19209,10 +19113,6 @@
                 "untrigstoryfid": 131,
                 "trigstoryf": "Eldin light pillar",
                 "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
@@ -19293,10 +19193,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
@@ -19327,10 +19223,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Heal Orielle's bird",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "115-Town2.c#L1129"
             },
             "type": "OBJ ",
@@ -19361,10 +19253,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Fledge's 5 crystals collected",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "114-Friend.c#L43"
             },
             "type": "OBJ ",
@@ -19394,11 +19282,7 @@
                 "trigstoryfid": 2044,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -19428,10 +19312,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "103-DaiShinkan.c#L36"
             },
             "type": "OBJ ",
@@ -19462,10 +19342,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L123"
             },
             "type": "OBJ ",
@@ -19521,10 +19397,6 @@
                 "untrigstoryfid": 394,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
                 "untrigstoryf": "Fledge's 5 crystals collected",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
@@ -19555,10 +19427,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L210"
             },
             "type": "OBJ ",
@@ -20281,7 +20149,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20306,7 +20178,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20331,7 +20207,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20356,7 +20236,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20381,7 +20265,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20406,7 +20294,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20431,7 +20323,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20456,7 +20352,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20510,11 +20410,7 @@
                 "trigstoryfid": 577,
                 "untrigstoryfid": 578,
                 "trigstoryf": "",
-                "untrigstoryf": "",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20578,10 +20474,6 @@
                 "untrigstoryfid": 361,
                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
                 "untrigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
-                "trigscenefid": -1,
-                "untrigscenefid": 5,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 20",
                 "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
@@ -20612,10 +20504,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 5,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 20",
                 "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
@@ -20775,7 +20663,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20800,7 +20692,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20825,7 +20721,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20850,7 +20750,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20875,7 +20779,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20900,7 +20808,11 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1111 1111 1100 0000",
             "extraInfo": {
-                "first_4_bytes": "3F FF FF C0"
+                "first_4_bytes": "3F FF FF C0",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 511,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20929,11 +20841,7 @@
                 "trigstoryfid": 577,
                 "untrigstoryfid": 578,
                 "trigstoryf": "",
-                "untrigstoryf": "",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20962,11 +20870,7 @@
                 "trigstoryfid": 2045,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -21046,10 +20950,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
@@ -21080,10 +20980,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L248"
             },
             "type": "OBJ ",
@@ -21114,10 +21010,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L403"
             },
             "type": "OBJ ",
@@ -21148,10 +21040,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "121-AkumaKun.c#L76"
             },
             "type": "OBJ ",
@@ -21234,7 +21122,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -21262,7 +21154,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -21290,7 +21186,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -21318,7 +21218,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -21346,7 +21250,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -21374,7 +21282,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -21402,7 +21314,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -21430,7 +21346,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -21460,10 +21380,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L74"
             },
             "type": "OBJ ",
@@ -21493,11 +21409,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -21561,10 +21473,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L303"
             },
             "type": "OBJ ",
@@ -21654,10 +21562,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L146"
             },
             "type": "OBJ ",
@@ -21687,11 +21591,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -21789,10 +21689,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "102-Zelda.c#L60"
             },
             "type": "OBJ ",
@@ -21848,10 +21744,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L434"
             },
             "type": "OBJ ",
@@ -21882,10 +21774,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L323"
             },
             "type": "OBJ ",
@@ -21991,10 +21879,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L227"
             },
             "type": "OBJ ",
@@ -22025,10 +21909,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
@@ -22059,10 +21939,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
@@ -22093,10 +21969,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
@@ -22126,11 +21998,7 @@
                 "trigstoryfid": 2044,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -22441,10 +22309,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "100-Town.c#L204"
             },
             "type": "OBJ ",
@@ -22475,10 +22339,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "122-Town4.c#L179"
             },
             "type": "OBJ ",
@@ -22840,11 +22700,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -120,11 +120,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1542,7 +1538,11 @@
             "angle": -21942,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1567,7 +1567,11 @@
             "angle": -21942,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1592,7 +1596,11 @@
             "angle": -21942,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1617,7 +1625,11 @@
             "angle": -21942,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1642,7 +1654,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1667,7 +1683,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1692,7 +1712,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1717,7 +1741,11 @@
             "angle": 32,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1742,7 +1770,11 @@
             "angle": -21942,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1767,7 +1799,11 @@
             "angle": 22261,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1792,7 +1828,11 @@
             "angle": 22261,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1817,7 +1857,11 @@
             "angle": 22261,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1842,7 +1886,11 @@
             "angle": 22229,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1867,7 +1915,11 @@
             "angle": 22229,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1892,7 +1944,11 @@
             "angle": 22229,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1917,7 +1973,11 @@
             "angle": -21942,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1942,7 +2002,11 @@
             "angle": 32,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3144,7 +3208,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3169,7 +3237,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3194,7 +3266,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3219,7 +3295,11 @@
             "angle": 0,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3244,7 +3324,11 @@
             "angle": -21910,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3269,7 +3353,11 @@
             "angle": -21910,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3294,7 +3382,11 @@
             "angle": 21781,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3319,7 +3411,11 @@
             "angle": 21781,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3344,7 +3440,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3369,7 +3469,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3394,7 +3498,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3419,7 +3527,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3444,7 +3556,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3469,7 +3585,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3494,7 +3614,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3519,7 +3643,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3544,7 +3672,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4973,7 +5105,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4998,7 +5134,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5023,7 +5163,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5048,7 +5192,11 @@
             "angle": 0,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5073,7 +5221,11 @@
             "angle": -21910,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5098,7 +5250,11 @@
             "angle": -21910,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5123,7 +5279,11 @@
             "angle": 21781,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5148,7 +5308,11 @@
             "angle": 21781,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5173,7 +5337,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5198,7 +5366,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5223,7 +5395,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5248,7 +5424,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5273,7 +5453,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5298,7 +5482,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5323,7 +5511,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5348,7 +5540,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5373,7 +5569,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5398,7 +5598,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5423,7 +5627,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5448,7 +5656,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5473,7 +5685,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5498,7 +5714,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5523,7 +5743,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6001,7 +6225,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6026,7 +6254,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6051,7 +6283,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6076,7 +6312,11 @@
             "angle": 0,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6101,7 +6341,11 @@
             "angle": -21910,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6126,7 +6370,11 @@
             "angle": -21910,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6151,7 +6399,11 @@
             "angle": 21781,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6176,7 +6428,11 @@
             "angle": 21781,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6282,7 +6538,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6307,7 +6567,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6488,7 +6752,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6513,7 +6781,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6538,7 +6810,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7052,7 +7328,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7077,7 +7357,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7102,7 +7386,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7227,7 +7515,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7252,7 +7544,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7277,7 +7573,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7427,7 +7727,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7452,7 +7756,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7477,7 +7785,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7502,7 +7814,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8931,7 +9247,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8956,7 +9276,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8981,7 +9305,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9006,7 +9334,11 @@
             "angle": 0,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9031,7 +9363,11 @@
             "angle": -21910,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9056,7 +9392,11 @@
             "angle": -21910,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9081,7 +9421,11 @@
             "angle": 21781,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9106,7 +9450,11 @@
             "angle": 21781,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9131,7 +9479,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9156,7 +9508,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9181,7 +9537,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9206,7 +9566,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9231,7 +9595,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9256,7 +9624,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9281,7 +9653,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9306,7 +9682,11 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9331,7 +9711,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9356,7 +9740,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9381,7 +9769,11 @@
             "angle": 128,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9406,7 +9798,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9431,7 +9827,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9456,7 +9856,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -9481,7 +9885,11 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1101 0000 0000 1101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF D0 0D"
+                "first_4_bytes": "D9 FF D0 0D",
+                "trigstoryfid": 2036,
+                "untrigstoryfid": 1743,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,

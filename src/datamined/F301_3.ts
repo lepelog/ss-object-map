@@ -1086,10 +1086,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "402-DesertF2.c#L201"
             },
             "type": "OBJ ",
@@ -1752,7 +1748,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32"
+                "first_4_bytes": "FF 0A FF 32",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2032,7 +2032,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 12"
+                "first_4_bytes": "FF 05 FF 12",
+                "trigstoryfid": 383,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Heal Orielle's bird",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2060,7 +2064,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 12"
+                "first_4_bytes": "FF 05 FF 12",
+                "trigstoryfid": 383,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Heal Orielle's bird",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2088,7 +2096,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 12"
+                "first_4_bytes": "FF 05 FF 12",
+                "trigstoryfid": 383,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Heal Orielle's bird",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2116,7 +2128,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 12"
+                "first_4_bytes": "FF 05 FF 12",
+                "trigstoryfid": 383,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "Heal Orielle's bird",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,

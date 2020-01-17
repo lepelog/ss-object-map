@@ -3974,11 +3974,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4008,10 +4004,6 @@
                 "untrigstoryfid": 383,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
                 "untrigstoryf": "Heal Orielle's bird",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "115-Town2.c#L1016"
             },
             "type": "OBJ ",
@@ -4142,10 +4134,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "110-DivingGame.c#L1"
             },
             "type": "OBJ ",
@@ -4201,10 +4189,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "117-Pumpkin.c#L54"
             },
             "type": "OBJ ",
@@ -4235,10 +4219,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set after delivering hot pumpkin soup",
                 "untrigstoryf": "-",
-                "trigscenefid": 6,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x1 40",
-                "untrigscenef": "no flag set",
                 "eventSrc": "117-Pumpkin.c#L932"
             },
             "type": "OBJ ",
@@ -4327,11 +4307,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4535,11 +4511,7 @@
                 "trigstoryfid": 1617,
                 "untrigstoryfid": 1631,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5253,10 +5225,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "105-Terry.c#L331"
             },
             "type": "OBJ ",
@@ -5287,10 +5255,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "117-Pumpkin.c#L224"
             },
             "type": "OBJ ",

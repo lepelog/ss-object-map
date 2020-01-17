@@ -137,10 +137,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L166"
             },
             "type": "OBJ ",
@@ -171,10 +167,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L133"
             },
             "type": "OBJ ",
@@ -205,10 +197,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L148"
             },
             "type": "OBJ ",
@@ -264,10 +252,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Unset when Scrapper has a job, set when he has finished it",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "122-Town4.c#L143"
             },
             "type": "OBJ ",

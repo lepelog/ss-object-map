@@ -3225,7 +3225,11 @@
             "angle": 0,
             "bin": "1111 1010 0000 1000 1111 1111 0010 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 08 FF 22"
+                "first_4_bytes": "FA 08 FF 22",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2000,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 2,

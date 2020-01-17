@@ -397,10 +397,6 @@
                 "untrigstoryfid": 468,
                 "trigstoryf": "Eldin Trial Completed (removes fi trigger in front of Volcano Summit)",
                 "untrigstoryf": "Goron Text after Watering 1st Frog",
-                "trigscenefid": -1,
-                "untrigscenefid": 3,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 08",
                 "eventSrc": "303-MountainF2.c#L396"
             },
             "type": "OBJ ",
@@ -431,10 +427,6 @@
                 "untrigstoryfid": 469,
                 "trigstoryf": "Goron Text after Watering 1st Frog",
                 "untrigstoryf": "Goron Text after Watering 2nd frog",
-                "trigscenefid": -1,
-                "untrigscenefid": 3,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x1 08",
                 "eventSrc": "303-MountainF2.c#L497"
             },
             "type": "OBJ ",
@@ -465,10 +457,6 @@
                 "untrigstoryfid": 13,
                 "trigstoryf": "Goron Text after Watering 2nd frog",
                 "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "303-MountainF2.c#L567"
             },
             "type": "OBJ ",
@@ -1983,10 +1971,6 @@
                 "untrigstoryfid": 187,
                 "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
                 "untrigstoryf": "Big Frog Watered",
-                "trigscenefid": -1,
-                "untrigscenefid": 0,
-                "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "303-MountainF2.c#L38"
             },
             "type": "OBJS",

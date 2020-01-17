@@ -31,7 +31,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -56,7 +60,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -81,7 +89,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -106,7 +118,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -131,7 +147,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -156,7 +176,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -181,7 +205,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -206,7 +234,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -231,7 +263,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -256,7 +292,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -281,7 +321,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -306,7 +350,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -331,7 +379,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -356,7 +408,11 @@
             "angle": 0,
             "bin": "0111 1111 1111 1111 1111 1100 1100 1000",
             "extraInfo": {
-                "first_4_bytes": "7F FF FC C8"
+                "first_4_bytes": "7F FF FC C8",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 1023,
+                "trigstoryf": "-",
+                "untrigstoryf": ""
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -644,7 +700,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -672,7 +732,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -700,7 +764,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -728,7 +796,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -756,7 +828,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -784,7 +860,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -812,7 +892,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -840,7 +924,11 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 31"
+                "first_4_bytes": "FF 08 FF 31",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2040,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,

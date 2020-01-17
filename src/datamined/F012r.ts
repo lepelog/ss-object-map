@@ -36,10 +36,6 @@
                 "untrigstoryfid": 329,
                 "trigstoryf": "-",
                 "untrigstoryf": "Sleeping after starting Batreaux quest",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L517"
             },
             "type": "OBJ ",
@@ -320,10 +316,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "121-AkumaKun.c#L96"
             },
             "type": "OBJ ",
@@ -354,10 +346,6 @@
                 "untrigstoryfid": 1200,
                 "trigstoryf": "-",
                 "untrigstoryf": "",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "121-AkumaKun.c#L96"
             },
             "type": "OBJ ",

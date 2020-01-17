@@ -566,7 +566,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1100 1100 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FC CA"
+                "first_4_bytes": "FF FF FC CA",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -2232,7 +2236,11 @@
             "angle": 192,
             "bin": "1111 1111 1111 1111 1110 1000 1100 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF E8 CA"
+                "first_4_bytes": "FF FF E8 CA",
+                "trigstoryfid": 2042,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -2311,7 +2319,11 @@
             "angle": 192,
             "bin": "1111 1111 1111 1111 1110 1000 1100 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF E8 CA"
+                "first_4_bytes": "FF FF E8 CA",
+                "trigstoryfid": 2042,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -2336,7 +2348,11 @@
             "angle": 192,
             "bin": "1111 1111 1111 1111 1110 1000 1100 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF E8 CA"
+                "first_4_bytes": "FF FF E8 CA",
+                "trigstoryfid": 2042,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -2490,7 +2506,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1100 1100 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FC CA"
+                "first_4_bytes": "FF FF FC CA",
+                "trigstoryfid": 2047,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -3518,7 +3538,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0101 0101 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "FF F5 5F F1"
+                "first_4_bytes": "FF F5 5F F1",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -3546,7 +3568,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0101 0101 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F5 5F F3"
+                "first_4_bytes": "FF F5 5F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -3574,7 +3598,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0101 0101 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "FF F5 5F F1"
+                "first_4_bytes": "FF F5 5F F1",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -3602,7 +3628,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0101 0101 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F5 5F F3"
+                "first_4_bytes": "FF F5 5F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -3630,7 +3658,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0101 0101 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "FF F5 5F F1"
+                "first_4_bytes": "FF F5 5F F1",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -3658,7 +3688,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0101 0101 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F5 5F F3"
+                "first_4_bytes": "FF F5 5F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -3686,7 +3718,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0101 0101 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "FF F5 5F F1"
+                "first_4_bytes": "FF F5 5F F1",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -3742,7 +3776,11 @@
             "angle": 0,
             "bin": "1111 1010 0000 1010 1111 1111 0010 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 0A FF 22"
+                "first_4_bytes": "FA 0A FF 22",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2000,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -3770,7 +3808,11 @@
             "angle": 0,
             "bin": "1111 1010 0000 1010 1111 1111 0010 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 0A FF 22"
+                "first_4_bytes": "FA 0A FF 22",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2000,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -4162,7 +4204,11 @@
             "angle": 64,
             "bin": "1111 1010 0000 1010 1111 1111 0010 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 0A FF 22"
+                "first_4_bytes": "FA 0A FF 22",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2000,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -4274,7 +4320,11 @@
             "angle": 0,
             "bin": "1111 1000 0000 1000 1111 1111 0010 0010",
             "extraInfo": {
-                "first_4_bytes": "F8 08 FF 22"
+                "first_4_bytes": "F8 08 FF 22",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 1984,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -4302,7 +4352,11 @@
             "angle": 0,
             "bin": "1111 1000 0000 1000 1111 1111 0010 0010",
             "extraInfo": {
-                "first_4_bytes": "F8 08 FF 22"
+                "first_4_bytes": "F8 08 FF 22",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 1984,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -7968,7 +8022,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1110 1101 0100 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF ED 4A"
+                "first_4_bytes": "FF FF ED 4A",
+                "trigstoryfid": 2043,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 8,
@@ -7993,7 +8051,11 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1110 1101 0100 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF ED 4A"
+                "first_4_bytes": "FF FF ED 4A",
+                "trigstoryfid": 2043,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 8,
@@ -8018,7 +8080,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1110 1101 0100 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF ED 4A"
+                "first_4_bytes": "FF FF ED 4A",
+                "trigstoryfid": 2043,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 8,
@@ -8043,7 +8109,11 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1110 1101 0100 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF ED 4A"
+                "first_4_bytes": "FF FF ED 4A",
+                "trigstoryfid": 2043,
+                "untrigstoryfid": 2047,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 8,
@@ -8536,7 +8606,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0100 0100 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "FF F4 4F F1"
+                "first_4_bytes": "FF F4 4F F1",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 8,
@@ -8564,7 +8636,9 @@
             "angle": 128,
             "bin": "1111 1111 1111 0100 0100 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F4 4F F3"
+                "first_4_bytes": "FF F4 4F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 8,
@@ -8592,7 +8666,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0100 0100 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "FF F4 4F F1"
+                "first_4_bytes": "FF F4 4F F1",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 8,
@@ -8620,7 +8696,9 @@
             "angle": 128,
             "bin": "1111 1111 1111 0100 0100 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F4 4F F3"
+                "first_4_bytes": "FF F4 4F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 8,
@@ -8648,7 +8726,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0100 0100 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "FF F4 4F F1"
+                "first_4_bytes": "FF F4 4F F1",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 8,
@@ -8676,7 +8756,9 @@
             "angle": 0,
             "bin": "1111 1111 1111 0100 0100 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F4 4F F3"
+                "first_4_bytes": "FF F4 4F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 8,
@@ -8704,7 +8786,9 @@
             "angle": 128,
             "bin": "1111 1111 1111 0100 0100 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF F4 4F F3"
+                "first_4_bytes": "FF F4 4F F3",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "SOBJ",
             "roomid": 8,

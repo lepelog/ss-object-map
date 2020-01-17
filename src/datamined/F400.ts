@@ -70,10 +70,6 @@
                 "untrigstoryfid": 7,
                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
                 "untrigstoryf": "Beat Earth Temple (ET Boss Room Layer 2)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "503-Goron.c#L694"
             },
             "type": "OBJ ",
@@ -104,10 +100,6 @@
                 "untrigstoryfid": 131,
                 "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
                 "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "trigscenefid": -1,
-                "untrigscenefid": 17,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 02",
                 "eventSrc": "503-Goron.c#L855"
             },
             "type": "OBJ ",
@@ -138,10 +130,6 @@
                 "untrigstoryfid": 493,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
                 "untrigstoryf": "Set after talking to Skyview 2 Mogma after revealing Goddess Wall or going past him (unlocks Goddess Walls)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "503-Goron.c#L958"
             },
             "type": "OBJ ",
@@ -2378,7 +2366,11 @@
             "angle": -29181,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10"
+                "first_4_bytes": "F0 FF 99 10",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2408,10 +2400,6 @@
                 "untrigstoryfid": 87,
                 "trigstoryf": "-",
                 "untrigstoryf": "Faron Woods introductory cutscene (Behind The Temple layer 2)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "500-CenterField.c#L6"
             },
             "type": "OBJ ",
@@ -2471,7 +2459,11 @@
             "angle": 19135,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10"
+                "first_4_bytes": "F0 FF 99 10",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2496,7 +2488,11 @@
             "angle": -24716,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10"
+                "first_4_bytes": "F0 FF 99 10",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2521,7 +2517,11 @@
             "angle": -17253,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10"
+                "first_4_bytes": "F0 FF 99 10",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2546,7 +2546,11 @@
             "angle": 24651,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10"
+                "first_4_bytes": "F0 FF 99 10",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1927,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2694,10 +2698,6 @@
                 "untrigstoryfid": 15,
                 "trigstoryf": "Set after talking to Skyview 2 Mogma after revealing Goddess Wall or going past him (unlocks Goddess Walls)",
                 "untrigstoryf": "Beat Sandship (Sand Sea layer 3)",
-                "trigscenefid": -1,
-                "untrigscenefid": 19,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08",
                 "eventSrc": "503-Goron.c#L1023"
             },
             "type": "OBJ ",
@@ -2761,11 +2761,7 @@
                 "trigstoryfid": 9,
                 "untrigstoryfid": 140,
                 "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
-                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2922,10 +2918,6 @@
                 "untrigstoryfid": 401,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
                 "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "trigscenefid": -1,
-                "untrigscenefid": 19,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08",
                 "eventSrc": "503-Goron.c#L1200"
             },
             "type": "OBJ ",
@@ -2951,7 +2943,11 @@
             "angle": 11640,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32"
+                "first_4_bytes": "F1 FF 99 32",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2976,7 +2972,11 @@
             "angle": 29372,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32"
+                "first_4_bytes": "F1 FF 99 32",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3001,7 +3001,11 @@
             "angle": -27426,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32"
+                "first_4_bytes": "F1 FF 99 32",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3026,7 +3030,11 @@
             "angle": 13075,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32"
+                "first_4_bytes": "F1 FF 99 32",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3051,7 +3059,11 @@
             "angle": -17573,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32"
+                "first_4_bytes": "F1 FF 99 32",
+                "trigstoryfid": 2022,
+                "untrigstoryfid": 1935,
+                "trigstoryf": "-",
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3140,10 +3152,6 @@
                 "untrigstoryfid": 200,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
                 "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "trigscenefid": -1,
-                "untrigscenefid": 20,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10",
                 "eventSrc": "503-Goron.c#L1200"
             },
             "type": "OBJ ",
@@ -3174,10 +3182,6 @@
                 "untrigstoryfid": 401,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
                 "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "trigscenefid": -1,
-                "untrigscenefid": 19,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08",
                 "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
@@ -3208,10 +3212,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 20,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10",
                 "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
@@ -3326,10 +3326,6 @@
                 "untrigstoryfid": 401,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
                 "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "trigscenefid": -1,
-                "untrigscenefid": 19,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08",
                 "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
@@ -3360,10 +3356,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 20,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10",
                 "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
@@ -3453,10 +3445,6 @@
                 "untrigstoryfid": 401,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
                 "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "trigscenefid": -1,
-                "untrigscenefid": 19,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08",
                 "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
@@ -3487,10 +3475,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 20,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10",
                 "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
@@ -3580,10 +3564,6 @@
                 "untrigstoryfid": 401,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
                 "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "trigscenefid": -1,
-                "untrigscenefid": 19,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 08",
                 "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
@@ -3614,10 +3594,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": 20,
-                "trigscenef": "no flag set",
-                "untrigscenef": "scene flag: 0x3 10",
                 "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
@@ -3706,11 +3682,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,

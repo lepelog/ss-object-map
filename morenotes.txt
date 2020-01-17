@@ -116,3 +116,33 @@ so first is set story flag, second is trigger
 event_flag for sceneflag
 transition_type is triggering sceneflag
 sometimes the flag is not set, figure out which bit triggers that, for example eldin fi text before hot area
+
+Enemies seems to start with E, like Npcs start with Npc
+EBc: Bokoblin (both red and blue)
+EKs: Keese (all types as well)
+ESm: Slime (all types as well)
+
+
+Eldin caves:
+ - 74 0x8 04 talk to cobal without wall next to him blown up
+ - 75 0x8 08 talk to cobal after rupee dowsing and blowing up wall
+ - 76 0x8 10 talk to cobal after blowing up wall
+ - 79 0x8 80 triggers fi for rupee dowsing (layer 0)
+ - 81 0xB 02 talk to mogma (layer 0 but after fire sanctuary) Silva with story flag 471 "delivered something to the sky? (unsets on next request?)" or 472
+
+Lanayru Desert:
+ - 74 0x8 04 after Fi text for trial dowsing
+
+The Sky:
+ - 37 0x5 20 bilocyte phase 2 for the second time?
+   https://github.com/lepelog/skywardsword-tools/blob/fix-event-texts/output/event2/120-Nushi.c#L80
+
+Sky Keep:
+ - 122 0xE 04 Set after Fi text when entering triforce of power room from wrong entrance
+
+Sand Sea:
+ - 89 0xA 02 Inside Shipyard, triggered by 0xA 01 (it's a NpcTke (auto trigger I guess))
+   https://github.com/lepelog/skywardsword-tools/blob/fix-event-texts/output/event2/402-DesertF2.c#L500
+
+Lanayru Gorge:
+ - 26 0x2 04 talk to dead thunder dragon after getting key?

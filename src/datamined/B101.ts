@@ -382,10 +382,6 @@
                 "untrigstoryfid": 648,
                 "trigstoryf": "-",
                 "untrigstoryf": "Koloktos defeated",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "202-ForestD2.c#L27"
             },
             "type": "OBJ ",

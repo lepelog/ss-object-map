@@ -1288,10 +1288,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "302-Anahori.c#L1"
             },
             "type": "OBJ ",
@@ -1322,10 +1318,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 71,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x9 80",
-                "untrigscenef": "no flag set",
                 "eventSrc": "300-Mountain.c#L224"
             },
             "type": "OBJ ",
@@ -1977,10 +1969,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01",
                 "eventSrc": "302-Anahori.c#L217"
             },
             "type": "OBJ ",

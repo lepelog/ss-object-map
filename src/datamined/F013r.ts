@@ -113,10 +113,6 @@
                 "untrigstoryfid": 375,
                 "trigstoryf": " Talking to past Impa after meeting Batreaux or Meeting Batreaux after talking to past Impa  (Bazaar layer 2)",
                 "untrigstoryf": "Set after Sleeping after the Fortune Teller crystals (Bazaar layer 3)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "118-Town3.c#L677"
             },
             "type": "OBJ ",
@@ -146,11 +142,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -285,10 +277,6 @@
                 "untrigstoryfid": 370,
                 "trigstoryf": "-",
                 "untrigstoryf": " Talking to past Impa after meeting Batreaux or Meeting Batreaux after talking to past Impa  (Bazaar layer 2)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "111-FortuneTeller.c#L452"
             },
             "type": "OBJ ",
@@ -344,10 +332,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set after Sleeping after the Fortune Teller crystals (Bazaar layer 3)",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "111-FortuneTeller.c#L452"
             },
             "type": "OBJ ",

@@ -1267,11 +1267,7 @@
                 "trigstoryfid": 65,
                 "untrigstoryfid": 66,
                 "trigstoryf": "Set when healing Water Dragon (Skyview Spring layer 4)",
-                "untrigstoryf": "Set after Water Dragon dispells Waterfall",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "Set after Water Dragon dispells Waterfall"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1300,11 +1296,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 66,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after Water Dragon dispells Waterfall",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "Set after Water Dragon dispells Waterfall"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1409,10 +1401,6 @@
                 "untrigstoryfid": 118,
                 "trigstoryf": "Beat Ancient Cistern (Racetracks appear in the Sealed Grounds) (Skyview layer 3 / Outside AC layer 3 / Inside Great Tree layer 2 / Lake Floria layer 2)",
                 "untrigstoryf": "Water Dragon Text after beating AC",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "203-ForestF2.c#L388"
             },
             "type": "OBJ ",
@@ -1442,11 +1430,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 118,
                 "trigstoryf": "-",
-                "untrigstoryf": "Water Dragon Text after beating AC",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "Water Dragon Text after beating AC"
             },
             "type": "OBJ ",
             "roomid": 0,

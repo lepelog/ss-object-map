@@ -285,10 +285,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "402-DesertF2.c#L33"
             },
             "type": "OBJ ",
@@ -1313,7 +1309,11 @@
             "angle": 0,
             "bin": "1111 1010 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 0A FF 32"
+                "first_4_bytes": "FA 0A FF 32",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2000,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1341,7 +1341,11 @@
             "angle": 0,
             "bin": "1111 1010 0000 1000 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 08 FF 32"
+                "first_4_bytes": "FA 08 FF 32",
+                "trigstoryfid": 575,
+                "untrigstoryfid": 2000,
+                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1369,7 +1373,11 @@
             "angle": 0,
             "bin": "1111 1010 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 0A FF 32"
+                "first_4_bytes": "FA 0A FF 32",
+                "trigstoryfid": 703,
+                "untrigstoryfid": 2000,
+                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
+                "untrigstoryf": "-"
             },
             "type": "SOBJ",
             "roomid": 0,

@@ -1075,10 +1075,6 @@
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
                 "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "301-MountainD1.c#L104"
             },
             "type": "OBJ ",

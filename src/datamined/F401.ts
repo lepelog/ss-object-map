@@ -166,11 +166,7 @@
                 "trigstoryfid": 2032,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2486,7 +2482,9 @@
             "angle": 0,
             "bin": "1101 1111 1111 1111 1111 0000 1001 1100",
             "extraInfo": {
-                "first_4_bytes": "DF FF F0 9C"
+                "first_4_bytes": "DF FF F0 9C",
+                "flagid": 9,
+                "areaflag": "scene flag: 0x0 02"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2514,7 +2512,9 @@
             "angle": 7207,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2542,7 +2542,9 @@
             "angle": -28701,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2570,7 +2572,9 @@
             "angle": -23153,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2598,7 +2602,9 @@
             "angle": 27713,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2626,7 +2632,9 @@
             "angle": 1307,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2654,7 +2662,9 @@
             "angle": 29404,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2682,7 +2692,9 @@
             "angle": 4785,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2710,7 +2722,9 @@
             "angle": 128,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2738,7 +2752,9 @@
             "angle": 23376,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2766,7 +2782,9 @@
             "angle": 18719,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2794,7 +2812,9 @@
             "angle": -1532,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2822,7 +2842,9 @@
             "angle": -31795,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2850,7 +2872,9 @@
             "angle": -18528,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2878,7 +2902,9 @@
             "angle": 32114,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2906,7 +2932,9 @@
             "angle": -27842,
             "bin": "0101 1111 1111 1111 1111 0000 0111 0101",
             "extraInfo": {
-                "first_4_bytes": "5F FF F0 75"
+                "first_4_bytes": "5F FF F0 75",
+                "flagid": 7,
+                "areaflag": "scene flag: 0x1 80"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -3119,11 +3147,7 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-",
-                "trigscenefid": 0,
-                "untrigscenefid": 0,
-                "trigscenef": "temp flag: 0x11 01",
-                "untrigscenef": "temp flag: 0x11 01"
+                "untrigstoryf": "-"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3380,10 +3404,6 @@
                 "untrigstoryfid": 71,
                 "trigstoryf": "Post Imp 1 defeat cutscene",
                 "untrigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                "trigscenefid": 2,
-                "untrigscenefid": 11,
-                "trigscenef": "scene flag: 0x1 04",
-                "untrigscenef": "scene flag: 0x0 08",
                 "eventSrc": "500-CenterField.c#L822"
             },
             "type": "OBJ ",
@@ -3541,10 +3561,6 @@
                 "untrigstoryfid": 143,
                 "trigstoryf": "-",
                 "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "500-CenterField.c#L750"
             },
             "type": "OBJ ",
@@ -3609,10 +3625,6 @@
                 "untrigstoryfid": 143,
                 "trigstoryf": "-",
                 "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "500-CenterField.c#L797"
             },
             "type": "OBJ ",
@@ -3643,10 +3655,6 @@
                 "untrigstoryfid": 131,
                 "trigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
                 "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "500-CenterField.c#L750"
             },
             "type": "OBJ ",
@@ -3677,10 +3685,6 @@
                 "untrigstoryfid": 131,
                 "trigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
                 "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "500-CenterField.c#L797"
             },
             "type": "OBJ ",
@@ -3745,10 +3749,6 @@
                 "untrigstoryfid": 11,
                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
                 "untrigstoryf": "Beat Ancient Cistern (Racetracks appear in the Sealed Grounds) (Skyview layer 3 / Outside AC layer 3 / Inside Great Tree layer 2 / Lake Floria layer 2)",
-                "trigscenefid": 2,
-                "untrigscenefid": -1,
-                "trigscenef": "scene flag: 0x1 04",
-                "untrigscenef": "no flag set",
                 "eventSrc": "500-CenterField.c#L822"
             },
             "type": "OBJ ",
@@ -3906,10 +3906,6 @@
                 "untrigstoryfid": 132,
                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
                 "untrigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "500-CenterField.c#L712"
             },
             "type": "OBJ ",
@@ -4396,10 +4392,6 @@
                 "untrigstoryfid": 133,
                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
                 "untrigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set",
                 "eventSrc": "500-CenterField.c#L890"
             },
             "type": "OBJ ",
@@ -4463,11 +4455,7 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 145,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)",
-                "trigscenefid": -1,
-                "untrigscenefid": -1,
-                "trigscenef": "no flag set",
-                "untrigscenef": "no flag set"
+                "untrigstoryf": "Imp 3 fight triggered (set when Groose calls you entering Sealed Grounds)"
             },
             "type": "OBJ ",
             "roomid": 1,
