@@ -1193,7 +1193,12 @@
             "angle": -1084,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": -1,
+                "trigscenef": "no flag set",
+                "itemid": 32
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1218,7 +1223,12 @@
             "angle": 16265,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": -1,
+                "trigscenef": "no flag set",
+                "itemid": 63
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1324,7 +1334,12 @@
             "angle": 21845,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": -1,
+                "trigscenef": "no flag set",
+                "itemid": 176
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1578,6 +1593,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1608,6 +1624,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1638,6 +1655,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1668,6 +1686,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1698,6 +1717,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1728,6 +1748,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1758,6 +1779,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1788,6 +1810,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1818,6 +1841,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1848,6 +1872,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1878,6 +1903,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",
@@ -1908,6 +1934,7 @@
             "extraInfo": {
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
+                "itemid": 255,
                 "areaflag": "no flag set"
             },
             "type": "SOBJ",

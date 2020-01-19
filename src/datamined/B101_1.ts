@@ -289,7 +289,12 @@
             "angle": 0,
             "bin": "1111 0101 0110 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "F5 6F FF F3"
+                "first_4_bytes": "F5 6F FF F3",
+                "spawnscenefid": 86,
+                "spawnscenef": "scene flag: 0xB 40",
+                "trigscenefid": 87,
+                "trigscenef": "scene flag: 0xB 80",
+                "itemid": 12
             },
             "type": "OBJS",
             "roomid": 0,

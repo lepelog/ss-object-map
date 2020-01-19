@@ -44,6 +44,12 @@ def extract_byte_between_2_bytes(b1, b2, bitoffset=4, length=8):
     flagid = int('{:016b}'.format(int((struct.pack('b',b1)+struct.pack('b',b2)).hex(), 16))[bitoffset:bitoffset+length],2)
     return flagid
 
+def to_signed_byte(num):
+    assert num >= 0 and num <= 255
+    if num >= 128:
+        num=num-256
+    return num
+
 flagindex_to_stages = [
                    ["D000","F000","F001r","F002r","F004r","F005r","F006r","F007r",
                     "F008r","F009r","F012r","F013r","F014r","F015r","F016r","F017r","F018r"],

@@ -62,27 +62,18 @@ for stagefile in glob.glob('output/stage/*.json'):
                             # attach scene-/tempflagid to some objects where it's known
                             if obj['name'] in objs_with_middle_byte_flag_scen_link:
                                 flagidx=extract_byte_between_2_bytes(obj['scen_link'],obj['byte4'])
-                                # convert byte to signed
-                                if flagidx >= 128:
-                                    flagidx=flagidx-256
-                                extra_info['flagid']=flagidx
+                                extra_info['flagid']=to_signed_byte(flagidx)
                             elif obj['name'] in objs_with_middle_byte_flag_byte1:
                                 flagidx=extract_byte_between_2_bytes(obj['byte1'],obj['tosky_scen_link'])
-                                # convert byte to signed
-                                if flagidx >= 128:
-                                    flagidx=flagidx-256
-                                extra_info['flagid']=flagidx
+                                extra_info['flagid']=to_signed_byte(flagidx)
                             elif obj['name'] in objs_with_item_align:
                                 flagidx=extract_byte_between_2_bytes(obj['tosky_scen_link'],obj['scen_link'],6)
-                                # convert byte to signed
-                                if flagidx >= 128:
-                                    flagidx=flagidx-256
-                                extra_info['flagid']=flagidx
+                                extra_info['flagid']=to_signed_byte(flagidx)
                             elif obj['name'] in objs_with_byte4_flag:
                                 flagidx=obj['byte4']
-                                if flagidx >= 128:
-                                    flagidx=flagidx-256
                                 extra_info['flagid']=flagidx
+                                if obj['name']=='TgReact':
+                                    extra_info['itemid']=int(obj['unk1'][:2],16)
                             elif obj['name'].startswith('Npc') or obj['name'] in ('EKs','EBc','ESm'):
                                 triggerstoryf=extract_byte_between_2_bytes(obj['tosky_scen_link'],obj['scen_link'],3,length=11)
                                 untriggerstoryf=extract_byte_between_2_bytes(obj['byte1'],obj['tosky_scen_link'],0,length=11)
@@ -96,6 +87,13 @@ for stagefile in glob.glob('output/stage/*.json'):
                                     extra_info['untrigscenefid']=obj['event_flag']
                                     extra_info['trigscenef']=flag_id_to_sheet_rep(obj['transition_type'])
                                     extra_info['untrigscenef']=flag_id_to_sheet_rep(obj['event_flag'])
+                            elif obj['name']=='TBox':
+                                triggerscenef=to_signed_byte(extract_byte_between_2_bytes(obj['byte1'],obj['tosky_scen_link']))
+                                extra_info['spawnscenefid']=triggerscenef
+                                extra_info['spawnscenef']=flag_id_to_sheet_rep(triggerscenef)
+                                extra_info['trigscenefid']=obj['transition_type']
+                                extra_info['trigscenef']=flag_id_to_sheet_rep(extra_info['trigscenefid'])
+                                extra_info['itemid']=obj['talk_behaviour']&0xFF
                             
                             # convert it to format thats easier readable
                             if 'flagid' in extra_info:

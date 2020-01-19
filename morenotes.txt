@@ -1,3 +1,5 @@
+PAL code offset: 0x80003F00 ? or 0x80004400 !
+
 bird statue: ff 5f ff ff last byte statue name (where stored?)
 unk2: angle
 scen_link: statue type: 0 normal, 1 has return to sky, 2 has go outside
@@ -146,3 +148,70 @@ Sand Sea:
 
 Lanayru Gorge:
  - 26 0x2 04 talk to dead thunder dragon after getting key?
+
+TBox: Treasure Chest
+last byte of "talk_behaviour": item and if big chest?
+first byte flag, doesn't seem global
+
+Most of them crash because the item get animation/event/actor? isn't loaded
+
+*=big
+00: *softlock, chest doesnt open
+01: *small key
+02: green rupee
+03: blue
+04: Red rupee
+05: *softlock
+06: *Heart
+07: *single arrow (like the ones you pick up)
+08: *bundle of arrows
+09: *green rupee (empty textbox)
+0A: *softlock
+0B: *shows green rupee but goddess sword text
+0C: *green rupee (empty textbox)
+0D: ^
+0E: ^
+0F: 
+10: *softlock
+11: ^
+12: ^
+13: ^
+14: ^
+15: ^
+16: *Deku Hornet
+17: *softlock
+18: ^
+19: BK, crash
+1A: ^
+1B: ^
+1C: *crash
+1D: BK, crash
+1E: ^
+1F: ^
+20: *Silver rupee
+21: *Gold rupee
+22: *rupoor
+23: *5 Gratitude crystals
+24: *glittering spores (&bottle?)
+25: *softlock
+26: ^
+27: ^
+28: *5 Bombs
+29: *10 Bombs
+2A: *crash
+32: *Dungeon Map (and fi text)
+33: *Dungeon Map (empty text box)
+36: *Water
+37: *Mushroom spores
+38: *crash
+39: *slingshot seeds (empty textbox)
+3A: *crash
+3F: *evil crystal
+40: *crash
+58: *Fairy
+5E: *Heart piece
+5F: *BK, crash
+60: ^
+62: *crash
+6B: *green rupee (empty textbox)
+6F: *crash

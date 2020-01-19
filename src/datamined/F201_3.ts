@@ -1609,6 +1609,7 @@
             "extraInfo": {
                 "first_4_bytes": "2F F0 00 8C",
                 "flagid": -116,
+                "itemid": 18,
                 "areaflag": "temp flag: 0x0 10"
             },
             "type": "SOBJ",
@@ -1639,6 +1640,7 @@
             "extraInfo": {
                 "first_4_bytes": "2F F0 00 8D",
                 "flagid": -115,
+                "itemid": 18,
                 "areaflag": "temp flag: 0x0 20"
             },
             "type": "SOBJ",
@@ -1669,6 +1671,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 71",
                 "flagid": 113,
+                "itemid": 20,
                 "areaflag": "scene flag: 0xF 02"
             },
             "type": "SOBJ",

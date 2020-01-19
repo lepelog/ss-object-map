@@ -1407,6 +1407,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F E0 00 A2",
                 "flagid": -94,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x5 04"
             },
             "type": "SOBJ",
@@ -1437,6 +1438,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F E0 00 A3",
                 "flagid": -93,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x5 08"
             },
             "type": "SOBJ",
@@ -1467,6 +1469,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F E0 00 A4",
                 "flagid": -92,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x5 10"
             },
             "type": "SOBJ",
@@ -1497,6 +1500,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F E0 00 A5",
                 "flagid": -91,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x5 20"
             },
             "type": "SOBJ",
@@ -1527,6 +1531,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F E0 00 A6",
                 "flagid": -90,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x5 40"
             },
             "type": "SOBJ",
@@ -1557,6 +1562,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F E0 00 A7",
                 "flagid": -89,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x5 80"
             },
             "type": "SOBJ",
@@ -1587,6 +1593,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F0 FF AE",
                 "flagid": -82,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x4 40"
             },
             "type": "SOBJ",
@@ -1617,6 +1624,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F0 FF AF",
                 "flagid": -81,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x4 80"
             },
             "type": "SOBJ",

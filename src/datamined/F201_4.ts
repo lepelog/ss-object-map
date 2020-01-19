@@ -479,7 +479,12 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": -1,
+                "trigscenef": "no flag set",
+                "itemid": 32
             },
             "type": "OBJS",
             "roomid": 0,
@@ -509,6 +514,7 @@
             "extraInfo": {
                 "first_4_bytes": "0F FF FF 8B",
                 "flagid": -117,
+                "itemid": 35,
                 "areaflag": "temp flag: 0x0 08"
             },
             "type": "SOBJ",

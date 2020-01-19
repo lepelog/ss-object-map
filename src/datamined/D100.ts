@@ -500,6 +500,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 8A",
                 "flagid": -118,
+                "itemid": 18,
                 "areaflag": "temp flag: 0x0 04"
             },
             "type": "SOBJ",
@@ -530,6 +531,7 @@
             "extraInfo": {
                 "first_4_bytes": "0F FF 00 8B",
                 "flagid": -117,
+                "itemid": 13,
                 "areaflag": "temp flag: 0x0 08"
             },
             "type": "SOBJ",
@@ -1850,6 +1852,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 8C",
                 "flagid": -116,
+                "itemid": 18,
                 "areaflag": "temp flag: 0x0 10"
             },
             "type": "SOBJ",
@@ -1880,6 +1883,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F FF 00 8D",
                 "flagid": -115,
+                "itemid": 13,
                 "areaflag": "temp flag: 0x0 20"
             },
             "type": "SOBJ",
@@ -1910,6 +1914,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F1 00 8E",
                 "flagid": -114,
+                "itemid": 4,
                 "areaflag": "temp flag: 0x0 40"
             },
             "type": "SOBJ",
@@ -1940,6 +1945,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 99",
                 "flagid": -103,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x2 02"
             },
             "type": "SOBJ",
@@ -3335,7 +3341,12 @@
             "angle": 192,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": 11,
+                "trigscenef": "scene flag: 0x0 08",
+                "itemid": 50
             },
             "type": "OBJS",
             "roomid": 2,
@@ -3501,6 +3512,7 @@
             "extraInfo": {
                 "first_4_bytes": "0F FF 00 8F",
                 "flagid": -113,
+                "itemid": 13,
                 "areaflag": "temp flag: 0x0 80"
             },
             "type": "SOBJ",
@@ -3531,6 +3543,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 90",
                 "flagid": -112,
+                "itemid": 8,
                 "areaflag": "temp flag: 0x3 01"
             },
             "type": "SOBJ",
@@ -3561,6 +3574,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F1 00 91",
                 "flagid": -111,
+                "itemid": 4,
                 "areaflag": "temp flag: 0x3 02"
             },
             "type": "SOBJ",
@@ -5448,7 +5462,12 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": 117,
+                "trigscenef": "scene flag: 0xF 20",
+                "itemid": 1
             },
             "type": "OBJS",
             "roomid": 4,
@@ -5503,6 +5522,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F FF 00 92",
                 "flagid": -110,
+                "itemid": 13,
                 "areaflag": "temp flag: 0x3 04"
             },
             "type": "SOBJ",
@@ -5533,6 +5553,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F1 00 93",
                 "flagid": -109,
+                "itemid": 4,
                 "areaflag": "temp flag: 0x3 08"
             },
             "type": "SOBJ",
@@ -7468,6 +7489,7 @@
             "extraInfo": {
                 "first_4_bytes": "0F FF 00 9A",
                 "flagid": -102,
+                "itemid": 13,
                 "areaflag": "temp flag: 0x2 04"
             },
             "type": "SOBJ",
@@ -7498,6 +7520,7 @@
             "extraInfo": {
                 "first_4_bytes": "0F F1 00 9B",
                 "flagid": -101,
+                "itemid": 4,
                 "areaflag": "temp flag: 0x2 08"
             },
             "type": "SOBJ",
@@ -9489,7 +9512,12 @@
             "angle": 64,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": 118,
+                "trigscenef": "scene flag: 0xF 40",
+                "itemid": 1
             },
             "type": "OBJS",
             "roomid": 7,
@@ -9547,6 +9575,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 9C",
                 "flagid": -100,
+                "itemid": 18,
                 "areaflag": "temp flag: 0x2 10"
             },
             "type": "SOBJ",
@@ -9577,6 +9606,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F F0 00 9D",
                 "flagid": -99,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x2 20"
             },
             "type": "SOBJ",
@@ -10897,7 +10927,12 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": 30,
+                "trigscenef": "scene flag: 0x2 40",
+                "itemid": 29
             },
             "type": "OBJS",
             "roomid": 9,
@@ -10974,7 +11009,12 @@
             "angle": 64,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": -1,
+                "trigscenef": "no flag set",
+                "itemid": 4
             },
             "type": "OBJS",
             "roomid": 9,
@@ -11701,7 +11741,12 @@
             "angle": 0,
             "bin": "1111 0000 1110 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "F0 EF FF F3"
+                "first_4_bytes": "F0 EF FF F3",
+                "spawnscenefid": 14,
+                "spawnscenef": "scene flag: 0x0 40",
+                "trigscenefid": 33,
+                "trigscenef": "scene flag: 0x5 02",
+                "itemid": 53
             },
             "type": "OBJS",
             "roomid": 10,
@@ -11726,7 +11771,12 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": 33,
+                "trigscenef": "scene flag: 0x5 02",
+                "itemid": 53
             },
             "type": "OBJS",
             "roomid": 10,
@@ -11801,7 +11851,12 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": 33,
+                "trigscenef": "scene flag: 0x5 02",
+                "itemid": 53
             },
             "type": "OBJS",
             "roomid": 10,
@@ -11826,7 +11881,12 @@
             "angle": 0,
             "bin": "1111 1000 1001 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "F8 9F FF F3"
+                "first_4_bytes": "F8 9F FF F3",
+                "spawnscenefid": -119,
+                "spawnscenef": "temp flag: 0x0 02",
+                "trigscenefid": -68,
+                "trigscenef": "temp flag: 0x6 10",
+                "itemid": 63
             },
             "type": "OBJS",
             "roomid": 10,

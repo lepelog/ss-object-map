@@ -1478,7 +1478,12 @@
             "angle": 23376,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": -1,
+                "trigscenef": "no flag set",
+                "itemid": 63
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1503,7 +1508,12 @@
             "angle": -14479,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": -1,
+                "trigscenef": "no flag set",
+                "itemid": 32
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1553,7 +1563,12 @@
             "angle": 64,
             "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF F3"
+                "first_4_bytes": "FF FF FF F3",
+                "spawnscenefid": -1,
+                "spawnscenef": "no flag set",
+                "trigscenefid": -1,
+                "trigscenef": "no flag set",
+                "itemid": 4
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2162,6 +2177,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F E0 00 96",
                 "flagid": -106,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x3 40"
             },
             "type": "SOBJ",
@@ -2192,6 +2208,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F E0 00 97",
                 "flagid": -105,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x3 80"
             },
             "type": "SOBJ",
@@ -2222,6 +2239,7 @@
             "extraInfo": {
                 "first_4_bytes": "1F E0 00 98",
                 "flagid": -104,
+                "itemid": 19,
                 "areaflag": "temp flag: 0x2 01"
             },
             "type": "SOBJ",
