@@ -11,7 +11,8 @@
         2,
         3,
         13,
-        14
+        14,
+        15
     ],
     "usedRooms": [
         2
@@ -644,6 +645,34 @@
             "byte1": -1,
             "tosky_scen_link": -1,
             "scen_link": -1,
+            "byte4": 1,
+            "unk1": "FF 5F FF FF",
+            "posx": -2345.978271484375,
+            "posy": 7600.0,
+            "posz": 10170.2080078125,
+            "sizex": 300.0,
+            "sizey": 300.0,
+            "sizez": 300.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "00 00",
+            "talk_behaviour": 65535,
+            "unk3": "FC 13",
+            "name": "ScChang",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0001",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF 01"
+            },
+            "type": "STAG",
+            "roomid": 2,
+            "layerid": 0,
+            "stageid": "F404"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
             "byte4": -1,
             "unk1": "FF FF FF FF",
             "posx": -245.0,
@@ -711,6 +740,34 @@
                 "first_4_bytes": "00 00 00 07"
             },
             "type": "OBJS",
+            "roomid": 2,
+            "layerid": 1,
+            "stageid": "F404"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": 2,
+            "scen_link": -1,
+            "byte4": 2,
+            "unk1": "FF 5F FF FF",
+            "posx": 0.0,
+            "posy": 7900.0,
+            "posz": 12700.0,
+            "sizex": 800.0,
+            "sizey": 500.0,
+            "sizez": 300.0,
+            "event_flag": -31,
+            "transition_type": 93,
+            "unk2": "00 00",
+            "talk_behaviour": 63838,
+            "unk3": "FC 1B",
+            "name": "ScChang",
+            "angle": 0,
+            "bin": "1111 1111 0000 0010 1111 1111 0000 0010",
+            "extraInfo": {
+                "first_4_bytes": "FF 02 FF 02"
+            },
+            "type": "STAG",
             "roomid": 2,
             "layerid": 1,
             "stageid": "F404"
@@ -891,6 +948,34 @@
             "stageid": "F404"
         },
         {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -15,
+            "byte4": -64,
+            "unk1": "FF FF FF FF",
+            "posx": 0.0,
+            "posy": 7400.0,
+            "posz": 11720.0,
+            "sizex": 8000.0,
+            "sizey": 3000.0,
+            "sizez": 8000.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 19",
+            "name": "V_Clip",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0001 1100 0000",
+            "extraInfo": {
+                "first_4_bytes": "FF FF F1 C0"
+            },
+            "type": "STAG",
+            "roomid": 2,
+            "layerid": 13,
+            "stageid": "F404"
+        },
+        {
             "byte1": 0,
             "tosky_scen_link": 0,
             "scen_link": 0,
@@ -913,6 +998,62 @@
             "type": "OBJS",
             "roomid": 2,
             "layerid": 14,
+            "stageid": "F404"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -15,
+            "byte4": -64,
+            "unk1": "FF FF FF FF",
+            "posx": 0.0,
+            "posy": 7400.0,
+            "posz": 11720.0,
+            "sizex": 8000.0,
+            "sizey": 3000.0,
+            "sizez": 8000.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 19",
+            "name": "V_Clip",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0001 1100 0000",
+            "extraInfo": {
+                "first_4_bytes": "FF FF F1 C0"
+            },
+            "type": "STAG",
+            "roomid": 2,
+            "layerid": 14,
+            "stageid": "F404"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -15,
+            "byte4": -64,
+            "unk1": "FF FF FF FF",
+            "posx": 0.0,
+            "posy": 7400.0,
+            "posz": 11720.0,
+            "sizex": 8000.0,
+            "sizey": 3000.0,
+            "sizez": 8000.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 18",
+            "name": "V_Clip",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 0001 1100 0000",
+            "extraInfo": {
+                "first_4_bytes": "FF FF F1 C0"
+            },
+            "type": "STAG",
+            "roomid": 2,
+            "layerid": 15,
             "stageid": "F404"
         }
     ]

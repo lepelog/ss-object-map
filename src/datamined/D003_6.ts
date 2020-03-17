@@ -3,11 +3,12 @@
     "stagename": "Skyloft: Sky Keep R06 (Captain 2)",
     "maxx": 1637.9583740234375,
     "minx": -4980.8271484375,
-    "maxz": 3150.0,
+    "maxz": 3449.44384765625,
     "minz": -2544.515869140625,
     "usedLayers": [
         0,
-        1
+        1,
+        5
     ],
     "usedRooms": [
         0
@@ -361,9 +362,122 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": 95,
                 "trigscenef": "scene flag: 0xA 80",
-                "itemid": 1
+                "itemid": 1,
+                "tbbytes": "1000001000000001"
             },
             "type": "OBJS",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D003_6"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -62,
+            "unk1": "FF FF FF FF",
+            "posx": 0.0,
+            "posy": -2000.0,
+            "posz": 0.0,
+            "sizex": 6000.0,
+            "sizey": 1500.0,
+            "sizez": 6000.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 30",
+            "name": "BtlTg",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1100 0010",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF C2"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D003_6"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -14,
+            "unk1": "FF FF FF FF",
+            "posx": -1.5903279781341553,
+            "posy": -100.0,
+            "posz": 3449.44384765625,
+            "sizex": 500.0,
+            "sizey": 500.0,
+            "sizez": 500.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 31",
+            "name": "TgD3Chg",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0010",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF F2"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D003_6"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -13,
+            "unk1": "FF FF FF FF",
+            "posx": -3460.028076171875,
+            "posy": -100.0,
+            "posz": -1.8949470520019531,
+            "sizex": 500.0,
+            "sizey": 500.0,
+            "sizez": 500.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 32",
+            "name": "TgD3Chg",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 0011",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF F3"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D003_6"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -1,
+            "unk1": "FF 5F FF FF",
+            "posx": 0.0,
+            "posy": -1000.0,
+            "posz": 0.0,
+            "sizex": 6500.0,
+            "sizey": 6000.0,
+            "sizez": 6500.0,
+            "event_flag": -6,
+            "transition_type": -68,
+            "unk2": "00 00",
+            "talk_behaviour": 65535,
+            "unk3": "FC 33",
+            "name": "SwAreaT",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
+            "type": "STAG",
             "roomid": 0,
             "layerid": 0,
             "stageid": "D003_6"
@@ -391,6 +505,34 @@
             "type": "OBJ ",
             "roomid": 0,
             "layerid": 1,
+            "stageid": "D003_6"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -49,
+            "scen_link": -1,
+            "byte4": 5,
+            "unk1": "FF DF FF FF",
+            "posx": 13.252832412719727,
+            "posy": -100.0,
+            "posz": 1260.1322021484375,
+            "sizex": 500.0,
+            "sizey": 1000.0,
+            "sizez": 4000.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 65535,
+            "unk3": "FC 34",
+            "name": "PlRsTag",
+            "angle": 0,
+            "bin": "1111 1111 1100 1111 1111 1111 0000 0101",
+            "extraInfo": {
+                "first_4_bytes": "FF CF FF 05"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 5,
             "stageid": "D003_6"
         }
     ]

@@ -215,3 +215,18 @@ Most of them crash because the item get animation/event/actor? isn't loaded
 62: *crash
 6B: *green rupee (empty textbox)
 6F: *crash
+
+Bed: DNight, last 11 bits of the first 4 bytes is story flag
+          invert           story flag
+                       | ||           |
+1111 1111 1111 1111 1111 1010 0010 1010
+
+If the 2 invert bits are 1, having the scene flag set
+prevents you from sleeping, otherwise it allows it
+most common case is all 1 which always allows sleeping
+
+0x800be3c0 seems to be the function that sets scene/temp 
+0x800be6d0 unset flags
+0x800bf350 for story flags
+
+0x801bc094 set layer spawn

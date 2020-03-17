@@ -6,12 +6,41 @@
     "maxz": 7694.93115234375,
     "minz": -13548.830078125,
     "usedLayers": [
+        0,
         2
     ],
     "usedRooms": [
         0
     ],
     "allObjects": [
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": 0,
+            "unk1": "FF FF FF FF",
+            "posx": 6000.107421875,
+            "posy": 5107.044921875,
+            "posz": 6734.77978515625,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 77",
+            "name": "Vrbox",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0000",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF 00"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "S100"
+        },
         {
             "byte1": -1,
             "tosky_scen_link": -1,
@@ -837,7 +866,9 @@
             "angle": -6952,
             "bin": "1111 1101 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FD FF FF FF"
+                "first_4_bytes": "FD FF FF FF",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1074,7 +1105,9 @@
             "angle": 11928,
             "bin": "1111 1100 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FC FF FF FF"
+                "first_4_bytes": "FC FF FF FF",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1950,7 +1983,9 @@
             "angle": -30231,
             "bin": "1111 1101 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FD FF FF FF"
+                "first_4_bytes": "FD FF FF FF",
+                "flagid": -1,
+                "areaflag": "no flag set"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2656,7 +2691,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 17
+                "itemid": 17,
+                "tbbytes": "1111111000010001"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2686,7 +2722,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 68
+                "itemid": 68,
+                "tbbytes": "1000010001000100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -3753,6 +3790,34 @@
                 "first_4_bytes": "FF FF FF FF"
             },
             "type": "SOBJ",
+            "roomid": 0,
+            "layerid": 2,
+            "stageid": "S100"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": 0,
+            "unk1": "FF FF FF FF",
+            "posx": 7079.7783203125,
+            "posy": 6089.7939453125,
+            "posz": 6753.00146484375,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FD 06",
+            "name": "TgSTA",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 0000 0000",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF 00"
+            },
+            "type": "STAG",
             "roomid": 0,
             "layerid": 2,
             "stageid": "S100"

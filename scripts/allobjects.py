@@ -15,6 +15,7 @@ objs_with_middle_byte_flag_scen_link=['Tubo','Soil','Wind']
 objs_with_middle_byte_flag_byte1=['Barrel']
 # item has the flag aligned even weirder
 objs_with_item_align=['Item']
+objs_with_byte2_flag=['Log','trolley']
 objs_with_byte4_flag=['TgReact','saveObj','HrpHint','BlsRock','TowerB']
 
 all_stages={}
@@ -38,7 +39,7 @@ for stagefile in glob.glob('output/stage/*.json'):
         stage={'rooms': json.load(f)['rooms']}
         for (rid, room) in stage['rooms'].items():
             for (lid, layer) in room['LAY '].items():
-                for objt in ['OBJ ','OBJS','SOBJ']:
+                for objt in ['OBJ ','OBJS','SOBJ','STAG']:
                     if objt in layer:
                         objects = layer[objt]
                         for obj in objects:
@@ -74,6 +75,9 @@ for stagefile in glob.glob('output/stage/*.json'):
                                 extra_info['flagid']=flagidx
                                 if obj['name']=='TgReact':
                                     extra_info['itemid']=int(obj['unk1'][:2],16)
+                            elif obj['name'] in objs_with_byte2_flag:
+                                flagidx=obj['tosky_scen_link']
+                                extra_info['flagid']=flagidx
                             elif obj['name'].startswith('Npc') or obj['name'] in ('EKs','EBc','ESm'):
                                 triggerstoryf=extract_byte_between_2_bytes(obj['tosky_scen_link'],obj['scen_link'],3,length=11)
                                 untriggerstoryf=extract_byte_between_2_bytes(obj['byte1'],obj['tosky_scen_link'],0,length=11)
@@ -94,6 +98,8 @@ for stagefile in glob.glob('output/stage/*.json'):
                                 extra_info['trigscenefid']=obj['transition_type']
                                 extra_info['trigscenef']=flag_id_to_sheet_rep(extra_info['trigscenefid'])
                                 extra_info['itemid']=obj['talk_behaviour']&0xFF
+                            elif obj['name']=='DNight':
+                                extra_info['sleep_storyf']=(obj['byte4']&0xFF) + ((obj['scen_link']&0x7)<<8)
                             
                             # convert it to format thats easier readable
                             if 'flagid' in extra_info:
@@ -101,6 +107,8 @@ for stagefile in glob.glob('output/stage/*.json'):
 
                             if obj['talk_behaviour'] in foundevents:
                                 extra_info['eventSrc']=foundevents[obj['talk_behaviour']]
+                            if obj['name'] == 'TBox':
+                                extra_info['tbbytes'] = '{:08b}'.format(obj['talk_behaviour'])
                             if len(extra_info) > 0:
                                 obj['extraInfo']=extra_info
                             obj['type'] = objt

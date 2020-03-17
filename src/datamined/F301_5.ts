@@ -3,7 +3,7 @@
     "stagename": "Lanayru Desert: Skipper's Retreat Shack",
     "maxx": 965.0,
     "minx": -1224.52978515625,
-    "maxz": 920.978271484375,
+    "maxz": 1061.185302734375,
     "minz": -995.0,
     "usedLayers": [
         0
@@ -869,7 +869,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": 17,
                 "trigscenef": "scene flag: 0x3 02",
-                "itemid": 98
+                "itemid": 98,
+                "tbbytes": "1000001001100010"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1046,6 +1047,62 @@
                 "areaflag": "temp flag: 0x4 04"
             },
             "type": "SOBJ",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F301_5"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -99,
+            "byte4": 78,
+            "unk1": "FF FF FF FF",
+            "posx": 164.5551300048828,
+            "posy": -50.0,
+            "posz": 1034.9189453125,
+            "sizex": 150.0,
+            "sizey": 350.0,
+            "sizez": 150.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "99 9A",
+            "talk_behaviour": 0,
+            "unk3": "FC 26",
+            "name": "AutoMes",
+            "angle": -25959,
+            "bin": "1111 1111 1111 1111 1001 1101 0100 1110",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 9D 4E"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F301_5"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -99,
+            "byte4": 79,
+            "unk1": "FF FF FF FF",
+            "posx": -93.1785888671875,
+            "posy": -50.0,
+            "posz": 1061.185302734375,
+            "sizex": 120.0,
+            "sizey": 350.0,
+            "sizez": 120.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "66 66",
+            "talk_behaviour": 0,
+            "unk3": "FC 27",
+            "name": "AutoMes",
+            "angle": 26214,
+            "bin": "1111 1111 1111 1111 1001 1101 0100 1111",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 9D 4F"
+            },
+            "type": "STAG",
             "roomid": 0,
             "layerid": 0,
             "stageid": "F301_5"

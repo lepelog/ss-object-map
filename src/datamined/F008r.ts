@@ -3,7 +3,7 @@
     "stagename": "Skyloft: Inside the Statue of the Goddess",
     "maxx": 455.0,
     "minx": -2806.257568359375,
-    "maxz": 496.839111328125,
+    "maxz": 4222.96923828125,
     "minz": -1458.0,
     "usedLayers": [
         0,
@@ -232,6 +232,62 @@
             "stageid": "F008r"
         },
         {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 1,
+            "byte4": 0,
+            "unk1": "FF 5F FF FF",
+            "posx": 18.840290069580078,
+            "posy": 302.55450439453125,
+            "posz": 4222.96923828125,
+            "sizex": 575.0,
+            "sizey": 814.0,
+            "sizez": 1341.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "00 00",
+            "talk_behaviour": 65535,
+            "unk3": "FC 08",
+            "name": "ScChang",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 0001 0000 0000",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 01 00"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F008r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -62,
+            "unk1": "FF FF FF FF",
+            "posx": 2.588300943374634,
+            "posy": -110.612548828125,
+            "posz": 3834.5244140625,
+            "sizex": 719.0,
+            "sizey": 1484.0,
+            "sizez": 3733.000244140625,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 09",
+            "name": "BtlTg",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1100 0010",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF C2"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F008r"
+        },
+        {
             "byte1": 4,
             "tosky_scen_link": -128,
             "scen_link": -117,
@@ -314,7 +370,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 177
+                "itemid": 177,
+                "tbbytes": "1111111010110001"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -344,9 +401,38 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 11
+                "itemid": 11,
+                "tbbytes": "1111111000001011"
             },
             "type": "OBJS",
+            "roomid": 0,
+            "layerid": 1,
+            "stageid": "F008r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": 2,
+            "scen_link": -1,
+            "byte4": 5,
+            "unk1": "FF 5F FF FF",
+            "posx": 50.00536346435547,
+            "posy": -83.66407775878906,
+            "posz": 527.4317626953125,
+            "sizex": 3828.000244140625,
+            "sizey": 288.0,
+            "sizez": 1149.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "00 00",
+            "talk_behaviour": 63522,
+            "unk3": "FC 0E",
+            "name": "ScChang",
+            "angle": 0,
+            "bin": "1111 1111 0000 0010 1111 1111 0000 0101",
+            "extraInfo": {
+                "first_4_bytes": "FF 02 FF 05"
+            },
+            "type": "STAG",
             "roomid": 0,
             "layerid": 1,
             "stageid": "F008r"

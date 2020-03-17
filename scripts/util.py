@@ -34,7 +34,7 @@ def idx_to_scene_flag(idx):
 def flag_id_to_sheet_rep(idx):
     if idx == -1:
         return 'no flag set'
-    elif idx > 0:
+    elif idx >= 0:
         return 'scene flag: '+idx_to_scene_flag(idx)
     else:
         return 'temp flag: '+idx_to_scene_flag(128+idx)

@@ -3,7 +3,7 @@
     "stagename": "Eldin Volcano: Volcano D2 Boss (Din's Fire)",
     "maxx": 1160.0,
     "minx": -1160.0,
-    "maxz": 840.0,
+    "maxz": 1200.0,
     "minz": -2000.0,
     "usedLayers": [
         0
@@ -233,6 +233,62 @@
                 "first_4_bytes": "FF FF F7 D0"
             },
             "type": "OBJ ",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "B201_1"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 0,
+            "byte4": 0,
+            "unk1": "FF 5F FF FF",
+            "posx": 0.0,
+            "posy": -133.58984375,
+            "posz": 1200.0,
+            "sizex": 500.0,
+            "sizey": 500.0,
+            "sizez": 500.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "00 00",
+            "talk_behaviour": 65535,
+            "unk3": "FC 09",
+            "name": "ScChang",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 0000 0000 0000",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 00 00"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "B201_1"
+        },
+        {
+            "byte1": 95,
+            "tosky_scen_link": 3,
+            "scen_link": 0,
+            "byte4": 1,
+            "unk1": "FF 5F FF FF",
+            "posx": -27.42055892944336,
+            "posy": -133.58984375,
+            "posz": -801.6986694335938,
+            "sizex": 3000.0,
+            "sizey": 500.0,
+            "sizez": 3000.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "00 00",
+            "talk_behaviour": 63501,
+            "unk3": "FC 0A",
+            "name": "ScChang",
+            "angle": 0,
+            "bin": "0101 1111 0000 0011 0000 0000 0000 0001",
+            "extraInfo": {
+                "first_4_bytes": "5F 03 00 01"
+            },
+            "type": "STAG",
             "roomid": 0,
             "layerid": 0,
             "stageid": "B201_1"

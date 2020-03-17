@@ -2,9 +2,9 @@
     "stageid": "F004r",
     "stagename": "Skyloft: Bazaar",
     "maxx": 2436.749755859375,
-    "minx": -1575.0064697265625,
+    "minx": -2119.151611328125,
     "maxz": 1918.8609619140625,
-    "minz": -1783.5565185546875,
+    "minz": -2150.330810546875,
     "usedLayers": [
         0,
         1,
@@ -831,7 +831,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 153
+                "itemid": 153,
+                "tbbytes": "1111111010011001"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -861,7 +862,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 86
+                "itemid": 86,
+                "tbbytes": "1111111001010110"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -891,7 +893,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 84
+                "itemid": 84,
+                "tbbytes": "1111111001010100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -921,7 +924,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 78
+                "itemid": 78,
+                "tbbytes": "1111111001001110"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -951,7 +955,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 128
+                "itemid": 128,
+                "tbbytes": "1111111010000000"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -981,7 +986,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 124
+                "itemid": 124,
+                "tbbytes": "1111111101111100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1011,7 +1017,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 134
+                "itemid": 134,
+                "tbbytes": "1111111010000110"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1041,7 +1048,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 116
+                "itemid": 116,
+                "tbbytes": "1111111001110100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1071,7 +1079,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 119
+                "itemid": 119,
+                "tbbytes": "1111111001110111"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1101,7 +1110,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 122
+                "itemid": 122,
+                "tbbytes": "1111111001111010"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1131,7 +1141,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 79
+                "itemid": 79,
+                "tbbytes": "1111111001001111"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1161,7 +1172,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 79
+                "itemid": 79,
+                "tbbytes": "1111111001001111"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1191,7 +1203,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 80
+                "itemid": 80,
+                "tbbytes": "1111111001010000"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1221,7 +1234,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 81
+                "itemid": 81,
+                "tbbytes": "1111111001010001"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1251,7 +1265,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 86
+                "itemid": 86,
+                "tbbytes": "1111111001010110"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1281,7 +1296,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 87
+                "itemid": 87,
+                "tbbytes": "1111111001010111"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1311,7 +1327,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 84
+                "itemid": 84,
+                "tbbytes": "1111111001010100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1341,7 +1358,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 85
+                "itemid": 85,
+                "tbbytes": "1111111001010101"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1371,7 +1389,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 126
+                "itemid": 126,
+                "tbbytes": "1111111001111110"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1401,7 +1420,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 127
+                "itemid": 127,
+                "tbbytes": "1111111001111111"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1431,7 +1451,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 117
+                "itemid": 117,
+                "tbbytes": "1111111001110101"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1461,7 +1482,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 118
+                "itemid": 118,
+                "tbbytes": "1111111001110110"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1491,7 +1513,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 123
+                "itemid": 123,
+                "tbbytes": "1111111001111011"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1521,7 +1544,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 124
+                "itemid": 124,
+                "tbbytes": "1111111001111100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1551,7 +1575,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 120
+                "itemid": 120,
+                "tbbytes": "1111111001111000"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1581,7 +1606,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 121
+                "itemid": 121,
+                "tbbytes": "1111111001111001"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1611,7 +1637,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 105
+                "itemid": 105,
+                "tbbytes": "1111111001101001"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1641,7 +1668,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 135
+                "itemid": 135,
+                "tbbytes": "1111111010000111"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1671,7 +1699,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 136
+                "itemid": 136,
+                "tbbytes": "1111111010001000"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1701,7 +1730,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 76
+                "itemid": 76,
+                "tbbytes": "1111111001001100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1731,7 +1761,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 77
+                "itemid": 77,
+                "tbbytes": "1111111001001101"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1761,7 +1792,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 90
+                "itemid": 90,
+                "tbbytes": "1111111001011010"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1791,7 +1823,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 91
+                "itemid": 91,
+                "tbbytes": "1111111001011011"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1821,7 +1854,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 129
+                "itemid": 129,
+                "tbbytes": "1111111010000001"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1851,7 +1885,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 130
+                "itemid": 130,
+                "tbbytes": "1111111010000010"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1881,7 +1916,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 132
+                "itemid": 132,
+                "tbbytes": "1111111010000100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1911,7 +1947,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 133
+                "itemid": 133,
+                "tbbytes": "1111111010000101"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1941,7 +1978,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 66
+                "itemid": 66,
+                "tbbytes": "1111111001000010"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1971,7 +2009,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 60
+                "itemid": 60,
+                "tbbytes": "1111111000111100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2001,7 +2040,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 222
+                "itemid": 222,
+                "tbbytes": "1011101111011110"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2031,7 +2071,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 140
+                "itemid": 140,
+                "tbbytes": "1111111010001100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2061,9 +2102,346 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 194
+                "itemid": 194,
+                "tbbytes": "1111111011000010"
             },
             "type": "OBJS",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 0,
+            "byte4": 0,
+            "unk1": "FF 5F FF FF",
+            "posx": 529.52685546875,
+            "posy": -27.090190887451172,
+            "posz": -2150.330810546875,
+            "sizex": 288.0,
+            "sizey": 200.0,
+            "sizez": 432.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "00 00",
+            "talk_behaviour": 65535,
+            "unk3": "FC 7F",
+            "name": "ScChang",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 0000 0000 0000",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 00 00"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 1,
+            "byte4": 1,
+            "unk1": "FF 5F FF FF",
+            "posx": -669.1220092773438,
+            "posy": -29.144969940185547,
+            "posz": 1796.301025390625,
+            "sizex": 384.0,
+            "sizey": 200.0,
+            "sizez": 575.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "F5 56",
+            "talk_behaviour": 65535,
+            "unk3": "FC 80",
+            "name": "ScChang",
+            "angle": 22261,
+            "bin": "1111 1111 1111 1111 0000 0001 0000 0001",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 01 01"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 2,
+            "byte4": 2,
+            "unk1": "FF 5F FF FF",
+            "posx": -2119.151611328125,
+            "posy": -20.254114151000977,
+            "posz": -85.20271301269531,
+            "sizex": 766.0,
+            "sizey": 200.0,
+            "sizez": 575.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "00 00",
+            "talk_behaviour": 65535,
+            "unk3": "FC 81",
+            "name": "ScChang",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 0010 0000 0010",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 02 02"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 0,
+            "byte4": 2,
+            "unk1": "FF FF FF FF",
+            "posx": 125.0,
+            "posy": 0.0,
+            "posz": -1325.0,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 82",
+            "name": "EffGnT",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 0000 0000 0010",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 00 02"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 1,
+            "byte4": 2,
+            "unk1": "FF FF FF FF",
+            "posx": 350.0,
+            "posy": 0.0,
+            "posz": 1710.0,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 83",
+            "name": "EffGnT",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 0001 0000 0010",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 01 02"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 2,
+            "byte4": 2,
+            "unk1": "FF FF FF FF",
+            "posx": -1728.0,
+            "posy": 0.0,
+            "posz": 890.0,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 84",
+            "name": "EffGnT",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 0010 0000 0010",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 02 02"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -1,
+            "unk1": "FF 5F FF FF",
+            "posx": 24.623714447021484,
+            "posy": 1054.271484375,
+            "posz": -919.7551879882812,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": -1,
+            "transition_type": -12,
+            "unk2": "39 99",
+            "talk_behaviour": 1541,
+            "unk3": "FC 8B",
+            "name": "MapMark",
+            "angle": -26311,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -1,
+            "unk1": "FF 5F FF FF",
+            "posx": 1034.7921142578125,
+            "posy": 1067.12841796875,
+            "posz": -669.2252807617188,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": -1,
+            "transition_type": -12,
+            "unk2": "00 00",
+            "talk_behaviour": 2054,
+            "unk3": "FC 8C",
+            "name": "MapMark",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -1,
+            "unk1": "FF 5F FF FF",
+            "posx": -181.47674560546875,
+            "posy": 1054.271484375,
+            "posz": -291.57110595703125,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": -1,
+            "transition_type": -12,
+            "unk2": "00 00",
+            "talk_behaviour": 1801,
+            "unk3": "FC 8D",
+            "name": "MapMark",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -1,
+            "unk1": "FF 5F FF FF",
+            "posx": 335.0209045410156,
+            "posy": 1067.12841796875,
+            "posz": 930.2512817382812,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": -1,
+            "transition_type": -12,
+            "unk2": "00 00",
+            "talk_behaviour": 2568,
+            "unk3": "FC 8E",
+            "name": "MapMark",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -1,
+            "unk1": "FF 5F FF FF",
+            "posx": 1145.86669921875,
+            "posy": 1054.271484375,
+            "posz": 169.3892059326172,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": -1,
+            "transition_type": -12,
+            "unk2": "00 00",
+            "talk_behaviour": 2311,
+            "unk3": "FC 8F",
+            "name": "MapMark",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "F004r"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -1,
+            "unk1": "FF 5F FF FF",
+            "posx": 123.97909545898438,
+            "posy": 1054.271484375,
+            "posz": -1324.5662841796875,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": -1,
+            "transition_type": -12,
+            "unk2": "00 00",
+            "talk_behaviour": 3844,
+            "unk3": "FC 90",
+            "name": "MapMark",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF FF"
+            },
+            "type": "STAG",
             "roomid": 0,
             "layerid": 0,
             "stageid": "F004r"

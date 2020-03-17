@@ -4,7 +4,7 @@
     "maxx": 0,
     "minx": -6982.16650390625,
     "maxz": 2622.10986328125,
-    "minz": -4022.4580078125,
+    "minz": -5330.57080078125,
     "usedLayers": [
         0,
         1
@@ -652,7 +652,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 4
+                "itemid": 4,
+                "tbbytes": "1000011000000100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -682,7 +683,8 @@
                 "spawnscenef": "no flag set",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 4
+                "itemid": 4,
+                "tbbytes": "1000100000000100"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -946,6 +948,174 @@
             "stageid": "D000"
         },
         {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 0,
+            "byte4": 0,
+            "unk1": "FF 5F FF FF",
+            "posx": -11.425707817077637,
+            "posy": 74.92973327636719,
+            "posz": -918.8245239257812,
+            "sizex": 575.0,
+            "sizey": 1054.0,
+            "sizez": 1054.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "00 00",
+            "talk_behaviour": 65535,
+            "unk3": "FC 20",
+            "name": "ScChang",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 0000 0000 0000 0000",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 00 00"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D000"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": 1,
+            "byte4": 1,
+            "unk1": "FF 5F FF FF",
+            "posx": -5873.00048828125,
+            "posy": -2185.010009765625,
+            "posz": -5330.57080078125,
+            "sizex": 623.0,
+            "sizey": 671.0,
+            "sizez": 862.0,
+            "event_flag": -25,
+            "transition_type": -1,
+            "unk2": "E8 89",
+            "talk_behaviour": 65535,
+            "unk3": "FC 21",
+            "name": "ScChang",
+            "angle": -30232,
+            "bin": "1111 1111 1111 1111 0000 0001 0000 0001",
+            "extraInfo": {
+                "first_4_bytes": "FF FF 01 01"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D000"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -79,
+            "unk1": "FF FF FF FF",
+            "posx": -2238.044921875,
+            "posy": -1604.51171875,
+            "posz": -106.29578399658203,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 22",
+            "name": "InsctTg",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1011 0001",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF B1"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D000"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -79,
+            "unk1": "FF FF FF FF",
+            "posx": -3938.243896484375,
+            "posy": -1081.0,
+            "posz": 2439.953369140625,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 23",
+            "name": "InsctTg",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1011 0001",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF B1"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D000"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -79,
+            "unk1": "FF FF FF FF",
+            "posx": -5429.33642578125,
+            "posy": -1931.9000244140625,
+            "posz": -3533.91064453125,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 24",
+            "name": "InsctTg",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1011 0001",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF B1"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D000"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -1,
+            "scen_link": -1,
+            "byte4": -47,
+            "unk1": "FF FF FF FF",
+            "posx": -4033.207275390625,
+            "posy": -1312.27001953125,
+            "posz": -4349.4296875,
+            "sizex": 400.0,
+            "sizey": 200.0,
+            "sizez": 400.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 25",
+            "name": "InsctTg",
+            "angle": 0,
+            "bin": "1111 1111 1111 1111 1111 1111 1101 0001",
+            "extraInfo": {
+                "first_4_bytes": "FF FF FF D1"
+            },
+            "type": "STAG",
+            "roomid": 0,
+            "layerid": 0,
+            "stageid": "D000"
+        },
+        {
             "byte1": -16,
             "tosky_scen_link": -1,
             "scen_link": -1,
@@ -996,7 +1166,8 @@
                 "spawnscenef": "temp flag: 0x9 01",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 174
+                "itemid": 174,
+                "tbbytes": "1111111010101110"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1026,7 +1197,8 @@
                 "spawnscenef": "temp flag: 0x9 02",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 175
+                "itemid": 175,
+                "tbbytes": "1111111010101111"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1056,7 +1228,8 @@
                 "spawnscenef": "temp flag: 0x9 04",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 176
+                "itemid": 176,
+                "tbbytes": "1111111010110000"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1086,7 +1259,8 @@
                 "spawnscenef": "temp flag: 0x9 08",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 168
+                "itemid": 168,
+                "tbbytes": "1111111010101000"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1116,7 +1290,8 @@
                 "spawnscenef": "temp flag: 0x9 40",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 173
+                "itemid": 173,
+                "tbbytes": "1111111010101101"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1146,9 +1321,38 @@
                 "spawnscenef": "temp flag: 0x9 80",
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
-                "itemid": 171
+                "itemid": 171,
+                "tbbytes": "1111111010101011"
             },
             "type": "OBJS",
+            "roomid": 0,
+            "layerid": 1,
+            "stageid": "D000"
+        },
+        {
+            "byte1": -1,
+            "tosky_scen_link": -9,
+            "scen_link": -44,
+            "byte4": -92,
+            "unk1": "FF FF FF FF",
+            "posx": -2955.439208984375,
+            "posy": -1603.4456787109375,
+            "posz": 343.73382568359375,
+            "sizex": 100.0,
+            "sizey": 100.0,
+            "sizez": 100.0,
+            "event_flag": 0,
+            "transition_type": 0,
+            "unk2": "00 00",
+            "talk_behaviour": 0,
+            "unk3": "FC 3A",
+            "name": "InsctTg",
+            "angle": 0,
+            "bin": "1111 1111 1111 0111 1101 0100 1010 0100",
+            "extraInfo": {
+                "first_4_bytes": "FF F7 D4 A4"
+            },
+            "type": "STAG",
             "roomid": 0,
             "layerid": 1,
             "stageid": "D000"
