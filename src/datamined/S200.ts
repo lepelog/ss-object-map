@@ -2379,10 +2379,11 @@
             "extraInfo": {
                 "first_4_bytes": "00 0F FF F3",
                 "spawnscenefid": 0,
-                "spawnscenef": "temp flag: 0x11 01",
+                "spawnscenef": "scene flag: 0x1 01",
                 "trigscenefid": 1,
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
+                "chestid": 74,
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -2414,6 +2415,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 17,
+                "chestid": 127,
                 "tbbytes": "1111111000010001"
             },
             "type": "OBJS",
@@ -3017,10 +3019,11 @@
             "extraInfo": {
                 "first_4_bytes": "00 0F FF F3",
                 "spawnscenefid": 0,
-                "spawnscenef": "temp flag: 0x11 01",
+                "spawnscenef": "scene flag: 0x1 01",
                 "trigscenefid": 1,
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
+                "chestid": 74,
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -3697,10 +3700,11 @@
             "extraInfo": {
                 "first_4_bytes": "00 0F FF F3",
                 "spawnscenefid": 0,
-                "spawnscenef": "temp flag: 0x11 01",
+                "spawnscenef": "scene flag: 0x1 01",
                 "trigscenefid": 1,
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
+                "chestid": 74,
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -4332,10 +4336,11 @@
             "extraInfo": {
                 "first_4_bytes": "00 0F FF F3",
                 "spawnscenefid": 0,
-                "spawnscenef": "temp flag: 0x11 01",
+                "spawnscenef": "scene flag: 0x1 01",
                 "trigscenefid": 1,
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
+                "chestid": 74,
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -4638,10 +4643,11 @@
             "extraInfo": {
                 "first_4_bytes": "00 0F FF F3",
                 "spawnscenefid": 0,
-                "spawnscenef": "temp flag: 0x11 01",
+                "spawnscenef": "scene flag: 0x1 01",
                 "trigscenefid": 1,
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
+                "chestid": 74,
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -5238,10 +5244,11 @@
             "extraInfo": {
                 "first_4_bytes": "00 0F FF F3",
                 "spawnscenefid": 0,
-                "spawnscenef": "temp flag: 0x11 01",
+                "spawnscenef": "scene flag: 0x1 01",
                 "trigscenefid": 1,
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
+                "chestid": 74,
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -5296,10 +5303,11 @@
             "extraInfo": {
                 "first_4_bytes": "00 0F FF F3",
                 "spawnscenefid": 0,
-                "spawnscenef": "temp flag: 0x11 01",
+                "spawnscenef": "scene flag: 0x1 01",
                 "trigscenefid": 1,
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
+                "chestid": 74,
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",

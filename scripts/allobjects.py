@@ -97,7 +97,8 @@ for stagefile in glob.glob('output/stage/*.json'):
                                 extra_info['spawnscenef']=flag_id_to_sheet_rep(triggerscenef)
                                 extra_info['trigscenefid']=obj['transition_type']
                                 extra_info['trigscenef']=flag_id_to_sheet_rep(extra_info['trigscenefid'])
-                                extra_info['itemid']=obj['talk_behaviour']&0xFF
+                                extra_info['itemid']=obj['talk_behaviour']&0x1FF
+                                extra_info['chestid']=(obj['talk_behaviour']&0xFE00)>>9
                             elif obj['name']=='DNight':
                                 extra_info['sleep_storyf']=(obj['byte4']&0xFF) + ((obj['scen_link']&0x7)<<8)
                             

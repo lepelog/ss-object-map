@@ -33,7 +33,8 @@
             "angle": 29436,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 0,

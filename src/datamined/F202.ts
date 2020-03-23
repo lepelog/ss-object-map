@@ -2600,6 +2600,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 99,
+                "chestid": 127,
                 "tbbytes": "1111111001100011"
             },
             "type": "OBJS",
@@ -11594,6 +11595,7 @@
                 "trigscenefid": 76,
                 "trigscenef": "scene flag: 0x8 10",
                 "itemid": 20,
+                "chestid": 66,
                 "tbbytes": "1000010000010100"
             },
             "type": "OBJS",
@@ -11625,6 +11627,7 @@
                 "trigscenefid": 75,
                 "trigscenef": "scene flag: 0x8 08",
                 "itemid": 49,
+                "chestid": 70,
                 "tbbytes": "1000110000110001"
             },
             "type": "OBJS",
@@ -11656,6 +11659,7 @@
                 "trigscenefid": 77,
                 "trigscenef": "scene flag: 0x8 20",
                 "itemid": 137,
+                "chestid": 67,
                 "tbbytes": "1000011010001001"
             },
             "type": "OBJS",
@@ -16908,6 +16912,7 @@
                 "trigscenefid": 78,
                 "trigscenef": "scene flag: 0x8 40",
                 "itemid": 52,
+                "chestid": 68,
                 "tbbytes": "1000100000110100"
             },
             "type": "OBJS",
@@ -16939,6 +16944,7 @@
                 "trigscenefid": 79,
                 "trigscenef": "scene flag: 0x8 80",
                 "itemid": 92,
+                "chestid": 69,
                 "tbbytes": "1000101001011100"
             },
             "type": "OBJS",
@@ -16970,6 +16976,7 @@
                 "trigscenefid": 78,
                 "trigscenef": "scene flag: 0x8 40",
                 "itemid": 105,
+                "chestid": 127,
                 "tbbytes": "1111111001101001"
             },
             "type": "OBJS",
@@ -17881,7 +17888,7 @@
                 "trigscenefid": -1,
                 "untrigscenefid": 0,
                 "trigscenef": "no flag set",
-                "untrigscenef": "temp flag: 0x11 01",
+                "untrigscenef": "scene flag: 0x1 01",
                 "eventSrc": "305-MountainF3.c#L99"
             },
             "type": "OBJ ",

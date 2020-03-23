@@ -32,7 +32,8 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -163,6 +164,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 199,
+                "chestid": 127,
                 "tbbytes": "1111111011000111"
             },
             "type": "OBJS",
@@ -380,6 +382,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 100,
+                "chestid": 127,
                 "tbbytes": "1111111001100100"
             },
             "type": "OBJS",
@@ -411,6 +414,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 71,
+                "chestid": 127,
                 "tbbytes": "1111111001000111"
             },
             "type": "OBJS",
@@ -442,6 +446,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 94,
+                "chestid": 127,
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",

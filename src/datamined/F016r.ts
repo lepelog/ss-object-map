@@ -31,7 +31,8 @@
             "angle": -7368,
             "bin": "1111 1111 1111 1111 1111 1001 0111 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF F9 79"
+                "first_4_bytes": "FF FF F9 79",
+                "sleep_storyf": 377
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -56,7 +57,8 @@
             "angle": 30519,
             "bin": "1111 1111 1111 1111 1111 1001 0111 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF F9 79"
+                "first_4_bytes": "FF FF F9 79",
+                "sleep_storyf": 377
             },
             "type": "OBJ ",
             "roomid": 0,

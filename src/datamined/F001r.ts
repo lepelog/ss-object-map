@@ -2876,6 +2876,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 112,
+                "chestid": 127,
                 "tbbytes": "1111111001110000"
             },
             "type": "OBJS",
@@ -2907,6 +2908,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 158,
+                "chestid": 127,
                 "tbbytes": "1111111010011110"
             },
             "type": "OBJS",
@@ -3298,6 +3300,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 112,
+                "chestid": 127,
                 "tbbytes": "1111111001110000"
             },
             "type": "OBJS",
@@ -3373,7 +3376,8 @@
             "angle": 29340,
             "bin": "1111 1111 1111 1111 1110 0000 0010 0100",
             "extraInfo": {
-                "first_4_bytes": "FF FF E0 24"
+                "first_4_bytes": "FF FF E0 24",
+                "sleep_storyf": 36
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3398,7 +3402,8 @@
             "angle": 160,
             "bin": "1111 1111 1111 1111 1110 0000 0010 0100",
             "extraInfo": {
-                "first_4_bytes": "FF FF E0 24"
+                "first_4_bytes": "FF FF E0 24",
+                "sleep_storyf": 36
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3456,6 +3461,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 94,
+                "chestid": 127,
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",
@@ -4296,7 +4302,8 @@
             "angle": -11673,
             "bin": "1111 1111 1111 1111 1111 1010 0010 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FA 2A"
+                "first_4_bytes": "FF FF FA 2A",
+                "sleep_storyf": 554
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4321,7 +4328,8 @@
             "angle": 4401,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4346,7 +4354,8 @@
             "angle": 4401,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4371,7 +4380,8 @@
             "angle": -11673,
             "bin": "1111 1111 1111 1111 1111 1010 0010 1010",
             "extraInfo": {
-                "first_4_bytes": "FF FF FA 2A"
+                "first_4_bytes": "FF FF FA 2A",
+                "sleep_storyf": 554
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4934,7 +4944,8 @@
             "angle": 26150,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -5014,7 +5025,8 @@
             "angle": 26150,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -5299,7 +5311,8 @@
             "angle": 13107,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -5415,7 +5428,8 @@
             "angle": 13107,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -5798,6 +5812,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 94,
+                "chestid": 127,
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",
@@ -5937,7 +5952,8 @@
             "angle": -17541,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -5962,7 +5978,8 @@
             "angle": 29340,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -5987,7 +6004,8 @@
             "angle": 29340,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -6012,7 +6030,8 @@
             "angle": -17541,
             "bin": "1111 1111 1111 1111 1111 1111 1111 1111",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF FF"
+                "first_4_bytes": "FF FF FF FF",
+                "sleep_storyf": 2047
             },
             "type": "OBJ ",
             "roomid": 6,

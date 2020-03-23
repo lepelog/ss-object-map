@@ -1480,6 +1480,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 173,
+                "chestid": 64,
                 "tbbytes": "1000000010101101"
             },
             "type": "OBJS",
@@ -4514,6 +4515,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 4,
+                "chestid": 65,
                 "tbbytes": "1000001000000100"
             },
             "type": "OBJS",
@@ -6110,6 +6112,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 64,
+                "chestid": 66,
                 "tbbytes": "1000010001000000"
             },
             "type": "OBJS",
@@ -6191,7 +6194,7 @@
             "extraInfo": {
                 "first_4_bytes": "FF FF 08 00",
                 "flagid": 0,
-                "areaflag": "temp flag: 0x11 01"
+                "areaflag": "scene flag: 0x1 01"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -6218,7 +6221,7 @@
             "extraInfo": {
                 "first_4_bytes": "FF FF 08 00",
                 "flagid": 0,
-                "areaflag": "temp flag: 0x11 01"
+                "areaflag": "scene flag: 0x1 01"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -6276,6 +6279,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 4,
+                "chestid": 67,
                 "tbbytes": "1000011000000100"
             },
             "type": "OBJS",

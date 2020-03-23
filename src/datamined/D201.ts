@@ -760,6 +760,7 @@
                 "trigscenefid": 5,
                 "trigscenef": "scene flag: 0x1 20",
                 "itemid": 1,
+                "chestid": 64,
                 "tbbytes": "1000000000000001"
             },
             "type": "OBJS",
@@ -787,7 +788,7 @@
             "extraInfo": {
                 "first_4_bytes": "FF 01 02 00",
                 "flagid": 0,
-                "areaflag": "temp flag: 0x11 01"
+                "areaflag": "scene flag: 0x1 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1247,6 +1248,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 4,
+                "chestid": 74,
                 "tbbytes": "1001010000000100"
             },
             "type": "OBJS",
@@ -1305,6 +1307,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 50,
+                "chestid": 65,
                 "tbbytes": "1000001000110010"
             },
             "type": "OBJS",
@@ -5420,6 +5423,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 94,
+                "chestid": 66,
                 "tbbytes": "1000010001011110"
             },
             "type": "OBJS",
@@ -7642,6 +7646,7 @@
                 "trigscenefid": 86,
                 "trigscenef": "scene flag: 0xB 40",
                 "itemid": 26,
+                "chestid": 67,
                 "tbbytes": "1000011000011010"
             },
             "type": "OBJS",
@@ -7897,6 +7902,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 99,
+                "chestid": 68,
                 "tbbytes": "1000100001100011"
             },
             "type": "OBJS",
@@ -7928,6 +7934,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 1,
+                "chestid": 69,
                 "tbbytes": "1000101000000001"
             },
             "type": "OBJS",
@@ -8127,6 +8134,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 153,
+                "chestid": 70,
                 "tbbytes": "1000110010011001"
             },
             "type": "OBJS",
@@ -8212,6 +8220,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 4,
+                "chestid": 73,
                 "tbbytes": "1001001000000100"
             },
             "type": "OBJS",
@@ -8243,6 +8252,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 63,
+                "chestid": 72,
                 "tbbytes": "1001000000111111"
             },
             "type": "OBJS",
@@ -8699,6 +8709,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 63,
+                "chestid": 75,
                 "tbbytes": "1001011000111111"
             },
             "type": "OBJS",
@@ -10313,6 +10324,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 1,
+                "chestid": 71,
                 "tbbytes": "1000111000000001"
             },
             "type": "OBJS",

@@ -363,6 +363,7 @@
                 "trigscenefid": 95,
                 "trigscenef": "scene flag: 0xA 80",
                 "itemid": 1,
+                "chestid": 65,
                 "tbbytes": "1000001000000001"
             },
             "type": "OBJS",

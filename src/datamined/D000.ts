@@ -653,6 +653,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 4,
+                "chestid": 67,
                 "tbbytes": "1000011000000100"
             },
             "type": "OBJS",
@@ -684,6 +685,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 4,
+                "chestid": 68,
                 "tbbytes": "1000100000000100"
             },
             "type": "OBJS",
@@ -1167,6 +1169,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 174,
+                "chestid": 127,
                 "tbbytes": "1111111010101110"
             },
             "type": "OBJS",
@@ -1198,6 +1201,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 175,
+                "chestid": 127,
                 "tbbytes": "1111111010101111"
             },
             "type": "OBJS",
@@ -1229,6 +1233,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 176,
+                "chestid": 127,
                 "tbbytes": "1111111010110000"
             },
             "type": "OBJS",
@@ -1260,6 +1265,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 168,
+                "chestid": 127,
                 "tbbytes": "1111111010101000"
             },
             "type": "OBJS",
@@ -1291,6 +1297,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 173,
+                "chestid": 127,
                 "tbbytes": "1111111010101101"
             },
             "type": "OBJS",
@@ -1322,6 +1329,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 171,
+                "chestid": 127,
                 "tbbytes": "1111111010101011"
             },
             "type": "OBJS",

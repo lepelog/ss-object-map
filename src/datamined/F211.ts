@@ -2716,6 +2716,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 64,
+                "chestid": 127,
                 "tbbytes": "1111111001000000"
             },
             "type": "OBJS",

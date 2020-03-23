@@ -4439,6 +4439,7 @@
                 "trigscenefid": 11,
                 "trigscenef": "scene flag: 0x0 08",
                 "itemid": 50,
+                "chestid": 64,
                 "tbbytes": "1000000000110010"
             },
             "type": "OBJS",
@@ -9165,6 +9166,7 @@
                 "trigscenefid": 117,
                 "trigscenef": "scene flag: 0xF 20",
                 "itemid": 1,
+                "chestid": 67,
                 "tbbytes": "1000011000000001"
             },
             "type": "OBJS",
@@ -15540,6 +15542,7 @@
                 "trigscenefid": 118,
                 "trigscenef": "scene flag: 0xF 40",
                 "itemid": 1,
+                "chestid": 68,
                 "tbbytes": "1000100000000001"
             },
             "type": "OBJS",
@@ -17908,6 +17911,7 @@
                 "trigscenefid": 30,
                 "trigscenef": "scene flag: 0x2 40",
                 "itemid": 29,
+                "chestid": 66,
                 "tbbytes": "1000010000011101"
             },
             "type": "OBJS",
@@ -17991,6 +17995,7 @@
                 "trigscenefid": -1,
                 "trigscenef": "no flag set",
                 "itemid": 4,
+                "chestid": 70,
                 "tbbytes": "1000110000000100"
             },
             "type": "OBJS",
@@ -20965,6 +20970,7 @@
                 "trigscenefid": 33,
                 "trigscenef": "scene flag: 0x5 02",
                 "itemid": 53,
+                "chestid": 65,
                 "tbbytes": "1000001000110101"
             },
             "type": "OBJS",
@@ -20996,6 +21002,7 @@
                 "trigscenefid": 33,
                 "trigscenef": "scene flag: 0x5 02",
                 "itemid": 53,
+                "chestid": 65,
                 "tbbytes": "1000001000110101"
             },
             "type": "OBJS",
@@ -21077,6 +21084,7 @@
                 "trigscenefid": 33,
                 "trigscenef": "scene flag: 0x5 02",
                 "itemid": 53,
+                "chestid": 65,
                 "tbbytes": "1000001000110101"
             },
             "type": "OBJS",
@@ -21108,6 +21116,7 @@
                 "trigscenefid": -68,
                 "trigscenef": "temp flag: 0x6 10",
                 "itemid": 63,
+                "chestid": 127,
                 "tbbytes": "1111111000111111"
             },
             "type": "OBJS",
