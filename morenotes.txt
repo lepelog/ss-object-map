@@ -233,5 +233,7 @@ most common case is all 1 which always allows sleeping
 0x800be6d0 unset flags
 0x800bf350 for story flags (r4)
 
+0x801affac breakpoint for events
+
 0x801bc094 set layer spawn
 0x8000ADC0 on NTSC U 1.0 0x8000abc0 on PAL 1.1
