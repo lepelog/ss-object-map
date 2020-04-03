@@ -246,7 +246,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D CE 30",
                 "flagid": 115,
-                "areaflag": "scene flag: 0xF 08"
+                "itemid": 48,
+                "areaflag": "scene flag: 0xF 08",
+                "item": "one Gratitude crystal"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -278,6 +280,7 @@
                 "trigscenef": "scene flag: 0x1 04",
                 "itemid": 10,
                 "chestid": 66,
+                "item": "Practice Sword",
                 "tbbytes": "1000010000001010"
             },
             "type": "OBJS",

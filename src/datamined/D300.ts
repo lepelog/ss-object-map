@@ -341,7 +341,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -368,7 +370,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -445,7 +449,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -805,7 +811,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -832,7 +840,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 03",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 3,
+                "areaflag": "no flag set",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -859,7 +869,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -891,6 +903,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 64,
+                "item": "Red Rupee",
                 "tbbytes": "1000000000000100"
             },
             "type": "OBJS",
@@ -974,7 +987,8 @@
                 "first_4_bytes": "1F FF 00 CA",
                 "flagid": -54,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x8 04"
+                "areaflag": "temp flag: 0x8 04",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1005,7 +1019,8 @@
                 "first_4_bytes": "1F FF 00 CB",
                 "flagid": -53,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x8 08"
+                "areaflag": "temp flag: 0x8 08",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1036,7 +1051,8 @@
                 "first_4_bytes": "0F FF FF CC",
                 "flagid": -52,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x8 10"
+                "areaflag": "temp flag: 0x8 10",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3487,6 +3503,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 65,
+                "item": "Red Rupee",
                 "tbbytes": "1000001000000100"
             },
             "type": "OBJS",
@@ -3690,11 +3707,7 @@
             "angle": 0,
             "bin": "1111 1010 0000 1000 1111 1111 0010 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 08 FF 22",
-                "trigstoryfid": 575,
-                "untrigstoryfid": 2000,
-                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FA 08 FF 22"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -3837,7 +3850,8 @@
                 "first_4_bytes": "1F FF FF 8E",
                 "flagid": -114,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 40"
+                "areaflag": "temp flag: 0x0 40",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -3868,7 +3882,8 @@
                 "first_4_bytes": "1F FF FF 8F",
                 "flagid": -113,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 80"
+                "areaflag": "temp flag: 0x0 80",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -3899,7 +3914,8 @@
                 "first_4_bytes": "1F FF FF 90",
                 "flagid": -112,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x3 01"
+                "areaflag": "temp flag: 0x3 01",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -5436,6 +5452,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 171,
                 "chestid": 66,
+                "item": "Monster Horn",
                 "tbbytes": "1000010010101011"
             },
             "type": "OBJS",
@@ -7815,6 +7832,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 49,
                 "chestid": 68,
+                "item": "Gust Bellows",
                 "tbbytes": "1000100000110001"
             },
             "type": "OBJS",
@@ -7872,6 +7890,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 64,
                 "chestid": 76,
+                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
                 "tbbytes": "1001100001000000"
             },
             "type": "OBJS",
@@ -9016,6 +9035,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 1,
                 "chestid": 70,
+                "item": "Small Key",
                 "tbbytes": "1000110000000001"
             },
             "type": "OBJS",
@@ -9127,6 +9147,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 74,
+                "item": "Red Rupee",
                 "tbbytes": "1001010000000100"
             },
             "type": "OBJS",
@@ -9615,6 +9636,7 @@
                 "trigscenef": "scene flag: 0x3 40",
                 "itemid": 50,
                 "chestid": 69,
+                "item": "Dungeon Map (and fi text)",
                 "tbbytes": "1000101000110010"
             },
             "type": "OBJS",
@@ -10139,6 +10161,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 73,
+                "item": "Red Rupee",
                 "tbbytes": "1001001000000100"
             },
             "type": "OBJS",
@@ -10196,6 +10219,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 31,
                 "chestid": 71,
+                "item": "LMF BK",
                 "tbbytes": "1000111000011111"
             },
             "type": "OBJS",
@@ -10253,6 +10277,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 64,
                 "chestid": 72,
+                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
                 "tbbytes": "1001000001000000"
             },
             "type": "OBJS",

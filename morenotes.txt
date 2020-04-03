@@ -158,67 +158,6 @@ Some itemID > 0x100 makes the chest a goddess chest, has to be in the goddess ch
 
 Most of them crash because the item get animation/event/actor? isn't loaded
 
-*=big
-00: *softlock, chest doesnt open
-01: *small key
-02: green rupee
-03: blue
-04: Red rupee
-05: *softlock
-06: *Heart
-07: *single arrow (like the ones you pick up)
-08: *bundle of arrows
-09: *green rupee (empty textbox)
-0A: *softlock
-0B: *shows green rupee but goddess sword text
-0C: *green rupee (empty textbox)
-0D: ^
-0E: ^
-0F: 
-10: *softlock
-11: ^
-12: ^
-13: ^
-14: ^
-15: ^
-16: *Deku Hornet
-17: *softlock
-18: ^
-19: BK, crash
-1A: ^
-1B: ^
-1C: *crash
-1D: BK, crash
-1E: ^
-1F: ^
-20: *Silver rupee
-21: *Gold rupee
-22: *rupoor
-23: *5 Gratitude crystals
-24: *glittering spores (&bottle?)
-25: *softlock
-26: ^
-27: ^
-28: *5 Bombs
-29: *10 Bombs
-2A: *crash
-32: *Dungeon Map (and fi text)
-33: *Dungeon Map (empty text box)
-36: *Water
-37: *Mushroom spores
-38: *crash
-39: *slingshot seeds (empty textbox)
-3A: *crash
-3F: *evil crystal
-40: *crash
-58: *Fairy
-5E: *Heart piece
-5F: *BK, crash
-60: ^
-62: *crash
-6B: *green rupee (empty textbox)
-6F: *crash
-
 Bed: DNight, last 11 bits of the first 4 bytes is story flag
           invert           story flag
                        | ||           |
@@ -237,3 +176,9 @@ most common case is all 1 which always allows sleeping
 
 0x801bc094 set layer spawn
 0x8000ADC0 on NTSC U 1.0 0x8000abc0 on PAL 1.1
+
+0x8059B48C buttons
+
+0x80AFEBDE & 0x80AFEC28 next node in event flow
+
+goal 303, 299

@@ -1080,6 +1080,7 @@
                 "trigscenef": "scene flag: 0xB 40",
                 "itemid": 171,
                 "chestid": 127,
+                "item": "Monster Horn",
                 "tbbytes": "1111111010101011"
             },
             "type": "OBJS",

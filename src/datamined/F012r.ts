@@ -168,6 +168,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 108,
                 "chestid": 127,
+                "item": "Medium Wallet",
                 "tbbytes": "1111111001101100"
             },
             "type": "OBJS",
@@ -200,6 +201,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 109,
                 "chestid": 127,
+                "item": "Big Wallet",
                 "tbbytes": "1111111001101101"
             },
             "type": "OBJS",
@@ -232,6 +234,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 110,
                 "chestid": 127,
+                "item": "Giant Wallet",
                 "tbbytes": "1111111001101110"
             },
             "type": "OBJS",
@@ -264,6 +267,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 111,
                 "chestid": 127,
+                "item": "Tycoon Wallet",
                 "tbbytes": "1111111001101111"
             },
             "type": "OBJS",
@@ -296,6 +300,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 94,
                 "chestid": 127,
+                "item": "Heart piece",
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",
@@ -328,6 +333,7 @@
                 "trigscenef": "temp flag: 0x9 01",
                 "itemid": 104,
                 "chestid": 69,
+                "item": "Cursed Medal",
                 "tbbytes": "1000101001101000"
             },
             "type": "OBJS",

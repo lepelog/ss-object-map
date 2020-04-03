@@ -971,6 +971,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 3,
                 "chestid": 78,
+                "item": "Blue rupee",
                 "tbbytes": "1001110000000011"
             },
             "type": "OBJS",
@@ -1003,6 +1004,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 165,
                 "chestid": 79,
+                "item": "Eldin Ore",
                 "tbbytes": "1001111010100101"
             },
             "type": "OBJS",
@@ -1035,6 +1037,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 3,
                 "chestid": 80,
+                "item": "Blue rupee",
                 "tbbytes": "1010000000000011"
             },
             "type": "OBJS",
@@ -1067,6 +1070,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 171,
                 "chestid": 81,
+                "item": "Monster Horn",
                 "tbbytes": "1010001010101011"
             },
             "type": "OBJS",
@@ -1099,6 +1103,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 3,
                 "chestid": 82,
+                "item": "Blue rupee",
                 "tbbytes": "1010010000000011"
             },
             "type": "OBJS",
@@ -1572,11 +1577,7 @@
             "angle": 0,
             "bin": "1111 1010 0000 1000 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 08 FF 32",
-                "trigstoryfid": 575,
-                "untrigstoryfid": 2000,
-                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FA 08 FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1604,11 +1605,7 @@
             "angle": 0,
             "bin": "1111 1010 0000 1000 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 08 FF 32",
-                "trigstoryfid": 575,
-                "untrigstoryfid": 2000,
-                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FA 08 FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1636,11 +1633,7 @@
             "angle": 0,
             "bin": "1111 1010 0000 1000 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 08 FF 32",
-                "trigstoryfid": 575,
-                "untrigstoryfid": 2000,
-                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FA 08 FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1671,7 +1664,8 @@
                 "first_4_bytes": "0F FF FF 8A",
                 "flagid": -118,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 04"
+                "areaflag": "temp flag: 0x0 04",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1702,7 +1696,8 @@
                 "first_4_bytes": "0F FF FF 8B",
                 "flagid": -117,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 08"
+                "areaflag": "temp flag: 0x0 08",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,

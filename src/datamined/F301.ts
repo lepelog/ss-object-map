@@ -896,7 +896,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 6E 20",
                 "flagid": 91,
-                "areaflag": "scene flag: 0xA 08"
+                "itemid": 32,
+                "areaflag": "scene flag: 0xA 08",
+                "item": " Silver rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -923,7 +925,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 76 20",
                 "flagid": 93,
-                "areaflag": "scene flag: 0xA 20"
+                "itemid": 32,
+                "areaflag": "scene flag: 0xA 20",
+                "item": " Silver rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -950,7 +954,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 72 04",
                 "flagid": 92,
-                "areaflag": "scene flag: 0xA 10"
+                "itemid": 4,
+                "areaflag": "scene flag: 0xA 10",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1309,11 +1315,7 @@
             "angle": 0,
             "bin": "1111 1010 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 0A FF 32",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2000,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FA 0A FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1341,11 +1343,7 @@
             "angle": 0,
             "bin": "1111 1010 0000 1000 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 08 FF 32",
-                "trigstoryfid": 575,
-                "untrigstoryfid": 2000,
-                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FA 08 FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1373,11 +1371,7 @@
             "angle": 0,
             "bin": "1111 1010 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FA 0A FF 32",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2000,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FA 0A FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1408,7 +1402,8 @@
                 "first_4_bytes": "1F E0 00 A2",
                 "flagid": -94,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x5 04"
+                "areaflag": "temp flag: 0x5 04",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1439,7 +1434,8 @@
                 "first_4_bytes": "1F E0 00 A3",
                 "flagid": -93,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x5 08"
+                "areaflag": "temp flag: 0x5 08",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1470,7 +1466,8 @@
                 "first_4_bytes": "1F E0 00 A4",
                 "flagid": -92,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x5 10"
+                "areaflag": "temp flag: 0x5 10",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1501,7 +1498,8 @@
                 "first_4_bytes": "1F E0 00 A5",
                 "flagid": -91,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x5 20"
+                "areaflag": "temp flag: 0x5 20",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1532,7 +1530,8 @@
                 "first_4_bytes": "1F E0 00 A6",
                 "flagid": -90,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x5 40"
+                "areaflag": "temp flag: 0x5 40",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1563,7 +1562,8 @@
                 "first_4_bytes": "1F E0 00 A7",
                 "flagid": -89,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x5 80"
+                "areaflag": "temp flag: 0x5 80",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1594,7 +1594,8 @@
                 "first_4_bytes": "1F F0 FF AE",
                 "flagid": -82,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x4 40"
+                "areaflag": "temp flag: 0x4 40",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1625,7 +1626,8 @@
                 "first_4_bytes": "1F F0 FF AF",
                 "flagid": -81,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x4 80"
+                "areaflag": "temp flag: 0x4 80",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,

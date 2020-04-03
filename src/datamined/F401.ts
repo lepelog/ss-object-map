@@ -329,7 +329,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -356,7 +358,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -383,7 +387,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -410,7 +416,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -437,7 +445,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -464,7 +474,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -491,7 +503,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -518,7 +532,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -545,7 +561,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -572,7 +590,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -599,7 +619,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -626,7 +648,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -653,7 +677,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -680,7 +706,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -707,7 +735,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -734,7 +764,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -761,7 +793,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -788,7 +822,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -815,7 +851,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -842,7 +880,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -869,7 +909,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -896,7 +938,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -923,7 +967,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -950,7 +996,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2313,6 +2361,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 126,
                 "chestid": 64,
+                "item": "Revitalizing Potion (does Crash)",
                 "tbbytes": "1000000001111110"
             },
             "type": "OBJS",
@@ -2344,7 +2393,8 @@
                 "first_4_bytes": "0F F1 00 96",
                 "flagid": -106,
                 "itemid": 4,
-                "areaflag": "temp flag: 0x3 40"
+                "areaflag": "temp flag: 0x3 40",
+                "item": "Red Rupee"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2375,7 +2425,8 @@
                 "first_4_bytes": "0F F1 00 97",
                 "flagid": -105,
                 "itemid": 4,
-                "areaflag": "temp flag: 0x3 80"
+                "areaflag": "temp flag: 0x3 80",
+                "item": "Red Rupee"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2406,7 +2457,8 @@
                 "first_4_bytes": "0F F1 00 98",
                 "flagid": -104,
                 "itemid": 4,
-                "areaflag": "temp flag: 0x2 01"
+                "areaflag": "temp flag: 0x2 01",
+                "item": "Red Rupee"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2437,7 +2489,8 @@
                 "first_4_bytes": "1F F0 00 99",
                 "flagid": -103,
                 "itemid": 9,
-                "areaflag": "temp flag: 0x2 02"
+                "areaflag": "temp flag: 0x2 02",
+                "item": "Goddess Whitesword & extra dowsing slots (shows a green rupee)"
             },
             "type": "SOBJ",
             "roomid": 1,
@@ -2468,7 +2521,8 @@
                 "first_4_bytes": "1F F0 00 9A",
                 "flagid": -102,
                 "itemid": 8,
-                "areaflag": "temp flag: 0x2 04"
+                "areaflag": "temp flag: 0x2 04",
+                "item": "bundle of arrows; [D100]"
             },
             "type": "SOBJ",
             "roomid": 1,

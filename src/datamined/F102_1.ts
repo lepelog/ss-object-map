@@ -410,7 +410,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 02 21",
                 "flagid": 64,
-                "areaflag": "scene flag: 0x9 01"
+                "itemid": 33,
+                "areaflag": "scene flag: 0x9 01",
+                "item": "Gold rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -437,7 +439,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0E 6A 03",
                 "flagid": -102,
-                "areaflag": "temp flag: 0x2 04"
+                "itemid": 3,
+                "areaflag": "temp flag: 0x2 04",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -464,7 +468,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0E 6E 03",
                 "flagid": -101,
-                "areaflag": "temp flag: 0x2 08"
+                "itemid": 3,
+                "areaflag": "temp flag: 0x2 08",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -955,6 +961,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 176,
                 "chestid": 64,
+                "item": "Goddess Plume",
                 "tbbytes": "1000000010110000"
             },
             "type": "OBJS",
@@ -987,6 +994,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 32,
                 "chestid": 84,
+                "item": " Silver rupee",
                 "tbbytes": "1010100000100000"
             },
             "type": "OBJS",
@@ -1019,6 +1027,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 85,
+                "item": "evil crystal",
                 "tbbytes": "1010101000111111"
             },
             "type": "OBJS",
@@ -1050,7 +1059,8 @@
                 "first_4_bytes": "0F F0 00 94",
                 "flagid": -108,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x3 10"
+                "areaflag": "temp flag: 0x3 10",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1081,7 +1091,8 @@
                 "first_4_bytes": "0F FF 00 95",
                 "flagid": -107,
                 "itemid": 13,
-                "areaflag": "temp flag: 0x3 20"
+                "areaflag": "temp flag: 0x3 20",
+                "item": "Master Sword (shows a green rupee)"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1112,7 +1123,8 @@
                 "first_4_bytes": "1F F1 00 96",
                 "flagid": -106,
                 "itemid": 4,
-                "areaflag": "temp flag: 0x3 40"
+                "areaflag": "temp flag: 0x3 40",
+                "item": "Red Rupee"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1143,7 +1155,8 @@
                 "first_4_bytes": "1F FF 00 97",
                 "flagid": -105,
                 "itemid": 13,
-                "areaflag": "temp flag: 0x3 80"
+                "areaflag": "temp flag: 0x3 80",
+                "item": "Master Sword (shows a green rupee)"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1174,7 +1187,8 @@
                 "first_4_bytes": "1F E0 00 98",
                 "flagid": -104,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x2 01"
+                "areaflag": "temp flag: 0x2 01",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1205,7 +1219,8 @@
                 "first_4_bytes": "1F E1 00 99",
                 "flagid": -103,
                 "itemid": 6,
-                "areaflag": "temp flag: 0x2 02"
+                "areaflag": "temp flag: 0x2 02",
+                "item": "Heart"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1236,7 +1251,8 @@
                 "first_4_bytes": "1F E0 00 9C",
                 "flagid": -100,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x2 10"
+                "areaflag": "temp flag: 0x2 10",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1267,7 +1283,8 @@
                 "first_4_bytes": "1F E0 00 9D",
                 "flagid": -99,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x2 20"
+                "areaflag": "temp flag: 0x2 20",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,

@@ -259,6 +259,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 61,
                 "chestid": 127,
+                "item": "Dusk Relic?",
                 "tbbytes": "1111111000111101"
             },
             "type": "OBJS",

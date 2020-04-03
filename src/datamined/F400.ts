@@ -1782,6 +1782,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 61,
                 "chestid": 127,
+                "item": "Dusk Relic?",
                 "tbbytes": "1111111000111101"
             },
             "type": "OBJS",
@@ -1814,6 +1815,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 62,
                 "chestid": 127,
+                "item": "Dusk Relic",
                 "tbbytes": "1111111000111110"
             },
             "type": "OBJS",
@@ -1846,6 +1848,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 127,
+                "item": "evil crystal",
                 "tbbytes": "1111111000111111"
             },
             "type": "OBJS",
@@ -1878,6 +1881,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 64,
                 "chestid": 127,
+                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
                 "tbbytes": "1111111001000000"
             },
             "type": "OBJS",
@@ -2039,6 +2043,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 126,
                 "chestid": 64,
+                "item": "Revitalizing Potion (does Crash)",
                 "tbbytes": "1000000001111110"
             },
             "type": "OBJS",
@@ -2071,6 +2076,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 172,
                 "chestid": 127,
+                "item": "Ornamental Skull",
                 "tbbytes": "1111111010101100"
             },
             "type": "OBJS",
@@ -2211,7 +2217,8 @@
                 "first_4_bytes": "0F F1 00 90",
                 "flagid": -112,
                 "itemid": 4,
-                "areaflag": "temp flag: 0x3 01"
+                "areaflag": "temp flag: 0x3 01",
+                "item": "Red Rupee"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2242,7 +2249,8 @@
                 "first_4_bytes": "0F F1 00 91",
                 "flagid": -111,
                 "itemid": 4,
-                "areaflag": "temp flag: 0x3 02"
+                "areaflag": "temp flag: 0x3 02",
+                "item": "Red Rupee"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2273,7 +2281,8 @@
                 "first_4_bytes": "1F F0 00 92",
                 "flagid": -110,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x3 04"
+                "areaflag": "temp flag: 0x3 04",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2304,7 +2313,8 @@
                 "first_4_bytes": "1F F0 00 93",
                 "flagid": -109,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x3 08"
+                "areaflag": "temp flag: 0x3 08",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2335,7 +2345,8 @@
                 "first_4_bytes": "1F F0 00 94",
                 "flagid": -108,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x3 10"
+                "areaflag": "temp flag: 0x3 10",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2366,7 +2377,8 @@
                 "first_4_bytes": "2F F0 00 95",
                 "flagid": -107,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x3 20"
+                "areaflag": "temp flag: 0x3 20",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2948,11 +2960,7 @@
             "angle": -29181,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1927,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F0 FF 99 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3041,11 +3049,7 @@
             "angle": 19135,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1927,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F0 FF 99 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3070,11 +3074,7 @@
             "angle": -24716,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1927,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F0 FF 99 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3099,11 +3099,7 @@
             "angle": -17253,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1927,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F0 FF 99 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3128,11 +3124,7 @@
             "angle": 24651,
             "bin": "1111 0000 1111 1111 1001 1001 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "F0 FF 99 10",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1927,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F0 FF 99 10"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3889,11 +3881,7 @@
             "angle": 11640,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF 99 32"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3918,11 +3906,7 @@
             "angle": 29372,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF 99 32"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3947,11 +3931,7 @@
             "angle": -27426,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF 99 32"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3976,11 +3956,7 @@
             "angle": 13075,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF 99 32"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4005,11 +3981,7 @@
             "angle": -17573,
             "bin": "1111 0001 1111 1111 1001 1001 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 99 32",
-                "trigstoryfid": 2022,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF 99 32"
             },
             "type": "OBJ ",
             "roomid": 0,

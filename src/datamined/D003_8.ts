@@ -243,7 +243,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0C FA 61",
                 "flagid": 62,
-                "areaflag": "scene flag: 0x6 40"
+                "itemid": 97,
+                "areaflag": "scene flag: 0x6 40",
+                "item": "Triforce of Wisdom"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -270,7 +272,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0C F6 60",
                 "flagid": 61,
-                "areaflag": "scene flag: 0x6 20"
+                "itemid": 96,
+                "areaflag": "scene flag: 0x6 20",
+                "item": "Triforce of Power"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -297,7 +301,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 02 5F",
                 "flagid": 64,
-                "areaflag": "scene flag: 0x9 01"
+                "itemid": 95,
+                "areaflag": "scene flag: 0x9 01",
+                "item": "Triforce of Courage"
             },
             "type": "OBJ ",
             "roomid": 0,

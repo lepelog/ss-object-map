@@ -2662,7 +2662,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0C F2 20",
                 "flagid": 60,
-                "areaflag": "scene flag: 0x6 10"
+                "itemid": 32,
+                "areaflag": "scene flag: 0x6 10",
+                "item": " Silver rupee"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2689,7 +2691,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0C F6 04",
                 "flagid": 61,
-                "areaflag": "scene flag: 0x6 20"
+                "itemid": 4,
+                "areaflag": "scene flag: 0x6 20",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2716,7 +2720,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0C FA 04",
                 "flagid": 62,
-                "areaflag": "scene flag: 0x6 40"
+                "itemid": 4,
+                "areaflag": "scene flag: 0x6 40",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2743,7 +2749,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0C FE 03",
                 "flagid": 63,
-                "areaflag": "scene flag: 0x6 80"
+                "itemid": 3,
+                "areaflag": "scene flag: 0x6 80",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2845,7 +2853,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 06",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 6,
+                "areaflag": "no flag set",
+                "item": "Heart"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2872,7 +2882,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 06",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 6,
+                "areaflag": "no flag set",
+                "item": "Heart"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2899,7 +2911,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 06",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 6,
+                "areaflag": "no flag set",
+                "item": "Heart"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4419,6 +4433,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 176,
                 "chestid": 64,
+                "item": "Goddess Plume",
                 "tbbytes": "1000000010110000"
             },
             "type": "OBJS",
@@ -4447,11 +4462,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0110 1100 0010 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 06 C2 31",
-                "trigstoryfid": 432,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 C2 31"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -4479,11 +4490,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0110 1100 0010 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 06 C2 31",
-                "trigstoryfid": 432,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 C2 31"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -4511,11 +4518,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 31",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 31"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -4543,11 +4546,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0100 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 04 FF 11",
-                "trigstoryfid": 319,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "(not implemented yet -- 7845)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 04 FF 11"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -4575,11 +4574,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 11",
-                "trigstoryfid": 383,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 05 FF 11"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -5583,6 +5578,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 32,
                 "chestid": 84,
+                "item": " Silver rupee",
                 "tbbytes": "1010100000100000"
             },
             "type": "OBJS",
@@ -5615,6 +5611,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 85,
+                "item": "evil crystal",
                 "tbbytes": "1010101000111111"
             },
             "type": "OBJS",

@@ -833,6 +833,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 153,
                 "chestid": 127,
+                "item": "Bottle / Treasure Medal",
                 "tbbytes": "1111111010011001"
             },
             "type": "OBJS",
@@ -865,6 +866,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 86,
                 "chestid": 127,
+                "item": "Air Potion",
                 "tbbytes": "1111111001010110"
             },
             "type": "OBJS",
@@ -897,6 +899,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 84,
                 "chestid": 127,
+                "item": "Stamina Potion",
                 "tbbytes": "1111111001010100"
             },
             "type": "OBJS",
@@ -929,6 +932,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 78,
                 "chestid": 127,
+                "item": "Heart potion",
                 "tbbytes": "1111111001001110"
             },
             "type": "OBJS",
@@ -961,6 +965,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 128,
                 "chestid": 127,
+                "item": "Small Seed Satchel",
                 "tbbytes": "1111111010000000"
             },
             "type": "OBJS",
@@ -993,6 +998,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 380,
                 "chestid": 127,
+                "item": "?",
                 "tbbytes": "1111111101111100"
             },
             "type": "OBJS",
@@ -1025,6 +1031,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 134,
                 "chestid": 127,
+                "item": "Small Bomb Bag",
                 "tbbytes": "1111111010000110"
             },
             "type": "OBJS",
@@ -1057,6 +1064,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 116,
                 "chestid": 127,
+                "item": "Wooden Shield",
                 "tbbytes": "1111111001110100"
             },
             "type": "OBJS",
@@ -1089,6 +1097,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 119,
                 "chestid": 127,
+                "item": "Iron Shield",
                 "tbbytes": "1111111001110111"
             },
             "type": "OBJS",
@@ -1121,6 +1130,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 122,
                 "chestid": 127,
+                "item": "Sacred Shield",
                 "tbbytes": "1111111001111010"
             },
             "type": "OBJS",
@@ -1153,6 +1163,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 79,
                 "chestid": 127,
+                "item": "Heart potion +",
                 "tbbytes": "1111111001001111"
             },
             "type": "OBJS",
@@ -1185,6 +1196,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 79,
                 "chestid": 127,
+                "item": "Heart potion +",
                 "tbbytes": "1111111001001111"
             },
             "type": "OBJS",
@@ -1217,6 +1229,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 80,
                 "chestid": 127,
+                "item": "[F004r](crash)",
                 "tbbytes": "1111111001010000"
             },
             "type": "OBJS",
@@ -1249,6 +1262,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 81,
                 "chestid": 127,
+                "item": "Heart potion ++",
                 "tbbytes": "1111111001010001"
             },
             "type": "OBJS",
@@ -1281,6 +1295,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 86,
                 "chestid": 127,
+                "item": "Air Potion",
                 "tbbytes": "1111111001010110"
             },
             "type": "OBJS",
@@ -1313,6 +1328,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 87,
                 "chestid": 127,
+                "item": "Air Potion +",
                 "tbbytes": "1111111001010111"
             },
             "type": "OBJS",
@@ -1345,6 +1361,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 84,
                 "chestid": 127,
+                "item": "Stamina Potion",
                 "tbbytes": "1111111001010100"
             },
             "type": "OBJS",
@@ -1377,6 +1394,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 85,
                 "chestid": 127,
+                "item": "Stamina Potion +",
                 "tbbytes": "1111111001010101"
             },
             "type": "OBJS",
@@ -1409,6 +1427,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 126,
                 "chestid": 127,
+                "item": "Revitalizing Potion (does Crash)",
                 "tbbytes": "1111111001111110"
             },
             "type": "OBJS",
@@ -1441,6 +1460,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 127,
                 "chestid": 127,
+                "item": "Revitalizing Potion +",
                 "tbbytes": "1111111001111111"
             },
             "type": "OBJS",
@@ -1473,6 +1493,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 117,
                 "chestid": 127,
+                "item": "Banded Shield",
                 "tbbytes": "1111111001110101"
             },
             "type": "OBJS",
@@ -1505,6 +1526,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 118,
                 "chestid": 127,
+                "item": "Braced Shield",
                 "tbbytes": "1111111001110110"
             },
             "type": "OBJS",
@@ -1537,6 +1559,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 123,
                 "chestid": 127,
+                "item": "Divine Shield",
                 "tbbytes": "1111111001111011"
             },
             "type": "OBJS",
@@ -1569,6 +1592,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 124,
                 "chestid": 127,
+                "item": "Goddess shield ",
                 "tbbytes": "1111111001111100"
             },
             "type": "OBJS",
@@ -1601,6 +1625,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 120,
                 "chestid": 127,
+                "item": "Reinforced Shield",
                 "tbbytes": "1111111001111000"
             },
             "type": "OBJS",
@@ -1633,6 +1658,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 121,
                 "chestid": 127,
+                "item": "Fortified Shield",
                 "tbbytes": "1111111001111001"
             },
             "type": "OBJS",
@@ -1665,6 +1691,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 105,
                 "chestid": 127,
+                "item": "Scatershot",
                 "tbbytes": "1111111001101001"
             },
             "type": "OBJS",
@@ -1697,6 +1724,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 135,
                 "chestid": 127,
+                "item": "Medium Bomb Bag",
                 "tbbytes": "1111111010000111"
             },
             "type": "OBJS",
@@ -1729,6 +1757,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 136,
                 "chestid": 127,
+                "item": "Large Bomb Bag",
                 "tbbytes": "1111111010001000"
             },
             "type": "OBJS",
@@ -1761,6 +1790,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 76,
                 "chestid": 127,
+                "item": "Quick Beetle",
                 "tbbytes": "1111111001001100"
             },
             "type": "OBJS",
@@ -1793,6 +1823,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 77,
                 "chestid": 127,
+                "item": "Though Beetle",
                 "tbbytes": "1111111001001101"
             },
             "type": "OBJS",
@@ -1825,6 +1856,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 90,
                 "chestid": 127,
+                "item": "Iron Bow",
                 "tbbytes": "1111111001011010"
             },
             "type": "OBJS",
@@ -1857,6 +1889,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 91,
                 "chestid": 127,
+                "item": "Sacred Bow",
                 "tbbytes": "1111111001011011"
             },
             "type": "OBJS",
@@ -1889,6 +1922,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 129,
                 "chestid": 127,
+                "item": "Medium Seed Satchel",
                 "tbbytes": "1111111010000001"
             },
             "type": "OBJS",
@@ -1921,6 +1955,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 130,
                 "chestid": 127,
+                "item": "Large Seed Satchel",
                 "tbbytes": "1111111010000010"
             },
             "type": "OBJS",
@@ -1953,6 +1988,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 132,
                 "chestid": 127,
+                "item": "Medium Quiver",
                 "tbbytes": "1111111010000100"
             },
             "type": "OBJS",
@@ -1985,6 +2021,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 133,
                 "chestid": 127,
+                "item": "Large Quiver",
                 "tbbytes": "1111111010000101"
             },
             "type": "OBJS",
@@ -2017,6 +2054,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 66,
                 "chestid": 127,
+                "item": "Guardian Potion +",
                 "tbbytes": "1111111001000010"
             },
             "type": "OBJS",
@@ -2049,6 +2087,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 60,
                 "chestid": 127,
+                "item": "10 Deku Seeds",
                 "tbbytes": "1111111000111100"
             },
             "type": "OBJS",
@@ -2081,6 +2120,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 478,
                 "chestid": 93,
+                "item": "?",
                 "tbbytes": "1011101111011110"
             },
             "type": "OBJS",
@@ -2113,6 +2153,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 140,
                 "chestid": 127,
+                "item": "Big Bug Net",
                 "tbbytes": "1111111010001100"
             },
             "type": "OBJS",
@@ -2145,6 +2186,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 194,
                 "chestid": 127,
+                "item": "Revitalizing Potion ++",
                 "tbbytes": "1111111011000010"
             },
             "type": "OBJS",

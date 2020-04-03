@@ -1944,7 +1944,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 72 20",
                 "flagid": 92,
-                "areaflag": "scene flag: 0xA 10"
+                "itemid": 32,
+                "areaflag": "scene flag: 0xA 10",
+                "item": " Silver rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1971,7 +1973,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 76 20",
                 "flagid": 93,
-                "areaflag": "scene flag: 0xA 20"
+                "itemid": 32,
+                "areaflag": "scene flag: 0xA 20",
+                "item": " Silver rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2203,6 +2207,7 @@
                 "trigscenef": "scene flag: 0x0 08",
                 "itemid": 50,
                 "chestid": 65,
+                "item": "Dungeon Map (and fi text)",
                 "tbbytes": "1000001000110010"
             },
             "type": "OBJS",
@@ -2235,6 +2240,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 66,
+                "item": "Red Rupee",
                 "tbbytes": "1000010000000100"
             },
             "type": "OBJS",
@@ -2453,11 +2459,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1100 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0C FF 31",
-                "trigstoryfid": 831,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Goron Text about Thunder Dragon",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0C FF 31"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2485,11 +2487,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1100 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0C FF 31",
-                "trigstoryfid": 831,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Goron Text about Thunder Dragon",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0C FF 31"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2517,11 +2515,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1100 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0C FF 31",
-                "trigstoryfid": 831,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Goron Text about Thunder Dragon",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0C FF 31"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2549,11 +2543,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1100 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0C FF 31",
-                "trigstoryfid": 831,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Goron Text about Thunder Dragon",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0C FF 31"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2581,11 +2571,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 31",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 31"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2613,11 +2599,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0000 0110",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 06",
-                "trigstoryfid": 383,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 05 FF 06"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2645,11 +2627,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0000 0110",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 06",
-                "trigstoryfid": 383,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 05 FF 06"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2677,11 +2655,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0000 0110",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 06",
-                "trigstoryfid": 383,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 05 FF 06"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -5122,6 +5096,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 1,
                 "chestid": 67,
+                "item": "Small Key",
                 "tbbytes": "1000011000000001"
             },
             "type": "OBJS",
@@ -5604,7 +5579,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 06 02",
                 "flagid": 65,
-                "areaflag": "scene flag: 0x9 02"
+                "itemid": 2,
+                "areaflag": "scene flag: 0x9 02",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -5631,7 +5608,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 0A 02",
                 "flagid": 66,
-                "areaflag": "scene flag: 0x9 04"
+                "itemid": 2,
+                "areaflag": "scene flag: 0x9 04",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -5658,7 +5637,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 0E 02",
                 "flagid": 67,
-                "areaflag": "scene flag: 0x9 08"
+                "itemid": 2,
+                "areaflag": "scene flag: 0x9 08",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -5785,7 +5766,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 12 04",
                 "flagid": 68,
-                "areaflag": "scene flag: 0x9 10"
+                "itemid": 4,
+                "areaflag": "scene flag: 0x9 10",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -6012,7 +5995,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0C 8A 04",
                 "flagid": 34,
-                "areaflag": "scene flag: 0x5 04"
+                "itemid": 4,
+                "areaflag": "scene flag: 0x5 04",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -6691,11 +6676,7 @@
             "angle": 21845,
             "bin": "1111 1001 1111 1111 1111 1111 1111 1101",
             "extraInfo": {
-                "first_4_bytes": "F9 FF FF FD",
-                "trigstoryfid": 2047,
-                "untrigstoryfid": 1999,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F9 FF FF FD"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -7070,11 +7051,7 @@
             "angle": -14543,
             "bin": "1111 1001 1111 1111 1111 1111 1111 1101",
             "extraInfo": {
-                "first_4_bytes": "F9 FF FF FD",
-                "trigstoryfid": 2047,
-                "untrigstoryfid": 1999,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F9 FF FF FD"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -7256,6 +7233,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 84,
+                "item": "Red Rupee",
                 "tbbytes": "1010100000000100"
             },
             "type": "OBJS",
@@ -7340,11 +7318,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1100 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0C FF 31",
-                "trigstoryfid": 831,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Goron Text about Thunder Dragon",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0C FF 31"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -7372,11 +7346,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1100 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0C FF 31",
-                "trigstoryfid": 831,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Goron Text about Thunder Dragon",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0C FF 31"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -7404,11 +7374,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1100 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0C FF 31",
-                "trigstoryfid": 831,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Goron Text about Thunder Dragon",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0C FF 31"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -7436,11 +7402,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1100 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0C FF 31",
-                "trigstoryfid": 831,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Goron Text about Thunder Dragon",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0C FF 31"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -7468,11 +7430,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1100 1111 1111 0011 0001",
             "extraInfo": {
-                "first_4_bytes": "FF 0C FF 31",
-                "trigstoryfid": 831,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Goron Text about Thunder Dragon",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0C FF 31"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -7748,11 +7706,7 @@
             "angle": 0,
             "bin": "1111 1001 1000 0000 0111 1010 0001 1001",
             "extraInfo": {
-                "first_4_bytes": "F9 80 7A 19",
-                "trigstoryfid": 30,
-                "untrigstoryfid": 1996,
-                "trigstoryf": "Adventure Pouch unlocked",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F9 80 7A 19"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -8179,7 +8133,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 03",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 3,
+                "areaflag": "no flag set",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -8206,7 +8162,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 03",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 3,
+                "areaflag": "no flag set",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -8406,11 +8364,7 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1100 0000 1100 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 C9",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 C9"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -8435,11 +8389,7 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1100 0000 1100 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 C9",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 C9"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -8464,11 +8414,7 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1100 0000 1100 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 C9",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 C9"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -8493,11 +8439,7 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1100 0000 1100 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 C9",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 C9"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -8522,11 +8464,7 @@
             "angle": 128,
             "bin": "1111 1111 1111 1111 1100 0000 1100 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 C9",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 C9"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9327,11 +9265,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 1110 0000 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF CE 09",
-                "trigstoryfid": 2035,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF CE 09"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9356,11 +9290,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 1110 0000 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF CE 09",
-                "trigstoryfid": 2035,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF CE 09"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9385,11 +9315,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 1110 0000 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF CE 09",
-                "trigstoryfid": 2035,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF CE 09"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9464,11 +9390,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 1110 0000 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF CE 09",
-                "trigstoryfid": 2035,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF CE 09"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9493,11 +9415,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 1110 0000 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF CE 09",
-                "trigstoryfid": 2035,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF CE 09"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9522,11 +9440,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 1110 0000 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF CE 09",
-                "trigstoryfid": 2035,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF CE 09"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9551,11 +9465,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 1110 0000 1001",
             "extraInfo": {
-                "first_4_bytes": "FF FF CE 09",
-                "trigstoryfid": 2035,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF CE 09"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -9796,6 +9706,7 @@
                 "trigscenef": "scene flag: 0xD 20",
                 "itemid": 25,
                 "chestid": 68,
+                "item": "AC BK",
                 "tbbytes": "1000100000011001"
             },
             "type": "OBJS",
@@ -13270,7 +13181,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0C 36 04",
                 "flagid": 13,
-                "areaflag": "scene flag: 0x0 20"
+                "itemid": 4,
+                "areaflag": "scene flag: 0x0 20",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -13465,7 +13378,8 @@
                 "first_4_bytes": "1F F0 00 8A",
                 "flagid": -118,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 04"
+                "areaflag": "temp flag: 0x0 04",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -13496,7 +13410,8 @@
                 "first_4_bytes": "1F F0 00 8B",
                 "flagid": -117,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 08"
+                "areaflag": "temp flag: 0x0 08",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -13527,7 +13442,8 @@
                 "first_4_bytes": "1F F0 00 8C",
                 "flagid": -116,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 10"
+                "areaflag": "temp flag: 0x0 10",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -13558,7 +13474,8 @@
                 "first_4_bytes": "1F F0 00 8D",
                 "flagid": -115,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 20"
+                "areaflag": "temp flag: 0x0 20",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -13589,7 +13506,8 @@
                 "first_4_bytes": "1F F0 00 84",
                 "flagid": -124,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x1 10"
+                "areaflag": "temp flag: 0x1 10",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 5,
@@ -14906,6 +14824,7 @@
                 "trigscenef": "scene flag: 0xC 01",
                 "itemid": 137,
                 "chestid": 69,
+                "item": "Whip",
                 "tbbytes": "1000101010001001"
             },
             "type": "OBJS",

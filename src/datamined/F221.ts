@@ -436,6 +436,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 189,
                 "chestid": 127,
+                "item": "Din's Power  + Storyflag",
                 "tbbytes": "1111111010111101"
             },
             "type": "OBJS",

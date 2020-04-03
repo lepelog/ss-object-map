@@ -133,11 +133,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0000 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 01",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -162,11 +158,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0000 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 01",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -191,11 +183,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0000 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 01",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -220,11 +208,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0000 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 01",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -249,11 +233,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0000 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 01",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -278,11 +258,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1100 0000 0000 0001",
             "extraInfo": {
-                "first_4_bytes": "FF FF C0 01",
-                "trigstoryfid": 2032,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF C0 01"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1146,11 +1122,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 30",
-                "trigstoryfid": 575,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 08 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1178,11 +1150,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1210,11 +1178,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1242,11 +1206,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1274,11 +1234,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1306,11 +1262,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1338,11 +1290,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1370,11 +1318,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1402,11 +1346,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1434,11 +1374,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1466,11 +1402,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 1011 1111 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 0B FF 10",
-                "trigstoryfid": 767,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "[Is set on a Hero Mode File]",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0B FF 10"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1498,11 +1430,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 1011 1111 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 0B FF 10",
-                "trigstoryfid": 767,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "[Is set on a Hero Mode File]",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0B FF 10"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1530,11 +1458,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 1011 1111 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 0B FF 10",
-                "trigstoryfid": 767,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "[Is set on a Hero Mode File]",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0B FF 10"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1562,11 +1486,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 1011 1111 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 0B FF 10",
-                "trigstoryfid": 767,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "[Is set on a Hero Mode File]",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0B FF 10"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1594,11 +1514,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 1010 1111 1111 0001 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 10",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 10"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2217,6 +2133,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 112,
                 "chestid": 71,
+                "item": "Adveture pouch",
                 "tbbytes": "1000111001110000"
             },
             "type": "OBJS",
@@ -2249,6 +2166,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 3,
                 "chestid": 72,
+                "item": "Blue rupee",
                 "tbbytes": "1001000000000011"
             },
             "type": "OBJS",
@@ -2304,11 +2222,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2336,11 +2250,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2368,11 +2278,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2400,11 +2306,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2432,11 +2334,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2464,11 +2362,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2496,11 +2390,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2528,11 +2418,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2560,11 +2446,7 @@
             "angle": 64,
             "bin": "1111 1111 0000 0110 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 06 FF 30",
-                "trigstoryfid": 447,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 06 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,

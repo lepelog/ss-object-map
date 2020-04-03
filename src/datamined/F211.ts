@@ -2100,7 +2100,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 22",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 34,
+                "areaflag": "no flag set",
+                "item": "rupoor"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2127,7 +2129,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 22",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 34,
+                "areaflag": "no flag set",
+                "item": "rupoor"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2154,7 +2158,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 04",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 4,
+                "areaflag": "no flag set",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2233,7 +2239,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2285,7 +2293,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 22",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 34,
+                "areaflag": "no flag set",
+                "item": "rupoor"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2312,7 +2322,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 03",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 3,
+                "areaflag": "no flag set",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2339,7 +2351,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 22",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 34,
+                "areaflag": "no flag set",
+                "item": "rupoor"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2366,7 +2380,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 03",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 3,
+                "areaflag": "no flag set",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2393,7 +2409,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2420,7 +2438,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2447,7 +2467,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2474,7 +2496,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2576,7 +2600,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2603,7 +2629,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2630,7 +2658,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2657,7 +2687,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2717,6 +2749,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 64,
                 "chestid": 127,
+                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
                 "tbbytes": "1111111001000000"
             },
             "type": "OBJS",
@@ -2748,7 +2781,8 @@
                 "first_4_bytes": "1F F0 00 53",
                 "flagid": 83,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xB 08"
+                "areaflag": "scene flag: 0xB 08",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2779,7 +2813,8 @@
                 "first_4_bytes": "1F F0 00 54",
                 "flagid": 84,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xB 10"
+                "areaflag": "scene flag: 0xB 10",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2810,7 +2845,8 @@
                 "first_4_bytes": "1F F0 00 55",
                 "flagid": 85,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xB 20"
+                "areaflag": "scene flag: 0xB 20",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2841,7 +2877,8 @@
                 "first_4_bytes": "1F F0 00 56",
                 "flagid": 86,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xB 40"
+                "areaflag": "scene flag: 0xB 40",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2872,7 +2909,8 @@
                 "first_4_bytes": "1F F0 00 57",
                 "flagid": 87,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xB 80"
+                "areaflag": "scene flag: 0xB 80",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2903,7 +2941,8 @@
                 "first_4_bytes": "1F F0 00 58",
                 "flagid": 88,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xA 01"
+                "areaflag": "scene flag: 0xA 01",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2934,7 +2973,8 @@
                 "first_4_bytes": "1F F0 00 59",
                 "flagid": 89,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xA 02"
+                "areaflag": "scene flag: 0xA 02",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2965,7 +3005,8 @@
                 "first_4_bytes": "1F F0 00 5A",
                 "flagid": 90,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xA 04"
+                "areaflag": "scene flag: 0xA 04",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2996,7 +3037,8 @@
                 "first_4_bytes": "1F F0 00 5B",
                 "flagid": 91,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xA 08"
+                "areaflag": "scene flag: 0xA 08",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3027,7 +3069,8 @@
                 "first_4_bytes": "1F F0 00 5C",
                 "flagid": 92,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xA 10"
+                "areaflag": "scene flag: 0xA 10",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3058,7 +3101,8 @@
                 "first_4_bytes": "1F F0 00 5D",
                 "flagid": 93,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xA 20"
+                "areaflag": "scene flag: 0xA 20",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3089,7 +3133,8 @@
                 "first_4_bytes": "1F F0 00 5E",
                 "flagid": 94,
                 "itemid": 19,
-                "areaflag": "scene flag: 0xA 40"
+                "areaflag": "scene flag: 0xA 40",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3120,7 +3165,8 @@
                 "first_4_bytes": "1F F0 00 5F",
                 "flagid": 95,
                 "itemid": 18,
-                "areaflag": "scene flag: 0xA 80"
+                "areaflag": "scene flag: 0xA 80",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3151,7 +3197,8 @@
                 "first_4_bytes": "1F F0 00 62",
                 "flagid": 98,
                 "itemid": 18,
-                "areaflag": "scene flag: 0xD 04"
+                "areaflag": "scene flag: 0xD 04",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3182,7 +3229,8 @@
                 "first_4_bytes": "1F F0 00 63",
                 "flagid": 99,
                 "itemid": 18,
-                "areaflag": "scene flag: 0xD 08"
+                "areaflag": "scene flag: 0xD 08",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3213,7 +3261,8 @@
                 "first_4_bytes": "1F F0 00 64",
                 "flagid": 100,
                 "itemid": 47,
-                "areaflag": "scene flag: 0xD 10"
+                "areaflag": "scene flag: 0xD 10",
+                "item": "Light Fruit"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3244,7 +3293,8 @@
                 "first_4_bytes": "1F F0 00 67",
                 "flagid": 103,
                 "itemid": 47,
-                "areaflag": "scene flag: 0xD 80"
+                "areaflag": "scene flag: 0xD 80",
+                "item": "Light Fruit"
             },
             "type": "SOBJ",
             "roomid": 0,

@@ -140,7 +140,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -167,7 +169,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -194,7 +198,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -371,7 +377,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -608,7 +616,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -635,7 +645,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -871,6 +883,7 @@
                 "trigscenef": "scene flag: 0x3 02",
                 "itemid": 98,
                 "chestid": 65,
+                "item": "Sea Chart",
                 "tbbytes": "1000001001100010"
             },
             "type": "OBJS",
@@ -983,7 +996,8 @@
                 "first_4_bytes": "2F F0 FF A8",
                 "flagid": -88,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x4 01"
+                "areaflag": "temp flag: 0x4 01",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1014,7 +1028,8 @@
                 "first_4_bytes": "2F F0 FF A9",
                 "flagid": -87,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x4 02"
+                "areaflag": "temp flag: 0x4 02",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1045,7 +1060,8 @@
                 "first_4_bytes": "2F F0 FF AA",
                 "flagid": -86,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x4 04"
+                "areaflag": "temp flag: 0x4 04",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,

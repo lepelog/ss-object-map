@@ -1200,6 +1200,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 32,
                 "chestid": 84,
+                "item": " Silver rupee",
                 "tbbytes": "1010100000100000"
             },
             "type": "OBJS",
@@ -1232,6 +1233,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 85,
+                "item": "evil crystal",
                 "tbbytes": "1010101000111111"
             },
             "type": "OBJS",
@@ -1345,6 +1347,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 176,
                 "chestid": 64,
+                "item": "Goddess Plume",
                 "tbbytes": "1000000010110000"
             },
             "type": "OBJS",
@@ -1600,7 +1603,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1631,7 +1635,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1662,7 +1667,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1693,7 +1699,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1724,7 +1731,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1755,7 +1763,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1786,7 +1795,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1817,7 +1827,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1848,7 +1859,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1879,7 +1891,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1910,7 +1923,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1941,7 +1955,8 @@
                 "first_4_bytes": "3F FF FF FF",
                 "flagid": -1,
                 "itemid": 255,
-                "areaflag": "no flag set"
+                "areaflag": "no flag set",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,

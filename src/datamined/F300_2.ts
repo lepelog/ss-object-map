@@ -919,6 +919,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 75,
+                "item": "Red Rupee",
                 "tbbytes": "1001011000000100"
             },
             "type": "OBJS",
@@ -951,6 +952,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 3,
                 "chestid": 76,
+                "item": "Blue rupee",
                 "tbbytes": "1001100000000011"
             },
             "type": "OBJS",
@@ -983,6 +985,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 64,
                 "chestid": 77,
+                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
                 "tbbytes": "1001101001000000"
             },
             "type": "OBJS",
@@ -1321,7 +1324,8 @@
                 "first_4_bytes": "0F FF FF 88",
                 "flagid": -120,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 01"
+                "areaflag": "temp flag: 0x0 01",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1352,7 +1356,8 @@
                 "first_4_bytes": "0F FF FF 89",
                 "flagid": -119,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 02"
+                "areaflag": "temp flag: 0x0 02",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,

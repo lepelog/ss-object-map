@@ -1311,6 +1311,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 126,
                 "chestid": 64,
+                "item": "Revitalizing Potion (does Crash)",
                 "tbbytes": "1000000001111110"
             },
             "type": "OBJS",
@@ -1558,7 +1559,8 @@
                 "first_4_bytes": "1F F0 00 9B",
                 "flagid": -101,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x2 08"
+                "areaflag": "temp flag: 0x2 08",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -1589,7 +1591,8 @@
                 "first_4_bytes": "1F F0 00 9C",
                 "flagid": -100,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x2 10"
+                "areaflag": "temp flag: 0x2 10",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -1620,7 +1623,8 @@
                 "first_4_bytes": "1F F0 00 9D",
                 "flagid": -99,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x2 20"
+                "areaflag": "temp flag: 0x2 20",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -1651,7 +1655,8 @@
                 "first_4_bytes": "2F F0 00 9E",
                 "flagid": -98,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x2 40"
+                "areaflag": "temp flag: 0x2 40",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -1682,7 +1687,8 @@
                 "first_4_bytes": "2F F0 00 9F",
                 "flagid": -97,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x2 80"
+                "areaflag": "temp flag: 0x2 80",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -1713,7 +1719,8 @@
                 "first_4_bytes": "2F F0 00 A0",
                 "flagid": -96,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x5 01"
+                "areaflag": "temp flag: 0x5 01",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -1744,7 +1751,8 @@
                 "first_4_bytes": "2F F0 00 A1",
                 "flagid": -95,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x5 02"
+                "areaflag": "temp flag: 0x5 02",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 2,
@@ -2792,6 +2800,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 186,
                 "chestid": 127,
+                "item": "Ballad of the goddess + event ",
                 "tbbytes": "1111111010111010"
             },
             "type": "OBJS",

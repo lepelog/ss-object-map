@@ -267,6 +267,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 193,
                 "chestid": 127,
+                "item": "Song of the Hero",
                 "tbbytes": "1111111011000001"
             },
             "type": "OBJS",
@@ -874,7 +875,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 04",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 4,
+                "areaflag": "no flag set",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -901,7 +904,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 04",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 4,
+                "areaflag": "no flag set",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 0,

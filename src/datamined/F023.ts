@@ -410,7 +410,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -730,7 +732,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2748,7 +2752,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2775,7 +2781,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3768,6 +3776,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 159,
                 "chestid": 127,
+                "item": "Hornet colossol beetle",
                 "tbbytes": "1111111010011111"
             },
             "type": "OBJS",
@@ -3800,6 +3809,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 377,
                 "chestid": 85,
+                "item": "?",
                 "tbbytes": "1010101101111001"
             },
             "type": "OBJS",
@@ -3832,6 +3842,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 410,
                 "chestid": 73,
+                "item": "?",
                 "tbbytes": "1001001110011010"
             },
             "type": "OBJS",
@@ -3864,6 +3875,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 478,
                 "chestid": 92,
+                "item": "?",
                 "tbbytes": "1011100111011110"
             },
             "type": "OBJS",
@@ -3896,6 +3908,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 417,
                 "chestid": 88,
+                "item": "Heart Piece",
                 "tbbytes": "1011000110100001"
             },
             "type": "OBJS",
@@ -3928,6 +3941,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 358,
                 "chestid": 77,
+                "item": "?",
                 "tbbytes": "1001101101100110"
             },
             "type": "OBJS",
@@ -3960,6 +3974,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 380,
                 "chestid": 76,
+                "item": "?",
                 "tbbytes": "1001100101111100"
             },
             "type": "OBJS",
@@ -3992,6 +4007,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 22,
                 "chestid": 127,
+                "item": "Deku Hornet (empty Textbox)",
                 "tbbytes": "1111111000010110"
             },
             "type": "OBJS",
@@ -4024,6 +4040,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 23,
                 "chestid": 127,
+                "item": "?",
                 "tbbytes": "1111111000010111"
             },
             "type": "OBJS",
@@ -4056,6 +4073,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 24,
                 "chestid": 127,
+                "item": "?",
                 "tbbytes": "1111111000011000"
             },
             "type": "OBJS",
@@ -4088,6 +4106,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 398,
                 "chestid": 64,
+                "item": "Pouch Expansion",
                 "tbbytes": "1000000110001110"
             },
             "type": "OBJS",
@@ -4120,6 +4139,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 417,
                 "chestid": 65,
+                "item": "Heart Piece",
                 "tbbytes": "1000001110100001"
             },
             "type": "OBJS",
@@ -4152,6 +4172,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 383,
                 "chestid": 66,
+                "item": "?",
                 "tbbytes": "1000010101111111"
             },
             "type": "OBJS",
@@ -4184,6 +4205,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 411,
                 "chestid": 67,
+                "item": "?",
                 "tbbytes": "1000011110011011"
             },
             "type": "OBJS",
@@ -4216,6 +4238,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 417,
                 "chestid": 68,
+                "item": "Heart Piece",
                 "tbbytes": "1000100110100001"
             },
             "type": "OBJS",
@@ -4248,6 +4271,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 479,
                 "chestid": 71,
+                "item": "?",
                 "tbbytes": "1000111111011111"
             },
             "type": "OBJS",
@@ -4280,6 +4304,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 479,
                 "chestid": 72,
+                "item": "?",
                 "tbbytes": "1001000111011111"
             },
             "type": "OBJS",
@@ -4312,6 +4337,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 478,
                 "chestid": 87,
+                "item": "?",
                 "tbbytes": "1010111111011110"
             },
             "type": "OBJS",
@@ -4344,6 +4370,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 409,
                 "chestid": 74,
+                "item": "Treasure Medal",
                 "tbbytes": "1001010110011001"
             },
             "type": "OBJS",
@@ -4376,6 +4403,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 408,
                 "chestid": 75,
+                "item": "Some Medal",
                 "tbbytes": "1001011110011000"
             },
             "type": "OBJS",
@@ -4408,6 +4436,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 410,
                 "chestid": 81,
+                "item": "?",
                 "tbbytes": "1010001110011010"
             },
             "type": "OBJS",
@@ -4440,6 +4469,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 478,
                 "chestid": 82,
+                "item": "?",
                 "tbbytes": "1010010111011110"
             },
             "type": "OBJS",
@@ -4472,6 +4502,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 380,
                 "chestid": 84,
+                "item": "?",
                 "tbbytes": "1010100101111100"
             },
             "type": "OBJS",
@@ -4504,6 +4535,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 478,
                 "chestid": 86,
+                "item": "?",
                 "tbbytes": "1010110111011110"
             },
             "type": "OBJS",
@@ -4536,6 +4568,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 411,
                 "chestid": 83,
+                "item": "?",
                 "tbbytes": "1010011110011011"
             },
             "type": "OBJS",
@@ -4568,6 +4601,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 417,
                 "chestid": 89,
+                "item": "Heart Piece",
                 "tbbytes": "1011001110100001"
             },
             "type": "OBJS",
@@ -4600,6 +4634,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 94,
+                "item": "evil crystal",
                 "tbbytes": "1011110000111111"
             },
             "type": "OBJS",

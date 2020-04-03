@@ -67,6 +67,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 127,
+                "item": "evil crystal",
                 "tbbytes": "1111111000111111"
             },
             "type": "OBJS",
@@ -99,6 +100,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 64,
                 "chestid": 127,
+                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
                 "tbbytes": "1111111001000000"
             },
             "type": "OBJS",
@@ -158,7 +160,8 @@
                 "first_4_bytes": "0F FF 00 8C",
                 "flagid": -116,
                 "itemid": 35,
-                "areaflag": "temp flag: 0x0 10"
+                "areaflag": "temp flag: 0x0 10",
+                "item": "5 Gratitude crystals"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -189,7 +192,8 @@
                 "first_4_bytes": "0F F0 00 8D",
                 "flagid": -115,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x0 20"
+                "areaflag": "temp flag: 0x0 20",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -220,7 +224,8 @@
                 "first_4_bytes": "0F F0 00 8E",
                 "flagid": -114,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x0 40"
+                "areaflag": "temp flag: 0x0 40",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -251,7 +256,8 @@
                 "first_4_bytes": "0F F0 00 8F",
                 "flagid": -113,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x0 80"
+                "areaflag": "temp flag: 0x0 80",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,

@@ -111,7 +111,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D CA 30",
                 "flagid": 114,
-                "areaflag": "scene flag: 0xF 04"
+                "itemid": 48,
+                "areaflag": "scene flag: 0xF 04",
+                "item": "one Gratitude crystal"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -902,6 +902,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 94,
                 "chestid": 127,
+                "item": "Heart piece",
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",
@@ -934,6 +935,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 61,
                 "chestid": 127,
+                "item": "Dusk Relic?",
                 "tbbytes": "1111111000111101"
             },
             "type": "OBJS",
@@ -966,6 +968,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 62,
                 "chestid": 127,
+                "item": "Dusk Relic",
                 "tbbytes": "1111111000111110"
             },
             "type": "OBJS",
@@ -998,6 +1001,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 127,
+                "item": "evil crystal",
                 "tbbytes": "1111111000111111"
             },
             "type": "OBJS",
@@ -1030,6 +1034,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 64,
                 "chestid": 127,
+                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
                 "tbbytes": "1111111001000000"
             },
             "type": "OBJS",
@@ -1116,7 +1121,8 @@
                 "first_4_bytes": "0F F0 00 AB",
                 "flagid": -85,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x4 08"
+                "areaflag": "temp flag: 0x4 08",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1147,7 +1153,8 @@
                 "first_4_bytes": "0F F0 00 AC",
                 "flagid": -84,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x4 10"
+                "areaflag": "temp flag: 0x4 10",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1178,7 +1185,8 @@
                 "first_4_bytes": "0F F0 00 AD",
                 "flagid": -83,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x4 20"
+                "areaflag": "temp flag: 0x4 20",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,

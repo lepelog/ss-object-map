@@ -2001,6 +2001,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 32,
                 "chestid": 75,
+                "item": " Silver rupee",
                 "tbbytes": "1001011000100000"
             },
             "type": "OBJS",
@@ -2420,6 +2421,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 73,
+                "item": "evil crystal",
                 "tbbytes": "1001001000111111"
             },
             "type": "OBJS",
@@ -3387,6 +3389,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 74,
+                "item": "evil crystal",
                 "tbbytes": "1001010000111111"
             },
             "type": "OBJS",

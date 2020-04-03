@@ -199,7 +199,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 9A 30",
                 "flagid": 102,
-                "areaflag": "scene flag: 0xD 40"
+                "itemid": 48,
+                "areaflag": "scene flag: 0xD 40",
+                "item": "one Gratitude crystal"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -631,7 +633,8 @@
                 "first_4_bytes": "0F F0 00 AF",
                 "flagid": -81,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x4 80"
+                "areaflag": "temp flag: 0x4 80",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2877,6 +2880,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 112,
                 "chestid": 127,
+                "item": "Adveture pouch",
                 "tbbytes": "1111111001110000"
             },
             "type": "OBJS",
@@ -2909,6 +2913,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 158,
                 "chestid": 127,
+                "item": "Cawlin's Letter",
                 "tbbytes": "1111111010011110"
             },
             "type": "OBJS",
@@ -3301,6 +3306,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 112,
                 "chestid": 127,
+                "item": "Adveture pouch",
                 "tbbytes": "1111111001110000"
             },
             "type": "OBJS",
@@ -3430,7 +3436,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D A2 30",
                 "flagid": 104,
-                "areaflag": "scene flag: 0xC 01"
+                "itemid": 48,
+                "areaflag": "scene flag: 0xC 01",
+                "item": "one Gratitude crystal"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3462,6 +3470,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 94,
                 "chestid": 127,
+                "item": "Heart piece",
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",
@@ -4654,7 +4663,8 @@
                 "first_4_bytes": "0F F0 FF B0",
                 "flagid": -80,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x7 01"
+                "areaflag": "temp flag: 0x7 01",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 3,
@@ -5566,7 +5576,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 9E 30",
                 "flagid": 103,
-                "areaflag": "scene flag: 0xD 80"
+                "itemid": 48,
+                "areaflag": "scene flag: 0xD 80",
+                "item": "one Gratitude crystal"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -5673,7 +5685,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0E 4A 02",
                 "flagid": -110,
-                "areaflag": "temp flag: 0x3 04"
+                "itemid": 2,
+                "areaflag": "temp flag: 0x3 04",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -5700,7 +5714,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0E 4A 02",
                 "flagid": -110,
-                "areaflag": "temp flag: 0x3 04"
+                "itemid": 2,
+                "areaflag": "temp flag: 0x3 04",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -5727,7 +5743,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0E 4A 02",
                 "flagid": -110,
-                "areaflag": "temp flag: 0x3 04"
+                "itemid": 2,
+                "areaflag": "temp flag: 0x3 04",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -5754,7 +5772,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0E 4A 02",
                 "flagid": -110,
-                "areaflag": "temp flag: 0x3 04"
+                "itemid": 2,
+                "areaflag": "temp flag: 0x3 04",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -5781,7 +5801,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0E 4A 02",
                 "flagid": -110,
-                "areaflag": "temp flag: 0x3 04"
+                "itemid": 2,
+                "areaflag": "temp flag: 0x3 04",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -5813,6 +5835,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 94,
                 "chestid": 127,
+                "item": "Heart piece",
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",

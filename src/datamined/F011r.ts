@@ -260,7 +260,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D D2 30",
                 "flagid": 116,
-                "areaflag": "scene flag: 0xF 10"
+                "itemid": 48,
+                "areaflag": "scene flag: 0xF 10",
+                "item": "one Gratitude crystal"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -711,6 +713,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 195,
                 "chestid": 127,
+                "item": "Hot Pumpkin Soup",
                 "tbbytes": "1111111011000011"
             },
             "type": "OBJS",
@@ -743,6 +746,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 94,
                 "chestid": 127,
+                "item": "Heart piece",
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",

@@ -484,11 +484,7 @@
             "angle": 192,
             "bin": "1101 1001 1000 0000 1001 1111 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 80 9F 15",
-                "trigstoryfid": 39,
-                "untrigstoryfid": 1740,
-                "trigstoryf": "Wing Ceremony completed",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 80 9F 15"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -513,11 +509,7 @@
             "angle": 224,
             "bin": "1101 1001 1000 0001 0001 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "D9 81 1F 11",
-                "trigstoryfid": 71,
-                "untrigstoryfid": 1740,
-                "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 81 1F 11"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -542,11 +534,7 @@
             "angle": 192,
             "bin": "1101 1001 1000 0010 0001 1111 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 82 1F 15",
-                "trigstoryfid": 135,
-                "untrigstoryfid": 1740,
-                "trigstoryf": "Groose meets Impa for first time cutscene",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 82 1F 15"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -596,11 +584,7 @@
             "angle": 192,
             "bin": "1101 1001 1000 0001 1001 1111 0001 0001",
             "extraInfo": {
-                "first_4_bytes": "D9 81 9F 11",
-                "trigstoryfid": 103,
-                "untrigstoryfid": 1740,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 81 9F 11"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -625,11 +609,7 @@
             "angle": 64,
             "bin": "1101 0000 1111 1111 1001 1111 0101 0010",
             "extraInfo": {
-                "first_4_bytes": "D0 FF 9F 52",
-                "trigstoryfid": 2023,
-                "untrigstoryfid": 1671,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D0 FF 9F 52"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -761,6 +741,7 @@
                 "trigscenef": "scene flag: 0x1 20",
                 "itemid": 1,
                 "chestid": 64,
+                "item": "Small Key",
                 "tbbytes": "1000000000000001"
             },
             "type": "OBJS",
@@ -819,7 +800,8 @@
                 "first_4_bytes": "1F FF 00 09",
                 "flagid": 9,
                 "itemid": 20,
-                "areaflag": "scene flag: 0x0 02"
+                "areaflag": "scene flag: 0x0 02",
+                "item": "Clawshots + Storyflag"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -850,7 +832,8 @@
                 "first_4_bytes": "1F FF 00 10",
                 "flagid": 16,
                 "itemid": 20,
-                "areaflag": "scene flag: 0x3 01"
+                "areaflag": "scene flag: 0x3 01",
+                "item": "Clawshots + Storyflag"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -881,7 +864,8 @@
                 "first_4_bytes": "1F FF 00 A8",
                 "flagid": -88,
                 "itemid": 6,
-                "areaflag": "temp flag: 0x4 01"
+                "areaflag": "temp flag: 0x4 01",
+                "item": "Heart"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -912,7 +896,8 @@
                 "first_4_bytes": "1F FF 00 A9",
                 "flagid": -87,
                 "itemid": 6,
-                "areaflag": "temp flag: 0x4 02"
+                "areaflag": "temp flag: 0x4 02",
+                "item": "Heart"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1249,6 +1234,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 74,
+                "item": "Red Rupee",
                 "tbbytes": "1001010000000100"
             },
             "type": "OBJS",
@@ -1308,6 +1294,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 50,
                 "chestid": 65,
+                "item": "Dungeon Map (and fi text)",
                 "tbbytes": "1000001000110010"
             },
             "type": "OBJS",
@@ -3014,11 +3001,7 @@
             "angle": 64,
             "bin": "1111 0001 1111 1111 1001 1111 0011 0110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 9F 36",
-                "trigstoryfid": 2023,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF 9F 36"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3118,11 +3101,7 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1101 0101 0100 1011",
             "extraInfo": {
-                "first_4_bytes": "3F FF D5 4B",
-                "trigstoryfid": 2037,
-                "untrigstoryfid": 511,
-                "trigstoryf": "-",
-                "untrigstoryf": ""
+                "first_4_bytes": "3F FF D5 4B"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3172,11 +3151,7 @@
             "angle": 0,
             "bin": "0011 1111 1111 1111 1101 0101 0100 1011",
             "extraInfo": {
-                "first_4_bytes": "3F FF D5 4B",
-                "trigstoryfid": 2037,
-                "untrigstoryfid": 511,
-                "trigstoryf": "-",
-                "untrigstoryf": ""
+                "first_4_bytes": "3F FF D5 4B"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3201,11 +3176,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C3",
-                "trigstoryfid": 2047,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF FF C3"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3230,11 +3201,7 @@
             "angle": 64,
             "bin": "1101 1001 1000 0000 0001 0000 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 80 10 15",
-                "trigstoryfid": 4,
-                "untrigstoryfid": 1740,
-                "trigstoryf": "Entering Skyview Cutscene (Skyview layer 1)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 80 10 15"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3259,11 +3226,7 @@
             "angle": 64,
             "bin": "1101 1001 1000 0000 1001 0000 0001 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 80 90 15",
-                "trigstoryfid": 36,
-                "untrigstoryfid": 1740,
-                "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 80 90 15"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3313,11 +3276,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C3",
-                "trigstoryfid": 2047,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF FF C3"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3342,11 +3301,7 @@
             "angle": 0,
             "bin": "1111 1111 1111 1111 1111 1111 1100 0011",
             "extraInfo": {
-                "first_4_bytes": "FF FF FF C3",
-                "trigstoryfid": 2047,
-                "untrigstoryfid": 2047,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF FF FF C3"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3713,7 +3668,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3740,7 +3697,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 07 FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -5424,6 +5383,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 94,
                 "chestid": 66,
+                "item": "Heart piece",
                 "tbbytes": "1000010001011110"
             },
             "type": "OBJS",
@@ -7647,6 +7607,7 @@
                 "trigscenef": "scene flag: 0xB 40",
                 "itemid": 26,
                 "chestid": 67,
+                "item": "FS BK",
                 "tbbytes": "1000011000011010"
             },
             "type": "OBJS",
@@ -7903,6 +7864,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 99,
                 "chestid": 68,
+                "item": "Mogma Mitts",
                 "tbbytes": "1000100001100011"
             },
             "type": "OBJS",
@@ -7935,6 +7897,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 1,
                 "chestid": 69,
+                "item": "Small Key",
                 "tbbytes": "1000101000000001"
             },
             "type": "OBJS",
@@ -8012,11 +7975,7 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1001 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "D9 FF 9F F1",
-                "trigstoryfid": 2023,
-                "untrigstoryfid": 1743,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 FF 9F F1"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -8041,11 +8000,7 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1001 1111 1111 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF 9F F5",
-                "trigstoryfid": 2023,
-                "untrigstoryfid": 1743,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 FF 9F F5"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -8070,11 +8025,7 @@
             "angle": 192,
             "bin": "1101 1001 1111 1111 1001 1111 1111 0001",
             "extraInfo": {
-                "first_4_bytes": "D9 FF 9F F1",
-                "trigstoryfid": 2023,
-                "untrigstoryfid": 1743,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 FF 9F F1"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -8099,11 +8050,7 @@
             "angle": 64,
             "bin": "1101 1001 1111 1111 1001 1111 1111 0101",
             "extraInfo": {
-                "first_4_bytes": "D9 FF 9F F5",
-                "trigstoryfid": 2023,
-                "untrigstoryfid": 1743,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "D9 FF 9F F5"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -8135,6 +8082,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 153,
                 "chestid": 70,
+                "item": "Bottle / Treasure Medal",
                 "tbbytes": "1000110010011001"
             },
             "type": "OBJS",
@@ -8221,6 +8169,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 73,
+                "item": "Red Rupee",
                 "tbbytes": "1001001000000100"
             },
             "type": "OBJS",
@@ -8253,6 +8202,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 72,
+                "item": "evil crystal",
                 "tbbytes": "1001000000111111"
             },
             "type": "OBJS",
@@ -8710,6 +8660,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 75,
+                "item": "evil crystal",
                 "tbbytes": "1001011000111111"
             },
             "type": "OBJS",
@@ -9500,11 +9451,7 @@
             "angle": 0,
             "bin": "1111 0001 1000 0000 1111 1111 0011 0110",
             "extraInfo": {
-                "first_4_bytes": "F1 80 FF 36",
-                "trigstoryfid": 63,
-                "untrigstoryfid": 1932,
-                "trigstoryf": "Talking to Kikwi Ermit Yerbal",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 80 FF 36"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -9529,11 +9476,7 @@
             "angle": 0,
             "bin": "1111 0001 1000 0001 0111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "F1 81 7F 32",
-                "trigstoryfid": 95,
-                "untrigstoryfid": 1932,
-                "trigstoryf": "",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 81 7F 32"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -9815,11 +9758,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0011",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 33",
-                "trigstoryfid": 575,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 08 FF 33"
             },
             "type": "SOBJ",
             "roomid": 10,
@@ -9847,11 +9786,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1000 1111 1111 0011 0011",
             "extraInfo": {
-                "first_4_bytes": "FF 08 FF 33",
-                "trigstoryfid": 575,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "5 gratitude crystal from Pipit's Mom collected (not the crystals)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 08 FF 33"
             },
             "type": "SOBJ",
             "roomid": 10,
@@ -10325,6 +10260,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 1,
                 "chestid": 71,
+                "item": "Small Key",
                 "tbbytes": "1000111000000001"
             },
             "type": "OBJS",

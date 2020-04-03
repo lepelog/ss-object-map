@@ -486,6 +486,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 32,
                 "chestid": 95,
+                "item": " Silver rupee",
                 "tbbytes": "1011111000100000"
             },
             "type": "OBJS",
@@ -517,7 +518,8 @@
                 "first_4_bytes": "0F FF FF 8B",
                 "flagid": -117,
                 "itemid": 35,
-                "areaflag": "temp flag: 0x0 08"
+                "areaflag": "temp flag: 0x0 08",
+                "item": "5 Gratitude crystals"
             },
             "type": "SOBJ",
             "roomid": 0,

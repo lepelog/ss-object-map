@@ -670,6 +670,7 @@
                 "trigscenef": "scene flag: 0xB 40",
                 "itemid": 9,
                 "chestid": 127,
+                "item": "Goddess Whitesword & extra dowsing slots (shows a green rupee)",
                 "tbbytes": "1111111000001001"
             },
             "type": "OBJS",

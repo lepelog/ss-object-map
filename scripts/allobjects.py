@@ -10,6 +10,9 @@ with open('allsceneflags.json') as f:
 with open('allstoryflags.json') as f:
     all_story_flags=json.load(f)
 
+with open('allitems.json') as f:
+    all_items=json.load(f)
+
 # objects that use the flag "between" scen_link and byte4 for the temp/scene flag
 objs_with_middle_byte_flag_scen_link=['Tubo','Soil','Wind']
 objs_with_middle_byte_flag_byte1=['Barrel']
@@ -70,6 +73,8 @@ for stagefile in glob.glob('output/stage/*.json'):
                             elif obj['name'] in objs_with_item_align:
                                 flagidx=extract_byte_between_2_bytes(obj['tosky_scen_link'],obj['scen_link'],6)
                                 extra_info['flagid']=to_signed_byte(flagidx)
+                                if obj['name'] == 'Item':
+                                    extra_info['itemid'] = obj['byte4']&0xff
                             elif obj['name'] in objs_with_byte4_flag:
                                 flagidx=obj['byte4']
                                 extra_info['flagid']=flagidx
@@ -78,7 +83,7 @@ for stagefile in glob.glob('output/stage/*.json'):
                             elif obj['name'] in objs_with_byte2_flag:
                                 flagidx=obj['tosky_scen_link']
                                 extra_info['flagid']=flagidx
-                            elif obj['name'].startswith('Npc') or obj['name'] in ('EKs','EBc','ESm'):
+                            elif obj['name'].startswith('Npc'):
                                 triggerstoryf=extract_byte_between_2_bytes(obj['tosky_scen_link'],obj['scen_link'],3,length=11)
                                 untriggerstoryf=extract_byte_between_2_bytes(obj['byte1'],obj['tosky_scen_link'],0,length=11)
                                 extra_info['trigstoryfid']=triggerstoryf
@@ -105,6 +110,9 @@ for stagefile in glob.glob('output/stage/*.json'):
                             # convert it to format thats easier readable
                             if 'flagid' in extra_info:
                                 extra_info['areaflag']=flag_id_to_sheet_rep(extra_info['flagid'])
+                            
+                            if 'itemid' in extra_info:
+                                extra_info['item']=all_items.get(str(extra_info['itemid']), '?')
 
                             if obj['talk_behaviour'] in foundevents:
                                 extra_info['eventSrc']=foundevents[obj['talk_behaviour']]

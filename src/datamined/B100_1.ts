@@ -412,7 +412,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D B6 04",
                 "flagid": 109,
-                "areaflag": "scene flag: 0xC 20"
+                "itemid": 4,
+                "areaflag": "scene flag: 0xC 20",
+                "item": "Red Rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -644,6 +646,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 178,
                 "chestid": 127,
+                "item": "Rupy Tablet",
                 "tbbytes": "1111111010110010"
             },
             "type": "OBJS",
@@ -731,7 +734,8 @@
                 "first_4_bytes": "0F F0 00 94",
                 "flagid": -108,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x3 10"
+                "areaflag": "temp flag: 0x3 10",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -762,7 +766,8 @@
                 "first_4_bytes": "0F F0 00 95",
                 "flagid": -107,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x3 20"
+                "areaflag": "temp flag: 0x3 20",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -793,7 +798,8 @@
                 "first_4_bytes": "1F E0 00 96",
                 "flagid": -106,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x3 40"
+                "areaflag": "temp flag: 0x3 40",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -824,7 +830,8 @@
                 "first_4_bytes": "1F E0 00 97",
                 "flagid": -105,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x3 80"
+                "areaflag": "temp flag: 0x3 80",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -855,7 +862,8 @@
                 "first_4_bytes": "1F E1 00 98",
                 "flagid": -104,
                 "itemid": 6,
-                "areaflag": "temp flag: 0x2 01"
+                "areaflag": "temp flag: 0x2 01",
+                "item": "Heart"
             },
             "type": "SOBJ",
             "roomid": 0,

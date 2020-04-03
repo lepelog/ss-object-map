@@ -827,7 +827,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -854,7 +856,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -881,7 +885,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -908,7 +914,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 03",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 3,
+                "areaflag": "no flag set",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -935,7 +943,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 03",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 3,
+                "areaflag": "no flag set",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -962,7 +972,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 03",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 3,
+                "areaflag": "no flag set",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1039,7 +1051,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1066,7 +1080,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3707,7 +3723,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4081,7 +4099,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4108,7 +4128,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 02",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 2,
+                "areaflag": "no flag set",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4412,6 +4434,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 75,
                 "chestid": 68,
+                "item": "Hook Beetle",
                 "tbbytes": "1000100001001011"
             },
             "type": "OBJS",
@@ -4444,6 +4467,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 64,
                 "chestid": 70,
+                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
                 "tbbytes": "1000110001000000"
             },
             "type": "OBJS",
@@ -4975,6 +4999,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 71,
+                "item": "Red Rupee",
                 "tbbytes": "1000111000000100"
             },
             "type": "OBJS",
@@ -5007,6 +5032,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 168,
                 "chestid": 72,
+                "item": "Dusk Relic",
                 "tbbytes": "1001000010101000"
             },
             "type": "OBJS",
@@ -5039,6 +5065,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 73,
+                "item": "Red Rupee",
                 "tbbytes": "1001001000000100"
             },
             "type": "OBJS",
@@ -5071,6 +5098,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 94,
                 "chestid": 74,
+                "item": "Heart piece",
                 "tbbytes": "1001010001011110"
             },
             "type": "OBJS",
@@ -5425,6 +5453,7 @@
                 "trigscenef": "scene flag: 0xF 01",
                 "itemid": 163,
                 "chestid": 84,
+                "item": "Tumbleweed",
                 "tbbytes": "1010100010100011"
             },
             "type": "OBJS",
@@ -5985,11 +6014,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 12",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 12"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6017,11 +6042,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 12",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 12"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6049,11 +6070,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6084,7 +6101,8 @@
                 "first_4_bytes": "1F F0 00 81",
                 "flagid": -127,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x1 02"
+                "areaflag": "temp flag: 0x1 02",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6115,7 +6133,8 @@
                 "first_4_bytes": "1F F0 00 82",
                 "flagid": -126,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x1 04"
+                "areaflag": "temp flag: 0x1 04",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6146,7 +6165,8 @@
                 "first_4_bytes": "1F F0 00 83",
                 "flagid": -125,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x1 08"
+                "areaflag": "temp flag: 0x1 08",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6177,7 +6197,8 @@
                 "first_4_bytes": "1F F0 00 84",
                 "flagid": -124,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x1 10"
+                "areaflag": "temp flag: 0x1 10",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6208,7 +6229,8 @@
                 "first_4_bytes": "1F F0 00 87",
                 "flagid": -121,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x1 80"
+                "areaflag": "temp flag: 0x1 80",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6239,7 +6261,8 @@
                 "first_4_bytes": "0F F0 FF 88",
                 "flagid": -120,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 01"
+                "areaflag": "temp flag: 0x0 01",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -6270,7 +6293,8 @@
                 "first_4_bytes": "0F F0 00 89",
                 "flagid": -119,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 02"
+                "areaflag": "temp flag: 0x0 02",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -11939,7 +11963,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11966,7 +11992,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12018,7 +12046,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12043,11 +12073,7 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1001 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 9F 1E",
-                "trigstoryfid": 2023,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF 9F 1E"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12072,11 +12098,7 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1001 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 9F 1E",
-                "trigstoryfid": 2023,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF 9F 1E"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12101,11 +12123,7 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1001 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF 9F 1E",
-                "trigstoryfid": 2023,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF 9F 1E"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12130,11 +12148,7 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1011 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF BF 1E",
-                "trigstoryfid": 2031,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF BF 1E"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12159,11 +12173,7 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1011 1111 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF BF 1E",
-                "trigstoryfid": 2031,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF BF 1E"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12288,11 +12298,7 @@
             "angle": 0,
             "bin": "1111 0001 1111 1111 1011 1010 0001 1110",
             "extraInfo": {
-                "first_4_bytes": "F1 FF BA 1E",
-                "trigstoryfid": 2030,
-                "untrigstoryfid": 1935,
-                "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "first_4_bytes": "F1 FF BA 1E"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12324,6 +12330,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 64,
                 "chestid": 83,
+                "item": "Blue Bird Feather, Golden Skull or Goddess Plume",
                 "tbbytes": "1010011001000000"
             },
             "type": "OBJS",
@@ -12352,11 +12359,7 @@
             "angle": -21974,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -12384,11 +12387,7 @@
             "angle": -21974,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -12416,11 +12415,7 @@
             "angle": 29340,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -12448,11 +12443,7 @@
             "angle": -21526,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,

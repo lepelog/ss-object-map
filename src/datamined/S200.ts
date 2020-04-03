@@ -939,7 +939,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -966,7 +968,9 @@
             "extraInfo": {
                 "first_4_bytes": "04 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1018,7 +1022,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1045,7 +1051,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1147,7 +1155,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1249,7 +1259,9 @@
             "extraInfo": {
                 "first_4_bytes": "06 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1276,7 +1288,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1303,7 +1317,9 @@
             "extraInfo": {
                 "first_4_bytes": "07 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1330,7 +1346,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1357,7 +1375,9 @@
             "extraInfo": {
                 "first_4_bytes": "08 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1384,7 +1404,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1411,7 +1433,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1438,7 +1462,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1515,7 +1541,9 @@
             "extraInfo": {
                 "first_4_bytes": "0A 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1567,7 +1595,9 @@
             "extraInfo": {
                 "first_4_bytes": "0B 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1594,7 +1624,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1621,7 +1653,9 @@
             "extraInfo": {
                 "first_4_bytes": "02 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1648,7 +1682,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1700,7 +1736,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1886,7 +1924,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1913,7 +1953,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1965,7 +2007,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1992,7 +2036,9 @@
             "extraInfo": {
                 "first_4_bytes": "0E 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2044,7 +2090,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2071,7 +2119,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2198,7 +2248,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2225,7 +2277,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2252,7 +2306,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2384,6 +2440,7 @@
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
                 "chestid": 74,
+                "item": "Fire Shield earrings  + Storyflag",
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -2416,6 +2473,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 17,
                 "chestid": 127,
+                "item": "Spirit Vessel",
                 "tbbytes": "1111111000010001"
             },
             "type": "OBJS",
@@ -3024,6 +3082,7 @@
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
                 "chestid": 74,
+                "item": "Fire Shield earrings  + Storyflag",
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -3051,7 +3110,9 @@
             "extraInfo": {
                 "first_4_bytes": "0C 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3078,7 +3139,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3155,7 +3218,9 @@
             "extraInfo": {
                 "first_4_bytes": "0D 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3182,7 +3247,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2A",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 42,
+                "areaflag": "no flag set",
+                "item": "Stamina Fruit"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3259,7 +3326,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3311,7 +3380,9 @@
             "extraInfo": {
                 "first_4_bytes": "00 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3338,7 +3409,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3390,7 +3463,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3517,7 +3592,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3544,7 +3621,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3705,6 +3784,7 @@
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
                 "chestid": 74,
+                "item": "Fire Shield earrings  + Storyflag",
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -4205,7 +4285,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4232,7 +4314,9 @@
             "extraInfo": {
                 "first_4_bytes": "01 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4309,7 +4393,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4341,6 +4427,7 @@
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
                 "chestid": 74,
+                "item": "Fire Shield earrings  + Storyflag",
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -4454,7 +4541,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4481,7 +4570,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4508,7 +4599,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4535,7 +4628,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0F FE 2F",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 47,
+                "areaflag": "no flag set",
+                "item": "Light Fruit"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4562,7 +4657,9 @@
             "extraInfo": {
                 "first_4_bytes": "03 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4589,7 +4686,9 @@
             "extraInfo": {
                 "first_4_bytes": "05 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4616,7 +4715,9 @@
             "extraInfo": {
                 "first_4_bytes": "09 07 FE 2C",
                 "flagid": -1,
-                "areaflag": "no flag set"
+                "itemid": 44,
+                "areaflag": "no flag set",
+                "item": "Tear of Din (first and last)"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4648,6 +4749,7 @@
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
                 "chestid": 74,
+                "item": "Fire Shield earrings  + Storyflag",
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -5249,6 +5351,7 @@
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
                 "chestid": 74,
+                "item": "Fire Shield earrings  + Storyflag",
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",
@@ -5308,6 +5411,7 @@
                 "trigscenef": "scene flag: 0x1 02",
                 "itemid": 138,
                 "chestid": 74,
+                "item": "Fire Shield earrings  + Storyflag",
                 "tbbytes": "1001010010001010"
             },
             "type": "OBJS",

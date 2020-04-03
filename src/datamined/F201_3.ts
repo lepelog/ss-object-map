@@ -367,7 +367,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D A2 5E",
                 "flagid": 104,
-                "areaflag": "scene flag: 0xC 01"
+                "itemid": 94,
+                "areaflag": "scene flag: 0xC 01",
+                "item": "Heart piece"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -935,7 +937,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 06 22 02",
                 "flagid": -120,
-                "areaflag": "temp flag: 0x0 01"
+                "itemid": 2,
+                "areaflag": "temp flag: 0x0 01",
+                "item": "green rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -962,7 +966,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 06 1E 03",
                 "flagid": -121,
-                "areaflag": "temp flag: 0x1 80"
+                "itemid": 3,
+                "areaflag": "temp flag: 0x1 80",
+                "item": "Blue rupee"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1610,7 +1616,8 @@
                 "first_4_bytes": "2F F0 00 8C",
                 "flagid": -116,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x0 10"
+                "areaflag": "temp flag: 0x0 10",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1641,7 +1648,8 @@
                 "first_4_bytes": "2F F0 00 8D",
                 "flagid": -115,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x0 20"
+                "areaflag": "temp flag: 0x0 20",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -1672,7 +1680,8 @@
                 "first_4_bytes": "1F F0 00 71",
                 "flagid": 113,
                 "itemid": 20,
-                "areaflag": "scene flag: 0xF 02"
+                "areaflag": "scene flag: 0xF 02",
+                "item": "Clawshots + Storyflag"
             },
             "type": "SOBJ",
             "roomid": 0,

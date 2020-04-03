@@ -1487,6 +1487,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 63,
                 "chestid": 76,
+                "item": "evil crystal",
                 "tbbytes": "1001100000111111"
             },
             "type": "OBJS",
@@ -1519,6 +1520,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 32,
                 "chestid": 77,
+                "item": " Silver rupee",
                 "tbbytes": "1001101000100000"
             },
             "type": "OBJS",
@@ -1576,6 +1578,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 4,
                 "chestid": 78,
+                "item": "Red Rupee",
                 "tbbytes": "1001110000000100"
             },
             "type": "OBJS",
@@ -1771,11 +1774,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 32",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 32"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2055,11 +2054,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 12",
-                "trigstoryfid": 383,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 05 FF 12"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2087,11 +2082,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 12",
-                "trigstoryfid": 383,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 05 FF 12"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2119,11 +2110,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 12",
-                "trigstoryfid": 383,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 05 FF 12"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2151,11 +2138,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0001 0010",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 12",
-                "trigstoryfid": 383,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 05 FF 12"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2186,7 +2169,8 @@
                 "first_4_bytes": "1F E0 00 96",
                 "flagid": -106,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x3 40"
+                "areaflag": "temp flag: 0x3 40",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2217,7 +2201,8 @@
                 "first_4_bytes": "1F E0 00 97",
                 "flagid": -105,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x3 80"
+                "areaflag": "temp flag: 0x3 80",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2248,7 +2233,8 @@
                 "first_4_bytes": "1F E0 00 98",
                 "flagid": -104,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x2 01"
+                "areaflag": "temp flag: 0x2 01",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,

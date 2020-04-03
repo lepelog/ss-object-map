@@ -912,7 +912,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D DE 30",
                 "flagid": 119,
-                "areaflag": "scene flag: 0xF 80"
+                "itemid": 48,
+                "areaflag": "scene flag: 0xF 80",
+                "item": "one Gratitude crystal"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2284,7 +2286,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D 92 30",
                 "flagid": 100,
-                "areaflag": "scene flag: 0xD 10"
+                "itemid": 48,
+                "areaflag": "scene flag: 0xD 10",
+                "item": "one Gratitude crystal"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2311,7 +2315,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0D D2 30",
                 "flagid": 116,
-                "areaflag": "scene flag: 0xF 10"
+                "itemid": 48,
+                "areaflag": "scene flag: 0xF 10",
+                "item": "one Gratitude crystal"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2518,6 +2524,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 153,
                 "chestid": 127,
+                "item": "Bottle / Treasure Medal",
                 "tbbytes": "1111111010011001"
             },
             "type": "OBJS",
@@ -2550,6 +2557,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 398,
                 "chestid": 64,
+                "item": "Pouch Expansion",
                 "tbbytes": "1000000110001110"
             },
             "type": "OBJS",
@@ -2582,6 +2590,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 417,
                 "chestid": 65,
+                "item": "Heart Piece",
                 "tbbytes": "1000001110100001"
             },
             "type": "OBJS",
@@ -2614,6 +2623,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 383,
                 "chestid": 66,
+                "item": "?",
                 "tbbytes": "1000010101111111"
             },
             "type": "OBJS",
@@ -2646,6 +2656,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 411,
                 "chestid": 67,
+                "item": "?",
                 "tbbytes": "1000011110011011"
             },
             "type": "OBJS",
@@ -2678,6 +2689,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 417,
                 "chestid": 68,
+                "item": "Heart Piece",
                 "tbbytes": "1000100110100001"
             },
             "type": "OBJS",
@@ -2710,6 +2722,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 479,
                 "chestid": 71,
+                "item": "?",
                 "tbbytes": "1000111111011111"
             },
             "type": "OBJS",
@@ -2742,6 +2755,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 479,
                 "chestid": 72,
+                "item": "?",
                 "tbbytes": "1001000111011111"
             },
             "type": "OBJS",
@@ -2774,6 +2788,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 478,
                 "chestid": 87,
+                "item": "?",
                 "tbbytes": "1010111111011110"
             },
             "type": "OBJS",
@@ -2806,6 +2821,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 409,
                 "chestid": 74,
+                "item": "Treasure Medal",
                 "tbbytes": "1001010110011001"
             },
             "type": "OBJS",
@@ -2838,6 +2854,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 408,
                 "chestid": 75,
+                "item": "Some Medal",
                 "tbbytes": "1001011110011000"
             },
             "type": "OBJS",
@@ -2870,6 +2887,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 410,
                 "chestid": 81,
+                "item": "?",
                 "tbbytes": "1010001110011010"
             },
             "type": "OBJS",
@@ -2902,6 +2920,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 478,
                 "chestid": 82,
+                "item": "?",
                 "tbbytes": "1010010111011110"
             },
             "type": "OBJS",
@@ -2934,6 +2953,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 411,
                 "chestid": 83,
+                "item": "?",
                 "tbbytes": "1010011110011011"
             },
             "type": "OBJS",
@@ -2966,6 +2986,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 397,
                 "chestid": 84,
+                "item": "Life Medal",
                 "tbbytes": "1010100110001101"
             },
             "type": "OBJS",
@@ -2998,6 +3019,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 478,
                 "chestid": 86,
+                "item": "?",
                 "tbbytes": "1010110111011110"
             },
             "type": "OBJS",
@@ -3030,6 +3052,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 94,
                 "chestid": 127,
+                "item": "Heart piece",
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",
@@ -3062,6 +3085,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 417,
                 "chestid": 89,
+                "item": "Heart Piece",
                 "tbbytes": "1011001110100001"
             },
             "type": "OBJS",
@@ -3094,6 +3118,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 32,
                 "chestid": 69,
+                "item": " Silver rupee",
                 "tbbytes": "1000101000100000"
             },
             "type": "OBJS",
@@ -3126,6 +3151,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 32,
                 "chestid": 70,
+                "item": " Silver rupee",
                 "tbbytes": "1000110000100000"
             },
             "type": "OBJS",
@@ -3185,6 +3211,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 377,
                 "chestid": 85,
+                "item": "?",
                 "tbbytes": "1010101101111001"
             },
             "type": "OBJS",
@@ -3217,6 +3244,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 410,
                 "chestid": 73,
+                "item": "?",
                 "tbbytes": "1001001110011010"
             },
             "type": "OBJS",
@@ -3249,6 +3277,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 478,
                 "chestid": 92,
+                "item": "?",
                 "tbbytes": "1011100111011110"
             },
             "type": "OBJS",
@@ -3281,6 +3310,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 417,
                 "chestid": 88,
+                "item": "Heart Piece",
                 "tbbytes": "1011000110100001"
             },
             "type": "OBJS",
@@ -3313,6 +3343,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 358,
                 "chestid": 77,
+                "item": "?",
                 "tbbytes": "1001101101100110"
             },
             "type": "OBJS",
@@ -3345,6 +3376,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 380,
                 "chestid": 76,
+                "item": "?",
                 "tbbytes": "1001100101111100"
             },
             "type": "OBJS",
@@ -3740,7 +3772,8 @@
                 "first_4_bytes": "1F F0 FF 86",
                 "flagid": -122,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x1 40"
+                "areaflag": "temp flag: 0x1 40",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3771,7 +3804,8 @@
                 "first_4_bytes": "1F F0 FF 93",
                 "flagid": -109,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x3 08"
+                "areaflag": "temp flag: 0x3 08",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3802,7 +3836,8 @@
                 "first_4_bytes": "1F F0 FF 94",
                 "flagid": -108,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x3 10"
+                "areaflag": "temp flag: 0x3 10",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3833,7 +3868,8 @@
                 "first_4_bytes": "1F F0 FF 87",
                 "flagid": -121,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x1 80"
+                "areaflag": "temp flag: 0x1 80",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3864,7 +3900,8 @@
                 "first_4_bytes": "1F F0 FF 88",
                 "flagid": -120,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x0 01"
+                "areaflag": "temp flag: 0x0 01",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3895,7 +3932,8 @@
                 "first_4_bytes": "1F F0 00 89",
                 "flagid": -119,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x0 02"
+                "areaflag": "temp flag: 0x0 02",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3926,7 +3964,8 @@
                 "first_4_bytes": "1F F0 00 8A",
                 "flagid": -118,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x0 04"
+                "areaflag": "temp flag: 0x0 04",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -3957,7 +3996,8 @@
                 "first_4_bytes": "1F F0 00 8B",
                 "flagid": -117,
                 "itemid": 18,
-                "areaflag": "temp flag: 0x0 08"
+                "areaflag": "temp flag: 0x0 08",
+                "item": "?"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -5935,6 +5975,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 21,
                 "chestid": 127,
+                "item": "Bird statuette",
                 "tbbytes": "1111111000010101"
             },
             "type": "OBJS",

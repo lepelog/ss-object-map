@@ -322,6 +322,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 179,
                 "chestid": 127,
+                "item": "Amber Tablet",
                 "tbbytes": "1111111010110011"
             },
             "type": "OBJS",

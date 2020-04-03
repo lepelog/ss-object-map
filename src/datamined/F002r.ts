@@ -165,6 +165,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 199,
                 "chestid": 127,
+                "item": "Extra Wallet",
                 "tbbytes": "1111111011000111"
             },
             "type": "OBJS",
@@ -383,6 +384,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 100,
                 "chestid": 127,
+                "item": "Heart Medal",
                 "tbbytes": "1111111001100100"
             },
             "type": "OBJS",
@@ -415,6 +417,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 71,
                 "chestid": 127,
+                "item": "Bug Net",
                 "tbbytes": "1111111001000111"
             },
             "type": "OBJS",
@@ -447,6 +450,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 94,
                 "chestid": 127,
+                "item": "Heart piece",
                 "tbbytes": "1111111001011110"
             },
             "type": "OBJS",

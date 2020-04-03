@@ -627,6 +627,7 @@
                 "trigscenef": "no flag set",
                 "itemid": 126,
                 "chestid": 64,
+                "item": "Revitalizing Potion (does Crash)",
                 "tbbytes": "1000000001111110"
             },
             "type": "OBJS",
@@ -826,7 +827,8 @@
                 "first_4_bytes": "0F F1 00 A3",
                 "flagid": -93,
                 "itemid": 4,
-                "areaflag": "temp flag: 0x5 08"
+                "areaflag": "temp flag: 0x5 08",
+                "item": "Red Rupee"
             },
             "type": "SOBJ",
             "roomid": 1,

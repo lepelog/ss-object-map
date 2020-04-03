@@ -2378,11 +2378,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 30",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2410,11 +2406,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 1010 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 0A FF 30",
-                "trigstoryfid": 703,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Sets when you refight imp 1 (Sealed Grounds layer 2)",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 0A FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,
@@ -2442,11 +2434,7 @@
             "angle": 0,
             "bin": "1111 1111 0000 0101 1111 1111 0011 0000",
             "extraInfo": {
-                "first_4_bytes": "FF 05 FF 30",
-                "trigstoryfid": 383,
-                "untrigstoryfid": 2040,
-                "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "first_4_bytes": "FF 05 FF 30"
             },
             "type": "SOBJ",
             "roomid": 0,

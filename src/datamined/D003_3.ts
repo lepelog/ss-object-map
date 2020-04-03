@@ -59,7 +59,9 @@
             "extraInfo": {
                 "first_4_bytes": "FF 0C FA 61",
                 "flagid": 62,
-                "areaflag": "scene flag: 0x6 40"
+                "itemid": 97,
+                "areaflag": "scene flag: 0x6 40",
+                "item": "Triforce of Wisdom"
             },
             "type": "OBJ ",
             "roomid": 0,

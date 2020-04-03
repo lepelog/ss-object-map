@@ -224,7 +224,8 @@
                 "first_4_bytes": "0F F0 00 B3",
                 "flagid": -77,
                 "itemid": 19,
-                "areaflag": "temp flag: 0x7 08"
+                "areaflag": "temp flag: 0x7 08",
+                "item": "Bow"
             },
             "type": "SOBJ",
             "roomid": 0,
