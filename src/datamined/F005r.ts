@@ -192,7 +192,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 36,
                 "trigstoryf": "-",
-                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)"
+                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "eventSrc": "122-Town4.c#L85"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -215,7 +216,8 @@
                 "trigstoryfid": 36,
                 "untrigstoryfid": 326,
                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)"
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "eventSrc": "118-Town3.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -238,7 +240,8 @@
                 "trigstoryfid": 36,
                 "untrigstoryfid": 326,
                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)"
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "eventSrc": "118-Town3.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -261,7 +264,8 @@
                 "trigstoryfid": 326,
                 "untrigstoryfid": 383,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "untrigstoryf": "Heal Orielle's bird"
+                "untrigstoryf": "Heal Orielle's bird",
+                "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -284,7 +288,8 @@
                 "trigstoryfid": 383,
                 "untrigstoryfid": 360,
                 "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "Batreaux turns human"
+                "untrigstoryf": "Batreaux turns human",
+                "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -307,7 +312,8 @@
                 "trigstoryfid": 383,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L1129"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -10093,7 +10093,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 50,
                 "trigstoryf": "-",
-                "untrigstoryf": "Machi saved from bokoblins"
+                "untrigstoryf": "Machi saved from bokoblins",
+                "eventSrc": "200-Forest.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10116,7 +10117,8 @@
                 "trigstoryfid": 50,
                 "untrigstoryfid": 51,
                 "trigstoryf": "Machi saved from bokoblins",
-                "untrigstoryf": "Bonk 2nd mushroom during Machi Chase"
+                "untrigstoryf": "Bonk 2nd mushroom during Machi Chase",
+                "eventSrc": "200-Forest.c#L772"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10139,7 +10141,8 @@
                 "trigstoryfid": 51,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Bonk 2nd mushroom during Machi Chase",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "200-Forest.c#L99"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10162,7 +10165,8 @@
                 "trigstoryfid": 52,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Machi located (Kikwi Elder appears) (also sets after Skyview)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "200-Forest.c#L168"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10185,7 +10189,8 @@
                 "trigstoryfid": 52,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Machi located (Kikwi Elder appears) (also sets after Skyview)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "200-Forest.c#L211"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10208,7 +10213,8 @@
                 "trigstoryfid": 52,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Machi located (Kikwi Elder appears) (also sets after Skyview)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "200-Forest.c#L387"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10231,7 +10237,8 @@
                 "trigstoryfid": 52,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Machi located (Kikwi Elder appears) (also sets after Skyview)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "200-Forest.c#L425"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10258,7 +10265,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 11,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x0 08"
+                "untrigscenef": "scene flag: 0x0 08",
+                "eventSrc": "200-Forest.c#L1229"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10285,7 +10293,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "200-Forest.c#L14"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10312,7 +10321,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "200-Forest.c#L154"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10339,7 +10349,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "200-Forest.c#L154"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10366,7 +10377,8 @@
                 "trigscenefid": 129,
                 "untrigscenefid": 13,
                 "trigscenef": "temp flag: 0x1 02",
-                "untrigscenef": "scene flag: 0x0 20"
+                "untrigscenef": "scene flag: 0x0 20",
+                "eventSrc": "200-Forest.c#L206"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10393,7 +10405,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 14,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x0 40"
+                "untrigscenef": "scene flag: 0x0 40",
+                "eventSrc": "200-Forest.c#L261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10420,7 +10433,8 @@
                 "trigscenefid": 46,
                 "untrigscenefid": 15,
                 "trigscenef": "scene flag: 0x4 40",
-                "untrigscenef": "scene flag: 0x0 80"
+                "untrigscenef": "scene flag: 0x0 80",
+                "eventSrc": "200-Forest.c#L726"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11043,7 +11057,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 212,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0xB 10"
+                "untrigscenef": "temp flag: 0xB 10",
+                "eventSrc": "200-Forest.c#L1244"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11070,7 +11085,8 @@
                 "trigscenefid": 212,
                 "untrigscenefid": 69,
                 "trigscenef": "temp flag: 0xB 10",
-                "untrigscenef": "scene flag: 0x9 20"
+                "untrigscenef": "scene flag: 0x9 20",
+                "eventSrc": "200-Forest.c#L1244"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11097,7 +11113,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 70,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x9 40"
+                "untrigscenef": "scene flag: 0x9 40",
+                "eventSrc": "200-Forest.c#L83"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11409,7 +11426,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L995"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11432,7 +11450,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L1063"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11455,7 +11474,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L17"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11478,7 +11498,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11501,7 +11522,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L86"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11528,7 +11550,8 @@
                 "trigscenefid": 203,
                 "untrigscenefid": 54,
                 "trigscenef": "temp flag: 0x8 08",
-                "untrigscenef": "scene flag: 0x7 40"
+                "untrigscenef": "scene flag: 0x7 40",
+                "eventSrc": "203-ForestF2.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12148,7 +12171,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L995"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12171,7 +12195,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L1063"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12194,7 +12219,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L17"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12217,7 +12243,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12240,7 +12267,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L86"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12267,7 +12295,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "200-Forest.c#L159"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12294,7 +12323,8 @@
                 "trigscenefid": 203,
                 "untrigscenefid": 54,
                 "trigscenef": "temp flag: 0x8 08",
-                "untrigscenef": "scene flag: 0x7 40"
+                "untrigscenef": "scene flag: 0x7 40",
+                "eventSrc": "203-ForestF2.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13087,7 +13117,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L995"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13110,7 +13141,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L1063"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13133,7 +13165,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L17"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13156,7 +13189,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13179,7 +13213,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L86"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13202,7 +13237,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L800"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13229,7 +13265,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 56,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x6 01"
+                "untrigscenef": "scene flag: 0x6 01",
+                "eventSrc": "203-ForestF2.c#L324"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13256,7 +13293,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 57,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x6 02"
+                "untrigscenef": "scene flag: 0x6 02",
+                "eventSrc": "203-ForestF2.c#L742"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13283,7 +13321,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 58,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x6 04"
+                "untrigscenef": "scene flag: 0x6 04",
+                "eventSrc": "203-ForestF2.c#L1037"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13310,7 +13349,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 59,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x6 08"
+                "untrigscenef": "scene flag: 0x6 08",
+                "eventSrc": "200-Forest.c#L750"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13337,7 +13377,8 @@
                 "trigscenefid": 203,
                 "untrigscenefid": 54,
                 "trigscenef": "temp flag: 0x8 08",
-                "untrigscenef": "scene flag: 0x7 40"
+                "untrigscenef": "scene flag: 0x7 40",
+                "eventSrc": "203-ForestF2.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14231,7 +14272,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 51,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x7 08"
+                "untrigscenef": "scene flag: 0x7 08",
+                "eventSrc": "203-ForestF2.c#L737"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14258,7 +14300,8 @@
                 "trigscenefid": 50,
                 "untrigscenefid": 52,
                 "trigscenef": "scene flag: 0x7 04",
-                "untrigscenef": "scene flag: 0x7 10"
+                "untrigscenef": "scene flag: 0x7 10",
+                "eventSrc": "200-Forest.c#L750"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14481,7 +14524,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L995"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14504,7 +14548,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L1063"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14527,7 +14572,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L17"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14550,7 +14596,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14573,7 +14620,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L86"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14596,7 +14644,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L800"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14623,7 +14672,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 38,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 40"
+                "untrigscenef": "scene flag: 0x5 40",
+                "eventSrc": "203-ForestF2.c#L382"
             },
             "type": "OBJ ",
             "roomid": 0,

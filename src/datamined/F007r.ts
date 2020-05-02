@@ -132,7 +132,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 36,
                 "trigstoryf": "-",
-                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)"
+                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "eventSrc": "100-Town.c#L86"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -155,7 +156,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L86"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -178,7 +180,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L118"
             },
             "type": "OBJ ",
             "roomid": 0,

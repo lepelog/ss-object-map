@@ -67,7 +67,8 @@
                 "trigscenefid": 192,
                 "untrigscenefid": 255,
                 "trigscenef": "temp flag: 0x9 01",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "303-MountainF2.c#L292"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -420,7 +421,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L334"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -443,7 +445,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L316"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -493,7 +496,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 121,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xE 02"
+                "untrigscenef": "scene flag: 0xE 02",
+                "eventSrc": "300-Mountain.c#L391"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -596,7 +600,8 @@
                 "trigstoryfid": 15,
                 "untrigstoryfid": 207,
                 "trigstoryf": "Beat Sandship (Sand Sea layer 3)",
-                "untrigstoryf": "Eldin Trial Completed (removes fi trigger in front of Volcano Summit)"
+                "untrigstoryf": "Eldin Trial Completed (removes fi trigger in front of Volcano Summit)",
+                "eventSrc": "303-MountainF2.c#L244"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -623,7 +628,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 38,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 40"
+                "untrigscenef": "scene flag: 0x5 40",
+                "eventSrc": "303-MountainF2.c#L623"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -761,7 +767,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "303-MountainF2.c#L267"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -872,7 +879,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "303-MountainF2.c#L222"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1992,7 +2000,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L512"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -5482,7 +5491,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L40"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -5509,7 +5519,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 46,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x4 40"
+                "untrigscenef": "scene flag: 0x4 40",
+                "eventSrc": "300-Mountain.c#L40"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -5532,7 +5543,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L293"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -5612,7 +5624,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L386"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -5639,7 +5652,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 66,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x9 04"
+                "untrigscenef": "scene flag: 0x9 04",
+                "eventSrc": "300-Mountain.c#L373"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -6731,7 +6745,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 78,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x8 40"
+                "untrigscenef": "scene flag: 0x8 40",
+                "eventSrc": "303-MountainF2.c#L48"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -7391,7 +7406,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "303-MountainF2.c#L63"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -7414,7 +7430,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "303-MountainF2.c#L63"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -12423,7 +12440,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 47,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x4 80"
+                "untrigscenef": "scene flag: 0x4 80",
+                "eventSrc": "300-Mountain.c#L136"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -12450,7 +12468,8 @@
                 "trigscenefid": 47,
                 "untrigscenefid": 48,
                 "trigscenef": "scene flag: 0x4 80",
-                "untrigscenef": "scene flag: 0x7 01"
+                "untrigscenef": "scene flag: 0x7 01",
+                "eventSrc": "300-Mountain.c#L199"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -13309,7 +13328,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 38,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 40"
+                "untrigscenef": "scene flag: 0x5 40",
+                "eventSrc": "303-MountainF2.c#L623"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -13351,7 +13371,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 14,
-                "areaflag": "scene flag: 0x0 40"
+                "areaflag": "scene flag: 0x0 40",
+                "eventSrc": "004-Object.c#L105"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -13844,7 +13865,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 14,
-                "areaflag": "scene flag: 0x0 40"
+                "areaflag": "scene flag: 0x0 40",
+                "eventSrc": "004-Object.c#L105"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -13972,7 +13994,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 62,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x6 40"
+                "untrigscenef": "scene flag: 0x6 40",
+                "eventSrc": "006-KenseiNormal.c#L53"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -14762,7 +14785,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 14,
-                "areaflag": "scene flag: 0x0 40"
+                "areaflag": "scene flag: 0x0 40",
+                "eventSrc": "004-Object.c#L105"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -15285,7 +15309,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "300-Mountain.c#L266"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -15942,7 +15967,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 101,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xD 20"
+                "untrigscenef": "scene flag: 0xD 20",
+                "eventSrc": "300-Mountain.c#L578"
             },
             "type": "OBJ ",
             "roomid": 5,

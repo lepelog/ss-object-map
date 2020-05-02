@@ -135,7 +135,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 95,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xA 80"
+                "untrigscenef": "scene flag: 0xA 80",
+                "eventSrc": "107-Kanban.c#L159"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -162,7 +163,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 96,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xD 01"
+                "untrigscenef": "scene flag: 0xD 01",
+                "eventSrc": "107-Kanban.c#L183"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -225,7 +227,8 @@
                 "trigstoryfid": 34,
                 "untrigstoryfid": 36,
                 "trigstoryf": "Cutscene first time seeing Goddess Sword",
-                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)"
+                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "eventSrc": "107-Kanban.c#L359"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -248,7 +251,8 @@
                 "trigstoryfid": 38,
                 "untrigstoryfid": 36,
                 "trigstoryf": "Cutscene after acquiring Goddess Sword",
-                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)"
+                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "eventSrc": "103-DaiShinkan.c#L31"
             },
             "type": "OBJ ",
             "roomid": 0,

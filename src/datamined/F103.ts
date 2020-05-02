@@ -30,7 +30,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L324"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -206,7 +207,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L152"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -229,7 +231,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L269"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -252,7 +255,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L205"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -870,7 +874,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L179"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4419,7 +4424,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L240"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4442,7 +4448,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L295"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4465,7 +4472,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L366"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5933,7 +5941,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L425"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5960,7 +5969,8 @@
                 "trigscenefid": 26,
                 "untrigscenefid": 20,
                 "trigscenef": "scene flag: 0x2 04",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "204-ForestF3.c#L90"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5983,7 +5993,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L454"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6006,7 +6017,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6046,7 +6058,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L30"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6069,7 +6082,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L123"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6092,7 +6106,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L454"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -6510,7 +6525,8 @@
                 "trigscenefid": 25,
                 "untrigscenefid": 60,
                 "trigscenef": "scene flag: 0x2 02",
-                "untrigscenef": "scene flag: 0x6 10"
+                "untrigscenef": "scene flag: 0x6 10",
+                "eventSrc": "204-ForestF3.c#L488"
             },
             "type": "OBJ ",
             "roomid": 0,

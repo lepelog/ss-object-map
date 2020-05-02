@@ -46,7 +46,8 @@
                 "trigstoryfid": 467,
                 "untrigstoryfid": 186,
                 "trigstoryf": "Goron Text near Big Frog",
-                "untrigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)"
+                "untrigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
+                "eventSrc": "303-MountainF2.c#L299"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -73,7 +74,8 @@
                 "trigscenefid": 192,
                 "untrigscenefid": 255,
                 "trigscenef": "temp flag: 0x9 01",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "303-MountainF2.c#L336"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -136,7 +138,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 118,
-                "areaflag": "scene flag: 0xF 40"
+                "areaflag": "scene flag: 0xF 40",
+                "eventSrc": "004-Object.c#L196"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -622,7 +625,8 @@
                 "trigstoryfid": 186,
                 "untrigstoryfid": 187,
                 "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
-                "untrigstoryf": "Big Frog Watered"
+                "untrigstoryf": "Big Frog Watered",
+                "eventSrc": "303-MountainF2.c#L21"
             },
             "type": "OBJS",
             "roomid": 0,

@@ -28,7 +28,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "119-Captain.c#L32"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -55,7 +56,8 @@
                 "trigscenefid": 2,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x1 04",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "119-Captain.c#L160"
             },
             "type": "OBJ ",
             "roomid": 0,

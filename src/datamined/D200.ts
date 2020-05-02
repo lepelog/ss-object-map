@@ -1641,7 +1641,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 7,
                 "trigstoryf": "-",
-                "untrigstoryf": "Beat Earth Temple (ET Boss Room Layer 2)"
+                "untrigstoryf": "Beat Earth Temple (ET Boss Room Layer 2)",
+                "eventSrc": "301-MountainD1.c#L6"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1921,7 +1922,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 7,
                 "trigstoryf": "-",
-                "untrigstoryf": "Beat Earth Temple (ET Boss Room Layer 2)"
+                "untrigstoryf": "Beat Earth Temple (ET Boss Room Layer 2)",
+                "eventSrc": "301-MountainD1.c#L75"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1948,7 +1950,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 43,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x4 08"
+                "untrigscenef": "scene flag: 0x4 08",
+                "eventSrc": "301-MountainD1.c#L25"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1975,7 +1978,8 @@
                 "trigscenefid": 9,
                 "untrigscenefid": 44,
                 "trigscenef": "scene flag: 0x0 02",
-                "untrigscenef": "scene flag: 0x4 10"
+                "untrigscenef": "scene flag: 0x4 10",
+                "eventSrc": "301-MountainD1.c#L39"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2002,7 +2006,8 @@
                 "trigscenefid": 44,
                 "untrigscenefid": 45,
                 "trigscenef": "scene flag: 0x4 10",
-                "untrigscenef": "scene flag: 0x4 20"
+                "untrigscenef": "scene flag: 0x4 20",
+                "eventSrc": "301-MountainD1.c#L66"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2169,7 +2174,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 57,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x6 02"
+                "untrigscenef": "scene flag: 0x6 02",
+                "eventSrc": "301-MountainD1.c#L1"
             },
             "type": "OBJ ",
             "roomid": 1,

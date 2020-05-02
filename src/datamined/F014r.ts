@@ -148,7 +148,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L269"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -171,7 +172,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,

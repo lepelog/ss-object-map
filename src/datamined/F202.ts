@@ -1791,7 +1791,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "305-MountainF3.c#L50"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4122,7 +4123,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 255,
-                "areaflag": "no flag"
+                "areaflag": "no flag",
+                "eventSrc": "305-MountainF3.c#L120"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -7744,7 +7746,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "305-MountainF3.c#L72"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -8325,7 +8328,10 @@
             "type": "STAG",
             "roomid": 2,
             "layerid": 1,
-            "stageid": "F202"
+            "stageid": "F202",
+            "extra_info": {
+                "eventSrc": "004-Object.c#L136"
+            }
         },
         {
             "unk1": "FF FF E8 84",
@@ -12377,7 +12383,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "305-MountainF3.c#L99"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -12404,7 +12411,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 0,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x1 01"
+                "untrigscenef": "scene flag: 0x1 01",
+                "eventSrc": "305-MountainF3.c#L99"
             },
             "type": "OBJ ",
             "roomid": 5,

@@ -2779,7 +2779,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L204"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2936,7 +2937,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 7,
-                "areaflag": "scene flag: 0x1 80"
+                "areaflag": "scene flag: 0x1 80",
+                "eventSrc": "124-Town6.c#L138"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2957,7 +2959,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 99,
-                "areaflag": "scene flag: 0xD 08"
+                "areaflag": "scene flag: 0xD 08",
+                "eventSrc": "008-Hint.c#L16"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7590,7 +7593,8 @@
                 "trigstoryfid": 23,
                 "untrigstoryfid": 29,
                 "trigstoryf": "Meeting Zelda Cutscene",
-                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)"
+                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
+                "eventSrc": "102-Zelda.c#L11"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7613,7 +7617,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L204"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7636,7 +7641,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L394"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7663,7 +7669,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "108-ShinkanA.c#L32"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7690,7 +7697,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 27,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x2 08"
+                "untrigscenef": "scene flag: 0x2 08",
+                "eventSrc": "108-ShinkanA.c#L68"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7730,7 +7738,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 29,
                 "trigstoryf": "-",
-                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)"
+                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
+                "eventSrc": "100-Town.c#L265"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7753,7 +7762,8 @@
                 "trigstoryfid": 23,
                 "untrigstoryfid": 29,
                 "trigstoryf": "Meeting Zelda Cutscene",
-                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)"
+                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
+                "eventSrc": "103-DaiShinkan.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7776,7 +7786,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L434"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7799,7 +7810,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L323"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7822,7 +7834,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 23,
                 "trigstoryf": "-",
-                "untrigstoryf": "Meeting Zelda Cutscene"
+                "untrigstoryf": "Meeting Zelda Cutscene",
+                "eventSrc": "102-Zelda.c#L11"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7879,7 +7892,8 @@
                 "trigstoryfid": 23,
                 "untrigstoryfid": 29,
                 "trigstoryf": "Meeting Zelda Cutscene",
-                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)"
+                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
+                "eventSrc": "100-Town.c#L35"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7959,7 +7973,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L227"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -7982,7 +7997,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8005,7 +8021,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8028,7 +8045,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8214,7 +8232,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "108-ShinkanA.c#L56"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8260,7 +8279,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L179"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8321,7 +8341,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "108-ShinkanA.c#L129"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -8632,7 +8653,10 @@
             "type": "STAG",
             "roomid": 0,
             "layerid": 1,
-            "stageid": "F000"
+            "stageid": "F000",
+            "extra_info": {
+                "eventSrc": "108-ShinkanA.c#L94"
+            }
         },
         {
             "unk1": "FF FF 83 08",
@@ -8672,7 +8696,10 @@
             "type": "STAG",
             "roomid": 0,
             "layerid": 1,
-            "stageid": "F000"
+            "stageid": "F000",
+            "extra_info": {
+                "eventSrc": "108-ShinkanA.c#L124"
+            }
         },
         {
             "unk1": "FF F1 CF F1",
@@ -8692,7 +8719,10 @@
             "type": "STAG",
             "roomid": 0,
             "layerid": 1,
-            "stageid": "F000"
+            "stageid": "F000",
+            "extra_info": {
+                "eventSrc": "108-ShinkanA.c#L124"
+            }
         },
         {
             "unk1": "FF F1 CF F1",
@@ -8712,7 +8742,10 @@
             "type": "STAG",
             "roomid": 0,
             "layerid": 1,
-            "stageid": "F000"
+            "stageid": "F000",
+            "extra_info": {
+                "eventSrc": "108-ShinkanA.c#L124"
+            }
         },
         {
             "unk1": "FF F1 CF F1",
@@ -8732,7 +8765,10 @@
             "type": "STAG",
             "roomid": 0,
             "layerid": 1,
-            "stageid": "F000"
+            "stageid": "F000",
+            "extra_info": {
+                "eventSrc": "108-ShinkanA.c#L124"
+            }
         },
         {
             "unk1": "FF FF F1 91",
@@ -10351,7 +10387,8 @@
                 "trigstoryfid": 31,
                 "untrigstoryfid": 32,
                 "trigstoryf": "Wing Ceremony Cutscene Part 2 (Sky layer 1)",
-                "untrigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)"
+                "untrigstoryf": "Set landing in the circle after getting sailcloth (Makes Fi visible during the Fi Chase)",
+                "eventSrc": "102-Zelda.c#L60"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10378,7 +10415,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 4,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x1 10"
+                "untrigscenef": "scene flag: 0x1 10",
+                "eventSrc": "102-Zelda.c#L87"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10401,7 +10439,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 41,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wing Ceremony Cutscene Part 1"
+                "untrigstoryf": "Wing Ceremony Cutscene Part 1",
+                "eventSrc": "102-Zelda.c#L185"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10497,7 +10536,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "102-Zelda.c#L93"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10520,7 +10560,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L510"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10547,7 +10588,8 @@
                 "trigscenefid": 3,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x1 08",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "102-Zelda.c#L60"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10717,7 +10759,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "108-ShinkanA.c#L342"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10757,7 +10800,8 @@
                 "trigstoryfid": 41,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wing Ceremony Cutscene Part 1",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "103-DaiShinkan.c#L190"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -10916,7 +10960,8 @@
                 "trigstoryfid": 41,
                 "untrigstoryfid": 39,
                 "trigstoryf": "Wing Ceremony Cutscene Part 1",
-                "untrigstoryf": "Wing Ceremony completed"
+                "untrigstoryf": "Wing Ceremony completed",
+                "eventSrc": "102-Zelda.c#L185"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11544,7 +11589,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)"
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "eventSrc": "118-Town3.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11567,7 +11613,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)"
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "eventSrc": "118-Town3.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11607,7 +11654,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "118-Town3.c#L163"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11634,7 +11682,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "107-Kanban.c#L303"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11661,7 +11710,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "107-Kanban.c#L325"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11684,7 +11734,8 @@
                 "trigstoryfid": 47,
                 "untrigstoryfid": 304,
                 "trigstoryf": "Eldin light pillar",
-                "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)"
+                "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)",
+                "eventSrc": "118-Town3.c#L232"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11711,7 +11762,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "118-Town3.c#L925"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11734,7 +11786,8 @@
                 "trigstoryfid": 47,
                 "untrigstoryfid": 131,
                 "trigstoryf": "Eldin light pillar",
-                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)"
+                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11791,7 +11844,8 @@
                 "trigstoryfid": 362,
                 "untrigstoryfid": 200,
                 "trigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
-                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)"
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "eventSrc": "108-ShinkanA.c#L285"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11818,7 +11872,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "108-ShinkanA.c#L173"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11841,7 +11896,8 @@
                 "trigstoryfid": 326,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11864,7 +11920,8 @@
                 "trigstoryfid": 383,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L1129"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11951,7 +12008,8 @@
                 "trigstoryfid": 394,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Fledge's 5 crystals collected",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "114-Friend.c#L43"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -11978,7 +12036,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 77,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x8 20"
+                "untrigscenef": "scene flag: 0x8 20",
+                "eventSrc": "108-ShinkanA.c#L260"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12005,7 +12064,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 77,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x8 20"
+                "untrigscenef": "scene flag: 0x8 20",
+                "eventSrc": "108-ShinkanA.c#L378"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12028,7 +12088,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 9,
                 "trigstoryf": "-",
-                "untrigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)"
+                "untrigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
+                "eventSrc": "108-ShinkanA.c#L212"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12051,7 +12112,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 49,
                 "trigstoryf": "-",
-                "untrigstoryf": "Talk to Headmaster to learn about Windmills"
+                "untrigstoryf": "Talk to Headmaster to learn about Windmills",
+                "eventSrc": "122-Town4.c#L296"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12078,7 +12140,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "118-Town3.c#L129"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12124,7 +12187,8 @@
                 "trigstoryfid": 49,
                 "untrigstoryfid": 325,
                 "trigstoryf": "Talk to Headmaster to learn about Windmills",
-                "untrigstoryf": "Village Windmill reparation cutscene"
+                "untrigstoryf": "Village Windmill reparation cutscene",
+                "eventSrc": "118-Town3.c#L612"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12368,7 +12432,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 5,
                 "trigstoryf": "-",
-                "untrigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)"
+                "untrigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
+                "eventSrc": "122-Town4.c#L194"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12391,7 +12456,8 @@
                 "trigstoryfid": 131,
                 "untrigstoryfid": 394,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "untrigstoryf": "Fledge's 5 crystals collected"
+                "untrigstoryf": "Fledge's 5 crystals collected",
+                "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12418,7 +12484,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "107-Kanban.c#L87"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -12479,7 +12546,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "122-Town4.c#L347"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13334,7 +13402,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "123-Town5.c#L703"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13357,7 +13426,8 @@
                 "trigstoryfid": 5,
                 "untrigstoryfid": 361,
                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                "untrigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)"
+                "untrigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
+                "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13380,7 +13450,8 @@
                 "trigstoryfid": 576,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -13475,7 +13546,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "118-Town3.c#L309"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14388,7 +14460,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "107-Kanban.c#L87"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14428,7 +14501,8 @@
                 "trigstoryfid": 360,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14451,7 +14525,8 @@
                 "trigstoryfid": 360,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L248"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14474,7 +14549,8 @@
                 "trigstoryfid": 360,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L403"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -14520,7 +14596,8 @@
                 "trigstoryfid": 1200,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "121-AkumaKun.c#L76"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15551,7 +15628,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)"
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "eventSrc": "118-Town3.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15574,7 +15652,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)"
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "eventSrc": "118-Town3.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15614,7 +15693,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "118-Town3.c#L163"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15637,7 +15717,8 @@
                 "trigstoryfid": 47,
                 "untrigstoryfid": 304,
                 "trigstoryf": "Eldin light pillar",
-                "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)"
+                "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)",
+                "eventSrc": "118-Town3.c#L232"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15664,7 +15745,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "118-Town3.c#L925"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15687,7 +15769,8 @@
                 "trigstoryfid": 47,
                 "untrigstoryfid": 131,
                 "trigstoryf": "Eldin light pillar",
-                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)"
+                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15744,7 +15827,8 @@
                 "trigstoryfid": 326,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15767,7 +15851,8 @@
                 "trigstoryfid": 383,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L1129"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -15790,7 +15875,8 @@
                 "trigstoryfid": 394,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Fledge's 5 crystals collected",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "114-Friend.c#L43"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -16034,7 +16120,8 @@
                 "trigstoryfid": 131,
                 "untrigstoryfid": 394,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "untrigstoryf": "Fledge's 5 crystals collected"
+                "untrigstoryf": "Fledge's 5 crystals collected",
+                "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -16061,7 +16148,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "122-Town4.c#L347"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17308,7 +17396,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "123-Town5.c#L703"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17331,7 +17420,8 @@
                 "trigstoryfid": 5,
                 "untrigstoryfid": 361,
                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                "untrigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)"
+                "untrigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
+                "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17354,7 +17444,8 @@
                 "trigstoryfid": 576,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17449,7 +17540,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "118-Town3.c#L309"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17807,7 +17899,8 @@
                 "trigstoryfid": 360,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17830,7 +17923,8 @@
                 "trigstoryfid": 360,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L248"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17853,7 +17947,8 @@
                 "trigstoryfid": 360,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L403"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -17899,7 +17994,8 @@
                 "trigstoryfid": 1200,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "121-AkumaKun.c#L76"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18648,7 +18744,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)"
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "eventSrc": "118-Town3.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18671,7 +18768,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 326,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)"
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "eventSrc": "118-Town3.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18711,7 +18809,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "118-Town3.c#L163"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18734,7 +18833,8 @@
                 "trigstoryfid": 47,
                 "untrigstoryfid": 304,
                 "trigstoryf": "Eldin light pillar",
-                "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)"
+                "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)",
+                "eventSrc": "118-Town3.c#L232"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18757,7 +18857,8 @@
                 "trigstoryfid": 47,
                 "untrigstoryfid": 131,
                 "trigstoryf": "Eldin light pillar",
-                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)"
+                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18814,7 +18915,8 @@
                 "trigstoryfid": 326,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L781"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18837,7 +18939,8 @@
                 "trigstoryfid": 383,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Heal Orielle's bird",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L1129"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18860,7 +18963,8 @@
                 "trigstoryfid": 394,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Fledge's 5 crystals collected",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "114-Friend.c#L43"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18906,7 +19010,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "103-DaiShinkan.c#L36"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18929,7 +19034,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L123"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18969,7 +19075,8 @@
                 "trigstoryfid": 131,
                 "untrigstoryfid": 394,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "untrigstoryf": "Fledge's 5 crystals collected"
+                "untrigstoryf": "Fledge's 5 crystals collected",
+                "eventSrc": "118-Town3.c#L383"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -18992,7 +19099,8 @@
                 "trigstoryfid": 326,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L210"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -19019,7 +19127,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "118-Town3.c#L318"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -19046,7 +19155,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "122-Town4.c#L347"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -19733,7 +19843,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "123-Town5.c#L703"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -19756,7 +19867,8 @@
                 "trigstoryfid": 5,
                 "untrigstoryfid": 361,
                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                "untrigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)"
+                "untrigstoryf": "Set after collecting 5 gratitude crystal from Pipit's Mom (allows Pipit scolding his mom)",
+                "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -19779,7 +19891,8 @@
                 "trigstoryfid": 576,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "123-Town5.c#L744"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -19874,7 +19987,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "118-Town3.c#L309"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20079,7 +20193,8 @@
                 "trigstoryfid": 360,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20102,7 +20217,8 @@
                 "trigstoryfid": 360,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L248"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20125,7 +20241,8 @@
                 "trigstoryfid": 360,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Batreaux turns human",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L403"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20148,7 +20265,8 @@
                 "trigstoryfid": 1200,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "121-AkumaKun.c#L76"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20397,7 +20515,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L74"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20447,7 +20566,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 54,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x7 40"
+                "untrigscenef": "scene flag: 0x7 40",
+                "eventSrc": "100-Town.c#L226"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20470,7 +20590,8 @@
                 "trigstoryfid": 29,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L303"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20514,7 +20635,8 @@
                 "trigscenefid": 55,
                 "untrigscenefid": 56,
                 "trigscenef": "scene flag: 0x7 80",
-                "untrigscenef": "scene flag: 0x6 01"
+                "untrigscenef": "scene flag: 0x6 01",
+                "eventSrc": "100-Town.c#L259"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20537,7 +20659,8 @@
                 "trigstoryfid": 29,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L146"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20587,7 +20710,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "102-Zelda.c#L38"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20614,7 +20738,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "102-Zelda.c#L17"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20637,7 +20762,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "102-Zelda.c#L60"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20677,7 +20803,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L434"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20700,7 +20827,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L323"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20774,7 +20902,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L227"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20797,7 +20926,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20820,7 +20950,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -20843,7 +20974,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L323"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -21088,7 +21220,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L204"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -21111,7 +21244,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L179"
             },
             "type": "OBJ ",
             "roomid": 0,

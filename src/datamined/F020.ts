@@ -1544,7 +1544,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 44,
-                "areaflag": "scene flag: 0x4 10"
+                "areaflag": "scene flag: 0x4 10",
+                "eventSrc": "004-Object.c#L151"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1565,7 +1566,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 45,
-                "areaflag": "scene flag: 0x4 20"
+                "areaflag": "scene flag: 0x4 20",
+                "eventSrc": "004-Object.c#L126"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4076,7 +4078,10 @@
             "type": "STAG",
             "roomid": 0,
             "layerid": 0,
-            "stageid": "F020"
+            "stageid": "F020",
+            "extra_info": {
+                "eventSrc": "006-6KenseiNormal.c#L732"
+            }
         },
         {
             "unk1": "FF FF FF FF",
@@ -4388,7 +4393,8 @@
                 "trigstoryfid": 326,
                 "untrigstoryfid": 383,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "untrigstoryf": "Heal Orielle's bird"
+                "untrigstoryf": "Heal Orielle's bird",
+                "eventSrc": "115-Town2.c#L1016"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4479,7 +4485,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "110-DivingGame.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4519,7 +4526,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L54"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4542,7 +4550,8 @@
                 "trigstoryfid": 292,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set after delivering hot pumpkin soup",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L932"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4569,7 +4578,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "107-Kanban.c#L279"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4778,7 +4788,8 @@
                 "trigscenefid": 11,
                 "untrigscenefid": 13,
                 "trigscenef": "scene flag: 0x0 08",
-                "untrigscenef": "scene flag: 0x0 20"
+                "untrigscenef": "scene flag: 0x0 20",
+                "eventSrc": "107-Kanban.c#L389"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5863,7 +5874,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "105-Terry.c#L331"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -5886,7 +5898,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L224"
             },
             "type": "OBJ ",
             "roomid": 0,

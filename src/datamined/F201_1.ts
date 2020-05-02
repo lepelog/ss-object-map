@@ -1140,7 +1140,8 @@
                 "trigstoryfid": 186,
                 "untrigstoryfid": 187,
                 "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
-                "untrigstoryf": "Big Frog Watered"
+                "untrigstoryf": "Big Frog Watered",
+                "eventSrc": "303-MountainF2.c#L6"
             },
             "type": "OBJS",
             "roomid": 0,

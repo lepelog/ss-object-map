@@ -30,7 +30,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 127,
                 "trigstoryf": "-",
-                "untrigstoryf": ""
+                "untrigstoryf": "",
+                "eventSrc": "101-Shop.c#L67"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -53,7 +54,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 255,
                 "trigstoryf": "-",
-                "untrigstoryf": "Goddess Cube inside Digging Mitts Cave"
+                "untrigstoryf": "Goddess Cube inside Digging Mitts Cave",
+                "eventSrc": "106-DrugStore.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -297,7 +299,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "112-Trustee.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -320,7 +323,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "113-RemodelStore.c#L32"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -360,7 +364,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "106-DrugStore.c#L335"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -417,7 +422,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "118-Town3.c#L662"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -440,7 +446,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L413"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -463,7 +470,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -486,7 +494,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L51"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -509,7 +518,8 @@
                 "trigstoryfid": 1991,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L358"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -532,7 +542,8 @@
                 "trigstoryfid": 1991,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L408"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -559,7 +570,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "107-Kanban.c#L222"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -582,7 +594,8 @@
                 "trigstoryfid": 1200,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "121-AkumaKun.c#L306"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1958,7 +1971,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 26,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x2 04"
+                "untrigscenef": "scene flag: 0x2 04",
+                "eventSrc": "111-FortuneTeller.c#L328"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1981,7 +1995,8 @@
                 "trigstoryfid": 36,
                 "untrigstoryfid": 370,
                 "trigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
-                "untrigstoryf": " Talking to past Impa after meeting Batreaux or Meeting Batreaux after talking to past Impa  (Bazaar layer 2)"
+                "untrigstoryf": " Talking to past Impa after meeting Batreaux or Meeting Batreaux after talking to past Impa  (Bazaar layer 2)",
+                "eventSrc": "111-FortuneTeller.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2008,7 +2023,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 86,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xB 40"
+                "untrigscenef": "scene flag: 0xB 40",
+                "eventSrc": "111-FortuneTeller.c#L414"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2031,7 +2047,8 @@
                 "trigstoryfid": 375,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set after Sleeping after the Fortune Teller crystals (Bazaar layer 3)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "111-FortuneTeller.c#L419"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2075,7 +2092,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 26,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x2 04"
+                "untrigscenef": "scene flag: 0x2 04",
+                "eventSrc": "111-FortuneTeller.c#L328"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2102,7 +2120,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 86,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xB 40"
+                "untrigscenef": "scene flag: 0xB 40",
+                "eventSrc": "111-FortuneTeller.c#L414"
             },
             "type": "OBJ ",
             "roomid": 0,

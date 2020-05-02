@@ -1955,7 +1955,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 80,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xB 01"
+                "untrigscenef": "scene flag: 0xB 01",
+                "eventSrc": "250-ForestSiren.c#L154"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1982,7 +1983,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 254,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0xE 40"
+                "untrigscenef": "temp flag: 0xE 40",
+                "eventSrc": "250-ForestSiren.c#L49"
             },
             "type": "OBJ ",
             "roomid": 0,

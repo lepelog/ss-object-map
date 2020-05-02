@@ -85,7 +85,8 @@
                 "trigstoryfid": 370,
                 "untrigstoryfid": 375,
                 "trigstoryf": " Talking to past Impa after meeting Batreaux or Meeting Batreaux after talking to past Impa  (Bazaar layer 2)",
-                "untrigstoryf": "Set after Sleeping after the Fortune Teller crystals (Bazaar layer 3)"
+                "untrigstoryf": "Set after Sleeping after the Fortune Teller crystals (Bazaar layer 3)",
+                "eventSrc": "118-Town3.c#L677"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -293,7 +294,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 370,
                 "trigstoryf": "-",
-                "untrigstoryf": " Talking to past Impa after meeting Batreaux or Meeting Batreaux after talking to past Impa  (Bazaar layer 2)"
+                "untrigstoryf": " Talking to past Impa after meeting Batreaux or Meeting Batreaux after talking to past Impa  (Bazaar layer 2)",
+                "eventSrc": "111-FortuneTeller.c#L452"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -333,7 +335,8 @@
                 "trigstoryfid": 375,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set after Sleeping after the Fortune Teller crystals (Bazaar layer 3)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "111-FortuneTeller.c#L452"
             },
             "type": "OBJ ",
             "roomid": 0,

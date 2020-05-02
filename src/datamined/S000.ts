@@ -244,7 +244,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 254,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0xE 40"
+                "untrigscenef": "temp flag: 0xE 40",
+                "eventSrc": "150-Siren.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

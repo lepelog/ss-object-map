@@ -236,9 +236,9 @@ export default class ObjMap extends Vue {
       this.objectInfo = JSON.stringify(obj, null, 4);
       this.sidebar.open('details');
       this.eventLink = null;
-      if (obj.extraInfo && obj.extraInfo.eventSrc) {
-        this.eventLink = 'https://github.com/lepelog/skywardsword-tools/blob/fix-event-texts/output/event2/'
-          + obj.extraInfo.eventSrc;
+      if (obj.extra_info && obj.extra_info.eventSrc) {
+        this.eventLink = 'https://github.com/lepelog/skywardsword-tools/blob/master/output/event2/'
+          + obj.extra_info.eventSrc;
       }
     }
 
@@ -322,17 +322,17 @@ export default class ObjMap extends Vue {
 .object-info {
   overflow-x: auto;
 }
-.div-icon0 { border-radius: 50%; border: 1px solid #00FFFF; background: rgba(0,255,255,0.25)}
-.div-icon1 { border-radius: 50%; border: 1px solid #FFFF00; background: rgba(255,255,0,0.25) }
-.div-icon2 { border-radius: 50%; border: 1px solid #FF00FF; background: rgba(255,0,255,0.25) }
-.div-icon3 { border-radius: 50%; border: 1px solid #FF6060; background: rgba(255,96,96,0.25) }
-.div-icon4 { border-radius: 50%; border: 1px solid #60FF60; background: rgba(96,255,96,0.25) }
-.div-icon5 { border-radius: 50%; border: 1px solid #6030FF; background: rgba(96,48,255,0.25) }
-.div-icon6 { border-radius: 50%; border: 1px solid #40C0FF; background: rgba(64,192,255,0.25) }
-.div-icon7 { border-radius: 50%; border: 1px solid #C0FF40; background: rgba(192,255,64,0.25) }
-.div-icon8 { border-radius: 50%; border: 1px solid #FF40C0; background: rgba(255,64,192,0.25) }
-.div-icon9 { border-radius: 50%; border: 1px solid #FFC040; background: rgba(255,192,64,0.25) }
-.div-icon10 { border-radius: 50%; border: 1px solid #40FFC0; background: rgba(64,255,192,0.25) }
-.div-icon11 { border-radius: 50%; border: 1px solid #C040FF; background: rgba(192,64,255,0.25) }
-.div-icon12 { border-radius: 50%; border: 1px solid #FFFFFF; background: rgba(255,255,255,0.25) }
+.div-icon0 { border-radius: 50%; border: 1px solid #00FFFF; background: rgba(0,255,255,1)}
+.div-icon1 { border-radius: 50%; border: 1px solid #FFFF00; background: rgba(255,255,0,1) }
+.div-icon2 { border-radius: 50%; border: 1px solid #FF00FF; background: rgba(255,0,255,1) }
+.div-icon3 { border-radius: 50%; border: 1px solid #FF6060; background: rgba(255,96,96,1) }
+.div-icon4 { border-radius: 50%; border: 1px solid #60FF60; background: rgba(96,255,96,1) }
+.div-icon5 { border-radius: 50%; border: 1px solid #6030FF; background: rgba(96,48,255,1) }
+.div-icon6 { border-radius: 50%; border: 1px solid #40C0FF; background: rgba(64,192,255,1) }
+.div-icon7 { border-radius: 50%; border: 1px solid #C0FF40; background: rgba(192,255,64,1) }
+.div-icon8 { border-radius: 50%; border: 1px solid #FF40C0; background: rgba(255,64,192,1) }
+.div-icon9 { border-radius: 50%; border: 1px solid #FFC040; background: rgba(255,192,64,1) }
+.div-icon10 { border-radius: 50%; border: 1px solid #40FFC0; background: rgba(64,255,192,1) }
+.div-icon11 { border-radius: 50%; border: 1px solid #C040FF; background: rgba(192,64,255,1) }
+.div-icon12 { border-radius: 50%; border: 1px solid #FFFFFF; background: rgba(255,255,255,1) }
 </style>

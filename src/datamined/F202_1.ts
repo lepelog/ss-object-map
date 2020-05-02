@@ -27,7 +27,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 19,
-                "areaflag": "scene flag: 0x3 08"
+                "areaflag": "scene flag: 0x3 08",
+                "eventSrc": "004-Object.c#L6"
             },
             "type": "OBJ ",
             "roomid": 0,

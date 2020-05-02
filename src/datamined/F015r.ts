@@ -169,7 +169,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L166"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -192,7 +193,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L133"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -215,7 +217,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L148"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -255,7 +258,8 @@
                 "trigstoryfid": 366,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Unset when Scrapper has a job, set when he has finished it",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L143"
             },
             "type": "OBJ ",
             "roomid": 0,

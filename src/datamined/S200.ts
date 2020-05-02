@@ -1363,7 +1363,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 192,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x9 01"
+                "untrigscenef": "temp flag: 0x9 01",
+                "eventSrc": "350-MountainSiren.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3639,7 +3640,10 @@
             "type": "SOBJ",
             "roomid": 6,
             "layerid": 2,
-            "stageid": "S200"
+            "stageid": "S200",
+            "extra_info": {
+                "eventSrc": "003-ItemGet.c#L1274"
+            }
         },
         {
             "unk1": "FF FF FF BC",

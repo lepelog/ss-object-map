@@ -757,7 +757,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 125,
-                "areaflag": "scene flag: 0xE 20"
+                "areaflag": "scene flag: 0xE 20",
+                "eventSrc": "124-Town6.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

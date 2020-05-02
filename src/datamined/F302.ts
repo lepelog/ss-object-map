@@ -40,7 +40,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "404-DesertF3.c#L172"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -63,7 +64,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "404-DesertF3.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -124,7 +126,8 @@
                 "trigscenefid": 10,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x0 04",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "404-DesertF3.c#L101"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -545,7 +548,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "404-DesertF3.c#L362"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -572,7 +576,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 11,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x0 08"
+                "untrigscenef": "scene flag: 0x0 08",
+                "eventSrc": "404-DesertF3.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -595,7 +600,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "404-DesertF3.c#L209"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2801,7 +2807,8 @@
                 "trigscenefid": 29,
                 "untrigscenefid": 15,
                 "trigscenef": "scene flag: 0x2 20",
-                "untrigscenef": "scene flag: 0x0 80"
+                "untrigscenef": "scene flag: 0x0 80",
+                "eventSrc": "404-DesertF3.c#L243"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3062,7 +3069,8 @@
                 "trigstoryfid": 21,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Thunder Dragon teaches SotH part (Lanayru Caves layer 4 / Lanayru Mines layer 4)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "460-RairyuMinigame.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3085,7 +3093,8 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 462,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "Set when Thunder Dragon teaches SotH part"
+                "untrigstoryf": "Set when Thunder Dragon teaches SotH part",
+                "eventSrc": "404-DesertF3.c#L321"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3180,7 +3189,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 32,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 01"
+                "untrigscenef": "scene flag: 0x5 01",
+                "eventSrc": "404-DesertF3.c#L237"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3514,7 +3524,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "404-DesertF3.c#L148"
             },
             "type": "OBJ ",
             "roomid": 2,

@@ -513,7 +513,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 79,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x8 80"
+                "untrigscenef": "scene flag: 0x8 80",
+                "eventSrc": "401-DesertD2.c#L175"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -540,7 +541,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 48,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x7 01"
+                "untrigscenef": "scene flag: 0x7 01",
+                "eventSrc": "401-DesertD2.c#L245"
             },
             "type": "OBJ ",
             "roomid": 0,

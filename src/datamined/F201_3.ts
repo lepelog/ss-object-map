@@ -290,7 +290,8 @@
                 "trigstoryfid": 207,
                 "untrigstoryfid": 468,
                 "trigstoryf": "Eldin Trial Completed (removes fi trigger in front of Volcano Summit)",
-                "untrigstoryf": "Goron Text after Watering 1st Frog"
+                "untrigstoryf": "Goron Text after Watering 1st Frog",
+                "eventSrc": "303-MountainF2.c#L396"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -313,7 +314,8 @@
                 "trigstoryfid": 468,
                 "untrigstoryfid": 469,
                 "trigstoryf": "Goron Text after Watering 1st Frog",
-                "untrigstoryf": "Goron Text after Watering 2nd frog"
+                "untrigstoryf": "Goron Text after Watering 2nd frog",
+                "eventSrc": "303-MountainF2.c#L497"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -336,7 +338,8 @@
                 "trigstoryfid": 469,
                 "untrigstoryfid": 13,
                 "trigstoryf": "Goron Text after Watering 2nd frog",
-                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)"
+                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                "eventSrc": "303-MountainF2.c#L567"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -897,7 +900,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 119,
-                "areaflag": "scene flag: 0xF 80"
+                "areaflag": "scene flag: 0xF 80",
+                "eventSrc": "004-Object.c#L156"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1703,7 +1707,8 @@
                 "trigscenefid": 108,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0xC 10",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "303-MountainF2.c#L417"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1730,7 +1735,8 @@
                 "trigscenefid": 109,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0xC 20",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "303-MountainF2.c#L534"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1757,7 +1763,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "303-MountainF2.c#L567"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1784,7 +1791,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 107,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xC 08"
+                "untrigscenef": "scene flag: 0xC 08",
+                "eventSrc": "303-MountainF2.c#L366"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1811,7 +1819,8 @@
                 "trigscenefid": 192,
                 "untrigscenefid": 255,
                 "trigscenef": "temp flag: 0x9 01",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "303-MountainF2.c#L292"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1838,7 +1847,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 115,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xF 08"
+                "untrigscenef": "scene flag: 0xF 08",
+                "eventSrc": "303-MountainF2.c#L179"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1885,7 +1895,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 156,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x2 10"
+                "untrigscenef": "temp flag: 0x2 10",
+                "eventSrc": "303-MountainF2.c#L205"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1912,7 +1923,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 157,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x2 20"
+                "untrigscenef": "temp flag: 0x2 20",
+                "eventSrc": "303-MountainF2.c#L205"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1935,7 +1947,8 @@
                 "trigstoryfid": 186,
                 "untrigstoryfid": 187,
                 "trigstoryf": "Water Basin collected (unsets when scrapper picks up anything else)",
-                "untrigstoryf": "Big Frog Watered"
+                "untrigstoryf": "Big Frog Watered",
+                "eventSrc": "303-MountainF2.c#L38"
             },
             "type": "OBJS",
             "roomid": 0,

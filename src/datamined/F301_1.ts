@@ -123,7 +123,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "402-DesertF2.c#L484"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -150,7 +151,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "402-DesertF2.c#L266"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -177,7 +179,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "402-DesertF2.c#L286"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -204,7 +207,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "402-DesertF2.c#L318"
             },
             "type": "OBJ ",
             "roomid": 0,

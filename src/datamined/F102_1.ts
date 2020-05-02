@@ -353,7 +353,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 67,
-                "areaflag": "scene flag: 0x9 08"
+                "areaflag": "scene flag: 0x9 08",
+                "eventSrc": "004-Object.c#L201"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2083,7 +2084,8 @@
                 "trigstoryfid": 11,
                 "untrigstoryfid": 118,
                 "trigstoryf": "Beat Ancient Cistern (Racetracks appear in the Sealed Grounds) (Skyview layer 3 / Outside AC layer 3 / Inside Great Tree layer 2 / Lake Floria layer 2)",
-                "untrigstoryf": "Water Dragon Text after beating AC"
+                "untrigstoryf": "Water Dragon Text after beating AC",
+                "eventSrc": "203-ForestF2.c#L388"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -153,7 +153,8 @@
                 "trigscenefid": 26,
                 "untrigscenefid": 23,
                 "trigscenef": "scene flag: 0x2 04",
-                "untrigscenef": "scene flag: 0x3 80"
+                "untrigscenef": "scene flag: 0x3 80",
+                "eventSrc": "125-D3.c#L71"
             },
             "type": "OBJ ",
             "roomid": 0,

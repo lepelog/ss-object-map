@@ -184,7 +184,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "105-Terry.c#L27"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -167,7 +167,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 125,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xE 20"
+                "untrigscenef": "scene flag: 0xE 20",
+                "eventSrc": "006-6KenseiNormal.c#L568"
             },
             "type": "OBJ ",
             "roomid": 0,

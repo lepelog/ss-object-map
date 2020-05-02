@@ -40,7 +40,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L91"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -478,7 +479,8 @@
             "extra_info": {
                 "flagid": 255,
                 "scen_link": 255,
-                "areaflag": "no flag"
+                "areaflag": "no flag",
+                "eventSrc": "003-ItemGet.c#L957"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1395,7 +1397,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L238"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1418,7 +1421,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 29,
                 "trigstoryf": "-",
-                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)"
+                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1441,7 +1445,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 23,
                 "trigstoryf": "-",
-                "untrigstoryf": "Meeting Zelda Cutscene"
+                "untrigstoryf": "Meeting Zelda Cutscene",
+                "eventSrc": "100-Town.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1464,7 +1469,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 23,
                 "trigstoryf": "-",
-                "untrigstoryf": "Meeting Zelda Cutscene"
+                "untrigstoryf": "Meeting Zelda Cutscene",
+                "eventSrc": "100-Town.c#L35"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1491,7 +1497,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 51,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x7 08"
+                "untrigscenef": "scene flag: 0x7 08",
+                "eventSrc": "100-Town.c#L137"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1514,7 +1521,8 @@
                 "trigstoryfid": 29,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L35"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1537,7 +1545,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L185"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1560,7 +1569,8 @@
                 "trigstoryfid": 1994,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L383"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1583,7 +1593,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L505"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1606,7 +1617,8 @@
                 "trigstoryfid": 23,
                 "untrigstoryfid": 29,
                 "trigstoryf": "Meeting Zelda Cutscene",
-                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)"
+                "untrigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
+                "eventSrc": "100-Town.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1629,7 +1641,8 @@
                 "trigstoryfid": 1996,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L242"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1652,7 +1665,8 @@
                 "trigstoryfid": 1996,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L290"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1718,7 +1732,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L381"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1745,7 +1760,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "115-Town2.c#L1472"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1831,7 +1847,8 @@
                 "trigstoryfid": 556,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Talking to Pipit about Cawlin's Letter",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L274"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1858,7 +1875,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "115-Town2.c#L1369"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1881,7 +1899,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 202,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after Fi text before going to sky for first time"
+                "untrigstoryf": "Set after Fi text before going to sky for first time",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1908,7 +1927,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "114-Friend.c#L196"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1931,7 +1951,8 @@
                 "trigstoryfid": 546,
                 "untrigstoryfid": 559,
                 "trigstoryf": "Set after trying to open the Door to Ghost in Bathroom",
-                "untrigstoryf": "Set after talking to Pipit about Cawlin's Letter"
+                "untrigstoryf": "Set after talking to Pipit about Cawlin's Letter",
+                "eventSrc": "115-Town2.c#L1225"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1954,7 +1975,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 546,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after trying to open the Door to Ghost in Bathroom"
+                "untrigstoryf": "Set after trying to open the Door to Ghost in Bathroom",
+                "eventSrc": "104-Rival.c#L21"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1977,7 +1999,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 556,
                 "trigstoryf": "-",
-                "untrigstoryf": "Talking to Pipit about Cawlin's Letter"
+                "untrigstoryf": "Talking to Pipit about Cawlin's Letter",
+                "eventSrc": "115-Town2.c#L274"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2000,7 +2023,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 561,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set by Pipit's 5 crystals"
+                "untrigstoryf": "Set by Pipit's 5 crystals",
+                "eventSrc": "115-Town2.c#L448"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2046,7 +2070,8 @@
                 "trigstoryfid": 561,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set by Pipit's 5 crystals",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L448"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2132,7 +2157,8 @@
                 "trigstoryfid": 1988,
                 "untrigstoryfid": 561,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set by Pipit's 5 crystals"
+                "untrigstoryf": "Set by Pipit's 5 crystals",
+                "eventSrc": "122-Town4.c#L101"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2155,7 +2181,8 @@
                 "trigstoryfid": 1988,
                 "untrigstoryfid": 561,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set by Pipit's 5 crystals"
+                "untrigstoryf": "Set by Pipit's 5 crystals",
+                "eventSrc": "122-Town4.c#L101"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2178,7 +2205,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L333"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2273,7 +2301,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L381"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2300,7 +2329,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "115-Town2.c#L1186"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2323,7 +2353,8 @@
                 "trigstoryfid": 549,
                 "untrigstoryfid": 551,
                 "trigstoryf": "Set when giving Cawlin's Letter to the toilet ghost, unset when sleeping",
-                "untrigstoryf": "Set when giving Cawlin's Letter to toilet ghost"
+                "untrigstoryf": "Set when giving Cawlin's Letter to toilet ghost",
+                "eventSrc": "115-Town2.c#L1301"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2432,7 +2463,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 5,
                 "trigstoryf": "-",
-                "untrigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)"
+                "untrigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
+                "eventSrc": "100-Town.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2455,7 +2487,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 202,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after Fi text before going to sky for first time"
+                "untrigstoryf": "Set after Fi text before going to sky for first time",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2482,7 +2515,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "114-Friend.c#L196"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2509,7 +2543,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "107-Kanban.c#L41"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2742,7 +2777,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 5,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x1 20"
+                "untrigscenef": "scene flag: 0x1 20",
+                "eventSrc": "103-DaiShinkan.c#L23"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2765,7 +2801,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2805,7 +2842,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 679,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after Fi text before going to sky for first time (also sets after sleeping)"
+                "untrigstoryf": "Set after Fi text before going to sky for first time (also sets after sleeping)",
+                "eventSrc": "103-DaiShinkan.c#L36"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2828,7 +2866,8 @@
                 "trigstoryfid": 202,
                 "untrigstoryfid": 47,
                 "trigstoryf": "Set after Fi text before going to sky for first time",
-                "untrigstoryf": "Eldin light pillar"
+                "untrigstoryf": "Eldin light pillar",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2888,7 +2927,8 @@
                 "trigstoryfid": 326,
                 "untrigstoryfid": 390,
                 "trigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
-                "untrigstoryf": "Set when entering Fledge room when he is Training the second time"
+                "untrigstoryf": "Set when entering Fledge room when he is Training the second time",
+                "eventSrc": "115-Town2.c#L497"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2911,7 +2951,8 @@
                 "trigstoryfid": 390,
                 "untrigstoryfid": 393,
                 "trigstoryf": "Set when entering Fledge room when he is Training the second time",
-                "untrigstoryf": "Set when entering Fledge room when he is Training the third time"
+                "untrigstoryf": "Set when entering Fledge room when he is Training the third time",
+                "eventSrc": "115-Town2.c#L589"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2934,7 +2975,8 @@
                 "trigstoryfid": 393,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set when entering Fledge room when he is Training the third time",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L753"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2957,7 +2999,8 @@
                 "trigstoryfid": 202,
                 "untrigstoryfid": 326,
                 "trigstoryf": "Set after Fi text before going to sky for first time",
-                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)"
+                "untrigstoryf": "Wyrna's 5 gratitude crystals collected (not the crystals themselves)",
+                "eventSrc": "114-Friend.c#L1"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3162,7 +3205,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "104-Rival.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3185,7 +3229,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "104-Rival.c#L51"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3208,7 +3253,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "104-Rival.c#L46"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3231,7 +3277,8 @@
                 "trigstoryfid": 554,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Cawlin runs away crying after giving letter to toilet ghost/Set by Pipit giving 5 crystals",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L1482"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3254,7 +3301,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 140,
                 "trigstoryf": "-",
-                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)"
+                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                "eventSrc": "104-Rival.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3357,7 +3405,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 140,
                 "trigstoryf": "-",
-                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)"
+                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                "eventSrc": "104-Rival.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3380,7 +3429,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L138"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3403,7 +3453,8 @@
                 "trigstoryfid": 554,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Cawlin runs away crying after giving letter to toilet ghost/Set by Pipit giving 5 crystals",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L120"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3426,7 +3477,8 @@
                 "trigstoryfid": 771,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set when Cawlin runs away crying after giving the letter to toilet ghost",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L1342"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3453,7 +3505,8 @@
                 "trigscenefid": 209,
                 "untrigscenefid": 210,
                 "trigscenef": "temp flag: 0xB 02",
-                "untrigscenef": "temp flag: 0xB 04"
+                "untrigscenef": "temp flag: 0xB 04",
+                "eventSrc": "115-Town2.c#L1342"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3476,7 +3529,8 @@
                 "trigstoryfid": 140,
                 "untrigstoryfid": 554,
                 "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                "untrigstoryf": "Cawlin runs away crying after giving letter to toilet ghost/Set by Pipit giving 5 crystals"
+                "untrigstoryf": "Cawlin runs away crying after giving letter to toilet ghost/Set by Pipit giving 5 crystals",
+                "eventSrc": "115-Town2.c#L568"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3499,7 +3553,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 140,
                 "trigstoryf": "-",
-                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)"
+                "untrigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
+                "eventSrc": "104-Rival.c#L51"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3588,7 +3643,8 @@
                 "trigstoryfid": 29,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "103-DaiShinkan.c#L1"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3611,7 +3667,8 @@
                 "trigstoryfid": 29,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Meeting Groose Cutscene (Skyloft layer 10)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L84"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3634,7 +3691,8 @@
                 "trigstoryfid": 131,
                 "untrigstoryfid": 17,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)"
+                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)",
+                "eventSrc": "103-DaiShinkan.c#L36"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3661,7 +3719,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "103-DaiShinkan.c#L167"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3684,7 +3743,8 @@
                 "trigstoryfid": 679,
                 "untrigstoryfid": 131,
                 "trigstoryf": "Set after Fi text before going to sky for first time (also sets after sleeping)",
-                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)"
+                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                "eventSrc": "103-DaiShinkan.c#L36"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3744,7 +3804,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3804,7 +3865,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L7"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3847,7 +3909,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 360,
                 "trigstoryf": "-",
-                "untrigstoryf": "Batreaux turns human"
+                "untrigstoryf": "Batreaux turns human",
+                "eventSrc": "108-ShinkanA.c#L352"
             },
             "type": "OBJ ",
             "roomid": 4,
@@ -3950,7 +4013,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L185"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -3973,7 +4037,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "118-Town3.c#L912"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -3996,7 +4061,8 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "118-Town3.c#L761"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4019,7 +4085,8 @@
                 "trigstoryfid": 9,
                 "untrigstoryfid": 362,
                 "trigstoryf": "Harp Cutscene (Lanayru Desert layer 2 / Lanayru Mines layer 2 / Temple of Time layer 2 / Behind The Temple layer 3)",
-                "untrigstoryf": "Talk to Professor Owlan inside Academy to locate Levias"
+                "untrigstoryf": "Talk to Professor Owlan inside Academy to locate Levias",
+                "eventSrc": "108-ShinkanA.c#L144"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4089,7 +4156,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "107-Kanban.c#L207"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4152,7 +4220,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "108-ShinkanA.c#L99"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4175,7 +4244,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "118-Town3.c#L227"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4255,7 +4325,8 @@
                 "trigstoryfid": 1996,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "102-Zelda.c#L476"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4513,7 +4584,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L101"
             },
             "type": "OBJ ",
             "roomid": 6,
@@ -4639,7 +4711,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "100-Town.c#L101"
             },
             "type": "OBJ ",
             "roomid": 6,

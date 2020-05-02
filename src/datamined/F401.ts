@@ -185,7 +185,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "006-KenseiNormal.c#L47"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2556,7 +2557,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L198"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2691,7 +2693,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L792"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2718,7 +2721,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 54,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x7 40"
+                "untrigscenef": "scene flag: 0x7 40",
+                "eventSrc": "500-CenterField.c#L204"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -2745,7 +2749,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L732"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3433,7 +3438,8 @@
                 "trigstoryfid": 149,
                 "untrigstoryfid": 71,
                 "trigstoryf": "Post Imp 1 defeat cutscene",
-                "untrigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)"
+                "untrigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                "eventSrc": "500-CenterField.c#L822"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3460,7 +3466,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L215"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3487,7 +3494,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L649"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3514,7 +3522,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L956"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3554,7 +3563,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 143,
                 "trigstoryf": "-",
-                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)"
+                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
+                "eventSrc": "500-CenterField.c#L750"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3581,7 +3591,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 45,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x4 20"
+                "untrigscenef": "scene flag: 0x4 20",
+                "eventSrc": "500-CenterField.c#L250"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3604,7 +3615,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 143,
                 "trigstoryf": "-",
-                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)"
+                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
+                "eventSrc": "500-CenterField.c#L797"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3627,7 +3639,8 @@
                 "trigstoryfid": 143,
                 "untrigstoryfid": 131,
                 "trigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
-                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)"
+                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                "eventSrc": "500-CenterField.c#L750"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3650,7 +3663,8 @@
                 "trigstoryfid": 143,
                 "untrigstoryfid": 131,
                 "trigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
-                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)"
+                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                "eventSrc": "500-CenterField.c#L797"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3677,7 +3691,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L671"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3700,7 +3715,8 @@
                 "trigstoryfid": 71,
                 "untrigstoryfid": 11,
                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                "untrigstoryf": "Beat Ancient Cistern (Racetracks appear in the Sealed Grounds) (Skyview layer 3 / Outside AC layer 3 / Inside Great Tree layer 2 / Lake Floria layer 2)"
+                "untrigstoryf": "Beat Ancient Cistern (Racetracks appear in the Sealed Grounds) (Skyview layer 3 / Outside AC layer 3 / Inside Great Tree layer 2 / Lake Floria layer 2)",
+                "eventSrc": "500-CenterField.c#L822"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3727,7 +3743,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "006-6KenseiNormal.c#L641"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3894,7 +3911,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L393"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3921,7 +3939,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 46,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x4 40"
+                "untrigscenef": "scene flag: 0x4 40",
+                "eventSrc": "500-CenterField.c#L274"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3961,7 +3980,8 @@
                 "trigstoryfid": 136,
                 "untrigstoryfid": 132,
                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                "untrigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)"
+                "untrigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
+                "eventSrc": "500-CenterField.c#L712"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3988,7 +4008,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L772"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4015,7 +4036,8 @@
                 "trigscenefid": 81,
                 "untrigscenefid": 91,
                 "trigscenef": "scene flag: 0xB 02",
-                "untrigscenef": "scene flag: 0xA 08"
+                "untrigscenef": "scene flag: 0xA 08",
+                "eventSrc": "500-CenterField.c#L304"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4042,7 +4064,8 @@
                 "trigscenefid": 81,
                 "untrigscenefid": 91,
                 "trigscenef": "scene flag: 0xB 02",
-                "untrigscenef": "scene flag: 0xA 08"
+                "untrigscenef": "scene flag: 0xA 08",
+                "eventSrc": "500-CenterField.c#L345"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4154,7 +4177,8 @@
                 "trigscenefid": 81,
                 "untrigscenefid": 91,
                 "trigscenef": "scene flag: 0xB 02",
-                "untrigscenef": "scene flag: 0xA 08"
+                "untrigscenef": "scene flag: 0xA 08",
+                "eventSrc": "500-CenterField.c#L96"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4181,7 +4205,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "006-6KenseiNormal.c#L653"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4288,7 +4313,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "006-6KenseiNormal.c#L732"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4315,7 +4341,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L941"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4342,7 +4369,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L844"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4369,7 +4397,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 47,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x4 80"
+                "untrigscenef": "scene flag: 0x4 80",
+                "eventSrc": "500-CenterField.c#L336"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4409,7 +4438,8 @@
                 "trigstoryfid": 136,
                 "untrigstoryfid": 133,
                 "trigstoryf": "Imp fight has started (Fi trigger around Sealed Grounds Statue and loading zone to Behind the Temple)",
-                "untrigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)"
+                "untrigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
+                "eventSrc": "500-CenterField.c#L890"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4436,7 +4466,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L283"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4486,7 +4517,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L628"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4513,7 +4545,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L859"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -4540,7 +4573,8 @@
                 "trigscenefid": 108,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0xC 10",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L149"
             },
             "type": "OBJ ",
             "roomid": 1,

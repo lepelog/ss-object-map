@@ -69,7 +69,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "123-Town5.c#L578"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -113,7 +114,8 @@
                 "trigscenefid": 192,
                 "untrigscenefid": 255,
                 "trigscenef": "temp flag: 0x9 01",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "123-Town5.c#L333"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -327,7 +329,8 @@
                 "trigscenefid": 201,
                 "untrigscenefid": 255,
                 "trigscenef": "temp flag: 0x8 02",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "123-Town5.c#L386"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -350,7 +353,8 @@
                 "trigstoryfid": 1996,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L418"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -373,7 +377,8 @@
                 "trigstoryfid": 1996,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L42"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -502,7 +507,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 194,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x9 04"
+                "untrigscenef": "temp flag: 0x9 04",
+                "eventSrc": "123-Town5.c#L360"
             },
             "type": "OBJ ",
             "roomid": 0,

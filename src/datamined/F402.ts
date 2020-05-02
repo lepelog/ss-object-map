@@ -42,7 +42,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 143,
                 "trigstoryf": "-",
-                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)"
+                "untrigstoryf": "Imp 1 fight triggered (set at end of Groose scared cutscene outside)",
+                "eventSrc": "501-Inpa.c#L493"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -65,7 +66,8 @@
                 "trigstoryfid": 71,
                 "untrigstoryfid": 132,
                 "trigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
-                "untrigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)"
+                "untrigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
+                "eventSrc": "501-Inpa.c#L686"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -122,7 +124,8 @@
                 "trigstoryfid": 350,
                 "untrigstoryfid": 200,
                 "trigstoryf": "True Master Sword Cutscene",
-                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)"
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "eventSrc": "501-Inpa.c#L140"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -145,7 +148,8 @@
                 "trigstoryfid": 133,
                 "untrigstoryfid": 16,
                 "trigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
-                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)"
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "eventSrc": "501-Inpa.c#L240"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -168,7 +172,8 @@
                 "trigstoryfid": 16,
                 "untrigstoryfid": 342,
                 "trigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
-                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)"
+                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
+                "eventSrc": "501-Inpa.c#L245"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -208,7 +213,8 @@
                 "trigstoryfid": 132,
                 "untrigstoryfid": 350,
                 "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
-                "untrigstoryf": "True Master Sword Cutscene"
+                "untrigstoryf": "True Master Sword Cutscene",
+                "eventSrc": "501-Inpa.c#L686"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -254,7 +260,8 @@
                 "trigstoryfid": 342,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "501-Inpa.c#L647"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -277,7 +284,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -447,7 +455,8 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 133,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)"
+                "untrigstoryf": "Imp 3 defeated (Sealed Temple layer 6 / Sealed Grounds layer 5 / Behind The Temple layer 6)",
+                "eventSrc": "501-Inpa.c#L140"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -525,7 +534,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "501-Inpa.c#L113"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -632,7 +642,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 350,
                 "trigstoryf": "-",
-                "untrigstoryf": "True Master Sword Cutscene"
+                "untrigstoryf": "True Master Sword Cutscene",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -655,7 +666,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 16,
                 "trigstoryf": "-",
-                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)"
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "eventSrc": "501-Inpa.c#L113"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -678,7 +690,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 200,
                 "trigstoryf": "-",
-                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)"
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -701,7 +714,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 16,
                 "trigstoryf": "-",
-                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)"
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -724,7 +738,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 20,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set when learning 3rd SotH part (Groosenator to Lanayru ready)"
+                "untrigstoryf": "Set when learning 3rd SotH part (Groosenator to Lanayru ready)",
+                "eventSrc": "501-Inpa.c#L6"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -747,7 +762,8 @@
                 "trigstoryfid": 131,
                 "untrigstoryfid": 71,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "untrigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)"
+                "untrigstoryf": "Learn Farore's Courage (Faron Woods layer 3 / Deep Woods layer 3)",
+                "eventSrc": "501-Inpa.c#L686"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1623,7 +1639,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "501-Inpa.c#L508"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1829,7 +1846,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 107,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xC 08"
+                "untrigscenef": "scene flag: 0xC 08",
+                "eventSrc": "501-Inpa.c#L166"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1896,7 +1914,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "501-Inpa.c#L680"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1923,7 +1942,8 @@
                 "trigscenefid": 21,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x3 20",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "501-Inpa.c#L632"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1950,7 +1970,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 28,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x2 10"
+                "untrigscenef": "scene flag: 0x2 10",
+                "eventSrc": "501-Inpa.c#L579"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2011,7 +2032,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 28,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x2 10"
+                "untrigscenef": "scene flag: 0x2 10",
+                "eventSrc": "501-Inpa.c#L335"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2213,7 +2235,8 @@
                 "trigstoryfid": 13,
                 "untrigstoryfid": 144,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "untrigstoryf": "Imp 2 fight triggered (set when Groose opens door inside temple)"
+                "untrigstoryf": "Imp 2 fight triggered (set when Groose opens door inside temple)",
+                "eventSrc": "501-Inpa.c#L1"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2240,7 +2263,8 @@
                 "trigscenefid": 30,
                 "untrigscenefid": 57,
                 "trigscenef": "scene flag: 0x2 40",
-                "untrigscenef": "scene flag: 0x6 02"
+                "untrigscenef": "scene flag: 0x6 02",
+                "eventSrc": "501-Inpa.c#L57"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2267,7 +2291,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 80,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xB 01"
+                "untrigscenef": "scene flag: 0xB 01",
+                "eventSrc": "501-Inpa.c#L408"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2368,7 +2393,8 @@
                 "trigscenefid": 30,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x2 40",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "501-Inpa.c#L57"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2447,7 +2473,8 @@
                 "trigstoryfid": 132,
                 "untrigstoryfid": 350,
                 "trigstoryf": "Imp 2 defeated (Skyloft layers 4&5 / Sealed Temple layer 4)",
-                "untrigstoryf": "True Master Sword Cutscene"
+                "untrigstoryf": "True Master Sword Cutscene",
+                "eventSrc": "501-Inpa.c#L304"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2474,7 +2501,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 70,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x9 40"
+                "untrigscenef": "scene flag: 0x9 40",
+                "eventSrc": "501-Inpa.c#L191"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2501,7 +2529,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 70,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x9 40"
+                "untrigscenef": "scene flag: 0x9 40",
+                "eventSrc": "501-Inpa.c#L400"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2524,7 +2553,8 @@
                 "trigstoryfid": 350,
                 "untrigstoryfid": 200,
                 "trigstoryf": "True Master Sword Cutscene",
-                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)"
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "eventSrc": "501-Inpa.c#L304"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2551,7 +2581,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "501-Inpa.c#L427"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2762,7 +2793,8 @@
                 "trigscenefid": 37,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x5 20",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "501-Inpa.c#L178"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2812,7 +2844,8 @@
                 "trigscenefid": 38,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x5 40",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "501-Inpa.c#L235"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2878,7 +2911,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 71,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x9 80"
+                "untrigscenef": "scene flag: 0x9 80",
+                "eventSrc": "501-Inpa.c#L594"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2905,7 +2939,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 71,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x9 80"
+                "untrigscenef": "scene flag: 0x9 80",
+                "eventSrc": "501-Inpa.c#L639"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2928,7 +2963,8 @@
                 "trigstoryfid": 16,
                 "untrigstoryfid": 20,
                 "trigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
-                "untrigstoryf": "Set when learning 3rd SotH part (Groosenator to Lanayru ready)"
+                "untrigstoryf": "Set when learning 3rd SotH part (Groosenator to Lanayru ready)",
+                "eventSrc": "501-Inpa.c#L304"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3029,7 +3065,8 @@
                 "trigscenefid": 37,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x5 20",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "501-Inpa.c#L178"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3079,7 +3116,8 @@
                 "trigscenefid": 38,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x5 40",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "501-Inpa.c#L235"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3102,7 +3140,8 @@
                 "trigstoryfid": 175,
                 "untrigstoryfid": 16,
                 "trigstoryf": "Set when Goron talks about Lanayru SotH, unset when healing Thunder Dragon (Sealed Temple layer 6 / Sealed Grounds layer 3)",
-                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)"
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "eventSrc": "501-Inpa.c#L304"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -3147,7 +3186,8 @@
                 "trigstoryfid": 342,
                 "untrigstoryfid": 486,
                 "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
-                "untrigstoryf": "Ghirahim 3 defeated (Hylia's Temple layer 3 / Hylia's Realm layer 3 / Sealed Grounds with Goddess Statue layer 2)"
+                "untrigstoryf": "Ghirahim 3 defeated (Hylia's Temple layer 3 / Hylia's Realm layer 3 / Sealed Grounds with Goddess Statue layer 2)",
+                "eventSrc": "501-Inpa.c#L721"
             },
             "type": "OBJ ",
             "roomid": 2,

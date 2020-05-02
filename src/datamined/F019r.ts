@@ -28,7 +28,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 46,
-                "areaflag": "scene flag: 0x4 40"
+                "areaflag": "scene flag: 0x4 40",
+                "eventSrc": "004-Object.c#L181"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -287,7 +288,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "109-TakeGoron.c#L155"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -310,7 +312,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "109-TakeGoron.c#L155"
             },
             "type": "OBJ ",
             "roomid": 0,

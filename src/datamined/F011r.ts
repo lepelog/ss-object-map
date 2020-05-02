@@ -68,7 +68,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L328"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -132,7 +133,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "117-Pumpkin.c#L906"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -159,7 +161,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 20,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x3 10"
+                "untrigscenef": "scene flag: 0x3 10",
+                "eventSrc": "117-Pumpkin.c#L919"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -249,7 +252,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 23,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x3 80"
+                "untrigscenef": "scene flag: 0x3 80",
+                "eventSrc": "117-Pumpkin.c#L1052"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -276,7 +280,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 23,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x3 80"
+                "untrigscenef": "scene flag: 0x3 80",
+                "eventSrc": "117-Pumpkin.c#L1072"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -303,7 +308,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 24,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x2 01"
+                "untrigscenef": "scene flag: 0x2 01",
+                "eventSrc": "117-Pumpkin.c#L1131"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -330,7 +336,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 24,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x2 01"
+                "untrigscenef": "scene flag: 0x2 01",
+                "eventSrc": "117-Pumpkin.c#L1165"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -353,7 +360,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 292,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after delivering hot pumpkin soup"
+                "untrigstoryf": "Set after delivering hot pumpkin soup",
+                "eventSrc": "117-Pumpkin.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -376,7 +384,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 292,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after delivering hot pumpkin soup"
+                "untrigstoryf": "Set after delivering hot pumpkin soup",
+                "eventSrc": "117-Pumpkin.c#L774"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -399,7 +408,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L595"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -422,7 +432,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L595"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -445,7 +456,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L595"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -849,7 +861,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L308"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -872,7 +885,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 292,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after delivering hot pumpkin soup"
+                "untrigstoryf": "Set after delivering hot pumpkin soup",
+                "eventSrc": "117-Pumpkin.c#L1089"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -895,7 +909,8 @@
                 "trigstoryfid": 292,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set after delivering hot pumpkin soup",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -918,7 +933,8 @@
                 "trigstoryfid": 292,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set after delivering hot pumpkin soup",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L774"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -941,7 +957,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 200,
                 "trigstoryf": "-",
-                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)"
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "eventSrc": "117-Pumpkin.c#L1220"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -964,7 +981,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L740"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -987,7 +1005,8 @@
                 "trigstoryfid": 292,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Set after delivering hot pumpkin soup",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L859"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1010,7 +1029,8 @@
                 "trigstoryfid": 472,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L108"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1033,7 +1053,8 @@
                 "trigstoryfid": 472,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L578"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1056,7 +1077,8 @@
                 "trigstoryfid": 292,
                 "untrigstoryfid": 472,
                 "trigstoryf": "Set after delivering hot pumpkin soup",
-                "untrigstoryf": ""
+                "untrigstoryf": "",
+                "eventSrc": "117-Pumpkin.c#L283"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1079,7 +1101,8 @@
                 "trigstoryfid": 292,
                 "untrigstoryfid": 472,
                 "trigstoryf": "Set after delivering hot pumpkin soup",
-                "untrigstoryf": ""
+                "untrigstoryf": "",
+                "eventSrc": "117-Pumpkin.c#L849"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1102,7 +1125,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L705"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1125,7 +1149,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L764"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1148,7 +1173,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 292,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after delivering hot pumpkin soup"
+                "untrigstoryf": "Set after delivering hot pumpkin soup",
+                "eventSrc": "117-Pumpkin.c#L1089"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1234,7 +1260,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "117-Pumpkin.c#L1145"
             },
             "type": "OBJ ",
             "roomid": 0,

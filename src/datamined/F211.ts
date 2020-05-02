@@ -902,7 +902,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "302-Anahori.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -925,7 +926,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L224"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1431,7 +1433,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "302-Anahori.c#L217"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1977,7 +1980,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 15,
-                "areaflag": "scene flag: 0x0 80"
+                "areaflag": "scene flag: 0x0 80",
+                "eventSrc": "004-Object.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

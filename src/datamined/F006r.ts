@@ -169,7 +169,8 @@
                 "trigstoryfid": 304,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Start Batreaux quest (enables Gratitude crystals)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "118-Town3.c#L232"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -192,7 +193,8 @@
                 "trigstoryfid": 329,
                 "untrigstoryfid": 17,
                 "trigstoryf": "Sleeping after starting Batreaux quest",
-                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)"
+                "untrigstoryf": "Beat Sky Keep (Goddess Statue has fallen on Skyloft) (Skyloft layers 8&9)",
+                "eventSrc": "118-Town3.c#L575"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -215,7 +217,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 36,
                 "trigstoryf": "-",
-                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)"
+                "untrigstoryf": "Hero's Tunic (Skyloft layers 4&5 / Sky layer 2 / Knight Academy layers 3&4 / Sealed Grounds layer 1 / Behind The Temple layer 1 / Goddess Statue layers 2&3)",
+                "eventSrc": "122-Town4.c#L194"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -238,7 +241,8 @@
                 "trigstoryfid": 304,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Start Batreaux quest (enables Gratitude crystals)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "118-Town3.c#L232"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -261,7 +265,8 @@
                 "trigstoryfid": 329,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Sleeping after starting Batreaux quest",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L237"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -284,7 +289,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 360,
                 "trigstoryf": "-",
-                "untrigstoryf": "Batreaux turns human"
+                "untrigstoryf": "Batreaux turns human",
+                "eventSrc": "122-Town4.c#L248"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -307,7 +313,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 304,
                 "trigstoryf": "-",
-                "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)"
+                "untrigstoryf": "Start Batreaux quest (enables Gratitude crystals)",
+                "eventSrc": "122-Town4.c#L279"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -330,7 +337,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 303,
                 "trigstoryf": "-",
-                "untrigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)"
+                "untrigstoryf": "Wryna asks Link to find Kukiel (allows Kukiel to scream to unlock Batreaux's door)",
+                "eventSrc": "122-Town4.c#L237"
             },
             "type": "OBJ ",
             "roomid": 0,

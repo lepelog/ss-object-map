@@ -29,7 +29,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "123-Town5.c#L797"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -56,7 +57,8 @@
                 "trigscenefid": 193,
                 "untrigscenefid": 255,
                 "trigscenef": "temp flag: 0x9 02",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "123-Town5.c#L808"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -153,7 +155,8 @@
                 "trigstoryfid": 1989,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "122-Town4.c#L232"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -284,7 +287,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "115-Town2.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

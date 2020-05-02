@@ -745,7 +745,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L201"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -772,7 +773,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "402-DesertF2.c#L580"
             },
             "type": "OBJ ",
             "roomid": 0,

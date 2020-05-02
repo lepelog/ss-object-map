@@ -285,7 +285,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "305-MountainF3.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -59,7 +59,8 @@
                 "trigstoryfid": 5,
                 "untrigstoryfid": 7,
                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                "untrigstoryf": "Beat Earth Temple (ET Boss Room Layer 2)"
+                "untrigstoryf": "Beat Earth Temple (ET Boss Room Layer 2)",
+                "eventSrc": "503-Goron.c#L694"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -82,7 +83,8 @@
                 "trigstoryfid": 140,
                 "untrigstoryfid": 131,
                 "trigstoryf": "Groose lands in Faron after Harp (Sealed Temple layer 2)",
-                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)"
+                "untrigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
+                "eventSrc": "503-Goron.c#L855"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -105,7 +107,8 @@
                 "trigstoryfid": 131,
                 "untrigstoryfid": 493,
                 "trigstoryf": "Imp 1 defeated (Skyloft layers 4&5)",
-                "untrigstoryf": "Set after talking to Skyview 2 Mogma after revealing Goddess Wall or going past him (unlocks Goddess Walls)"
+                "untrigstoryf": "Set after talking to Skyview 2 Mogma after revealing Goddess Wall or going past him (unlocks Goddess Walls)",
+                "eventSrc": "503-Goron.c#L958"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -132,7 +135,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 131,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L100"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -159,7 +163,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 132,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L162"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -186,7 +191,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 139,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L241"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -213,7 +219,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 133,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L305"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -240,7 +247,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 134,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L575"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -267,7 +275,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 131,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -294,7 +303,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 131,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -321,7 +331,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 131,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -348,7 +359,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 131,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -375,7 +387,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 132,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -402,7 +415,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 132,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -429,7 +443,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 132,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -456,7 +471,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 132,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -483,7 +499,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 133,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -510,7 +527,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 133,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -537,7 +555,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 133,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -564,7 +583,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 133,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -591,7 +611,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 134,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -618,7 +639,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 134,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -645,7 +667,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 134,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -672,7 +695,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 134,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -699,7 +723,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 139,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -726,7 +751,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 139,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -753,7 +779,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 139,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -780,7 +807,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 139,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -807,7 +835,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 112,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xF 01"
+                "untrigscenef": "scene flag: 0xF 01",
+                "eventSrc": "503-Goron.c#L997"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -834,7 +863,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 131,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 08"
+                "untrigscenef": "temp flag: 0x1 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -861,7 +891,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 132,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 10"
+                "untrigscenef": "temp flag: 0x1 10",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -888,7 +919,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 133,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 20"
+                "untrigscenef": "temp flag: 0x1 20",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -915,7 +947,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 134,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x1 40"
+                "untrigscenef": "temp flag: 0x1 40",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -942,7 +975,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 139,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x0 08"
+                "untrigscenef": "temp flag: 0x0 08",
+                "eventSrc": "503-Goron.c#L918"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -969,7 +1003,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "006-KenseiNormal.c#L47"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -990,7 +1025,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 72,
-                "areaflag": "scene flag: 0x8 01"
+                "areaflag": "scene flag: 0x8 01",
+                "eventSrc": "004-Object.c#L191"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2286,7 +2322,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 87,
                 "trigstoryf": "-",
-                "untrigstoryf": "Faron Woods introductory cutscene (Behind The Temple layer 2)"
+                "untrigstoryf": "Faron Woods introductory cutscene (Behind The Temple layer 2)",
+                "eventSrc": "500-CenterField.c#L6"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2313,7 +2350,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 14,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x0 40"
+                "untrigscenef": "scene flag: 0x0 40",
+                "eventSrc": "500-CenterField.c#L1005"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2408,7 +2446,8 @@
                 "trigscenefid": 3,
                 "untrigscenefid": 14,
                 "trigscenef": "scene flag: 0x1 08",
-                "untrigscenef": "scene flag: 0x0 40"
+                "untrigscenef": "scene flag: 0x0 40",
+                "eventSrc": "500-CenterField.c#L6"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2435,7 +2474,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 94,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xA 40"
+                "untrigscenef": "scene flag: 0xA 40",
+                "eventSrc": "500-CenterField.c#L6"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2712,7 +2752,8 @@
                 "trigstoryfid": 493,
                 "untrigstoryfid": 15,
                 "trigstoryf": "Set after talking to Skyview 2 Mogma after revealing Goddess Wall or going past him (unlocks Goddess Walls)",
-                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)"
+                "untrigstoryf": "Beat Sandship (Sand Sea layer 3)",
+                "eventSrc": "503-Goron.c#L1023"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2739,7 +2780,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2789,7 +2831,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "500-CenterField.c#L912"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2833,7 +2876,8 @@
                 "trigscenefid": 72,
                 "untrigscenefid": 73,
                 "trigscenef": "scene flag: 0x8 01",
-                "untrigscenef": "scene flag: 0x8 02"
+                "untrigscenef": "scene flag: 0x8 02",
+                "eventSrc": "503-Goron.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2860,7 +2904,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 66,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x9 04"
+                "untrigscenef": "scene flag: 0x9 04",
+                "eventSrc": "503-Goron.c#L958"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2923,7 +2968,8 @@
                 "trigstoryfid": 13,
                 "untrigstoryfid": 401,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)"
+                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
+                "eventSrc": "503-Goron.c#L1200"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3052,7 +3098,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3075,7 +3122,8 @@
                 "trigstoryfid": 401,
                 "untrigstoryfid": 200,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)"
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "eventSrc": "503-Goron.c#L1200"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3138,7 +3186,8 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 401,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)"
+                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3161,7 +3210,8 @@
                 "trigstoryfid": 401,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3188,7 +3238,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3265,7 +3316,8 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 401,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)"
+                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3288,7 +3340,8 @@
                 "trigstoryfid": 401,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3315,7 +3368,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3375,7 +3429,8 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 401,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)"
+                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3398,7 +3453,8 @@
                 "trigstoryfid": 401,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3425,7 +3481,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3485,7 +3542,8 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 401,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)"
+                "untrigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3508,7 +3566,8 @@
                 "trigstoryfid": 401,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Exhausting Goddess Wall in Sealed Grounds (unset after starting your File)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "503-Goron.c#L1340"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3535,7 +3594,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 93,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xA 20"
+                "untrigscenef": "scene flag: 0xA 20",
+                "eventSrc": "503-Goron.c#L1261"
             },
             "type": "OBJ ",
             "roomid": 0,

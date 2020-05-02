@@ -1530,7 +1530,8 @@
                 "trigscenefid": 100,
                 "untrigscenefid": 47,
                 "trigscenef": "scene flag: 0xD 10",
-                "untrigscenef": "scene flag: 0x4 80"
+                "untrigscenef": "scene flag: 0x4 80",
+                "eventSrc": "401-DesertD2.c#L254"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1740,7 +1741,8 @@
                 "trigstoryfid": 508,
                 "untrigstoryfid": 277,
                 "trigstoryf": "",
-                "untrigstoryf": ""
+                "untrigstoryf": "",
+                "eventSrc": "401-DesertD2.c#L156"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1767,7 +1769,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 19,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x3 08"
+                "untrigscenef": "scene flag: 0x3 08",
+                "eventSrc": "401-DesertD2.c#L156"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2207,7 +2210,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L66"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2230,7 +2234,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L106"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2253,7 +2258,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L106"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2276,7 +2282,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L106"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2299,7 +2306,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L106"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2322,7 +2330,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L106"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2345,7 +2354,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L106"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2368,7 +2378,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L106"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2391,7 +2402,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L106"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2414,7 +2426,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L167"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2437,7 +2450,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L91"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2460,7 +2474,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L6"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2483,7 +2498,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L26"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2900,7 +2916,8 @@
             "extra_info": {
                 "flagid": 255,
                 "scen_link": 255,
-                "areaflag": "no flag"
+                "areaflag": "no flag",
+                "eventSrc": "003-ItemGet.c#L159"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -3606,7 +3623,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 56,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x6 01"
+                "untrigscenef": "scene flag: 0x6 01",
+                "eventSrc": "401-DesertD2.c#L289"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3645,7 +3663,8 @@
             "extra_info": {
                 "flagid": 1,
                 "scen_link": 255,
-                "areaflag": "scene flag: 0x1 02"
+                "areaflag": "scene flag: 0x1 02",
+                "eventSrc": "006-1KenseiNormal.c#L343"
             },
             "type": "OBJS",
             "roomid": 3,
@@ -3667,7 +3686,8 @@
             "extra_info": {
                 "flagid": 1,
                 "scen_link": 255,
-                "areaflag": "scene flag: 0x1 02"
+                "areaflag": "scene flag: 0x1 02",
+                "eventSrc": "003-ItemGet.c#L1144"
             },
             "type": "OBJS",
             "roomid": 3,
@@ -3715,7 +3735,8 @@
             "extra_info": {
                 "flagid": 57,
                 "scen_link": 255,
-                "areaflag": "scene flag: 0x6 02"
+                "areaflag": "scene flag: 0x6 02",
+                "eventSrc": "003-ItemGet.c#L1072"
             },
             "type": "OBJS",
             "roomid": 3,
@@ -3781,7 +3802,8 @@
             "extra_info": {
                 "flagid": 22,
                 "scen_link": 255,
-                "areaflag": "scene flag: 0x3 40"
+                "areaflag": "scene flag: 0x3 40",
+                "eventSrc": "003-ItemGet.c#L1318"
             },
             "type": "OBJS",
             "roomid": 3,
@@ -4845,7 +4867,8 @@
                 "trigscenefid": 54,
                 "untrigscenefid": 53,
                 "trigscenef": "scene flag: 0x7 40",
-                "untrigscenef": "scene flag: 0x7 20"
+                "untrigscenef": "scene flag: 0x7 20",
+                "eventSrc": "401-DesertD2.c#L185"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -5044,7 +5067,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L61"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -5581,7 +5605,8 @@
                 "trigscenefid": 55,
                 "untrigscenefid": 52,
                 "trigscenef": "scene flag: 0x7 80",
-                "untrigscenef": "scene flag: 0x7 10"
+                "untrigscenef": "scene flag: 0x7 10",
+                "eventSrc": "401-DesertD2.c#L185"
             },
             "type": "OBJ ",
             "roomid": 7,
@@ -5726,7 +5751,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L41"
             },
             "type": "OBJ ",
             "roomid": 7,
@@ -7220,7 +7246,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 23,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x3 80"
+                "untrigscenef": "scene flag: 0x3 80",
+                "eventSrc": "401-DesertD2.c#L236"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -8019,7 +8046,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L121"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -8042,7 +8070,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L172"
             },
             "type": "OBJ ",
             "roomid": 9,
@@ -8514,7 +8543,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "401-DesertD2.c#L114"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -8554,7 +8584,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 262,
                 "trigstoryf": "-",
-                "untrigstoryf": ""
+                "untrigstoryf": "",
+                "eventSrc": "401-DesertD2.c#L94"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -8577,7 +8608,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 262,
                 "trigstoryf": "-",
-                "untrigstoryf": ""
+                "untrigstoryf": "",
+                "eventSrc": "401-DesertD2.c#L1"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -8600,7 +8632,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 262,
                 "trigstoryf": "-",
-                "untrigstoryf": ""
+                "untrigstoryf": "",
+                "eventSrc": "401-DesertD2.c#L104"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -8898,7 +8931,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L46"
             },
             "type": "OBJ ",
             "roomid": 10,
@@ -9570,7 +9604,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L21"
             },
             "type": "OBJ ",
             "roomid": 12,
@@ -10407,7 +10442,8 @@
                 "trigscenefid": 18,
                 "untrigscenefid": 24,
                 "trigscenef": "scene flag: 0x3 04",
-                "untrigscenef": "scene flag: 0x2 01"
+                "untrigscenef": "scene flag: 0x2 01",
+                "eventSrc": "401-DesertD2.c#L227"
             },
             "type": "OBJ ",
             "roomid": 14,
@@ -10518,7 +10554,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L76"
             },
             "type": "OBJ ",
             "roomid": 14,
@@ -10541,7 +10578,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L157"
             },
             "type": "OBJ ",
             "roomid": 14,
@@ -10858,7 +10896,8 @@
                 "trigscenefid": 99,
                 "untrigscenefid": 49,
                 "trigscenef": "scene flag: 0xD 08",
-                "untrigscenef": "scene flag: 0x7 02"
+                "untrigscenef": "scene flag: 0x7 02",
+                "eventSrc": "401-DesertD2.c#L265"
             },
             "type": "OBJ ",
             "roomid": 15,
@@ -10885,7 +10924,8 @@
                 "trigscenefid": 92,
                 "untrigscenefid": 31,
                 "trigscenef": "scene flag: 0xA 10",
-                "untrigscenef": "scene flag: 0x2 80"
+                "untrigscenef": "scene flag: 0x2 80",
+                "eventSrc": "401-DesertD2.c#L274"
             },
             "type": "OBJ ",
             "roomid": 15,
@@ -11116,7 +11156,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "405-DesertD2Clear.c#L96"
             },
             "type": "OBJ ",
             "roomid": 15,

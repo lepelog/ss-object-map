@@ -34,7 +34,8 @@
                 "trigscenefid": 87,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0xB 80",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "402-DesertF2.c#L38"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -61,7 +62,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 19,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x3 08"
+                "untrigscenef": "scene flag: 0x3 08",
+                "eventSrc": "402-DesertF2.c#L372"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -84,7 +86,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -107,7 +110,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -130,7 +134,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -420,7 +425,8 @@
                 "trigscenefid": 88,
                 "untrigscenefid": 89,
                 "trigscenef": "scene flag: 0xA 01",
-                "untrigscenef": "scene flag: 0xA 02"
+                "untrigscenef": "scene flag: 0xA 02",
+                "eventSrc": "402-DesertF2.c#L500"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -535,7 +541,8 @@
                 "trigscenefid": 88,
                 "untrigscenefid": 89,
                 "trigscenef": "scene flag: 0xA 01",
-                "untrigscenef": "scene flag: 0xA 02"
+                "untrigscenef": "scene flag: 0xA 02",
+                "eventSrc": "402-DesertF2.c#L500"
             },
             "type": "OBJ ",
             "roomid": 0,

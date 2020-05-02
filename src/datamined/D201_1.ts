@@ -963,7 +963,8 @@
                 "trigstoryfid": 1992,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "304-MountainD2.c#L257"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -986,7 +987,8 @@
                 "trigstoryfid": 1995,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "304-MountainD2.c#L257"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1013,7 +1015,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 84,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xB 10"
+                "untrigscenef": "scene flag: 0xB 10",
+                "eventSrc": "304-MountainD2.c#L234"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1192,7 +1195,8 @@
                 "trigstoryfid": 819,
                 "untrigstoryfid": 822,
                 "trigstoryf": "Sets after mogma talks about Hidden room in FS",
-                "untrigstoryf": "Sets after catching Mogma"
+                "untrigstoryf": "Sets after catching Mogma",
+                "eventSrc": "304-MountainD2.c#L182"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1219,7 +1223,8 @@
                 "trigscenefid": 29,
                 "untrigscenefid": 37,
                 "trigscenef": "scene flag: 0x2 20",
-                "untrigscenef": "scene flag: 0x5 20"
+                "untrigscenef": "scene flag: 0x5 20",
+                "eventSrc": "304-MountainD2.c#L182"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1246,7 +1251,8 @@
                 "trigscenefid": 77,
                 "untrigscenefid": 79,
                 "trigscenef": "scene flag: 0x8 20",
-                "untrigscenef": "scene flag: 0x8 80"
+                "untrigscenef": "scene flag: 0x8 80",
+                "eventSrc": "304-MountainD2.c#L182"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1273,7 +1279,8 @@
                 "trigscenefid": 97,
                 "untrigscenefid": 98,
                 "trigscenef": "scene flag: 0xD 02",
-                "untrigscenef": "scene flag: 0xD 04"
+                "untrigscenef": "scene flag: 0xD 04",
+                "eventSrc": "304-MountainD2.c#L304"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -1300,7 +1307,8 @@
                 "trigscenefid": 98,
                 "untrigscenefid": 99,
                 "trigscenef": "scene flag: 0xD 04",
-                "untrigscenef": "scene flag: 0xD 08"
+                "untrigscenef": "scene flag: 0xD 08",
+                "eventSrc": "304-MountainD2.c#L226"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4430,7 +4438,8 @@
                 "trigstoryfid": 1995,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "304-MountainD2.c#L234"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -4564,7 +4573,8 @@
                 "trigstoryfid": 1991,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "304-MountainD2.c#L81"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4587,7 +4597,8 @@
                 "trigstoryfid": 1991,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "304-MountainD2.c#L120"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4610,7 +4621,8 @@
                 "trigstoryfid": 1988,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "304-MountainD2.c#L120"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4713,7 +4725,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 109,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xC 20"
+                "untrigscenef": "scene flag: 0xC 20",
+                "eventSrc": "304-MountainD2.c#L81"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -4943,7 +4956,8 @@
                 "trigscenefid": 89,
                 "untrigscenefid": 108,
                 "trigscenef": "scene flag: 0xA 02",
-                "untrigscenef": "scene flag: 0xC 10"
+                "untrigscenef": "scene flag: 0xC 10",
+                "eventSrc": "304-MountainD2.c#L81"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -5021,7 +5035,8 @@
                 "trigscenefid": 89,
                 "untrigscenefid": 108,
                 "trigscenef": "scene flag: 0xA 02",
-                "untrigscenef": "scene flag: 0xC 10"
+                "untrigscenef": "scene flag: 0xC 10",
+                "eventSrc": "304-MountainD2.c#L146"
             },
             "type": "OBJ ",
             "roomid": 5,
@@ -5904,7 +5919,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 52,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x7 10"
+                "untrigscenef": "scene flag: 0x7 10",
+                "eventSrc": "304-MountainD2.c#L171"
             },
             "type": "OBJ ",
             "roomid": 5,

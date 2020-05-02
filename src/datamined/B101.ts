@@ -206,7 +206,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 76,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x8 10"
+                "untrigscenef": "scene flag: 0x8 10",
+                "eventSrc": "006-6KenseiNormal.c#L508"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -393,7 +394,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 193,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x9 02"
+                "untrigscenef": "temp flag: 0x9 02",
+                "eventSrc": "202-ForestD2.c#L27"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -433,7 +435,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 648,
                 "trigstoryf": "-",
-                "untrigstoryf": "Koloktos defeated"
+                "untrigstoryf": "Koloktos defeated",
+                "eventSrc": "202-ForestD2.c#L27"
             },
             "type": "OBJ ",
             "roomid": 0,

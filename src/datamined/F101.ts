@@ -806,7 +806,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 66,
-                "areaflag": "scene flag: 0x9 04"
+                "areaflag": "scene flag: 0x9 04",
+                "eventSrc": "004-Object.c#L136"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2679,7 +2680,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 5,
                 "trigstoryf": "-",
-                "untrigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)"
+                "untrigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
+                "eventSrc": "200-Forest.c#L292"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2778,7 +2780,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 27,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x2 08"
+                "untrigscenef": "scene flag: 0x2 08",
+                "eventSrc": "200-Forest.c#L1201"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2958,7 +2961,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 34,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 04"
+                "untrigscenef": "scene flag: 0x5 04",
+                "eventSrc": "200-Forest.c#L766"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2985,7 +2989,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "200-Forest.c#L793"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3012,7 +3017,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "200-Forest.c#L904"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3039,7 +3045,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 35,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 08"
+                "untrigscenef": "scene flag: 0x5 08",
+                "eventSrc": "200-Forest.c#L970"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3089,7 +3096,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 48,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x7 01"
+                "untrigscenef": "scene flag: 0x7 01",
+                "eventSrc": "200-Forest.c#L1194"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3493,7 +3501,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "200-Forest.c#L1036"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3516,7 +3525,8 @@
                 "trigstoryfid": 5,
                 "untrigstoryfid": 69,
                 "trigstoryf": "Beat Skyview (Faron Woods, Deep Woods layer 2 / Eldin Volcano, Digging Mitts Cave, FS Entrance, Volcano Summit Waterfall, Thrill Digger layer 1 / Skyview Spring layer 2 / Skyview Boss Room layer 2, ET Boss Room Layer 1)",
-                "untrigstoryf": "Machi Cutscene after Skyview"
+                "untrigstoryf": "Machi Cutscene after Skyview",
+                "eventSrc": "200-Forest.c#L1036"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3808,7 +3818,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "006-KenseiNormal.c#L47"
             },
             "type": "OBJ ",
             "roomid": 0,

@@ -251,7 +251,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 40,
-                "areaflag": "scene flag: 0x4 01"
+                "areaflag": "scene flag: 0x4 01",
+                "eventSrc": "004-Object.c#L76"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -533,7 +534,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 41,
-                "areaflag": "scene flag: 0x4 02"
+                "areaflag": "scene flag: 0x4 02",
+                "eventSrc": "004-Object.c#L141"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -560,7 +562,8 @@
                 "trigscenefid": 86,
                 "untrigscenefid": 34,
                 "trigscenef": "scene flag: 0xB 40",
-                "untrigscenef": "scene flag: 0x5 04"
+                "untrigscenef": "scene flag: 0x5 04",
+                "eventSrc": "404-DesertF3.c#L311"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1453,7 +1456,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 200,
                 "trigstoryf": "-",
-                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)"
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "eventSrc": "404-DesertF3.c#L39"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1480,7 +1484,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 108,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0xC 10"
+                "untrigscenef": "scene flag: 0xC 10",
+                "eventSrc": "404-DesertF3.c#L39"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1503,7 +1508,8 @@
                 "trigstoryfid": 1996,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "404-DesertF3.c#L273"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1798,7 +1804,8 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 828,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "Goron Text about Lanayru SotH"
+                "untrigstoryf": "Goron Text about Lanayru SotH",
+                "eventSrc": "404-DesertF3.c#L69"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1825,7 +1832,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 36,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 10"
+                "untrigscenef": "scene flag: 0x5 10",
+                "eventSrc": "404-DesertF3.c#L138"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1852,7 +1860,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 35,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 08"
+                "untrigscenef": "scene flag: 0x5 08",
+                "eventSrc": "404-DesertF3.c#L69"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1959,7 +1968,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "404-DesertF3.c#L153"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1982,7 +1992,8 @@
                 "trigstoryfid": 1996,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "404-DesertF3.c#L273"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2277,7 +2288,8 @@
                 "trigstoryfid": 200,
                 "untrigstoryfid": 828,
                 "trigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
-                "untrigstoryf": "Goron Text about Lanayru SotH"
+                "untrigstoryf": "Goron Text about Lanayru SotH",
+                "eventSrc": "404-DesertF3.c#L69"
             },
             "type": "OBJ ",
             "roomid": 0,

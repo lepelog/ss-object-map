@@ -1048,7 +1048,10 @@
             "type": "OBJ ",
             "roomid": 1,
             "layerid": 0,
-            "stageid": "F102"
+            "stageid": "F102",
+            "extra_info": {
+                "eventSrc": "003-ItemGet.c#L1274"
+            }
         },
         {
             "unk1": "FF FF FF F1",
@@ -1321,7 +1324,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L423"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1344,7 +1348,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L457"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1767,7 +1772,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 116,
                 "trigstoryf": "-",
-                "untrigstoryf": "Finished following Parella"
+                "untrigstoryf": "Finished following Parella",
+                "eventSrc": "203-ForestF2.c#L498"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -2104,7 +2110,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L693"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -2677,7 +2684,10 @@
             "type": "OBJ ",
             "roomid": 3,
             "layerid": 0,
-            "stageid": "F102"
+            "stageid": "F102",
+            "extra_info": {
+                "eventSrc": "004-Object.c#L146"
+            }
         },
         {
             "unk1": "FF FF FF F1",
@@ -3086,7 +3096,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L447"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -3109,7 +3120,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L616"
             },
             "type": "OBJ ",
             "roomid": 3,

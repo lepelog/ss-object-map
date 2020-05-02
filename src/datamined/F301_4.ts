@@ -321,7 +321,8 @@
                 "trigstoryfid": 1996,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "406-TrolleyRace.c#L245"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -344,7 +345,8 @@
                 "trigstoryfid": 1996,
                 "untrigstoryfid": 270,
                 "trigstoryf": "-",
-                "untrigstoryf": "Fi Text after Molderach 2's defeat (Shipyard Construction Bay layer 2)"
+                "untrigstoryf": "Fi Text after Molderach 2's defeat (Shipyard Construction Bay layer 2)",
+                "eventSrc": "406-TrolleyRace.c#L260"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -367,7 +369,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -390,7 +393,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -413,7 +417,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2010,7 +2015,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L395"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2037,7 +2043,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "402-DesertF2.c#L591"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2060,7 +2067,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "406-TrolleyRace.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2083,7 +2091,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "406-TrolleyRace.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2280,7 +2289,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 95,
-                "areaflag": "scene flag: 0xA 80"
+                "areaflag": "scene flag: 0xA 80",
+                "eventSrc": "004-Object.c#L61"
             },
             "type": "OBJ ",
             "roomid": 0,

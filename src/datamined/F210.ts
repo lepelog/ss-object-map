@@ -346,7 +346,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L69"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -979,7 +980,8 @@
                 "trigscenefid": 79,
                 "untrigscenefid": 80,
                 "trigscenef": "scene flag: 0x8 80",
-                "untrigscenef": "scene flag: 0xB 01"
+                "untrigscenef": "scene flag: 0xB 01",
+                "eventSrc": "300-Mountain.c#L327"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1002,7 +1004,8 @@
                 "trigstoryfid": 13,
                 "untrigstoryfid": 471,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "untrigstoryf": "delivered something to the sky? (unsets on next request?)"
+                "untrigstoryf": "delivered something to the sky? (unsets on next request?)",
+                "eventSrc": "303-MountainF2.c#L385"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1025,7 +1028,8 @@
                 "trigstoryfid": 13,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "303-MountainF2.c#L431"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1048,7 +1052,8 @@
                 "trigstoryfid": 13,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "303-MountainF2.c#L515"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2095,7 +2100,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L482"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2122,7 +2128,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 2,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x1 04"
+                "untrigscenef": "scene flag: 0x1 04",
+                "eventSrc": "300-Mountain.c#L413"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2149,7 +2156,8 @@
                 "trigscenefid": 67,
                 "untrigscenefid": 3,
                 "trigscenef": "scene flag: 0x9 08",
-                "untrigscenef": "scene flag: 0x1 08"
+                "untrigscenef": "scene flag: 0x1 08",
+                "eventSrc": "300-Mountain.c#L429"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2176,7 +2184,8 @@
                 "trigscenefid": 4,
                 "untrigscenefid": 67,
                 "trigscenef": "scene flag: 0x1 10",
-                "untrigscenef": "scene flag: 0x9 08"
+                "untrigscenef": "scene flag: 0x9 08",
+                "eventSrc": "300-Mountain.c#L470"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2356,7 +2365,8 @@
                 "trigscenefid": 209,
                 "untrigscenefid": 4,
                 "trigscenef": "temp flag: 0xB 02",
-                "untrigscenef": "scene flag: 0x1 10"
+                "untrigscenef": "scene flag: 0x1 10",
+                "eventSrc": "300-Mountain.c#L18"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2599,7 +2609,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2622,7 +2633,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2645,7 +2657,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2668,7 +2681,8 @@
                 "trigstoryfid": 15,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Beat Sandship (Sand Sea layer 3)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L88"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2691,7 +2705,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 676,
                 "trigstoryf": "-",
-                "untrigstoryf": "Talk to Mogma for hint in Waterfall area of Volcano Summit"
+                "untrigstoryf": "Talk to Mogma for hint in Waterfall area of Volcano Summit",
+                "eventSrc": "300-Mountain.c#L125"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2714,7 +2729,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2737,7 +2753,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2760,7 +2777,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2783,7 +2801,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2806,7 +2825,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L88"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2829,7 +2849,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2852,7 +2873,8 @@
                 "trigstoryfid": 13,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L351"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2875,7 +2897,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2898,7 +2921,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2921,7 +2945,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2944,7 +2969,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L88"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2967,7 +2993,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L351"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2990,7 +3017,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "303-MountainF2.c#L548"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -3013,7 +3041,8 @@
                 "trigstoryfid": 1986,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "300-Mountain.c#L589"
             },
             "type": "OBJ ",
             "roomid": 0,

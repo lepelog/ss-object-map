@@ -163,7 +163,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L673"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -186,7 +187,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L688"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -821,7 +823,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L621"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1900,7 +1903,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 65,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set when healing Water Dragon (Skyview Spring layer 4)"
+                "untrigstoryf": "Set when healing Water Dragon (Skyview Spring layer 4)",
+                "eventSrc": "203-ForestF2.c#L161"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -1923,7 +1927,8 @@
                 "trigstoryfid": 65,
                 "untrigstoryfid": 200,
                 "trigstoryf": "Set when healing Water Dragon (Skyview Spring layer 4)",
-                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)"
+                "untrigstoryf": "Levias explains SotH quest (The Thunder Dragon can appear) (Sealed Temple layer 5 / Sealed Grounds layer 4 / Behind The Temple layer 5 / Thunderhead layer 2 / Lanayru Gorge layer 1 / Lanayru Caves layer 2 / Water Dragon's Lair layer 2 / Flooded Great Tree layer 1)",
+                "eventSrc": "203-ForestF2.c#L283"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2026,7 +2031,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L283"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2109,7 +2115,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "203-ForestF2.c#L283"
             },
             "type": "OBJ ",
             "roomid": 0,

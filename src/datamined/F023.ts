@@ -1999,7 +1999,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 35,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 08"
+                "untrigscenef": "scene flag: 0x5 08",
+                "eventSrc": "107-Kanban.c#L133"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4062,7 +4063,10 @@
             "type": "STAG",
             "roomid": 0,
             "layerid": 0,
-            "stageid": "F023"
+            "stageid": "F023",
+            "extra_info": {
+                "eventSrc": "006-6KenseiNormal.c#L732"
+            }
         },
         {
             "unk1": "FF FF FF FF",
@@ -4204,7 +4208,8 @@
                 "trigscenefid": 37,
                 "untrigscenefid": 255,
                 "trigscenef": "scene flag: 0x5 20",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "006-6KenseiNormal.c#L744"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4542,7 +4547,8 @@
             "name": "HrpHint",
             "extra_info": {
                 "flagid": 43,
-                "areaflag": "scene flag: 0x4 08"
+                "areaflag": "scene flag: 0x4 08",
+                "eventSrc": "004-Object.c#L186"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4565,7 +4571,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "116-InsectGame.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4592,7 +4599,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 34,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x5 04"
+                "untrigscenef": "scene flag: 0x5 04",
+                "eventSrc": "107-Kanban.c#L51"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -4932,7 +4940,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "116-InsectGame.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,

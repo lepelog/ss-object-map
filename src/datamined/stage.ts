@@ -12,11 +12,8 @@ export interface Stage {
 }
 
 export interface StageObject {
-    byte1: number;
-    tosky_scen_link: number;
-    scen_link: number;
-    byte4: number;
     unk1: string;
+    unk2: string;
     posx: number;
     posy: number;
     posz: number;
@@ -26,7 +23,7 @@ export interface StageObject {
     talk_behaviour: number;
     unk3: string;
     name: string;
-    extraInfo?: {
+    extra_info?: {
         flagid?: number;
         areaflag?: string;
         [key: string]: any;

@@ -39,7 +39,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 13,
                 "trigstoryf": "-",
-                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)"
+                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                "eventSrc": "304-MountainD2.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -66,7 +67,8 @@
                 "trigscenefid": 5,
                 "untrigscenefid": 3,
                 "trigscenef": "scene flag: 0x1 20",
-                "untrigscenef": "scene flag: 0x1 08"
+                "untrigscenef": "scene flag: 0x1 08",
+                "eventSrc": "304-MountainD2.c#L1"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -304,7 +306,8 @@
                 "trigstoryfid": 822,
                 "untrigstoryfid": 13,
                 "trigstoryf": "Sets after catching Mogma",
-                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)"
+                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                "eventSrc": "304-MountainD2.c#L43"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -327,7 +330,8 @@
                 "trigstoryfid": 820,
                 "untrigstoryfid": 13,
                 "trigstoryf": "Sets after mogma disapears and other mogma apears in FS",
-                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)"
+                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                "eventSrc": "304-MountainD2.c#L54"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -350,7 +354,8 @@
                 "trigstoryfid": 821,
                 "untrigstoryfid": 13,
                 "trigstoryf": "Sets while chaseing Mogma",
-                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)"
+                "untrigstoryf": "Beat Fire Sanctuary (Sealed Temple layer 3 / Sealed Grounds layer 3 / Behind The Temple layer 4 / FS Boss Room layer 2 /  FS Entrance layer 4)",
+                "eventSrc": "304-MountainD2.c#L70"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -2358,7 +2363,8 @@
                 "trigstoryfid": 192,
                 "untrigstoryfid": 2040,
                 "trigstoryf": "(not implemented yet -- 7E0F)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "304-MountainD2.c#L318"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -2381,7 +2387,8 @@
                 "trigstoryfid": 1984,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "304-MountainD2.c#L336"
             },
             "type": "OBJ ",
             "roomid": 3,
@@ -2404,7 +2411,8 @@
                 "trigstoryfid": 1987,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "304-MountainD2.c#L336"
             },
             "type": "OBJ ",
             "roomid": 3,

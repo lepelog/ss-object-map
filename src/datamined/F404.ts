@@ -34,7 +34,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 342,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)"
+                "untrigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
+                "eventSrc": "502-CenterFieldBack.c#L49"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -91,7 +92,8 @@
                 "trigstoryfid": 342,
                 "untrigstoryfid": 486,
                 "trigstoryf": "Set after beating Sky Keep (Entering the Sealed Grounds now loads the map with the Goddess Statue/ Horde Cutscene can play correctly) (Hylia's Temple layer 2 / Sealed Temple layer 7 / Behind The Temple layer 8 / Hylia's Realm layer 13 / Sealed Grounds with Goddess Statue layer 1)",
-                "untrigstoryf": "Ghirahim 3 defeated (Hylia's Temple layer 3 / Hylia's Realm layer 3 / Sealed Grounds with Goddess Statue layer 2)"
+                "untrigstoryf": "Ghirahim 3 defeated (Hylia's Temple layer 3 / Hylia's Realm layer 3 / Sealed Grounds with Goddess Statue layer 2)",
+                "eventSrc": "502-CenterFieldBack.c#L135"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -137,7 +139,8 @@
                 "trigstoryfid": 486,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "Ghirahim 3 defeated (Hylia's Temple layer 3 / Hylia's Realm layer 3 / Sealed Grounds with Goddess Statue layer 2)",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "502-CenterFieldBack.c#L149"
             },
             "type": "OBJ ",
             "roomid": 2,
@@ -160,7 +163,8 @@
                 "trigstoryfid": 486,
                 "untrigstoryfid": 490,
                 "trigstoryf": "Ghirahim 3 defeated (Hylia's Temple layer 3 / Hylia's Realm layer 3 / Sealed Grounds with Goddess Statue layer 2)",
-                "untrigstoryf": "Skip last cutscene during credits (Groose appears in the Groosenator, re-enables groosenator to lanayru after sky keep)"
+                "untrigstoryf": "Skip last cutscene during credits (Groose appears in the Groosenator, re-enables groosenator to lanayru after sky keep)",
+                "eventSrc": "502-CenterFieldBack.c#L14"
             },
             "type": "OBJ ",
             "roomid": 2,

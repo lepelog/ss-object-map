@@ -1775,7 +1775,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "006-6KenseiNormal.c#L766"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -1802,7 +1803,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 196,
                 "trigscenef": "no flag",
-                "untrigscenef": "temp flag: 0x9 10"
+                "untrigscenef": "temp flag: 0x9 10",
+                "eventSrc": "502-CenterFieldBack.c#L1"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3428,7 +3430,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "502-CenterFieldBack.c#L25"
             },
             "type": "OBJ ",
             "roomid": 1,
@@ -3455,7 +3458,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "502-CenterFieldBack.c#L37"
             },
             "type": "OBJ ",
             "roomid": 1,

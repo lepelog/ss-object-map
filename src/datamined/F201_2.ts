@@ -815,7 +815,8 @@
                 "trigscenefid": 44,
                 "untrigscenefid": 45,
                 "trigscenef": "scene flag: 0x4 10",
-                "untrigscenef": "scene flag: 0x4 20"
+                "untrigscenef": "scene flag: 0x4 20",
+                "eventSrc": "305-MountainF3.c#L114"
             },
             "type": "OBJ ",
             "roomid": 0,

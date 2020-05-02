@@ -512,7 +512,8 @@
                 "trigscenefid": 17,
                 "untrigscenefid": 16,
                 "trigscenef": "scene flag: 0x3 02",
-                "untrigscenef": "scene flag: 0x3 01"
+                "untrigscenef": "scene flag: 0x3 01",
+                "eventSrc": "402-DesertF2.c#L332"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -552,7 +553,8 @@
                 "trigstoryfid": 2009,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L386"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -575,7 +577,8 @@
                 "trigstoryfid": 2009,
                 "untrigstoryfid": 739,
                 "trigstoryf": "-",
-                "untrigstoryf": "Set after Fi text after Sea Chart in Skipper's house"
+                "untrigstoryf": "Set after Fi text after Sea Chart in Skipper's house",
+                "eventSrc": "402-DesertF2.c#L454"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -598,7 +601,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -621,7 +625,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "402-DesertF2.c#L357"
             },
             "type": "OBJ ",
             "roomid": 0,

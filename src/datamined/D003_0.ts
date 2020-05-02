@@ -261,7 +261,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 43,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x4 08"
+                "untrigscenef": "scene flag: 0x4 08",
+                "eventSrc": "125-D3.c#L6"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -305,7 +306,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 24,
                 "trigscenef": "no flag",
-                "untrigscenef": "scene flag: 0x2 01"
+                "untrigscenef": "scene flag: 0x2 01",
+                "eventSrc": "125-D3.c#L53"
             },
             "type": "OBJ ",
             "roomid": 0,

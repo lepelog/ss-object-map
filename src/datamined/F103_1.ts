@@ -64,7 +64,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 16,
                 "trigstoryf": "-",
-                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)"
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "eventSrc": "204-ForestF3.c#L85"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -91,7 +92,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "204-ForestF3.c#L85"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -114,7 +116,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 16,
                 "trigstoryf": "-",
-                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)"
+                "untrigstoryf": "Water Dragon teaches SotH part (Faron Woods, Deep Woods layer 5 / Inside Great Tree layer 3 / Lake Floria layer 3 / Water Dragon's Lair layer 3 / Behind The Temple layer 7)",
+                "eventSrc": "204-ForestF3.c#L103"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -141,7 +144,8 @@
                 "trigscenefid": 255,
                 "untrigscenefid": 255,
                 "trigscenef": "no flag",
-                "untrigscenef": "no flag"
+                "untrigscenef": "no flag",
+                "eventSrc": "204-ForestF3.c#L103"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -364,7 +368,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L64"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -387,7 +392,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L80"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -410,7 +416,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L108"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -433,7 +440,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L75"
             },
             "type": "OBJ ",
             "roomid": 0,
@@ -601,7 +609,8 @@
                 "trigstoryfid": 2047,
                 "untrigstoryfid": 2047,
                 "trigstoryf": "-",
-                "untrigstoryf": "-"
+                "untrigstoryf": "-",
+                "eventSrc": "204-ForestF3.c#L400"
             },
             "type": "OBJ ",
             "roomid": 0,
