@@ -1,11 +1,11 @@
-from allobjects import all_stages
+from sstools.allobjects import all_stages
 import json
 
 # used to generate the ts files used by the object map
 for stagename, stagedata in all_stages.items():
     with open('../src/datamined/{}.ts'.format(stagename),'w') as f:
         f.write('/* eslint-disable */')
-        f.write('export default Object.freeze('.format(stagename))
+        f.write('export default Object.freeze(')
         json.dump(stagedata, f, indent=4)
         f.write(');')
 

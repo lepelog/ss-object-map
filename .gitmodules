@@ -1,0 +1,3 @@
+[submodule "scripts/sstools"]
+	path = scripts/sstools
+	url = https://github.com/lepelog/skywardsword-tools/
