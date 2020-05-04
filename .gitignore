@@ -23,4 +23,4 @@ yarn-error.log*
 __pycache__
 
 # other repo stuff
-scripts/output
+public/stages/*.json

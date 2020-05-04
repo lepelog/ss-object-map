@@ -97,9 +97,13 @@ FF F2 9C D0  1111 0010 1001 1100 1101 0000
 107 04
 FF F2 9D 00  1111 0010 1001 1101 0000 0000
 
+kanbanS: stone Sign
+byte 3+4 are talk action
+
 item:
 interpret first 4 as binary, bit 14 to 22 is flag
 
+TlpTag ist area text, first byte is flag, third byte seems to be text index?
 
 
 

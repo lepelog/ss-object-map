@@ -137,8 +137,42 @@ import * as L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-sidebar-v2';
 import 'leaflet-sidebar-v2/css/leaflet-sidebar.css';
-import { stages, StageObject, Stage } from '../datamined/index';
 import { stagenames } from '../util';
+
+/* eslint-disable camelcase */
+export interface Stage {
+    stageid: string;
+    stagename: string;
+    maxx: number;
+    minx: number;
+    maxz: number;
+    minz: number;
+    usedLayers: number[];
+    usedRooms: number[];
+    allObjects: StageObject[];
+}
+
+export interface StageObject {
+    unk1: string;
+    unk2: string;
+    posx: number;
+    posy: number;
+    posz: number;
+    event_flag: number;
+    transition_type: number;
+    angle: number;
+    talk_behaviour: number;
+    unk3: string;
+    name: string;
+    extra_info?: {
+        flagid?: number;
+        areaflag?: string;
+        [key: string]: any;
+    };
+    type: 'OBJ ' | 'OBJS' | 'SOBJ';
+    roomid: number;
+    layerid: number;
+}
 
 interface LMarkerWithObject extends L.Marker {
   object: StageObject;
@@ -149,9 +183,11 @@ interface SelectableItem {
   selected: boolean;
 }
 
+const baseUrl = process.env.BASE_URL;
+
 @Component({})
 export default class ObjMap extends Vue {
-    private allStageIDs: string[] = Array.from(Object.keys(stages).sort());
+    private allStageIDs: string[] = Array.from(Object.keys(stagenames).sort());
 
     private allUsedLayers: SelectableItem[] = [];
 
@@ -200,10 +236,6 @@ export default class ObjMap extends Vue {
       this.$watch('currentStageID', () => this.onStageUpdate(), { immediate: true });
     }
 
-    get currentStage(): Stage {
-      return stages[this.currentStageID];
-    }
-
     get selectedRooms(): number[] {
       return this.allUsedRooms
         .filter(r => r.selected)
@@ -247,30 +279,43 @@ export default class ObjMap extends Vue {
     }
 
     onStageUpdate() {
-      // remove all
-      this.currentStageMarkers.forEach((m) => {
-        this.map.removeLayer(m);
-      });
-      // make all objects of this stage to new markers
-      this.currentStageMarkers = this.currentStage.allObjects
-        .map((obj) => {
-          const marker = L.marker([obj.posx, obj.posz], {
-            title: obj.name,
-            icon: this.getIconForName(obj.name),
-          }).on('click', (event) => {
-            this.showObjectInfo(event.target.object);
+          /* eslint-disable no-console */
+          console.log(baseUrl);
+      fetch(`${baseUrl}stages/${this.currentStageID}.json`)
+        .then(r => {
+          return r.json();
+        })
+        .then((currentStage: Stage) => {
+          console.log(currentStage);
+          // remove all
+          this.currentStageMarkers.forEach((m) => {
+            this.map.removeLayer(m);
           });
-            // you don't see anything
-          (marker as any).object = obj;
-          marker.addTo(this.map);
-          return marker as LMarkerWithObject;
+          // make all objects of this stage to new markers
+          this.currentStageMarkers = currentStage.allObjects
+            .map((obj) => {
+              const marker = L.marker([obj.posx, obj.posz], {
+                title: obj.name,
+                icon: this.getIconForName(obj.name),
+              }).on('click', (event) => {
+                this.showObjectInfo(event.target.object);
+              });
+                // you don't see anything
+              (marker as any).object = obj;
+              marker.addTo(this.map);
+              return marker as LMarkerWithObject;
+            });
+          this.allUsedLayers = currentStage.usedLayers
+            .map((l): SelectableItem => ({ id: l, selected: true }));
+          this.allUsedRooms = currentStage.usedRooms
+            .map((l): SelectableItem => ({ id: l, selected: true }));
+          this.onSelectionUpdate();
+          this.map.flyTo([0, 0]);
+        })
+        .catch(e => {
+          console.log('error on stage update!',e);
+          alert('Error on stage update!');
         });
-      this.allUsedLayers = this.currentStage.usedLayers
-        .map((l): SelectableItem => ({ id: l, selected: true }));
-      this.allUsedRooms = this.currentStage.usedRooms
-        .map((l): SelectableItem => ({ id: l, selected: true }));
-      this.onSelectionUpdate();
-      this.map.flyTo([0, 0]);
     }
 
     @Watch('searchTerm')
@@ -322,17 +367,17 @@ export default class ObjMap extends Vue {
 .object-info {
   overflow-x: auto;
 }
-.div-icon0 { border-radius: 50%; border: 1px solid #00FFFF; background: rgba(0,255,255,1)}
-.div-icon1 { border-radius: 50%; border: 1px solid #FFFF00; background: rgba(255,255,0,1) }
-.div-icon2 { border-radius: 50%; border: 1px solid #FF00FF; background: rgba(255,0,255,1) }
-.div-icon3 { border-radius: 50%; border: 1px solid #FF6060; background: rgba(255,96,96,1) }
-.div-icon4 { border-radius: 50%; border: 1px solid #60FF60; background: rgba(96,255,96,1) }
-.div-icon5 { border-radius: 50%; border: 1px solid #6030FF; background: rgba(96,48,255,1) }
-.div-icon6 { border-radius: 50%; border: 1px solid #40C0FF; background: rgba(64,192,255,1) }
-.div-icon7 { border-radius: 50%; border: 1px solid #C0FF40; background: rgba(192,255,64,1) }
-.div-icon8 { border-radius: 50%; border: 1px solid #FF40C0; background: rgba(255,64,192,1) }
-.div-icon9 { border-radius: 50%; border: 1px solid #FFC040; background: rgba(255,192,64,1) }
-.div-icon10 { border-radius: 50%; border: 1px solid #40FFC0; background: rgba(64,255,192,1) }
-.div-icon11 { border-radius: 50%; border: 1px solid #C040FF; background: rgba(192,64,255,1) }
-.div-icon12 { border-radius: 50%; border: 1px solid #FFFFFF; background: rgba(255,255,255,1) }
+.div-icon0 { border-radius: 50%; border: 1px solid #00FFFF; background: rgba(0,255,255,0.5)}
+.div-icon1 { border-radius: 50%; border: 1px solid #FFFF00; background: rgba(255,255,0,0.5) }
+.div-icon2 { border-radius: 50%; border: 1px solid #FF00FF; background: rgba(255,0,255,0.5) }
+.div-icon3 { border-radius: 50%; border: 1px solid #FF6060; background: rgba(255,96,96,0.5) }
+.div-icon4 { border-radius: 50%; border: 1px solid #60FF60; background: rgba(96,255,96,0.5) }
+.div-icon5 { border-radius: 50%; border: 1px solid #6030FF; background: rgba(96,48,255,0.5) }
+.div-icon6 { border-radius: 50%; border: 1px solid #40C0FF; background: rgba(64,192,255,0.5) }
+.div-icon7 { border-radius: 50%; border: 1px solid #C0FF40; background: rgba(192,255,64,0.5) }
+.div-icon8 { border-radius: 50%; border: 1px solid #FF40C0; background: rgba(255,64,192,0.5) }
+.div-icon9 { border-radius: 50%; border: 1px solid #FFC040; background: rgba(255,192,64,0.5) }
+.div-icon10 { border-radius: 50%; border: 1px solid #40FFC0; background: rgba(64,255,192,0.5) }
+.div-icon11 { border-radius: 50%; border: 1px solid #C040FF; background: rgba(192,64,255,0.5) }
+.div-icon12 { border-radius: 50%; border: 1px solid #FFFFFF; background: rgba(255,255,255,0.5) }
 </style>
