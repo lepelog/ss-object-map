@@ -1,3 +1,5 @@
+import { LatLngBounds } from "leaflet";
+
 /* eslint-disable */
 export const stagenames: {[key: string]: string} = {
     "F000": "Skyloft: Skyloft",
@@ -106,4 +108,11 @@ export const stagenames: {[key: string]: string} = {
     "F407": "Sealed Grounds: Temple (Cutscene)",
     "B400": "Sealed Grounds: Last Boss",
 
-    "Demo": "Staff Roll"}
+    "Demo": "Staff Roll"};
+
+export const mapBounds: {[key: string]: LatLngBounds} = {
+    "F000": new LatLngBounds([[-28193, -23731], [31161, 8639]]),
+    "F100": new LatLngBounds([[-21898, -14800], [20136, 17743]]),
+    "F200": new LatLngBounds([[-12660, -29967], [16992, 11400]]),
+    "F300": new LatLngBounds([[-43690, -19041], [20005, 27192]]),
+}

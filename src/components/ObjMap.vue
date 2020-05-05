@@ -80,7 +80,7 @@
                   >
                 </td>
                 <td>
-                  {{ room.id }}
+                  {{ room.id === -1?'-':room.id }}
                 </td>
               </tr>
             </table>
@@ -125,6 +125,11 @@
             :href="eventLink"
             target="_blank"
           >Link to Event</a>
+          <br>
+          <!--<input type="number" v-model="overlayW">
+          <input type="number" v-model="overlayS">
+          <input type="number" v-model="overlayE">
+          <input type="number" v-model="overlayN">-->
         </div>
       </div>
     </div>
@@ -137,7 +142,7 @@ import * as L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-sidebar-v2';
 import 'leaflet-sidebar-v2/css/leaflet-sidebar.css';
-import { stagenames } from '../util';
+import { stagenames, mapBounds } from '../util';
 
 /* eslint-disable camelcase */
 export interface Stage {
@@ -215,6 +220,16 @@ export default class ObjMap extends Vue {
 
     private currentStageMarkers: LMarkerWithObject[] = [];
 
+    private mapOverlay: L.ImageOverlay | null = null;
+
+    /*private overlayW = -10000;
+
+    private overlayS = -10000;
+
+    private overlayE = 10000;
+
+    private overlayN = 10000;*/
+
     mounted() {
       this.map = new L.Map(this.$refs.mapbase as HTMLElement, {
         preferCanvas: true,
@@ -280,12 +295,22 @@ export default class ObjMap extends Vue {
 
     onStageUpdate() {
           /* eslint-disable no-console */
-          console.log(baseUrl);
       fetch(`${baseUrl}stages/${this.currentStageID}.json`)
         .then(r => {
           return r.json();
         })
         .then((currentStage: Stage) => {
+          // remove old background
+          if (this.mapOverlay !== null) {
+            this.map.removeLayer(this.mapOverlay);
+            this.mapOverlay = null;
+          }
+          // add stage background if already exists
+          const bounds = mapBounds[this.currentStageID];
+          if (bounds !== undefined) {
+            this.mapOverlay = L.imageOverlay(`maps/${this.currentStageID}.png`, bounds)
+              .addTo(this.map);
+          }
           console.log(currentStage);
           // remove all
           this.currentStageMarkers.forEach((m) => {
@@ -335,6 +360,18 @@ export default class ObjMap extends Vue {
       });
     }
 
+    /*get allOverlayWatch(): number {
+      return this.overlayW + this.overlayS + this.overlayE + this.overlayN;
+    }
+
+    @Watch('allOverlayWatch')
+    onOverlayBoundsUpdate() {
+      if (this.mapOverlay !== null) {
+        this.mapOverlay.setBounds(new L.LatLngBounds([[this.overlayW, this.overlayS],[this.overlayE, this.overlayN]]));
+        console.log(`bounds set to ${this.mapOverlay.getBounds().toBBoxString()}`);
+      }
+    }*/
+
     @Watch('allRoomsSelected')
     toggleAllRoomsSelected(selected: boolean) {
       this.allUsedRooms.forEach(r => r.selected = selected);
@@ -367,17 +404,17 @@ export default class ObjMap extends Vue {
 .object-info {
   overflow-x: auto;
 }
-.div-icon0 { border-radius: 50%; border: 1px solid #00FFFF; background: rgba(0,255,255,0.5)}
-.div-icon1 { border-radius: 50%; border: 1px solid #FFFF00; background: rgba(255,255,0,0.5) }
-.div-icon2 { border-radius: 50%; border: 1px solid #FF00FF; background: rgba(255,0,255,0.5) }
-.div-icon3 { border-radius: 50%; border: 1px solid #FF6060; background: rgba(255,96,96,0.5) }
-.div-icon4 { border-radius: 50%; border: 1px solid #60FF60; background: rgba(96,255,96,0.5) }
-.div-icon5 { border-radius: 50%; border: 1px solid #6030FF; background: rgba(96,48,255,0.5) }
-.div-icon6 { border-radius: 50%; border: 1px solid #40C0FF; background: rgba(64,192,255,0.5) }
-.div-icon7 { border-radius: 50%; border: 1px solid #C0FF40; background: rgba(192,255,64,0.5) }
-.div-icon8 { border-radius: 50%; border: 1px solid #FF40C0; background: rgba(255,64,192,0.5) }
-.div-icon9 { border-radius: 50%; border: 1px solid #FFC040; background: rgba(255,192,64,0.5) }
-.div-icon10 { border-radius: 50%; border: 1px solid #40FFC0; background: rgba(64,255,192,0.5) }
-.div-icon11 { border-radius: 50%; border: 1px solid #C040FF; background: rgba(192,64,255,0.5) }
-.div-icon12 { border-radius: 50%; border: 1px solid #FFFFFF; background: rgba(255,255,255,0.5) }
+.div-icon0 { border-radius: 50%; border: 1px solid #00FFFF; background: rgba(0,255,255,0.8)}
+.div-icon1 { border-radius: 50%; border: 1px solid #FFFF00; background: rgba(255,255,0,0.8) }
+.div-icon2 { border-radius: 50%; border: 1px solid #FF00FF; background: rgba(255,0,255,0.8) }
+.div-icon3 { border-radius: 50%; border: 1px solid #FF6060; background: rgba(255,96,96,0.8) }
+.div-icon4 { border-radius: 50%; border: 1px solid #60FF60; background: rgba(96,255,96,0.8) }
+.div-icon5 { border-radius: 50%; border: 1px solid #6030FF; background: rgba(96,48,255,0.8) }
+.div-icon6 { border-radius: 50%; border: 1px solid #40C0FF; background: rgba(64,192,255,0.8) }
+.div-icon7 { border-radius: 50%; border: 1px solid #C0FF40; background: rgba(192,255,64,0.8) }
+.div-icon8 { border-radius: 50%; border: 1px solid #FF40C0; background: rgba(255,64,192,0.8) }
+.div-icon9 { border-radius: 50%; border: 1px solid #FFC040; background: rgba(255,192,64,0.8) }
+.div-icon10 { border-radius: 50%; border: 1px solid #40FFC0; background: rgba(64,255,192,0.8) }
+.div-icon11 { border-radius: 50%; border: 1px solid #C040FF; background: rgba(192,64,255,0.8) }
+.div-icon12 { border-radius: 50%; border: 1px solid #FFFFFF; background: rgba(255,255,255,0.8) }
 </style>
