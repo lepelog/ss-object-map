@@ -110,9 +110,19 @@ export const stagenames: {[key: string]: string} = {
 
     "Demo": "Staff Roll"};
 
+// some stages share the same visual map
+export const stageMap: {[key: string]: string} = {
+    "F300_4": "F300",
+    "D300_1": "D300",
+}
+
 export const mapBounds: {[key: string]: LatLngBounds} = {
     "F000": new LatLngBounds([[-28193, -23731], [31161, 8639]]),
+    "F020": new LatLngBounds([[-226000, -155000], [170000, 115000]]),
     "F100": new LatLngBounds([[-21898, -14800], [20136, 17743]]),
     "F200": new LatLngBounds([[-12660, -29967], [16992, 11400]]),
     "F300": new LatLngBounds([[-43690, -19041], [20005, 27192]]),
+    "D100": new LatLngBounds([[-13293, -19437], [11604, 8500]]),
+    "D200": new LatLngBounds([[-16617, -19520], [14212, 16265]]),
+    "D300": new LatLngBounds([[-11593, -26863], [12906, 3946]]),
 }

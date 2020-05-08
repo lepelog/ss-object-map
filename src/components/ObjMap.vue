@@ -142,10 +142,11 @@ import * as L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-sidebar-v2';
 import 'leaflet-sidebar-v2/css/leaflet-sidebar.css';
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import { stagenames, mapBounds } from '../util';
 
 /* eslint-disable camelcase */
-export interface Stage {
+interface Stage {
     stageid: string;
     stagename: string;
     maxx: number;
@@ -157,12 +158,15 @@ export interface Stage {
     allObjects: StageObject[];
 }
 
-export interface StageObject {
+interface StageObject {
     unk1: string;
     unk2: string;
     posx: number;
     posy: number;
     posz: number;
+    sizex?: number;
+    sizey?: number;
+    sizez?: number;
     event_flag: number;
     transition_type: number;
     angle: number;
@@ -179,7 +183,32 @@ export interface StageObject {
     layerid: number;
 }
 
-interface LMarkerWithObject extends L.Marker {
+interface ScaledStageObject {
+    unk1: string;
+    unk2: string;
+    posx: number;
+    posy: number;
+    posz: number;
+    sizex: number;
+    sizey?: number;
+    sizez: number;
+    event_flag: number;
+    transition_type: number;
+    angle: number;
+    talk_behaviour: number;
+    unk3: string;
+    name: string;
+    extra_info?: {
+        flagid?: number;
+        areaflag?: string;
+        [key: string]: any;
+    };
+    type: 'OBJ ' | 'OBJS' | 'SOBJ';
+    roomid: number;
+    layerid: number;
+}
+
+interface LLayerWithObject extends L.Layer {
   object: StageObject;
 }
 
@@ -218,7 +247,7 @@ export default class ObjMap extends Vue {
 
     private eventLink: string | null = null;
 
-    private currentStageMarkers: LMarkerWithObject[] = [];
+    private currentStageMarkers: LLayerWithObject[] = [];
 
     private mapOverlay: L.ImageOverlay | null = null;
 
@@ -239,11 +268,6 @@ export default class ObjMap extends Vue {
         zoom: -5,
         crs: L.CRS.Simple,
       });
-      // var southWest: [number, number] = [stage.minx, stage.maxz];
-      // var northEast: [number, number] = [stage.maxx, stage.minz];
-      // var bounds = new L.LatLngBounds(southWest, northEast);
-      // L.imageOverlay(mapPic, bounds).addTo(this.map);
-      // this.map.setMaxBounds(bounds);
 
       this.sidebar = L.control.sidebar({ container: this.$refs.sidebar as HTMLElement })
         .addTo(this.map);
@@ -306,11 +330,13 @@ export default class ObjMap extends Vue {
             this.mapOverlay = null;
           }
           // add stage background if already exists
-          const bounds = mapBounds[this.currentStageID];
+          const bounds = mapBounds[currentStage.stageid];
           if (bounds !== undefined) {
-            this.mapOverlay = L.imageOverlay(`maps/${this.currentStageID}.png`, bounds)
+            this.mapOverlay = L.imageOverlay(`maps/${currentStage.stageid}.png`, bounds)
               .addTo(this.map);
           }
+          // this.mapOverlay = L.imageOverlay(`maps/F020.png`, [[0,0], [1,1]])
+          //     .addTo(this.map);
           console.log(currentStage);
           // remove all
           this.currentStageMarkers.forEach((m) => {
@@ -318,17 +344,32 @@ export default class ObjMap extends Vue {
           });
           // make all objects of this stage to new markers
           this.currentStageMarkers = currentStage.allObjects
+            // .filter((obj) => {
+            //   return obj.unk3 != 'FC 9B';
+            // })
             .map((obj) => {
-              const marker = L.marker([obj.posx, obj.posz], {
-                title: obj.name,
-                icon: this.getIconForName(obj.name),
-              }).on('click', (event) => {
-                this.showObjectInfo(event.target.object);
-              });
-                // you don't see anything
-              (marker as any).object = obj;
-              marker.addTo(this.map);
-              return marker as LMarkerWithObject;
+              // scaled object or not?
+              if (obj.sizex === undefined || obj.sizez === undefined) {
+                const marker = L.marker([obj.posx, obj.posz], {
+                  title: obj.name,
+                  icon: this.getIconForName(obj.name),
+                }).on('click', (event) => {
+                  this.showObjectInfo(event.target.object);
+                });
+                  // you don't see anything
+                (marker as any).object = obj;
+                marker.addTo(this.map);
+                return marker as unknown as LLayerWithObject;
+              } else {
+                const marker = this.createShape(obj as ScaledStageObject)
+                  .on('click', (event) => {
+                    this.showObjectInfo(event.target.object);
+                  });
+                  // you don't see anything
+                (marker as any).object = obj;
+                marker.addTo(this.map);
+                return marker as unknown as LLayerWithObject;
+              }
             });
           this.allUsedLayers = currentStage.usedLayers
             .map((l): SelectableItem => ({ id: l, selected: true }));
@@ -382,6 +423,27 @@ export default class ObjMap extends Vue {
     toggleAllLayersSelected(selected: boolean) {
       this.allUsedLayers.forEach(r => r.selected = selected);
       this.onSelectionUpdate();
+    }
+
+    createShape(obj: ScaledStageObject): L.Polygon {
+      return L.polygon([this.rotate(obj.posx - obj.sizex/2, obj.posz - obj.sizez/2, obj.posx, obj.posz, obj.angle),
+                  this.rotate(obj.posx + obj.sizex/2, obj.posz - obj.sizez/2, obj.posx, obj.posz, obj.angle),
+                  this.rotate(obj.posx + obj.sizex/2, obj.posz + obj.sizez/2, obj.posx, obj.posz, obj.angle),
+                  this.rotate(obj.posx - obj.sizex/2, obj.posz + obj.sizez/2, obj.posx, obj.posz, obj.angle)])
+    }
+
+    rotate(x: number, y: number, xm: number, ym: number, a: number) {
+      const cos = Math.cos,
+          sin = Math.sin;
+
+      const rot = a / 65536 * 360;
+
+      // Subtract midpoints, so that midpoint is translated to origin
+      // and add it in the end again
+      const xr = (x - xm) * cos(rot) - (y - ym) * sin(rot)   + xm;
+      const yr = (x - xm) * sin(rot) + (y - ym) * cos(rot)   + ym;
+
+      return new L.LatLng(xr, yr);
     }
 
     destroyed() {
