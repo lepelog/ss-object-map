@@ -24,6 +24,12 @@
               role="tab"
             ><i class="fa fa-database" /></a>
           </li>
+          <li>
+            <a
+              href="#birdstatues"
+              role="tab"
+            ><i class="fas fa-kiwi-bird" /></a>
+          </li>
         </ul>
       </div>
 
@@ -131,6 +137,27 @@
           <input type="number" v-model="overlayE">
           <input type="number" v-model="overlayN">-->
         </div>
+        <div
+          id="birdstatues"
+          class="leaflet-sidebar-pane"
+        >
+          <h1>Bird statues</h1>
+          <div>Overlay bird statues from different areas</div>
+          <input
+            v-model="allSaveObjSelected"
+            type="checkbox"
+          >Toggle all
+          <div
+            v-for="area in saveObjSelection"
+            :key="area.id"
+          >
+            <input
+              v-model="area.selected"
+              type="checkbox"
+              @change="onSaveObjSelectionUpdate"
+            >{{ area.id }}
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -181,6 +208,7 @@ interface StageObject {
     type: 'OBJ ' | 'OBJS' | 'SOBJ';
     roomid: number;
     layerid: number;
+    stageid: string;
 }
 
 interface ScaledStageObject {
@@ -206,6 +234,7 @@ interface ScaledStageObject {
     type: 'OBJ ' | 'OBJS' | 'SOBJ';
     roomid: number;
     layerid: number;
+    stageid: string;
 }
 
 interface LLayerWithObject extends L.Layer {
@@ -214,6 +243,11 @@ interface LLayerWithObject extends L.Layer {
 
 interface SelectableItem {
   id: number;
+  selected: boolean;
+}
+
+interface SelectableStringItem {
+  id: string;
   selected: boolean;
 }
 
@@ -235,7 +269,13 @@ export default class ObjMap extends Vue {
 
     private allLayersSelected: boolean = true;
 
+    private allSaveObjSelected: boolean = false;
+
     private map!: L.Map;
+
+    private saveObjSelection: SelectableStringItem[] = []
+
+    private saveObjMarkers: {[key: string]: LLayerWithObject[]}= {};
 
     private sidebar!: L.Control.Sidebar;
 
@@ -273,6 +313,29 @@ export default class ObjMap extends Vue {
         .addTo(this.map);
 
       this.$watch('currentStageID', () => this.onStageUpdate(), { immediate: true });
+
+      // prepare bird statues
+      fetch(`${baseUrl}birdstatues.json`)
+        .then(r => r.json())
+        .then(allstatues => {
+          this.saveObjMarkers = {};
+          this.saveObjSelection = [];
+          for(var area in allstatues) {
+            const markers = allstatues[area].map((statue: StageObject): LLayerWithObject => {
+              const marker = L.marker([statue.posx, statue.posz], {
+                  title: `${statue.stageid} ${(statue.extra_info || {}).name} ${(statue.extra_info || {}).areaflag}`,
+                  icon: this.getIconForName(statue.name),
+                }).on('click', (event) => {
+                  this.showObjectInfo(event.target.object);
+                });
+                  // you don't see anything
+                (marker as any).object = statue;
+                return marker as unknown as LLayerWithObject;
+            });
+            this.saveObjMarkers[area] = markers;
+            this.saveObjSelection.push({id: area, selected: false});
+          }
+        })
     }
 
     get selectedRooms(): number[] {
@@ -403,6 +466,21 @@ export default class ObjMap extends Vue {
       });
     }
 
+    onSaveObjSelectionUpdate() {
+      this.saveObjSelection.forEach(item => {
+        // remove all markers
+        this.saveObjMarkers[item.id].forEach(marker => {
+          this.map.removeLayer(marker);
+        });
+        // add marker if checked
+        if (item.selected) {
+          this.saveObjMarkers[item.id].forEach(marker => {
+            marker.addTo(this.map);
+          });
+        }
+      });
+    }
+
     /*get allOverlayWatch(): number {
       return this.overlayW + this.overlayS + this.overlayE + this.overlayN;
     }
@@ -425,6 +503,12 @@ export default class ObjMap extends Vue {
     toggleAllLayersSelected(selected: boolean) {
       this.allUsedLayers.forEach(r => r.selected = selected);
       this.onSelectionUpdate();
+    }
+
+    @Watch('allSaveObjSelected')
+    toggleAllSaveObjSelected(selected: boolean) {
+      this.saveObjSelection.forEach(r => r.selected = selected);
+      this.onSaveObjSelectionUpdate();
     }
 
     createShape(obj: ScaledStageObject): L.Polygon {
