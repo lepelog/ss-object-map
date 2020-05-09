@@ -61,6 +61,18 @@
             <h2>Search</h2>
             <input v-model="searchTerm">
           </div>
+          <div style="display: flex">
+            <div
+              v-for="objType in allObjTypes"
+              :key="objType.id"
+            >
+              <input
+                v-model="objType.selected"
+                type="checkbox"
+                @change="onSelectionUpdate"
+              >{{ objType.id }}
+            </div>
+          </div>
           <div>
             <table style="width: 50%; float: left;">
               <tr>
@@ -261,6 +273,9 @@ export default class ObjMap extends Vue {
 
     private allUsedRooms: SelectableItem[] = [];
 
+    private allObjTypes: SelectableStringItem[] =
+      ['DOOR', 'OBJ ', 'OBJS', 'SNDT', 'SOBJ', 'SOBS', 'STAG', 'STAS'].map(x => {return {id: x, selected: true}});
+
     private searchTerm: string = '';
 
     private currentStageID: string = 'F000';
@@ -348,6 +363,12 @@ export default class ObjMap extends Vue {
       return this.allUsedLayers
         .filter(r => r.selected)
         .map(r => r.id);
+    }
+
+    get selectedObjectTypes(): string[] {
+      return this.allObjTypes
+        .filter(o => o.selected)
+        .map(o => o.id);
     }
 
     getIconForName(name: string): L.DivIcon {
@@ -456,6 +477,7 @@ export default class ObjMap extends Vue {
       this.currentStageMarkers.forEach((m) => {
         if (this.selectedRooms.includes(m.object.roomid)
           && this.selectedLayers.includes(m.object.layerid)
+          && this.selectedObjectTypes.includes(m.object.type)
           && m.object.name.toLowerCase().includes(this.searchTerm.toLowerCase())) {
           if (!this.map.hasLayer(m)) {
             m.addTo(this.map);
