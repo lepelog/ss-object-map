@@ -142,8 +142,8 @@ import * as L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-sidebar-v2';
 import 'leaflet-sidebar-v2/css/leaflet-sidebar.css';
-/* eslint-disable @typescript-eslint/no-unused-vars */
-import { stagenames, mapBounds } from '../util';
+/* eslint-disable-next-line @typescript-eslint/no-unused-vars */
+import { stagenames, mapBounds, stageMap } from '../util';
 
 /* eslint-disable camelcase */
 interface Stage {
@@ -330,12 +330,14 @@ export default class ObjMap extends Vue {
             this.mapOverlay = null;
           }
           // add stage background if already exists
-          const bounds = mapBounds[currentStage.stageid];
+          // override map id for some maps that share an image
+          const mapStageID = stageMap[currentStage.stageid] || currentStage.stageid;
+          const bounds = mapBounds[mapStageID];
           if (bounds !== undefined) {
-            this.mapOverlay = L.imageOverlay(`maps/${currentStage.stageid}.png`, bounds)
+            this.mapOverlay = L.imageOverlay(`maps/${mapStageID}.png`, bounds)
               .addTo(this.map);
           }
-          // this.mapOverlay = L.imageOverlay(`maps/F020.png`, [[0,0], [1,1]])
+          // this.mapOverlay = L.imageOverlay(`maps/F400.png`, [[0,0], [1,1]])
           //     .addTo(this.map);
           console.log(currentStage);
           // remove all
