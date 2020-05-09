@@ -142,6 +142,7 @@ export const mapBounds: {[key: string]: LatLngBounds} = {
     "F302": new LatLngBounds([[-12500, -11800], [16500, 18300]]),
     "F303": new LatLngBounds([[-11999, -7700], [12300, 7200]]),
     "F400": new LatLngBounds([[-24480, -7400], [8890, 16400]]),
+    "S000": new LatLngBounds([[-28193, -23731], [31161, 8639]]),
     "S100": new LatLngBounds([[-21898, -14800], [20136, 17743]]),
     "S200": new LatLngBounds([[-12660, -29967], [16992, 11400]]),
     "S300": new LatLngBounds([[-43690, -19041], [20005, 27192]]),
