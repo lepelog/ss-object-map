@@ -544,7 +544,9 @@ export default class ObjMap extends Vue {
       const cos = Math.cos,
           sin = Math.sin;
 
-      const rot = a / 65536 * 360;
+      // angles in this game use a halfword (16 bits)
+      // also math is hard
+      const rot = (-a / 65536) * 360 * (Math.PI / 180);
 
       // Subtract midpoints, so that midpoint is translated to origin
       // and add it in the end again
