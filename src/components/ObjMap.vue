@@ -274,7 +274,7 @@ export default class ObjMap extends Vue {
     private allUsedRooms: SelectableItem[] = [];
 
     private allObjTypes: SelectableStringItem[] =
-      ['DOOR', 'OBJ ', 'OBJS', 'SNDT', 'SOBJ', 'SOBS', 'STAG', 'STAS'].map(x => {return {id: x, selected: true}});
+      ['AREA', 'DOOR', 'OBJ ', 'OBJS', 'SNDT', 'SOBJ', 'SOBS', 'STAG', 'STAS'].map(x => {return {id: x, selected: true}});
 
     private searchTerm: string = '';
 
@@ -435,7 +435,9 @@ export default class ObjMap extends Vue {
             // })
             .map((obj) => {
               // scaled object or not?
-              if (obj.sizex === undefined || obj.sizez === undefined) {
+              // turn very small objects into points so you can actually see them
+              if (obj.sizex === undefined || obj.sizez === undefined
+                  || (obj.sizex < 150 && obj.sizez < 150)) {
                 const marker = L.marker([obj.posx, obj.posz], {
                   title: obj.name,
                   icon: this.getIconForName(obj.name),
