@@ -13,12 +13,12 @@
             "unk3": "FC 28",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 71,
+                "scenefid": 71,
                 "tosky_scen_link": 3,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x9 80"
+                "scenef": "scene flag: 0x9 80"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -40,12 +40,12 @@
             "unk3": "FC 04",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 72,
+                "scenefid": 72,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 01"
+                "scenef": "scene flag: 0x8 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -67,12 +67,12 @@
             "unk3": "FC 24",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 73,
+                "scenefid": 73,
                 "tosky_scen_link": 3,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 02"
+                "scenef": "scene flag: 0x8 02"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -94,12 +94,12 @@
             "unk3": "FC 17",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 74,
+                "scenefid": 74,
                 "tosky_scen_link": 3,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 04"
+                "scenef": "scene flag: 0x8 04"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -121,12 +121,12 @@
             "unk3": "FC 2A",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 75,
+                "scenefid": 75,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 08"
+                "scenef": "scene flag: 0x8 08"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -148,12 +148,12 @@
             "unk3": "FC 45",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 76,
+                "scenefid": 76,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 10"
+                "scenef": "scene flag: 0x8 10"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -175,12 +175,12 @@
             "unk3": "FC 06",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 78,
+                "scenefid": 78,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 40"
+                "scenef": "scene flag: 0x8 40"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -202,12 +202,12 @@
             "unk3": "FC 1D",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 96,
+                "scenefid": 96,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xD 01"
+                "scenef": "scene flag: 0xD 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -227,12 +227,12 @@
             "unk3": "FC 24",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 37,
+                "scenefid": 37,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 20"
+                "scenef": "scene flag: 0x5 20"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -252,12 +252,12 @@
             "unk3": "FC 2C",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 38,
+                "scenefid": 38,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 40"
+                "scenef": "scene flag: 0x5 40"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -277,12 +277,12 @@
             "unk3": "FC 18",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 39,
+                "scenefid": 39,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 80"
+                "scenef": "scene flag: 0x5 80"
             },
             "type": "OBJS",
             "roomid": 9,
@@ -304,12 +304,12 @@
             "unk3": "FC 3A",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 81,
+                "scenefid": 81,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 02"
+                "scenef": "scene flag: 0xB 02"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -329,12 +329,12 @@
             "unk3": "FC 58",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 80,
+                "scenefid": 80,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 01"
+                "scenef": "scene flag: 0xB 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -354,12 +354,12 @@
             "unk3": "FC 63",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 83,
+                "scenefid": 83,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 08"
+                "scenef": "scene flag: 0xB 08"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -379,12 +379,12 @@
             "unk3": "FC 3A",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 82,
+                "scenefid": 82,
                 "tosky_scen_link": 1,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 04"
+                "scenef": "scene flag: 0xB 04"
             },
             "type": "OBJS",
             "roomid": 3,
@@ -404,12 +404,12 @@
             "unk3": "FC 61",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 82,
+                "scenefid": 82,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 04"
+                "scenef": "scene flag: 0xB 04"
             },
             "type": "OBJS",
             "roomid": 4,
@@ -429,12 +429,12 @@
             "unk3": "FC B3",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 83,
+                "scenefid": 83,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 08"
+                "scenef": "scene flag: 0xB 08"
             },
             "type": "OBJS",
             "roomid": 4,
@@ -454,12 +454,12 @@
             "unk3": "10 20",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 84,
+                "scenefid": 84,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 10"
+                "scenef": "scene flag: 0xB 10"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -481,12 +481,12 @@
             "unk3": "0C 57",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 52,
+                "scenefid": 52,
                 "tosky_scen_link": 1,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x7 10"
+                "scenef": "scene flag: 0x7 10"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -506,12 +506,12 @@
             "unk3": "04 5C",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 48,
+                "scenefid": 48,
                 "tosky_scen_link": 1,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x7 01"
+                "scenef": "scene flag: 0x7 01"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -531,12 +531,12 @@
             "unk3": "1C 01",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 50,
+                "scenefid": 50,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x7 04"
+                "scenef": "scene flag: 0x7 04"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -556,12 +556,12 @@
             "unk3": "FC 41",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 53,
+                "scenefid": 53,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x7 20"
+                "scenef": "scene flag: 0x7 20"
             },
             "type": "OBJS",
             "roomid": 4,
@@ -583,12 +583,12 @@
             "unk3": "FC 18",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 0,
+                "scenefid": 0,
                 "tosky_scen_link": 1,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x1 01"
+                "scenef": "scene flag: 0x1 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -608,12 +608,12 @@
             "unk3": "FC 02",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 18,
+                "scenefid": 18,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x3 04"
+                "scenef": "scene flag: 0x3 04"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -633,12 +633,12 @@
             "unk3": "FC 59",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 34,
+                "scenefid": 34,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 04"
+                "scenef": "scene flag: 0x5 04"
             },
             "type": "OBJS",
             "roomid": 3,
@@ -658,12 +658,12 @@
             "unk3": "FC 03",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 19,
+                "scenefid": 19,
                 "tosky_scen_link": 1,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x3 08"
+                "scenef": "scene flag: 0x3 08"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -683,12 +683,12 @@
             "unk3": "FC 05",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 76,
+                "scenefid": 76,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 10"
+                "scenef": "scene flag: 0x8 10"
             },
             "type": "OBJS",
             "roomid": 6,
@@ -708,12 +708,12 @@
             "unk3": "FC 00",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 70,
+                "scenefid": 70,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x9 40"
+                "scenef": "scene flag: 0x9 40"
             },
             "type": "OBJS",
             "roomid": 7,
@@ -733,12 +733,12 @@
             "unk3": "FC 0A",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 114,
+                "scenefid": 114,
                 "tosky_scen_link": 3,
                 "name_id": 15,
                 "subtype": "overworld",
                 "name": "Inside Fire Sanctuary",
-                "areaflag": "scene flag: 0xF 04"
+                "scenef": "scene flag: 0xF 04"
             },
             "type": "OBJS",
             "roomid": 10,
@@ -760,12 +760,12 @@
             "unk3": "FC 01",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 0,
+                "scenefid": 0,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x1 01"
+                "scenef": "scene flag: 0x1 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -785,12 +785,12 @@
             "unk3": "FC 15",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 18,
+                "scenefid": 18,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x3 04"
+                "scenef": "scene flag: 0x3 04"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -810,12 +810,12 @@
             "unk3": "FC 00",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 34,
+                "scenefid": 34,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 04"
+                "scenef": "scene flag: 0x5 04"
             },
             "type": "OBJS",
             "roomid": 3,
@@ -835,12 +835,12 @@
             "unk3": "FC 1F",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 19,
+                "scenefid": 19,
                 "tosky_scen_link": 3,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x3 08"
+                "scenef": "scene flag: 0x3 08"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -860,12 +860,12 @@
             "unk3": "FC 11",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 76,
+                "scenefid": 76,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 10"
+                "scenef": "scene flag: 0x8 10"
             },
             "type": "OBJS",
             "roomid": 6,
@@ -885,12 +885,12 @@
             "unk3": "FC 05",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 70,
+                "scenefid": 70,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x9 40"
+                "scenef": "scene flag: 0x9 40"
             },
             "type": "OBJS",
             "roomid": 7,
@@ -910,12 +910,12 @@
             "unk3": "FC 03",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 114,
+                "scenefid": 114,
                 "tosky_scen_link": 3,
                 "name_id": 15,
                 "subtype": "overworld",
                 "name": "Inside Fire Sanctuary",
-                "areaflag": "scene flag: 0xF 04"
+                "scenef": "scene flag: 0xF 04"
             },
             "type": "OBJS",
             "roomid": 10,
@@ -937,12 +937,12 @@
             "unk3": "FC 23",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 80,
+                "scenefid": 80,
                 "tosky_scen_link": 1,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 01"
+                "scenef": "scene flag: 0xB 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -962,12 +962,12 @@
             "unk3": "FC 02",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 76,
+                "scenefid": 76,
                 "tosky_scen_link": 4,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 10"
+                "scenef": "scene flag: 0x8 10"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -987,12 +987,12 @@
             "unk3": "FC 03",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 86,
+                "scenefid": 86,
                 "tosky_scen_link": 4,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 40"
+                "scenef": "scene flag: 0xB 40"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -1012,12 +1012,12 @@
             "unk3": "FC 08",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 87,
+                "scenefid": 87,
                 "tosky_scen_link": 4,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 80"
+                "scenef": "scene flag: 0xB 80"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -1039,12 +1039,12 @@
             "unk3": "FC 01",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 80,
+                "scenefid": 80,
                 "tosky_scen_link": 1,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 01"
+                "scenef": "scene flag: 0xB 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1064,12 +1064,12 @@
             "unk3": "FC 16",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 76,
+                "scenefid": 76,
                 "tosky_scen_link": 4,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 10"
+                "scenef": "scene flag: 0x8 10"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -1089,12 +1089,12 @@
             "unk3": "FC 1A",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 86,
+                "scenefid": 86,
                 "tosky_scen_link": 4,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 40"
+                "scenef": "scene flag: 0xB 40"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -1114,12 +1114,12 @@
             "unk3": "FC 6C",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 87,
+                "scenefid": 87,
                 "tosky_scen_link": 4,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 80"
+                "scenef": "scene flag: 0xB 80"
             },
             "type": "OBJS",
             "roomid": 5,
@@ -1141,12 +1141,12 @@
             "unk3": "FC 00",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 74,
+                "scenefid": 74,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 04"
+                "scenef": "scene flag: 0x8 04"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -1166,12 +1166,12 @@
             "unk3": "24 05",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 72,
+                "scenefid": 72,
                 "tosky_scen_link": 1,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x8 01"
+                "scenef": "scene flag: 0x8 01"
             },
             "type": "OBJS",
             "roomid": 9,
@@ -1191,12 +1191,12 @@
             "unk3": "FC 01",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 71,
+                "scenefid": 71,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "dungeon",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x9 80"
+                "scenef": "scene flag: 0x9 80"
             },
             "type": "OBJS",
             "roomid": 13,
@@ -1218,12 +1218,12 @@
             "unk3": "FC 31",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 46,
+                "scenefid": 46,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x4 40"
+                "scenef": "scene flag: 0x4 40"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1243,12 +1243,12 @@
             "unk3": "FC 32",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 47,
+                "scenefid": 47,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x4 80"
+                "scenef": "scene flag: 0x4 80"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1268,12 +1268,12 @@
             "unk3": "FC 33",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "no flag"
+                "scenef": "no flag"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1293,12 +1293,12 @@
             "unk3": "FC 34",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 49,
+                "scenefid": 49,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x7 02"
+                "scenef": "scene flag: 0x7 02"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1320,12 +1320,12 @@
             "unk3": "FC 01",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 53,
+                "scenefid": 53,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x7 20"
+                "scenef": "scene flag: 0x7 20"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1347,12 +1347,12 @@
             "unk3": "FC 6E",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 32,
+                "scenefid": 32,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 01"
+                "scenef": "scene flag: 0x5 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1374,13 +1374,13 @@
             "unk3": "60 7B",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 800,
                 "tosky_scen_link": 10,
                 "name_id": 1,
                 "subtype": "overworld",
                 "name": "Faron Woods Entry",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Faron Woods Entry Statue"
             },
             "type": "OBJS",
@@ -1401,13 +1401,13 @@
             "unk3": "00 7C",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 801,
                 "tosky_scen_link": 10,
                 "name_id": 2,
                 "subtype": "overworld",
                 "name": "In the Woods",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check In The Woods Statue"
             },
             "type": "OBJS",
@@ -1428,13 +1428,13 @@
             "unk3": "44 7D",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 802,
                 "tosky_scen_link": 10,
                 "name_id": 3,
                 "subtype": "overworld",
                 "name": "Viewing Platform",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Viewing Platform Statue"
             },
             "type": "OBJS",
@@ -1455,13 +1455,13 @@
             "unk3": "FC 7E",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 803,
                 "tosky_scen_link": 10,
                 "name_id": 4,
                 "subtype": "overworld",
                 "name": "The Great Tree",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Great Tree Statue"
             },
             "type": "OBJS",
@@ -1484,12 +1484,12 @@
             "unk3": "FC 44",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 103,
+                "scenefid": 103,
                 "tosky_scen_link": 2,
                 "name_id": 6,
                 "subtype": "overworld",
                 "name": "Deep Woods",
-                "areaflag": "scene flag: 0xD 80"
+                "scenef": "scene flag: 0xD 80"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1509,12 +1509,12 @@
             "unk3": "FC 45",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 104,
+                "scenefid": 104,
                 "tosky_scen_link": 2,
                 "name_id": 5,
                 "subtype": "overworld",
                 "name": "Forest Temple",
-                "areaflag": "scene flag: 0xC 01"
+                "scenef": "scene flag: 0xC 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1536,12 +1536,12 @@
             "unk3": "08 01",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 34,
+                "scenefid": 34,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 04"
+                "scenef": "scene flag: 0x5 04"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -1561,12 +1561,12 @@
             "unk3": "0C 07",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 32,
+                "scenefid": 32,
                 "tosky_scen_link": 0,
                 "name_id": 7,
                 "subtype": "overworld",
                 "name": "Lake Floria",
-                "areaflag": "scene flag: 0x5 01"
+                "scenef": "scene flag: 0x5 01"
             },
             "type": "OBJS",
             "roomid": 3,
@@ -1586,12 +1586,12 @@
             "unk3": "10 1E",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 33,
+                "scenefid": 33,
                 "tosky_scen_link": 255,
                 "name_id": 8,
                 "subtype": "overworld",
                 "name": "Floria Waterfall",
-                "areaflag": "scene flag: 0x5 02"
+                "scenef": "scene flag: 0x5 02"
             },
             "type": "OBJS",
             "roomid": 4,
@@ -1613,12 +1613,12 @@
             "unk3": "FC 03",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 33,
+                "scenefid": 33,
                 "tosky_scen_link": 3,
                 "name_id": 8,
                 "subtype": "overworld",
                 "name": "Floria Waterfall",
-                "areaflag": "scene flag: 0x5 02"
+                "scenef": "scene flag: 0x5 02"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1638,12 +1638,12 @@
             "unk3": "FC 48",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 34,
+                "scenefid": 34,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 04"
+                "scenef": "scene flag: 0x5 04"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1663,12 +1663,12 @@
             "unk3": "FC 49",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 32,
+                "scenefid": 32,
                 "tosky_scen_link": 255,
                 "name_id": 7,
                 "subtype": "overworld",
                 "name": "Lake Floria",
-                "areaflag": "scene flag: 0x5 01"
+                "scenef": "scene flag: 0x5 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1690,12 +1690,12 @@
             "unk3": "FC 57",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 34,
+                "scenefid": 34,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 04"
+                "scenef": "scene flag: 0x5 04"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1715,12 +1715,12 @@
             "unk3": "FC 58",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 32,
+                "scenefid": 32,
                 "tosky_scen_link": 255,
                 "name_id": 7,
                 "subtype": "overworld",
                 "name": "Lake Floria",
-                "areaflag": "scene flag: 0x5 01"
+                "scenef": "scene flag: 0x5 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1740,12 +1740,12 @@
             "unk3": "FC 59",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 33,
+                "scenefid": 33,
                 "tosky_scen_link": 255,
                 "name_id": 8,
                 "subtype": "overworld",
                 "name": "Floria Waterfall",
-                "areaflag": "scene flag: 0x5 02"
+                "scenef": "scene flag: 0x5 02"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -1767,13 +1767,13 @@
             "unk3": "FC 7C",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 803,
                 "tosky_scen_link": 1,
                 "name_id": 9,
                 "subtype": "overworld",
                 "name": "Great Tree Top",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Great Tree Statue"
             },
             "type": "OBJS",
@@ -1794,13 +1794,13 @@
             "unk3": "FC 80",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 800,
                 "tosky_scen_link": 1,
                 "name_id": 1,
                 "subtype": "normal",
                 "name": "Faron Woods Entry",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Faron Woods Entry Statue"
             },
             "type": "OBJS",
@@ -1821,13 +1821,13 @@
             "unk3": "FC 81",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 801,
                 "tosky_scen_link": 1,
                 "name_id": 2,
                 "subtype": "normal",
                 "name": "In the Woods",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check In The Woods Statue"
             },
             "type": "OBJS",
@@ -1848,13 +1848,13 @@
             "unk3": "FC 82",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 802,
                 "tosky_scen_link": 1,
                 "name_id": 3,
                 "subtype": "normal",
                 "name": "Viewing Platform",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Viewing Platform Statue"
             },
             "type": "OBJS",
@@ -1877,13 +1877,13 @@
             "unk3": "FC 04",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 804,
                 "tosky_scen_link": 0,
                 "name_id": 10,
                 "subtype": "overworld",
                 "name": "Volcano Entry",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Volcano Entry Statue"
             },
             "type": "OBJS",
@@ -1904,13 +1904,13 @@
             "unk3": "FC 21",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 805,
                 "tosky_scen_link": 2,
                 "name_id": 11,
                 "subtype": "overworld",
                 "name": "Volcano East",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Volcano East Statue"
             },
             "type": "OBJS",
@@ -1931,13 +1931,13 @@
             "unk3": "FC 38",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 806,
                 "tosky_scen_link": 2,
                 "name_id": 12,
                 "subtype": "overworld",
                 "name": "Volcano Ascent",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Volcano Ascent"
             },
             "type": "OBJS",
@@ -1958,13 +1958,13 @@
             "unk3": "FC 12",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 807,
                 "tosky_scen_link": 2,
                 "name_id": 13,
                 "subtype": "overworld",
                 "name": "Temple Entrance",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Temple Entrance Statue"
             },
             "type": "OBJS",
@@ -1987,12 +1987,12 @@
             "unk3": "FC 10",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 117,
+                "scenefid": 117,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xF 20"
+                "scenef": "scene flag: 0xF 20"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2014,12 +2014,12 @@
             "unk3": "FC 12",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 117,
+                "scenefid": 117,
                 "tosky_scen_link": 2,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xF 20"
+                "scenef": "scene flag: 0xF 20"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2041,12 +2041,12 @@
             "unk3": "FC 0B",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 101,
+                "scenefid": 101,
                 "tosky_scen_link": 2,
                 "name_id": 14,
                 "subtype": "overworld",
                 "name": "Inside the Volcano",
-                "areaflag": "scene flag: 0xD 20"
+                "scenef": "scene flag: 0xD 20"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2068,13 +2068,13 @@
             "unk3": "FC 0A",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 804,
                 "tosky_scen_link": 255,
                 "name_id": 10,
                 "subtype": "normal",
                 "name": "Volcano Entry",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Volcano Entry Statue"
             },
             "type": "OBJS",
@@ -2095,13 +2095,13 @@
             "unk3": "FC C6",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 805,
                 "tosky_scen_link": 255,
                 "name_id": 11,
                 "subtype": "normal",
                 "name": "Volcano East",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Volcano East Statue"
             },
             "type": "OBJS",
@@ -2122,13 +2122,13 @@
             "unk3": "00 C8",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 806,
                 "tosky_scen_link": 255,
                 "name_id": 12,
                 "subtype": "normal",
                 "name": "Volcano Ascent",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Volcano Ascent"
             },
             "type": "OBJS",
@@ -2149,13 +2149,13 @@
             "unk3": "FC 6A",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 255,
+                "scenefid": 255,
                 "setstoryfid": 807,
                 "tosky_scen_link": 255,
                 "name_id": 13,
                 "subtype": "normal",
                 "name": "Temple Entrance",
-                "areaflag": "no flag",
+                "scenef": "no flag",
                 "setstoryf": "Check Temple Entrance Statue"
             },
             "type": "OBJS",
@@ -2178,12 +2178,12 @@
             "unk3": "00 04",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 37,
+                "scenefid": 37,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 20"
+                "scenef": "scene flag: 0x5 20"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2205,12 +2205,12 @@
             "unk3": "FC 2C",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 66,
+                "scenefid": 66,
                 "tosky_scen_link": 6,
                 "name_id": 17,
                 "subtype": "overworld",
                 "name": "Desert Entrance",
-                "areaflag": "scene flag: 0x9 04"
+                "scenef": "scene flag: 0x9 04"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2230,12 +2230,12 @@
             "unk3": "FC 2D",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 67,
+                "scenefid": 67,
                 "tosky_scen_link": 6,
                 "name_id": 19,
                 "subtype": "overworld",
                 "name": "North Desert",
-                "areaflag": "scene flag: 0x9 08"
+                "scenef": "scene flag: 0x9 08"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2255,12 +2255,12 @@
             "unk3": "FC A8",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 77,
+                "scenefid": 77,
                 "tosky_scen_link": 2,
                 "name_id": 21,
                 "subtype": "overworld",
                 "name": "Desert Gorge",
-                "areaflag": "scene flag: 0x8 20"
+                "scenef": "scene flag: 0x8 20"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2280,12 +2280,12 @@
             "unk3": "FC A9",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 78,
+                "scenefid": 78,
                 "tosky_scen_link": 2,
                 "name_id": 22,
                 "subtype": "overworld",
                 "name": "Temple of Time",
-                "areaflag": "scene flag: 0x8 40"
+                "scenef": "scene flag: 0x8 40"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2305,12 +2305,12 @@
             "unk3": "FC B3",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 51,
+                "scenefid": 51,
                 "tosky_scen_link": 6,
                 "name_id": 18,
                 "subtype": "overworld",
                 "name": "West Desert",
-                "areaflag": "scene flag: 0x7 08"
+                "scenef": "scene flag: 0x7 08"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2330,12 +2330,12 @@
             "unk3": "FC B7",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 2,
+                "scenefid": 2,
                 "tosky_scen_link": 6,
                 "name_id": 20,
                 "subtype": "overworld",
                 "name": "Stone Cache",
-                "areaflag": "scene flag: 0x1 04"
+                "scenef": "scene flag: 0x1 04"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2357,12 +2357,12 @@
             "unk3": "FC 14",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 68,
+                "scenefid": 68,
                 "tosky_scen_link": 0,
                 "name_id": 16,
                 "subtype": "overworld",
                 "name": "Lanayru Mine Entry",
-                "areaflag": "scene flag: 0x9 10"
+                "scenef": "scene flag: 0x9 10"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2384,12 +2384,12 @@
             "unk3": "FC 01",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 77,
+                "scenefid": 77,
                 "tosky_scen_link": 2,
                 "name_id": 21,
                 "subtype": "overworld",
                 "name": "Desert Gorge",
-                "areaflag": "scene flag: 0x8 20"
+                "scenef": "scene flag: 0x8 20"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2409,12 +2409,12 @@
             "unk3": "FC 14",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 78,
+                "scenefid": 78,
                 "tosky_scen_link": 2,
                 "name_id": 22,
                 "subtype": "overworld",
                 "name": "Temple of Time",
-                "areaflag": "scene flag: 0x8 40"
+                "scenef": "scene flag: 0x8 40"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2434,12 +2434,12 @@
             "unk3": "FC 19",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 66,
+                "scenefid": 66,
                 "tosky_scen_link": 6,
                 "name_id": 16,
                 "subtype": "overworld",
                 "name": "Lanayru Mine Entry",
-                "areaflag": "scene flag: 0x9 04"
+                "scenef": "scene flag: 0x9 04"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2459,12 +2459,12 @@
             "unk3": "FC 1A",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 67,
+                "scenefid": 67,
                 "tosky_scen_link": 6,
                 "name_id": 19,
                 "subtype": "overworld",
                 "name": "North Desert",
-                "areaflag": "scene flag: 0x9 08"
+                "scenef": "scene flag: 0x9 08"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2484,12 +2484,12 @@
             "unk3": "FC 1B",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 51,
+                "scenefid": 51,
                 "tosky_scen_link": 6,
                 "name_id": 18,
                 "subtype": "overworld",
                 "name": "West Desert",
-                "areaflag": "scene flag: 0x7 08"
+                "scenef": "scene flag: 0x7 08"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2509,12 +2509,12 @@
             "unk3": "FC 1C",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 2,
+                "scenefid": 2,
                 "tosky_scen_link": 6,
                 "name_id": 20,
                 "subtype": "overworld",
                 "name": "Stone Cache",
-                "areaflag": "scene flag: 0x1 04"
+                "scenef": "scene flag: 0x1 04"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2536,12 +2536,12 @@
             "unk3": "FC 0D",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 10,
+                "scenefid": 10,
                 "tosky_scen_link": 3,
                 "name_id": 23,
                 "subtype": "overworld",
                 "name": "Ancient Harbor",
-                "areaflag": "scene flag: 0x0 04"
+                "scenef": "scene flag: 0x0 04"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2563,12 +2563,12 @@
             "unk3": "FC 4B",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 28,
+                "scenefid": 28,
                 "tosky_scen_link": 0,
                 "name_id": 24,
                 "subtype": "overworld",
                 "name": "Skipper's Retreat",
-                "areaflag": "scene flag: 0x2 10"
+                "scenef": "scene flag: 0x2 10"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2588,12 +2588,12 @@
             "unk3": "FC 4C",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 85,
+                "scenefid": 85,
                 "tosky_scen_link": 0,
                 "name_id": 25,
                 "subtype": "overworld",
                 "name": "Shipyard",
-                "areaflag": "scene flag: 0xB 20"
+                "scenef": "scene flag: 0xB 20"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2613,12 +2613,12 @@
             "unk3": "FC 4D",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 84,
+                "scenefid": 84,
                 "tosky_scen_link": 0,
                 "name_id": 26,
                 "subtype": "overworld",
                 "name": "Pirate Stronghold",
-                "areaflag": "scene flag: 0xB 10"
+                "scenef": "scene flag: 0xB 10"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2638,12 +2638,12 @@
             "unk3": "FC 4E",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 10,
+                "scenefid": 10,
                 "tosky_scen_link": 0,
                 "name_id": 23,
                 "subtype": "overworld",
                 "name": "Ancient Harbor",
-                "areaflag": "scene flag: 0x0 04"
+                "scenef": "scene flag: 0x0 04"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2663,12 +2663,12 @@
             "unk3": "FC 4F",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 86,
+                "scenefid": 86,
                 "tosky_scen_link": 0,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 40"
+                "scenef": "scene flag: 0xB 40"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2690,12 +2690,12 @@
             "unk3": "FC 07",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 28,
+                "scenefid": 28,
                 "tosky_scen_link": 1,
                 "name_id": 24,
                 "subtype": "overworld",
                 "name": "Skipper's Retreat",
-                "areaflag": "scene flag: 0x2 10"
+                "scenef": "scene flag: 0x2 10"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2717,12 +2717,12 @@
             "unk3": "FC 04",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 85,
+                "scenefid": 85,
                 "tosky_scen_link": 1,
                 "name_id": 25,
                 "subtype": "overworld",
                 "name": "Shipyard",
-                "areaflag": "scene flag: 0xB 20"
+                "scenef": "scene flag: 0xB 20"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2742,12 +2742,12 @@
             "unk3": "00 17",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 86,
+                "scenefid": 86,
                 "tosky_scen_link": 8,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0xB 40"
+                "scenef": "scene flag: 0xB 40"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2769,12 +2769,12 @@
             "unk3": "FC 09",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 84,
+                "scenefid": 84,
                 "tosky_scen_link": 3,
                 "name_id": 26,
                 "subtype": "overworld",
                 "name": "Pirate Stronghold",
-                "areaflag": "scene flag: 0xB 10"
+                "scenef": "scene flag: 0xB 10"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2796,12 +2796,12 @@
             "unk3": "00 16",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 12,
+                "scenefid": 12,
                 "tosky_scen_link": 1,
                 "name_id": 27,
                 "subtype": "overworld",
                 "name": "Lanayru Gorge",
-                "areaflag": "scene flag: 0x0 10"
+                "scenef": "scene flag: 0x0 10"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2823,12 +2823,12 @@
             "unk3": "FC 2B",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 31,
+                "scenefid": 31,
                 "tosky_scen_link": 5,
                 "name_id": 0,
                 "subtype": "overworld",
                 "name": "Behind the Temple",
-                "areaflag": "scene flag: 0x2 80"
+                "scenef": "scene flag: 0x2 80"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2848,12 +2848,12 @@
             "unk3": "FC 4F",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 32,
+                "scenefid": 32,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 01"
+                "scenef": "scene flag: 0x5 01"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2873,12 +2873,12 @@
             "unk3": "FC 58",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 35,
+                "scenefid": 35,
                 "tosky_scen_link": 19,
                 "name_id": 28,
                 "subtype": "overworld",
                 "name": "Sealed Grounds",
-                "areaflag": "scene flag: 0x5 08"
+                "scenef": "scene flag: 0x5 08"
             },
             "type": "OBJS",
             "roomid": 0,
@@ -2900,12 +2900,12 @@
             "unk3": "FC 0C",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 31,
+                "scenefid": 31,
                 "tosky_scen_link": 5,
                 "name_id": 0,
                 "subtype": "overworld",
                 "name": "Behind the Temple",
-                "areaflag": "scene flag: 0x2 80"
+                "scenef": "scene flag: 0x2 80"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -2925,12 +2925,12 @@
             "unk3": "FC 0D",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 32,
+                "scenefid": 32,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 01"
+                "scenef": "scene flag: 0x5 01"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -2950,12 +2950,12 @@
             "unk3": "FC 12",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 35,
+                "scenefid": 35,
                 "tosky_scen_link": 19,
                 "name_id": 28,
                 "subtype": "overworld",
                 "name": "Sealed Grounds",
-                "areaflag": "scene flag: 0x5 08"
+                "scenef": "scene flag: 0x5 08"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -2977,12 +2977,12 @@
             "unk3": "FC 02",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 32,
+                "scenefid": 32,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 01"
+                "scenef": "scene flag: 0x5 01"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -3002,12 +3002,12 @@
             "unk3": "FC 25",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 31,
+                "scenefid": 31,
                 "tosky_scen_link": 5,
                 "name_id": 0,
                 "subtype": "overworld",
                 "name": "Behind the Temple",
-                "areaflag": "scene flag: 0x2 80"
+                "scenef": "scene flag: 0x2 80"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -3027,12 +3027,12 @@
             "unk3": "FC 29",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 35,
+                "scenefid": 35,
                 "tosky_scen_link": 19,
                 "name_id": 28,
                 "subtype": "overworld",
                 "name": "Sealed Grounds",
-                "areaflag": "scene flag: 0x5 08"
+                "scenef": "scene flag: 0x5 08"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -3054,12 +3054,12 @@
             "unk3": "04 01",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 33,
+                "scenefid": 33,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 02"
+                "scenef": "scene flag: 0x5 02"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -3079,12 +3079,12 @@
             "unk3": "FC 08",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 34,
+                "scenefid": 34,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 04"
+                "scenef": "scene flag: 0x5 04"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -3106,12 +3106,12 @@
             "unk3": "FC 06",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 34,
+                "scenefid": 34,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 04"
+                "scenef": "scene flag: 0x5 04"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -3131,12 +3131,12 @@
             "unk3": "FC 0B",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 33,
+                "scenefid": 33,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 02"
+                "scenef": "scene flag: 0x5 02"
             },
             "type": "OBJS",
             "roomid": 2,
@@ -3158,12 +3158,12 @@
             "unk3": "FC 01",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 31,
+                "scenefid": 31,
                 "tosky_scen_link": 5,
                 "name_id": 0,
                 "subtype": "overworld",
                 "name": "Behind the Temple",
-                "areaflag": "scene flag: 0x2 80"
+                "scenef": "scene flag: 0x2 80"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -3183,12 +3183,12 @@
             "unk3": "FC 04",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 32,
+                "scenefid": 32,
                 "tosky_scen_link": 255,
                 "name_id": 255,
                 "subtype": "normal",
                 "name": "Bird Statue",
-                "areaflag": "scene flag: 0x5 01"
+                "scenef": "scene flag: 0x5 01"
             },
             "type": "OBJS",
             "roomid": 1,
@@ -3208,12 +3208,12 @@
             "unk3": "FC 08",
             "name": "saveObj",
             "extra_info": {
-                "flagid": 35,
+                "scenefid": 35,
                 "tosky_scen_link": 16,
                 "name_id": 29,
                 "subtype": "overworld",
                 "name": "Sealed Grounds",
-                "areaflag": "scene flag: 0x5 08"
+                "scenef": "scene flag: 0x5 08"
             },
             "type": "OBJS",
             "roomid": 1,
