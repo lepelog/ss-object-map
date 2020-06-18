@@ -123,6 +123,7 @@ export const stageMap: {[key: string]: string} = {
     "F023": "F020",
     "F102": "F102_1",
     "F102_2": "F102_1",
+    "F202": "F200",
 }
 
 export const mapBounds: {[key: string]: LatLngBounds} = {
