@@ -392,7 +392,7 @@ export default class ObjMap extends Vue {
       this.sidebar.open('details');
       this.eventLink = null;
       if (obj.extra_info && obj.extra_info.eventSrc) {
-        this.eventLink = 'https://github.com/lepelog/skywardsword-tools/blob/output/event2/'
+        this.eventLink = 'https://github.com/lepelog/skywardsword-tools/blob/output/en_US/event2/'
           + obj.extra_info.eventSrc;
       }
     }
