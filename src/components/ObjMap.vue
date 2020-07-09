@@ -167,7 +167,7 @@
               v-model="area.selected"
               type="checkbox"
               @change="onSaveObjSelectionUpdate"
-            >{{ area.id }}
+            >{{ area.id }}: {{ stagenames[area.id] }}
           </div>
         </div>
       </div>
@@ -198,55 +198,45 @@ interface Stage {
 }
 
 interface StageObject {
-    unk1: string;
-    unk2: string;
     posx: number;
     posy: number;
     posz: number;
     sizex?: number;
     sizey?: number;
     sizez?: number;
-    event_flag: number;
-    transition_type: number;
-    angle: number;
-    talk_behaviour: number;
-    unk3: string;
+    angley: number;
     name: string;
     extra_info?: {
         flagid?: number;
         areaflag?: string;
         [key: string]: any;
     };
-    type: 'OBJ ' | 'OBJS' | 'SOBJ';
+    type: string;
     roomid: number;
     layerid: number;
     stageid: string;
+    //[key: string]: any;
 }
 
 interface ScaledStageObject {
-    unk1: string;
-    unk2: string;
     posx: number;
     posy: number;
     posz: number;
     sizex: number;
     sizey?: number;
     sizez: number;
-    event_flag: number;
-    transition_type: number;
-    angle: number;
-    talk_behaviour: number;
-    unk3: string;
+    angley: number;
     name: string;
     extra_info?: {
         flagid?: number;
         areaflag?: string;
         [key: string]: any;
     };
-    type: 'OBJ ' | 'OBJS' | 'SOBJ';
+    type: string;
     roomid: number;
     layerid: number;
     stageid: string;
+    //[key: string]: any;
 }
 
 interface LLayerWithObject extends L.Layer {
@@ -306,6 +296,8 @@ export default class ObjMap extends Vue {
 
     private mapOverlay: L.ImageOverlay | null = null;
 
+    public stagenames = stagenames;
+
     /*private overlayW = -10000;
 
     private overlayS = -10000;
@@ -338,7 +330,7 @@ export default class ObjMap extends Vue {
           for(var area in allstatues) {
             const markers = allstatues[area].map((statue: StageObject): LLayerWithObject => {
               const marker = L.marker([statue.posx, statue.posz], {
-                  title: `${statue.stageid} ${(statue.extra_info || {}).name} ${(statue.extra_info || {}).areaflag}`,
+                  title: `${statue.stageid} ${(statue.extra_info || {}).name} ${(statue.extra_info || {}).scenef}`,
                   icon: this.getIconForName(statue.name),
                 }).on('click', (event) => {
                   this.showObjectInfo(event.target.object);
@@ -350,7 +342,20 @@ export default class ObjMap extends Vue {
             this.saveObjMarkers[area] = markers;
             this.saveObjSelection.push({id: area, selected: false});
           }
-        })
+        }).then(() => {
+          const GOOD_LIST = ['F000','F400','F401','F402','F100','F101','F102','F102_1','F020'];
+          this.saveObjSelection.sort((a,b) => {
+            const idxa = GOOD_LIST.indexOf(a.id);
+            const idxb = GOOD_LIST.indexOf(b.id);
+            if (idxa == idxb) {
+              return a.id.localeCompare(b.id);
+            } else {
+              if (idxa == -1) return 1;
+              if (idxb == -1) return -1;
+              return idxa - idxb;
+            }
+          })
+        });
     }
 
     get selectedRooms(): number[] {
@@ -423,7 +428,6 @@ export default class ObjMap extends Vue {
           }
           // this.mapOverlay = L.imageOverlay(`maps/F400.png`, [[0,0], [1,1]])
           //     .addTo(this.map);
-          console.log(currentStage);
           // remove all
           this.currentStageMarkers.forEach((m) => {
             this.map.removeLayer(m);
@@ -536,10 +540,10 @@ export default class ObjMap extends Vue {
     }
 
     createShape(obj: ScaledStageObject): L.Polygon {
-      return L.polygon([this.rotate(obj.posx - obj.sizex/2, obj.posz - obj.sizez/2, obj.posx, obj.posz, obj.angle),
-                  this.rotate(obj.posx + obj.sizex/2, obj.posz - obj.sizez/2, obj.posx, obj.posz, obj.angle),
-                  this.rotate(obj.posx + obj.sizex/2, obj.posz + obj.sizez/2, obj.posx, obj.posz, obj.angle),
-                  this.rotate(obj.posx - obj.sizex/2, obj.posz + obj.sizez/2, obj.posx, obj.posz, obj.angle)])
+      return L.polygon([this.rotate(obj.posx - obj.sizex/2, obj.posz - obj.sizez/2, obj.posx, obj.posz, obj.angley),
+                  this.rotate(obj.posx + obj.sizex/2, obj.posz - obj.sizez/2, obj.posx, obj.posz, obj.angley),
+                  this.rotate(obj.posx + obj.sizex/2, obj.posz + obj.sizez/2, obj.posx, obj.posz, obj.angley),
+                  this.rotate(obj.posx - obj.sizex/2, obj.posz + obj.sizez/2, obj.posx, obj.posz, obj.angley)])
     }
 
     rotate(x: number, y: number, xm: number, ym: number, a: number) {
