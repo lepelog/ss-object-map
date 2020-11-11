@@ -218,6 +218,11 @@ interface StageObject {
     //[key: string]: any;
 }
 
+interface ScaledObjWithVolume {
+  obj: LLayerWithObject,
+  volume: number,
+}
+
 interface ScaledStageObject {
     posx: number;
     posy: number;
@@ -433,11 +438,13 @@ export default class ObjMap extends Vue {
             this.map.removeLayer(m);
           });
           // make all objects of this stage to new markers
-          this.currentStageMarkers = currentStage.allObjects
+          this.currentStageMarkers = [];
+          const scaledStageObjectsWithSize: ScaledObjWithVolume[] = [];
+          currentStage.allObjects
             // .filter((obj) => {
             //   return obj.unk3 != 'FC 9B';
             // })
-            .map((obj) => {
+            .forEach((obj) => {
               // scaled object or not?
               // turn very small objects into points so you can actually see them
               if (obj.sizex === undefined || obj.sizez === undefined
@@ -451,7 +458,7 @@ export default class ObjMap extends Vue {
                   // you don't see anything
                 (marker as any).object = obj;
                 marker.addTo(this.map);
-                return marker as unknown as LLayerWithObject;
+                this.currentStageMarkers.push(marker as unknown as LLayerWithObject);
               } else {
                 const marker = this.createShape(obj as ScaledStageObject)
                   .on('click', (event) => {
@@ -459,10 +466,16 @@ export default class ObjMap extends Vue {
                   });
                   // you don't see anything
                 (marker as any).object = obj;
-                marker.addTo(this.map);
-                return marker as unknown as LLayerWithObject;
+                const volume = obj.sizex * obj.sizez;
+                const asMarker = marker as unknown as LLayerWithObject;
+                this.currentStageMarkers.push(asMarker);
+                scaledStageObjectsWithSize.push({obj: asMarker, volume});
               }
             });
+          scaledStageObjectsWithSize.sort((a,b) => b.volume - a.volume);
+          scaledStageObjectsWithSize.forEach(o => {
+            o.obj.addTo(this.map);
+          })
           this.allUsedLayers = currentStage.usedLayers
             .map((l): SelectableItem => ({ id: l, selected: true }));
           this.allUsedRooms = currentStage.usedRooms
