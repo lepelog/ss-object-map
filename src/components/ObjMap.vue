@@ -144,6 +144,26 @@
             target="_blank"
           >Link to Event</a>
           <br>
+          <div v-if="dropTables.length">
+            <div class="drop-influencers">
+              <button v-if="dropTablesHaveProp(dropTables, 'hasBow')" @click="() => hasBow = !hasBow">{{ hasBow ? 'Bow' : 'No Bow' }}</button>
+              <button v-if="dropTablesHaveProp(dropTables, 'hasSlingshot')" @click="() => hasSlingshot = !hasSlingshot">{{ hasSlingshot ? 'Slingshot' : 'No Slingshot' }}</button>
+              <button v-if="dropTablesHaveProp(dropTables, 'isHeroMode')" @click="() => isHeroMode = !isHeroMode">{{ isHeroMode ? 'Hero Mode' : 'Normal Mode' }}</button>
+              <button v-if="dropTablesHaveProp(dropTables, 'hasBombs')" @click="() => hasBombs = !hasBombs">{{ hasBombs ? 'Bombs' : 'No Bombs' }}</button>
+            </div>
+            <table class="droptable">
+              <thead>
+                <th>Item</th>
+                <th>Chance</th>
+              </thead>
+              <tbody>
+                <tr v-for="[item, chance] in processedDropRates" :key="item">
+                  <td>{{ item }}</td>
+                  <td>{{ chance }}%</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
           <!--<input type="number" v-model="overlayW">
           <input type="number" v-model="overlayS">
           <input type="number" v-model="overlayE">
@@ -258,6 +278,14 @@ interface SelectableStringItem {
   selected: boolean;
 }
 
+interface DropTable {
+  hasBow?: boolean;
+  hasSlingshot?: boolean;
+  isHeroMode?: boolean;
+  hasBombs?: boolean;
+  dropRates: {[key: string]: number},
+}
+
 const baseUrl = process.env.BASE_URL;
 
 @Component({})
@@ -294,6 +322,13 @@ export default class ObjMap extends Vue {
     private iconList = Array.from(Array(12).keys()).map((i) => L.divIcon({ className: `div-icon${i}` }));
 
     private objectInfo: string = '';
+
+    private dropTables: DropTable[] = [];
+
+    private hasBow: boolean = false;
+    private hasSlingshot: boolean = false;
+    private isHeroMode: boolean = false;
+    private hasBombs: boolean = false;
 
     private eventLink: string | null = null;
 
@@ -381,6 +416,24 @@ export default class ObjMap extends Vue {
         .map(o => o.id);
     }
 
+    dropTablesHaveProp(dropTables: DropTable[], prop: string): boolean {
+      return Object.keys(dropTables[0] ?? {}).includes(prop);
+    }
+
+    get processedDropRates(): [string, number][] {
+      this.hasBow;
+      this.hasSlingshot;
+      this.isHeroMode;
+      this.hasBombs;
+      const entry = this.dropTables.filter(dropTable => 
+        (dropTable.hasBow === undefined || dropTable.hasBow === this.hasBow)
+        && (dropTable.hasSlingshot === undefined || dropTable.hasSlingshot === this.hasSlingshot)
+        && (dropTable.isHeroMode === undefined || dropTable.isHeroMode === this.isHeroMode)
+        && (dropTable.hasBombs === undefined || dropTable.hasBombs === this.hasBombs)
+      )[0];
+      return Object.entries(entry?.dropRates ?? {});
+    }
+
     getIconForName(name: string): L.DivIcon {
       let icon = this.objColorMap.get(name);
       if (icon === undefined) {
@@ -397,8 +450,19 @@ export default class ObjMap extends Vue {
       return obj.name;
     }
 
+    extractDropTable(obj: StageObject): [StageObject, DropTable[]] {
+      if (!obj.extra_info) {
+        return [obj, []];
+      } else {
+        const {drop_tables, ...extraInfo} = obj.extra_info;
+        return [{...obj, extra_info: extraInfo}, drop_tables || []];
+      }
+    }
+
     showObjectInfo(obj: StageObject): void {
-      this.objectInfo = JSON.stringify(obj, null, 4);
+      const [cleanObj, dropTable] = this.extractDropTable(obj);
+      this.objectInfo = JSON.stringify(cleanObj, null, 4);
+      this.dropTables = dropTable;
       this.sidebar.open('details');
       this.eventLink = null;
       if (obj.extra_info && obj.extra_info.eventSrc) {
@@ -608,4 +672,15 @@ export default class ObjMap extends Vue {
 .div-icon10 { border-radius: 50%; border: 1px solid #40FFC0; background: rgba(64,255,192,0.8) }
 .div-icon11 { border-radius: 50%; border: 1px solid #C040FF; background: rgba(192,64,255,0.8) }
 .div-icon12 { border-radius: 50%; border: 1px solid #FFFFFF; background: rgba(255,255,255,0.8) }
+
+table.droptable {
+  border-collapse: collapse;
+}
+
+table.droptable td {
+  border: 0 black solid;
+  border-top-width: 1px;
+  /* border-bottom: 1px 0 black solid; */
+}
+
 </style>
