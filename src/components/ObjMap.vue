@@ -151,7 +151,7 @@
               <button v-if="dropTablesHaveProp(dropTables, 'isHeroMode')" @click="() => isHeroMode = !isHeroMode">{{ isHeroMode ? 'Hero Mode' : 'Normal Mode' }}</button>
               <button v-if="dropTablesHaveProp(dropTables, 'hasBombs')" @click="() => hasBombs = !hasBombs">{{ hasBombs ? 'Bombs' : 'No Bombs' }}</button>
             </div>
-            <table class="droptable">
+            <table v-if="processedDropRates" class="droptable">
               <thead>
                 <th>Item</th>
                 <th>Chance</th>
